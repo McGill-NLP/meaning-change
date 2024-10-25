@@ -1,5 +1,0 @@
-clusters/record_cluster_counts.csv filter=lfs diff=lfs merge=lfs -text
-substitutions/high.jsonl filter=lfs diff=lfs merge=lfs -text
-substitutions/call.jsonl filter=lfs diff=lfs merge=lfs -text
-substitutions/security.jsonl filter=lfs diff=lfs merge=lfs -text
-substitutions/record.jsonl filter=lfs diff=lfs merge=lfs -text
