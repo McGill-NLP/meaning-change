@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["sterling"],
+    "sense": ["1"],
+    "a_estimate": [0.2722],
+    "ci_lower": [0.2674],
+    "ci_upper": [0.277]
+  },
+  {
+    "word": ["sterling"],
+    "sense": ["9"],
+    "a_estimate": [0.1548],
+    "ci_lower": [0.146],
+    "ci_upper": [0.1636]
+  }
+]

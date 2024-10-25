@@ -1,0 +1,70 @@
+Cluster 4:
+Examples: ['starting', 'end', 'start', 'due', 'specific', 'target', 'effective']
+Raw count: 21876
+Proportion: 0.3287152516904583
+
+Cluster 3:
+Examples: ['reduction', 'loss', 'withdrawal', 'transfer', 'change', 'crisis', 'increase']
+Raw count: 18221
+Proportion: 0.27379413974455297
+
+Cluster 13:
+Examples: ['date', 'deadline', 'year', 'need', 'month', 'notification', 'criteria']
+Raw count: 1676
+Proportion: 0.025184072126220886
+
+Cluster 0:
+Examples: ['cut', 'approved', 'required', 'removed', 'made', 'half', 'available']
+Raw count: 3068
+Proportion: 0.04610067618332081
+
+Cluster 1:
+Examples: ['program', 'decision', 'issue', 'provision', 'one', 'bill', 'question']
+Raw count: 11988
+Proportion: 0.18013523666416228
+
+Cluster 12:
+Examples: ['limit', 'extension', 'line', 'amount', 'price', 'level', 'requirement']
+Raw count: 4318
+Proportion: 0.06488354620586026
+
+Cluster 9:
+Examples: ['use', 'grant', 'stop', 'offer', 'raise', 'appropriate', 'fund']
+Raw count: 2323
+Proportion: 0.0349060856498873
+
+Cluster 5:
+Examples: ['point', 'river', 'road', 'canal', 'bridge', 'house', 'dam']
+Raw count: 2594
+Proportion: 0.038978211870773855
+
+Cluster 11:
+Examples: ['effect', 'impact', 'risk', 'harm', 'discrimination', 'consequence', 'affect']
+Raw count: 195
+Proportion: 0.002930127723516153
+
+Cluster 6:
+Examples: ['taking', 'scope', 'condemnation', 'claiming', 'deprivation']
+Raw count: 38
+Proportion: 0.000570999248685199
+
+Cluster 10:
+Examples: ['life', 'silence', 'dream', 'sleep', 'taste', 'bed', 'dog']
+Raw count: 67
+Proportion: 0.0010067618332081142
+
+Cluster 7:
+Examples: ['military', 'eastern', 'western', 'tide', 'states', 'indian', 'northern']
+Raw count: 123
+Proportion: 0.0018482344102178814
+
+Cluster 8:
+Examples: ['conversion', 'license', 'college', 'monthly', 'tv', 'television', 'convert']
+Raw count: 35
+Proportion: 0.0005259203606311044
+
+Cluster 2:
+Examples: ['community', 'arbitrary', 'unofficial', 'alt', 'indefinite', 'iran', 'iranian']
+Raw count: 28
+Proportion: 0.00042073628850488356
+

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["extremity"],
+    "sense": ["0"],
+    "a_estimate": [-0.5],
+    "ci_lower": ["NaN"],
+    "ci_upper": ["NaN"]
+  },
+  {
+    "word": ["extremity"],
+    "sense": ["8"],
+    "a_estimate": [-0.055],
+    "ci_lower": [-0.2701],
+    "ci_upper": [0.1601]
+  },
+  {
+    "word": ["extremity"],
+    "sense": ["9"],
+    "a_estimate": [0.255],
+    "ci_lower": [-0.592],
+    "ci_upper": [1.1021]
+  }
+]

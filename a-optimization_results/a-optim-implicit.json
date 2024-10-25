@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["implicit"],
+    "sense": ["5"],
+    "a_estimate": [0.0972],
+    "ci_lower": [0.0937],
+    "ci_upper": [0.1007]
+  },
+  {
+    "word": ["implicit"],
+    "sense": ["0"],
+    "a_estimate": [0.0986],
+    "ci_lower": [0.0957],
+    "ci_upper": [0.1015]
+  },
+  {
+    "word": ["implicit"],
+    "sense": ["2"],
+    "a_estimate": [0.0568],
+    "ci_lower": [0.0524],
+    "ci_upper": [0.0611]
+  }
+]

@@ -1,0 +1,90 @@
+Cluster 0:
+Examples: ['people', 'men', 'women', 'citizens', 'individuals', 'others', 'children']
+Raw count: 7766
+Proportion: 0.2725103516036213
+
+Cluster 2:
+Examples: ['protesters', 'police', 'soldiers', 'officers', 'civilians', 'supporters', 'troops']
+Raw count: 5155
+Proportion: 0.1808898870096147
+
+Cluster 3:
+Examples: ['students', 'leaders', 'persons', 'members', 'workers', 'volunteers', 'boys']
+Raw count: 4235
+Proportion: 0.1486069197838445
+
+Cluster 13:
+Examples: ['activists', 'cops', 'arrests', 'charges', 'arrested', 'killed', 'involved']
+Raw count: 775
+Proportion: 0.027194890869534704
+
+Cluster 5:
+Examples: ['demonstrations', 'groups', 'protests', 'protest', 'demonstration', 'movement', 'movements']
+Raw count: 3697
+Proportion: 0.12972840199312233
+
+Cluster 4:
+Examples: ['americans', 'group', 'government', 'public', 'communists', 'president', 'terrorists']
+Raw count: 3600
+Proportion: 0.1263246543617096
+
+Cluster 7:
+Examples: ['ones', 'one', 'someone', 'man', 'person', 'leader', 'woman']
+Raw count: 708
+Proportion: 0.02484384869113622
+
+Cluster 17:
+Examples: ['voters', 'voices', 'votes', 'numbers', 'mostly', 'often', 'almost']
+Raw count: 141
+Proportion: 0.004947715629166959
+
+Cluster 8:
+Examples: ['now', 'two', 'just', 'rally', 'even', 'back', 'today']
+Raw count: 388
+Proportion: 0.013614990525650923
+
+Cluster 11:
+Examples: ['posters', 'questions', 'papers', 'words', 'newspapers', 'news', 'talks']
+Raw count: 471
+Proportion: 0.01652747561232367
+
+Cluster 10:
+Examples: ['cars', 'units', 'vehicles', 'buses', 'programs', 'scientists', 'mass']
+Raw count: 372
+Proportion: 0.013053547617376657
+
+Cluster 6:
+Examples: ['riot', 'fire', 'tanks', 'bombs', 'walls', 'time', 'enemy']
+Raw count: 270
+Proportion: 0.009474349077128219
+
+Cluster 15:
+Examples: ['city', 'street', 'homeless', 'building', 'camp', 'area', 'night']
+Raw count: 172
+Proportion: 0.006035511263948347
+
+Cluster 9:
+Examples: ['america', 'rights', 'league', 'something', 'power', 'funds', 'powers']
+Raw count: 183
+Proportion: 0.006421503263386905
+
+Cluster 14:
+Examples: ['everything', 'evidence', 'everywhere', 'proof', 'performances', 'example', 'examples']
+Raw count: 59
+Proportion: 0.0020703207242613515
+
+Cluster 12:
+Examples: ['first', 'young', 'together', 'original', 'human', 'new', 'black']
+Raw count: 307
+Proportion: 0.010772685802512456
+
+Cluster 1:
+Examples: ['washington', 'presidents', 'immediately', 'kennedy', 'quickly', 'nixon', 'ali']
+Raw count: 61
+Proportion: 0.002140501087795635
+
+Cluster 16:
+Examples: ['call', 'end', 'sub', 'say', 'demand', 'bus', 'com']
+Raw count: 138
+Proportion: 0.004842445083865534
+

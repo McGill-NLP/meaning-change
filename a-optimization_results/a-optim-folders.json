@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["folders"],
+    "sense": ["7"],
+    "a_estimate": [0.4809],
+    "ci_lower": [-0.3317],
+    "ci_upper": [1.2936]
+  },
+  {
+    "word": ["folders"],
+    "sense": ["2"],
+    "a_estimate": [0.2321],
+    "ci_lower": [-0.4441],
+    "ci_upper": [0.9083]
+  }
+]

@@ -1,0 +1,65 @@
+Cluster 0:
+Examples: ['effect', 'part', 'fact', 'general', 'principle', 'question', 'particular']
+Raw count: 114679
+Proportion: 0.21743804630173869
+
+Cluster 1:
+Examples: ['drug', 'sexual', 'child', 'matter', 'form', 'alcohol', 'sex']
+Raw count: 127846
+Proportion: 0.24240344324150093
+
+Cluster 2:
+Examples: ['content', 'nature', 'subject', 'purpose', 'text', 'spirit', 'meaning']
+Raw count: 190461
+Proportion: 0.3611251208737036
+
+Cluster 3:
+Examples: ['truth', 'importance', 'power', 'time', 'weight', 'value', 'reality']
+Raw count: 72426
+Proportion: 0.13732390360440644
+
+Cluster 7:
+Examples: ['place', 'paper', 'light', 'soul', 'shadow', 'center', 'sun']
+Raw count: 4112
+Proportion: 0.0077965908875447945
+
+Cluster 5:
+Examples: ['everything', 'merit', 'half', 'everywhere', 'anything', 'right', 'something']
+Raw count: 14074
+Proportion: 0.02668512163212681
+
+Cluster 9:
+Examples: ['head', 'hell', 'counter', 'cat', 'hyper', 'der', 'un']
+Raw count: 2652
+Proportion: 0.00502834606852354
+
+Cluster 4:
+Examples: ['president', 'speaker', 'heads', 'chair', 'chairman', 'society', 'secretary']
+Raw count: 687
+Proportion: 0.0013025919114161657
+
+Cluster 8:
+Examples: ['emphasis', 'accent', 'depends', 'emphasized', 'enrichment', 'emphasizes', 'emphasizing']
+Raw count: 136
+Proportion: 0.0002578639009499251
+
+Cluster 10:
+Examples: ['ones', 'shares', 'contact', 'units', 'cents', 'packages', 'connections']
+Raw count: 195
+Proportion: 0.0003697313285679073
+
+Cluster 6:
+Examples: ['father', 'sibling', 'brother', 'guardian', 'twin', 'sister', 'namesake']
+Raw count: 68
+Proportion: 0.00012893195047496256
+
+Cluster 12:
+Examples: ['20', '40', '50', '30', '18', '25', '16']
+Raw count: 58
+Proportion: 0.00010997136952276218
+
+Cluster 11:
+Examples: ['preventing', 'controlling', 'reducing', 'spreading', 'causing', 'addressing', 'decreasing']
+Raw count: 16
+Proportion: 3.0336929523520602e-05
+

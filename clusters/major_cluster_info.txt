@@ -1,0 +1,70 @@
+Cluster 2:
+Examples: ['big', 'large', 'main', 'new', 'small', 'national', 'primary']
+Raw count: 961346
+Proportion: 0.3349011003864434
+
+Cluster 3:
+Examples: ['great', 'significant', 'key', 'huge', 'important', 'serious', 'many']
+Raw count: 1331870
+Proportion: 0.46397938782882786
+
+Cluster 0:
+Examples: ['general', 'leading', 'private', 'lieutenant', 'captain', 'colonel', 'chief']
+Raw count: 214198
+Proportion: 0.07461948757323107
+
+Cluster 1:
+Examples: ['principal', 'total', 'plural', 'pol', 'super', 'sub', 'non']
+Raw count: 67389
+Proportion: 0.023476095239322817
+
+Cluster 4:
+Examples: ['minor', 'one', 'individual', 'third', 'official', 'government', 'majors']
+Raw count: 184616
+Proportion: 0.06431409872090135
+
+Cluster 5:
+Examples: ['first', 'second', 'original', 'eight', 'nine', 'twelve', 'fourth']
+Raw count: 49517
+Proportion: 0.017250082475857305
+
+Cluster 7:
+Examples: ['proposed', 'making', 'organized', 'including', 'determining', 'building', 'developing']
+Raw count: 33600
+Proportion: 0.011705126950114213
+
+Cluster 6:
+Examples: ['ever', 'highly', 'also', 'least', 'completely', 'truly', 'relatively']
+Raw count: 21802
+Proportion: 0.007595094576380656
+
+Cluster 9:
+Examples: ['medical', 'health', 'among', 'male', 'sex', 'welfare', 'medicare']
+Raw count: 5056
+Proportion: 0.0017613429124933766
+
+Cluster 11:
+Examples: ['flood', 'hurricane', 'earthquake', 'weather', 'comes', 'disasters', 'fear']
+Raw count: 813
+Proportion: 0.0002832222681679421
+
+Cluster 10:
+Examples: ['model', 'symphony', 'sample', 'symphonic', 'prototype', 'dance', 'broadway']
+Raw count: 245
+Proportion: 8.534988401124947e-05
+
+Cluster 12:
+Examples: ['disabled', 'madman', 'paralyzed', 'handicapped', 'paralysis', 'sickness', 'seizure']
+Raw count: 41
+Proportion: 1.4283041814127461e-05
+
+Cluster 8:
+Examples: ['bear', 'lions', 'bears', 'tigers', 'tiger', 'queens', 'eagles']
+Raw count: 25
+Proportion: 8.709171837882598e-06
+
+Cluster 13:
+Examples: ['europe', 'africa', 'kenya', 'somali', 'somalia', 'yemen', 'aden']
+Raw count: 19
+Proportion: 6.618970596790775e-06
+

@@ -1,0 +1,75 @@
+Cluster 0:
+Examples: ['getting', 'taking', 'making', 'giving', 'paying', 'seeking', 'providing']
+Raw count: 550546
+Proportion: 0.6755140778622901
+
+Cluster 1:
+Examples: ['given', 'received', 'paid', 'granted', 'worth', 'offered', 'awarded']
+Raw count: 153987
+Proportion: 0.18894040880831114
+
+Cluster 5:
+Examples: ['receive', 'receives', 'like', 'get', 'pay', 'contributing', 'make']
+Raw count: 46101
+Proportion: 0.05656543595545047
+
+Cluster 2:
+Examples: ['whose', 'certain', 'recipient', 'one', 'plus', 'federal', 'two']
+Raw count: 43455
+Proportion: 0.05331882213930501
+
+Cluster 6:
+Examples: ['processing', 'passing', 'use', 'receipt', 'reception', 'shipping', 'business']
+Raw count: 16440
+Proportion: 0.020171704889429855
+
+Cluster 7:
+Examples: ['half', 'per', 'life', 'long', 'men', 'ing', 'de']
+Raw count: 3305
+Proportion: 0.0040551997968105635
+
+Cluster 9:
+Examples: ['till', 'farming', 'farm', 'farmers', 'agriculture', 'crop', 'grain']
+Raw count: 243
+Proportion: 0.00029815841168682816
+
+Cluster 4:
+Examples: ['years', 'times', '2012', 'example', '2015', '2007', '2010']
+Raw count: 774
+Proportion: 0.0009496897557432303
+
+Cluster 8:
+Examples: ['plan', 'adjustment', 'requirement', 'formula', 'requirements', 'adjust', 'adjustments']
+Raw count: 32
+Proportion: 3.92636591521749e-05
+
+Cluster 12:
+Examples: ['hot', 'heating', 'bed', 'strength', 'heat', 'peaking', 'sweet']
+Raw count: 46
+Proportion: 5.644151003125142e-05
+
+Cluster 14:
+Examples: ['prescription', 'patent', 'dial', 'treat', 'cervical']
+Raw count: 18
+Proportion: 2.208580827309838e-05
+
+Cluster 13:
+Examples: ['king', 'brave', 'warrior', 'defender', 'wise', 'stern', 'fearless']
+Raw count: 18
+Proportion: 2.208580827309838e-05
+
+Cluster 11:
+Examples: ['1870', '1844', 'jerusalem', 'moses', 'abraham', '1838', '1830']
+Raw count: 19
+Proportion: 2.3312797621603846e-05
+
+Cluster 10:
+Examples: ['motor', 'powered', 'driven', 'fueled', 'operated', 'horsepower']
+Raw count: 11
+Proportion: 1.3496882833560121e-05
+
+Cluster 3:
+Examples: ['dunbar', 'richmond', 'providence', 'berkshire', 'wayne', 'rutherford', 'cromwell']
+Raw count: 8
+Proportion: 9.815914788043725e-06
+

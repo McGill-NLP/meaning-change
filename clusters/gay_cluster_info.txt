@@ -1,0 +1,90 @@
+Cluster 3:
+Examples: ['homosexual', 'heterosexual', 'lesbian', 'bisexual', 'homosexuality', 'men', 'latino']
+Raw count: 14733
+Proportion: 0.1822714338735618
+
+Cluster 2:
+Examples: ['black', 'white', 'butch', 'born', 'rock', 'still', 'colored']
+Raw count: 3589
+Proportion: 0.044401831003340345
+
+Cluster 6:
+Examples: ['lgbt', 'way', 'day', 'man', 'sea', 'er', 'ray']
+Raw count: 20415
+Proportion: 0.252567116169739
+
+Cluster 5:
+Examples: ['straight', 'queer', 'dead', 'right', 'alive', 'sick', 'poor']
+Raw count: 7332
+Proportion: 0.09070889521217369
+
+Cluster 10:
+Examples: ['young', 'smith', 'brown', 'jones', 'johnson', 'wilson', 'williams']
+Raw count: 5736
+Proportion: 0.07096375108251887
+
+Cluster 0:
+Examples: ['married', 'transgender', 'male', 'human', 'jewish', 'civil', 'new']
+Raw count: 17355
+Proportion: 0.21470988494370902
+
+Cluster 7:
+Examples: ['trans', 'homo', 'de', 'moi', 'rick', 'mr', 'pre']
+Raw count: 2598
+Proportion: 0.03214153160955091
+
+Cluster 16:
+Examples: ['good', 'happy', 'great', 'wild', 'little', 'dangerous', 'bright']
+Raw count: 3274
+Proportion: 0.040504763083013734
+
+Cluster 4:
+Examples: ['say', 'like', 'just', 'bad', 'know', 'think', 'go']
+Raw count: 3255
+Proportion: 0.040269701843374986
+
+Cluster 17:
+Examples: ['bar', 'cross', 'dick', 'dee', 'belle', 'strip', 'dome']
+Raw count: 1453
+Proportion: 0.017975999010268466
+
+Cluster 11:
+Examples: ['green', 'indian', 'south', 'west', 'hot', 'yes', 'north']
+Raw count: 799
+Proportion: 0.009884943709018929
+
+Cluster 9:
+Examples: ['labor', 'watch', 'till', 'market', 'correct', 'fill', 'labour']
+Raw count: 117
+Proportion: 0.001447482370407027
+
+Cluster 8:
+Examples: ['regarding', 'concerning', 'keeping', 'discussing', 'understanding', 'respect', 'considering']
+Raw count: 57
+Proportion: 0.000705183718916244
+
+Cluster 1:
+Examples: ['official', 'called', 'officially', 'truly', 'considered', 'declared', 'designated']
+Raw count: 29
+Proportion: 0.0003587776815538785
+
+Cluster 14:
+Examples: ['port', 'ferry', 'mail', 'station', 'ships', 'commerce', 'contact']
+Raw count: 34
+Proportion: 0.00042063590251144377
+
+Cluster 12:
+Examples: ['ear', 'cape', 'hat', 'rein', 'lock', 'moor', 'arrow']
+Raw count: 35
+Proportion: 0.00043300754670295684
+
+Cluster 15:
+Examples: ['failed', 'existed', 'died', 'exists', 'disappeared', 'lived', 'stuck']
+Raw count: 11
+Proportion: 0.00013608808610664357
+
+Cluster 13:
+Examples: ['mendoza', 'valencia', 'lima', 'domingo', 'ferrer', 'tomas', 'angelica']
+Raw count: 8
+Proportion: 9.897315353210442e-05
+

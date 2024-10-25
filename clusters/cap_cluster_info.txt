@@ -1,0 +1,75 @@
+Cluster 4:
+Examples: ['limit', 'ceiling', 'bill', 'tax', 'ban', 'program', 'limitation']
+Raw count: 167274
+Proportion: 0.3758147100519662
+
+Cluster 3:
+Examples: ['caps', 'top', 'bar', 'vest', 'hat', 'lot', 'bag']
+Raw count: 35099
+Proportion: 0.0788569682563576
+
+Cluster 0:
+Examples: ['ava', 'cop', 'int', 'cr', 'bo', 'tor', 'ra']
+Raw count: 155379
+Proportion: 0.34909019831632204
+
+Cluster 1:
+Examples: ['increase', 'cut', 'capped', 'stop', 'raise', 'fund', 'scrap']
+Raw count: 57544
+Proportion: 0.12928417850491017
+
+Cluster 5:
+Examples: ['new', 'club', 'government', 'house', 'project', 'base', 'unit']
+Raw count: 26096
+Proportion: 0.05862991662491547
+
+Cluster 7:
+Examples: ['now', 'mike', 'john', 'jack', 'paul', 'david', 'mr']
+Raw count: 3043
+Proportion: 0.006836711997609509
+
+Cluster 2:
+Examples: ['cola', 'season', 'sugar', 'coke', 'pepsi', 'beverage', 'coca']
+Raw count: 59
+Proportion: 0.00013255537556981962
+
+Cluster 6:
+Examples: ['50', '100', '1974', '1990', '40', '60', '1998']
+Raw count: 283
+Proportion: 0.0006358164624789653
+
+Cluster 13:
+Examples: ['march', 'june', 'april', 'july', 'august', 'october', 'november']
+Raw count: 64
+Proportion: 0.00014378888197404162
+
+Cluster 10:
+Examples: ['holding', 'investments', 'ownership', 'deposits', 'holdings', 'acquisition', 'purchasing']
+Raw count: 45
+Proportion: 0.00010110155763799801
+
+Cluster 12:
+Examples: ['created', 'abortion', 'described', 'removal', 'established', 'establishment', 'elimination']
+Raw count: 97
+Proportion: 0.00021793002424190682
+
+Cluster 11:
+Examples: ['nearly', 'approximately', 'substantially', 'reasonably', 'virtually', 'roughly']
+Raw count: 31
+Proportion: 6.96477397061764e-05
+
+Cluster 8:
+Examples: ['seem', 'knows', 'seems', 'thinks', 'likely', 'appears', 'appear']
+Raw count: 54
+Proportion: 0.00012132186916559761
+
+Cluster 14:
+Examples: ['spike', 'persona', 'simi', 'replica', 'derby', 'kicker', 'hitter']
+Raw count: 23
+Proportion: 5.1674129459421204e-05
+
+Cluster 9:
+Examples: ['serra', 'emilia', 'felicia', 'alfa', 'chile', 'valencia']
+Raw count: 6
+Proportion: 1.3480207685066401e-05
+

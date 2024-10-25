@@ -1,0 +1,60 @@
+Cluster 7:
+Examples: ['happy', 'delighted', 'amazed', 'soon', 'also', 'now', 'satisfaction']
+Raw count: 197772
+Proportion: 0.13342778497409327
+
+Cluster 4:
+Examples: ['proud', 'glad', 'excited', 'grateful', 'satisfied', 'sorry', 'fortunate']
+Raw count: 543113
+Proportion: 0.3664136712003454
+
+Cluster 1:
+Examples: ['going', 'prepared', 'ready', 'able', 'willing', 'hoping', 'expected']
+Raw count: 441027
+Proportion: 0.2975408840673575
+
+Cluster 5:
+Examples: ['thrilled', 'honored', 'surprised', 'relieved', 'impressed', 'shocked', 'informed']
+Raw count: 239540
+Proportion: 0.1616067573402418
+
+Cluster 3:
+Examples: ['convinced', 'today', 'one', 'enough', 'honor', 'group', 'fact']
+Raw count: 16744
+Proportion: 0.011296416234887738
+
+Cluster 2:
+Examples: ['privileged', 'responsible', 'competent', 'privilege', 'distinguished', 'senator', 'privy']
+Raw count: 5528
+Proportion: 0.003729490500863558
+
+Cluster 9:
+Examples: ['present', 'president', 'mr', 'asleep', 'thirteen', 'absent', 'fifteen']
+Raw count: 3931
+Proportion: 0.0026520671416234887
+
+Cluster 0:
+Examples: ['chosen', 'wanted', 'said', 'wished', 'liked', 'known', 'desired']
+Raw count: 34522
+Proportion: 0.02329042530224525
+
+Cluster 11:
+Examples: ['reference', 'changes', 'access', 'references', 'exceptions', 'responses', 'keys']
+Raw count: 21
+Proportion: 1.4167746113989637e-05
+
+Cluster 10:
+Examples: ['fu', 'pal', 'grove', 'sul', 'ai', 'phenomena', 'ami']
+Raw count: 16
+Proportion: 1.079447322970639e-05
+
+Cluster 6:
+Examples: ['smiles', 'pauses', 'laughter', 'pause', 'silence', 'harry', 'laughs']
+Raw count: 15
+Proportion: 1.0119818652849741e-05
+
+Cluster 8:
+Examples: ['minds', 'ears', 'hearts', 'dreams', 'dreamed', 'limbs', 'prayers']
+Raw count: 11
+Proportion: 7.421200345423143e-06
+

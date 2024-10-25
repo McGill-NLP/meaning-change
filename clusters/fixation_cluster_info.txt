@@ -1,0 +1,110 @@
+Cluster 1:
+Examples: ['production', 'use', 'reduction', 'extraction', 'manufacture', 'fixing', 'synthesis']
+Raw count: 3575
+Proportion: 0.4255952380952381
+
+Cluster 2:
+Examples: ['determination', 'change', 'calculation', 'matter', 'decision', 'value', 'loss']
+Raw count: 858
+Proportion: 0.10214285714285715
+
+Cluster 4:
+Examples: ['focus', 'policy', 'war', 'attack', 'emphasis', 'effect', 'position']
+Raw count: 1360
+Proportion: 0.1619047619047619
+
+Cluster 0:
+Examples: ['control', 'regulation', 'controls', 'maintenance', 'changes', 'variation', 'discrimination']
+Raw count: 292
+Proportion: 0.034761904761904765
+
+Cluster 8:
+Examples: ['problem', 'thing', 'question', 'obsession', 'concern', 'lot', 'debate']
+Raw count: 832
+Proportion: 0.09904761904761905
+
+Cluster 17:
+Examples: ['gas', 'power', 'pressure', 'chemical', 'nitrogen', 'new', 'right']
+Raw count: 328
+Proportion: 0.039047619047619046
+
+Cluster 9:
+Examples: ['work', 'action', 'form', 'presence', 'expression', 'composition', 'absence']
+Raw count: 178
+Proportion: 0.02119047619047619
+
+Cluster 16:
+Examples: ['insistence', 'report', 'committee', 'demand', 'proposal', 'requirement', 'cost']
+Raw count: 111
+Proportion: 0.013214285714285715
+
+Cluster 12:
+Examples: ['system', 'idea', 'theory', 'way', 'law', 'sources', 'means']
+Raw count: 304
+Proportion: 0.03619047619047619
+
+Cluster 14:
+Examples: ['provision', 'consideration', 'elements', 'revision', 'matters', 'relations', 'reading']
+Raw count: 84
+Proportion: 0.01
+
+Cluster 13:
+Examples: ['based', 'reserve', 'money', 'lines', 'eyes', 'goes', 'water']
+Raw count: 83
+Proportion: 0.009880952380952381
+
+Cluster 18:
+Examples: ['crisis', 'field', 'business', 'shortage', 'industry', 'campaign', 'test']
+Raw count: 83
+Proportion: 0.009880952380952381
+
+Cluster 11:
+Examples: ['movement', 'rise', 'growth', 'rises', 'rising', 'raise', 'rose']
+Raw count: 34
+Proportion: 0.004047619047619047
+
+Cluster 3:
+Examples: ['beginning', 'now', 'whatever', 'starting', 'even', 'dealing', 'without']
+Raw count: 110
+Proportion: 0.013095238095238096
+
+Cluster 7:
+Examples: ['man', 'person', 'plant', 'guy', 'worth', 'family', 'product']
+Raw count: 65
+Proportion: 0.007738095238095238
+
+Cluster 6:
+Examples: ['fever', 'headache', 'pain', 'appetite', 'stomach', 'symptoms', 'alarm']
+Raw count: 21
+Proportion: 0.0025
+
+Cluster 20:
+Examples: ['pl', 'ii', '12', 're', 'rec', 'tr', 'pro']
+Raw count: 29
+Proportion: 0.0034523809523809524
+
+Cluster 21:
+Examples: ['care', 'foundation', 'surgeon', 'hospital', 'surgery', 'center', 'cancer']
+Raw count: 11
+Proportion: 0.0013095238095238095
+
+Cluster 15:
+Examples: ['bonding', 'binding', 'attachment', 'contact', 'entry', 'sticking', 'penetration']
+Raw count: 11
+Proportion: 0.0013095238095238095
+
+Cluster 19:
+Examples: ['camera', 'telescope', 'binoculars', 'lens', 'microscope', 'scope', 'mirror']
+Raw count: 11
+Proportion: 0.0013095238095238095
+
+Cluster 5:
+Examples: ['germany', 'russia', 'americans', 'germans', 'france', 'hitler', 'aircraft']
+Raw count: 10
+Proportion: 0.0011904761904761906
+
+Cluster 10:
+Examples: ['el', 'ol', 'bo', 'ea', 'wee', 'tho', 'ab']
+Raw count: 10
+Proportion: 0.0011904761904761906
+

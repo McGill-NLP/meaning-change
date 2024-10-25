@@ -1,0 +1,30 @@
+[
+  {
+    "word": ["caps"],
+    "sense": ["0"],
+    "a_estimate": [0.157],
+    "ci_lower": [0.1506],
+    "ci_upper": [0.1634]
+  },
+  {
+    "word": ["caps"],
+    "sense": ["7"],
+    "a_estimate": [0.1173],
+    "ci_lower": [0.1135],
+    "ci_upper": [0.1212]
+  },
+  {
+    "word": ["caps"],
+    "sense": ["1"],
+    "a_estimate": [-0.0615],
+    "ci_lower": [-0.0642],
+    "ci_upper": [-0.0589]
+  },
+  {
+    "word": ["caps"],
+    "sense": ["2"],
+    "a_estimate": [-0.0183],
+    "ci_lower": [-0.0203],
+    "ci_upper": [-0.0163]
+  }
+]

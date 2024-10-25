@@ -1,0 +1,45 @@
+Cluster 2:
+Examples: ['problems', 'issues', 'needs', 'things', 'risks', 'obstacles', 'people']
+Raw count: 177925
+Proportion: 0.46780143186544776
+
+Cluster 1:
+Examples: ['threats', 'changes', 'decisions', 'cases', 'appeals', 'actions', 'claims']
+Raw count: 46080
+Proportion: 0.12115380064836213
+
+Cluster 0:
+Examples: ['questions', 'concerns', 'challenging', 'approaches', 'targets', 'limits', 'requires']
+Raw count: 46359
+Proportion: 0.12188734905072526
+
+Cluster 3:
+Examples: ['challenge', 'difficulties', 'demands', 'dangers', 'crisis', 'threat', 'struggles']
+Raw count: 104168
+Proportion: 0.2738791038615145
+
+Cluster 5:
+Examples: ['everything', 'now', 'today', 'anything', 'three', 'especially', 'everyone']
+Raw count: 4127
+Proportion: 0.010850732102339205
+
+Cluster 7:
+Examples: ['eyes', 'go', 'think', 'push', 'march', 'focus', 'looking']
+Raw count: 370
+Proportion: 0.0009728061249976995
+
+Cluster 6:
+Examples: ['york', 'critics', 'taxes', 'first', 'orleans', 'america', 'zealand']
+Raw count: 1254
+Proportion: 0.00329702400201923
+
+Cluster 4:
+Examples: ['songs', 'music', 'enthusiasm', 'applause', 'laughter', 'fireworks', 'song']
+Raw count: 55
+Proportion: 0.0001446063158780364
+
+Cluster 8:
+Examples: ['surveys', 'excavations', 'excavation', 'seismic']
+Raw count: 5
+Proportion: 1.3146028716185128e-05
+

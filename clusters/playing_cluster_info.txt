@@ -1,0 +1,85 @@
+Cluster 3:
+Examples: ['play', 'plays', 'fucking', 'player', 'take', 'work', 'make']
+Raw count: 21459
+Proportion: 0.07745225780604272
+
+Cluster 2:
+Examples: ['running', 'making', 'taking', 'talking', 'watching', 'using', 'performing']
+Raw count: 102582
+Proportion: 0.3702505946343946
+
+Cluster 4:
+Examples: ['football', 'athletic', 'hockey', 'soccer', 'killing', 'ball', 'level']
+Raw count: 71974
+Proportion: 0.2597767278685921
+
+Cluster 1:
+Examples: ['played', 'going', 'working', 'getting', 'living', 'just', 'sitting']
+Raw count: 47380
+Proportion: 0.1710092723263108
+
+Cluster 0:
+Examples: ['fighting', 'dealing', 'messing', 'one', 'left', 'looking', 'good']
+Raw count: 24519
+Proportion: 0.08849675703184497
+
+Cluster 7:
+Examples: ['like', 'called', 'especially', 'except', 'unlike', 'particularly', 'generally']
+Raw count: 3197
+Proportion: 0.011538975171532623
+
+Cluster 9:
+Examples: ['acting', 'drawing', 'based', 'marching', 'betting', 'focusing', 'relying']
+Raw count: 2736
+Proportion: 0.009875081660717315
+
+Cluster 5:
+Examples: ['players', 'people', 'everything', 'things', 'anything', 'politics', 'par']
+Raw count: 1873
+Proportion: 0.006760244133963279
+
+Cluster 13:
+Examples: ['listening', 'within', 'responding', 'close', 'referring', 'catering', 'appealing']
+Raw count: 1033
+Proportion: 0.003728420817076384
+
+Cluster 10:
+Examples: ['fishing', 'tackle', 'fish', 'catch', 'safety', 'quarterback', 'rat']
+Raw count: 131
+Proportion: 0.00047282006489545624
+
+Cluster 6:
+Examples: ['english', 'america', 'attendance', 'french', 'england', 'german', 'france']
+Raw count: 91
+Proportion: 0.0003284475259960803
+
+Cluster 15:
+Examples: ['cheap', 'provincial', 'province', 'regional', 'canning']
+Raw count: 21
+Proportion: 7.579558292217238e-05
+
+Cluster 14:
+Examples: ['al', 'foster', 'iraqi', 'iraq', 'baghdad', 'refugee', 'arab']
+Raw count: 23
+Proportion: 8.301420986714118e-05
+
+Cluster 8:
+Examples: ['department', 'convenience', 'grocery', 'corner']
+Raw count: 10
+Proportion: 3.609313472484399e-05
+
+Cluster 16:
+Examples: ['waste', 'hopeless', 'heap', 'pile', 'piled', 'piles', 'disposal']
+Raw count: 13
+Proportion: 4.6921075142297183e-05
+
+Cluster 12:
+Examples: ['ski', 'slope', 'grade', 'hill', 'steep', 'downhill', 'graded']
+Raw count: 9
+Proportion: 3.248382125235959e-05
+
+Cluster 11:
+Examples: ['josie', 'donna', 'lisa', 'lori', 'gail', 'diane', 'loretta']
+Raw count: 10
+Proportion: 3.609313472484399e-05
+

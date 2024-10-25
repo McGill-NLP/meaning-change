@@ -1,0 +1,75 @@
+Cluster 2:
+Examples: ['use', 'consumption', 'production', 'uses', 'supply', 'development', 'sales']
+Raw count: 35376
+Proportion: 0.3971975208838588
+
+Cluster 0:
+Examples: ['law', 'laws', 'practice', 'custom', 'policy', 'rules', 'procedure']
+Raw count: 28089
+Proportion: 0.31537995149555376
+
+Cluster 1:
+Examples: ['constitution', 'ordinance', 'fashion', 'precedent', 'disposition', 'oath', 'ruling']
+Raw count: 12783
+Proportion: 0.14352600377256805
+
+Cluster 5:
+Examples: ['power', 'purposes', 'work', 'oil', 'property', 'water', 'dealers']
+Raw count: 3909
+Proportion: 0.04388978711937483
+
+Cluster 11:
+Examples: ['used', 'addiction', 'products', 'consumed', 'living', 'smoking', 'available']
+Raw count: 2093
+Proportion: 0.023499955088475702
+
+Cluster 7:
+Examples: ['service', 'safety', 'data', 'conversion', 'information', 'units', 'measures']
+Raw count: 1461
+Proportion: 0.016403934249528428
+
+Cluster 3:
+Examples: ['interest', 'income', 'changes', 'average', 'list', 'tax', 'current']
+Raw count: 1393
+Proportion: 0.01564043833647714
+
+Cluster 14:
+Examples: ['waste', 'equipment', 'failure', 'carbon', 'pipeline', 'sewer', 'animals']
+Raw count: 472
+Proportion: 0.005299559867061888
+
+Cluster 9:
+Examples: ['war', 'violence', 'drugs', 'america', 'problems', 'death', 'crimes']
+Raw count: 1252
+Proportion: 0.014057307105003143
+
+Cluster 6:
+Examples: ['now', 'since', 'first', 'di', 'mr', 'last', 'pre']
+Raw count: 890
+Proportion: 0.009992814156112459
+
+Cluster 4:
+Examples: ['travel', 'days', 'periods', 'visits', 'trips', 'residents', 'talk']
+Raw count: 509
+Proportion: 0.005714991466810384
+
+Cluster 8:
+Examples: ['end', 'children', 'parts', 'learning', 'classes', 'lots', 'speaking']
+Raw count: 411
+Proportion: 0.004614659121530584
+
+Cluster 13:
+Examples: ['today', 'claims', 'books', 'types', 'paper', 'lanes', 'racing']
+Raw count: 402
+Proportion: 0.004513608191862032
+
+Cluster 10:
+Examples: ['chest', 'male', 'bladder', 'breast', 'brain', 'lung', 'prostate']
+Raw count: 18
+Proportion: 0.0002021018593371059
+
+Cluster 12:
+Examples: ['lewis', 'goddard', 'ct', 'virgil', 'eureka', 'ely']
+Raw count: 6
+Proportion: 6.736728644570196e-05
+

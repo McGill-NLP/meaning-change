@@ -1,0 +1,65 @@
+Cluster 7:
+Examples: ['young', 'older', 'black', 'working', 'elderly', 'many', 'baby']
+Raw count: 36227
+Proportion: 0.34412105553128025
+
+Cluster 5:
+Examples: ['married', 'born', 'raped', 'ill', 'infected', 'alive', 'eligible']
+Raw count: 17443
+Proportion: 0.16569143378232043
+
+Cluster 10:
+Examples: ['sick', 'mostly', 'hurt', 'drunk', 'scared', 'depressed', 'afraid']
+Raw count: 6052
+Proportion: 0.05748807872789103
+
+Cluster 1:
+Examples: ['single', 'poor', 'little', 'two', 'new', 'certain', 'small']
+Raw count: 16334
+Proportion: 0.15515701882706082
+
+Cluster 6:
+Examples: ['old', 'away', 'later', 'ago', 'premature', 'ahead', 'behind']
+Raw count: 3124
+Proportion: 0.029674943480821475
+
+Cluster 3:
+Examples: ['healthy', 'pregnancy', 'younger', 'dead', 'naked', 'dying', 'whole']
+Raw count: 10981
+Proportion: 0.1043087561981116
+
+Cluster 2:
+Examples: ['unmarried', 'human', 'three', 'especially', 'even', 'including', 'also']
+Raw count: 5875
+Proportion: 0.05580675190455383
+
+Cluster 9:
+Examples: ['one', 'innocent', 'early', 'full', 'less', 'type', 'fresh']
+Raw count: 1731
+Proportion: 0.016442806390941735
+
+Cluster 4:
+Examples: ['living', 'filled', 'now', 'along', 'concerned', 'happy', 'charged']
+Raw count: 7266
+Proportion: 0.06901989095123202
+
+Cluster 11:
+Examples: ['life', 'prison', 'career', 'jail', 'trouble', 'adolescence', 'development']
+Raw count: 86
+Proportion: 0.0008169158576666603
+
+Cluster 8:
+Examples: ['program', 'persons', 'programs', 'coverage', 'plan', 'recipients', 'meals']
+Raw count: 109
+Proportion: 0.001035393354484488
+
+Cluster 0:
+Examples: ['green', 'giant', 'vibrant', 'pet', 'pink', 'orange', 'lush']
+Raw count: 36
+Proportion: 0.00034196477762790434
+
+Cluster 12:
+Examples: ['laws', 'fixed', 'commentaries', 'assaults', 'exercises', 'books', 'articles']
+Raw count: 10
+Proportion: 9.49902160077512e-05
+

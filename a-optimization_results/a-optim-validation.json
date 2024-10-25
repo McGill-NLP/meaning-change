@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["validation"],
+    "sense": ["9"],
+    "a_estimate": [-0.023],
+    "ci_lower": [-0.3265],
+    "ci_upper": [0.2805]
+  },
+  {
+    "word": ["validation"],
+    "sense": ["0"],
+    "a_estimate": [-0.3351],
+    "ci_lower": [-0.6983],
+    "ci_upper": [0.0282]
+  }
+]

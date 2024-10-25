@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["usage"],
+    "sense": ["2"],
+    "a_estimate": [0.3361],
+    "ci_lower": [0.333],
+    "ci_upper": [0.3392]
+  },
+  {
+    "word": ["usage"],
+    "sense": ["0"],
+    "a_estimate": [0.2639],
+    "ci_lower": [0.2562],
+    "ci_upper": [0.2717]
+  },
+  {
+    "word": ["usage"],
+    "sense": ["1"],
+    "a_estimate": [0.7359],
+    "ci_lower": [0.7298],
+    "ci_upper": [0.7421]
+  }
+]

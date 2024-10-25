@@ -1,0 +1,70 @@
+Cluster 4:
+Examples: ['organs', 'arm', 'animal', 'transplant', 'internal', 'egg', 'embryo']
+Raw count: 16046
+Proportion: 0.1589184906407844
+
+Cluster 5:
+Examples: ['blood', 'heart', 'kidney', 'human', 'liver', 'tissue', 'renal']
+Raw count: 23542
+Proportion: 0.23315836387045658
+
+Cluster 0:
+Examples: ['body', 'part', 'newspaper', 'journal', 'publication', 'paper', 'member']
+Raw count: 30207
+Proportion: 0.2991680697236803
+
+Cluster 2:
+Examples: ['civil', 'real', 'un', 'total', 'gr', 'fr', 'general']
+Raw count: 24448
+Proportion: 0.24213132613647617
+
+Cluster 1:
+Examples: ['instrument', 'bell', 'piano', 'organist', 'engine', 'church', 'angel']
+Raw count: 3668
+Proportion: 0.036327622065960186
+
+Cluster 7:
+Examples: ['big', 'pipe', 'indian', 'long', 'gas', 'iron', 'tin']
+Raw count: 2289
+Proportion: 0.022670100029711794
+
+Cluster 6:
+Examples: ['kind', 'start', 'cow', 'cent', 'penny', 'bit', 'crack']
+Raw count: 84
+Proportion: 0.0008319302763196989
+
+Cluster 3:
+Examples: ['made', 'sign', 'said', 'call', 'thought', 'established', 'done']
+Raw count: 551
+Proportion: 0.005457066455382787
+
+Cluster 9:
+Examples: ['friends', 'politics', 'science', 'sports', 'partners', 'scandal', 'corrupt']
+Raw count: 55
+Proportion: 0.0005447162523521838
+
+Cluster 8:
+Examples: ['support', 'assistance', 'supporting', 'mercy', 'pity', 'relief', 'supportive']
+Raw count: 29
+Proportion: 0.0002872140239675151
+
+Cluster 11:
+Examples: ['50', '100', '500', '90', '45', '800', '600']
+Raw count: 29
+Proportion: 0.0002872140239675151
+
+Cluster 12:
+Examples: ['mine', 'miner', 'producer', 'miners']
+Raw count: 8
+Proportion: 7.923145488759038e-05
+
+Cluster 10:
+Examples: ['possess', 'stress', 'torment', 'attract', 'resist', 'suppress', 'suit']
+Raw count: 8
+Proportion: 7.923145488759038e-05
+
+Cluster 13:
+Examples: ['alabama', 'delta', 'mississippi', 'georgia', '70', 'oklahoma']
+Raw count: 6
+Proportion: 5.942359116569278e-05
+

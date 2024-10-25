@@ -1,0 +1,70 @@
+Cluster 1:
+Examples: ['also', 'really', 'now', 'still', 'always', 'furthermore', 'jack']
+Raw count: 357417
+Proportion: 0.19410953904707284
+
+Cluster 5:
+Examples: ['just', 'even', 'maybe', 'go', 'say', 'get', 'make']
+Raw count: 177709
+Proportion: 0.09651195123487766
+
+Cluster 4:
+Examples: ['already', 'right', 'made', 'considered', 'getting', 'going', 'got']
+Raw count: 138585
+Proportion: 0.07526410458606779
+
+Cluster 0:
+Examples: ['probably', 'never', 'simply', 'directly', 'truly', 'finally', 'eventually']
+Raw count: 829508
+Proportion: 0.4504973616695885
+
+Cluster 6:
+Examples: ['ever', '10', '12', '15', '13', '16', '22']
+Raw count: 98560
+Proportion: 0.053526933997206344
+
+Cluster 3:
+Examples: ['currently', 'generally', 'usually', 'today', 'exactly', 'one', 'alone']
+Raw count: 162673
+Proportion: 0.08834605249723568
+
+Cluster 2:
+Examples: ['yes', 'like', 'okay', 'yeah', 'else', 'actual', 'many']
+Raw count: 55143
+Proportion: 0.02994760269285663
+
+Cluster 7:
+Examples: ['people', 'especially', 'others', 'men', 'guys', 'tonight', 'americans']
+Raw count: 21538
+Proportion: 0.011697068835550226
+
+Cluster 9:
+Examples: ['threatening', 'threats', 'menacing', 'daring', 'menace']
+Raw count: 24
+Proportion: 1.3034156005813234e-05
+
+Cluster 11:
+Examples: ['access', 'transportation', 'travel', 'residence', 'transport', 'transit', 'travelled']
+Raw count: 73
+Proportion: 3.964555785101525e-05
+
+Cluster 13:
+Examples: ['meals', 'channel', 'feed', 'cable', 'meal', 'wire', 'rope']
+Raw count: 52
+Proportion: 2.8240671345928672e-05
+
+Cluster 10:
+Examples: ['conversion', 'transition', 'transitions', 'transformation', 'migration', 'transitional', 'transitioned']
+Raw count: 12
+Proportion: 6.517078002906617e-06
+
+Cluster 8:
+Examples: ['havre', 'monde', 'roy', 'roi', 'blanc', 'femme', 'comte']
+Raw count: 12
+Proportion: 6.517078002906617e-06
+
+Cluster 12:
+Examples: ['144', '142', '143', '145', '141', '149', '146']
+Raw count: 10
+Proportion: 5.430898335755514e-06
+

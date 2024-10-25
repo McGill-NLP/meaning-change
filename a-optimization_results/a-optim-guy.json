@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["guy"],
+    "sense": ["4"],
+    "a_estimate": [0.3664],
+    "ci_lower": [0.3624],
+    "ci_upper": [0.3703]
+  },
+  {
+    "word": ["guy"],
+    "sense": ["0"],
+    "a_estimate": [0.3072],
+    "ci_lower": [0.3032],
+    "ci_upper": [0.3112]
+  },
+  {
+    "word": ["guy"],
+    "sense": ["11"],
+    "a_estimate": [0.2542],
+    "ci_lower": [0.2478],
+    "ci_upper": [0.2607]
+  }
+]

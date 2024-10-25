@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["articles"],
+    "sense": ["9"],
+    "a_estimate": [-0.0137],
+    "ci_lower": [-0.0179],
+    "ci_upper": [-0.0096]
+  },
+  {
+    "word": ["articles"],
+    "sense": ["1"],
+    "a_estimate": [0.1511],
+    "ci_lower": [0.1484],
+    "ci_upper": [0.1538]
+  }
+]

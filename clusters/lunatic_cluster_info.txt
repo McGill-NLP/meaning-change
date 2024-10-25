@@ -1,0 +1,110 @@
+Cluster 3:
+Examples: ['insane', 'mental', 'political', 'general', 'private', 'radical', 'national']
+Raw count: 3581
+Proportion: 0.3448242657679345
+
+Cluster 1:
+Examples: ['man', 'person', 'one', 'fool', 'criminal', 'child', 'woman']
+Raw count: 1898
+Proportion: 0.18276360134809821
+
+Cluster 5:
+Examples: ['liar', 'traitor', 'coward', 'drunk', 'homosexual', 'asylum', 'invalid']
+Raw count: 2761
+Proportion: 0.2658642272508426
+
+Cluster 6:
+Examples: ['fraud', 'madman', 'mad', 'sane', 'idiot', 'insanity', 'suicide']
+Raw count: 661
+Proportion: 0.06364949446316803
+
+Cluster 0:
+Examples: ['state', 'deceased', 'poor', 'sick', 'blind', 'patient', 'failure']
+Raw count: 296
+Proportion: 0.02850264805007222
+
+Cluster 11:
+Examples: ['human', 'house', 'body', 'court', 'committee', 'parliament', 'meeting']
+Raw count: 111
+Proportion: 0.010688493018777083
+
+Cluster 7:
+Examples: ['people', 'government', 'country', 'way', 'day', 'power', 'nation']
+Raw count: 253
+Proportion: 0.024362060664419836
+
+Cluster 8:
+Examples: ['bell', 'di', 'cas', 'corp', 'su', 're', 'mod']
+Raw count: 181
+Proportion: 0.017428984111699568
+
+Cluster 16:
+Examples: ['violent', 'murderous', 'super', 'un', 'ex', 'anti', 'hate']
+Raw count: 125
+Proportion: 0.01203659123736158
+
+Cluster 12:
+Examples: ['sovereign', 'dollar', 'medalist', 'ounce', 'spoon', 'nickel', 'slug']
+Raw count: 139
+Proportion: 0.013384689455946076
+
+Cluster 13:
+Examples: ['mortgage', 'homicide', 'oath', 'co', 'warrant', 'ballistic', 'contradiction']
+Raw count: 182
+Proportion: 0.01752527684159846
+
+Cluster 14:
+Examples: ['current', 'legal', 'heart', 'home', 'money', 'capital', 'business']
+Raw count: 53
+Proportion: 0.00510351468464131
+
+Cluster 21:
+Examples: ['include', 'contain', 'included', 'represent', 'involved', 'meant', 'contained']
+Raw count: 36
+Proportion: 0.0034665382763601348
+
+Cluster 19:
+Examples: ['ro', 'gi', 'go', 'ed', 'devon', 'il', 'angel']
+Raw count: 19
+Proportion: 0.00182956186807896
+
+Cluster 10:
+Examples: ['highly', 'less', 'really', 'extremely', 'rather', 'particularly', 'seemingly']
+Raw count: 21
+Proportion: 0.0020221473278767455
+
+Cluster 9:
+Examples: ['taken', 'gotten', 'got', 'found', 'bought', 'peeled', 'seen']
+Raw count: 11
+Proportion: 0.001059220028887819
+
+Cluster 20:
+Examples: ['jefferson', 'dean', 'clinton', 'obama', 'kennedy', 'rockefeller', 'soprano']
+Raw count: 10
+Proportion: 0.0009629272989889263
+
+Cluster 4:
+Examples: ['northwest', 'north', 'northeast', 'southwest', 'southwestern', 'southeast', 'south']
+Raw count: 13
+Proportion: 0.0012518054886856043
+
+Cluster 2:
+Examples: ['think', 'ii', 'ask', 'iii', 'rex', 'mean']
+Raw count: 6
+Proportion: 0.0005777563793933558
+
+Cluster 15:
+Examples: ['allowance', 'inlet', 'refuge', 'intake', 'linen', 'amend', 'hem']
+Raw count: 10
+Proportion: 0.0009629272989889263
+
+Cluster 17:
+Examples: ['using', 'targeting', 'organizing', 'recruiting', 'showing', 'hiring', 'gathering']
+Raw count: 9
+Proportion: 0.0008666345690900337
+
+Cluster 18:
+Examples: ['now', 'com', 'org', '50', '35', 'mccarthy', 'berkeley']
+Raw count: 9
+Proportion: 0.0008666345690900337
+

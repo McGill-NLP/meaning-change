@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["graft"],
+    "sense": ["7"],
+    "a_estimate": [-0.0279],
+    "ci_lower": [-0.0331],
+    "ci_upper": [-0.0227]
+  },
+  {
+    "word": ["graft"],
+    "sense": ["0"],
+    "a_estimate": [0.287],
+    "ci_lower": [0.2791],
+    "ci_upper": [0.295]
+  }
+]

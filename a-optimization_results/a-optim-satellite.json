@@ -1,0 +1,30 @@
+[
+  {
+    "word": ["satellite"],
+    "sense": ["2"],
+    "a_estimate": [-0.0455],
+    "ci_lower": [-0.0474],
+    "ci_upper": [-0.0436]
+  },
+  {
+    "word": ["satellite"],
+    "sense": ["7"],
+    "a_estimate": [-0.0863],
+    "ci_lower": [-0.0914],
+    "ci_upper": [-0.0811]
+  },
+  {
+    "word": ["satellite"],
+    "sense": ["5"],
+    "a_estimate": [-0.0864],
+    "ci_lower": [-0.0891],
+    "ci_upper": [-0.0837]
+  },
+  {
+    "word": ["satellite"],
+    "sense": ["0"],
+    "a_estimate": [-0.1715],
+    "ci_lower": [-0.1751],
+    "ci_upper": [-0.1679]
+  }
+]

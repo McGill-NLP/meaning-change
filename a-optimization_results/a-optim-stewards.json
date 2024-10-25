@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["stewards"],
+    "sense": ["0"],
+    "a_estimate": [-0.2057],
+    "ci_lower": [-0.2128],
+    "ci_upper": [-0.1986]
+  },
+  {
+    "word": ["stewards"],
+    "sense": ["14"],
+    "a_estimate": [0.2674],
+    "ci_lower": [0.255],
+    "ci_upper": [0.2797]
+  },
+  {
+    "word": ["stewards"],
+    "sense": ["7"],
+    "a_estimate": [-0.0003],
+    "ci_lower": [-0.0062],
+    "ci_upper": [0.0056]
+  }
+]

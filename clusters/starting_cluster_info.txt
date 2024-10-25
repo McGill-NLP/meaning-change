@@ -1,0 +1,70 @@
+Cluster 2:
+Examples: ['beginning', 'going', 'coming', 'started', 'trying', 'ready', 'just']
+Raw count: 104452
+Proportion: 0.3402533690790695
+
+Cluster 6:
+Examples: ['start', 'now', 'like', 'working', 'especially', 'along', 'even']
+Raw count: 48075
+Proportion: 0.1566047631302059
+
+Cluster 0:
+Examples: ['turning', 'right', 'meeting', 'reference', 'first', 'focal', 'end']
+Raw count: 52487
+Proportion: 0.1709768944860139
+
+Cluster 3:
+Examples: ['getting', 'making', 'building', 'ending', 'commencing', 'running', 'creating']
+Raw count: 83570
+Proportion: 0.2722300583419929
+
+Cluster 8:
+Examples: ['effective', 'launch', 'time', 'till', 'date', 'construction', 'departure']
+Raw count: 14522
+Proportion: 0.047305551121723355
+
+Cluster 13:
+Examples: ['tomorrow', 'every', 'monday', 'tuesday', 'thursday', 'wednesday', 'friday']
+Raw count: 2720
+Proportion: 0.008860425495874364
+
+Cluster 9:
+Examples: ['somewhere', 'outside', 'slightly', 'medical', 'fire', 'reaction', 'medicare']
+Raw count: 491
+Proportion: 0.001599437102380262
+
+Cluster 10:
+Examples: ['increase', 'per', 'million', 'com', 'miles', '000', 'billion']
+Raw count: 379
+Proportion: 0.0012345960525501412
+
+Cluster 5:
+Examples: ['de', 'mr', 'ing', 're', 'co', 'se', 'ed']
+Raw count: 169
+Proportion: 0.0005505190841186646
+
+Cluster 11:
+Examples: ['fuel', 'cars', 'car', 'braking', 'barn', 'navigation', 'radar']
+Raw count: 55
+Proportion: 0.00017916301554157723
+
+Cluster 7:
+Examples: ['startling', 'abundant', 'minute', 'oral', 'insistent', 'acute', 'relentless']
+Raw count: 35
+Proportion: 0.00011401282807191278
+
+Cluster 1:
+Examples: ['athletic', 'athletics', 'raiders', 'oaks', 'oakland', 'coliseum', 'raider']
+Raw count: 12
+Proportion: 3.909011248179867e-05
+
+Cluster 4:
+Examples: ['chicken', 'meat', 'delicious', 'vegetables', 'cooked', 'kinds']
+Raw count: 6
+Proportion: 1.9545056240899335e-05
+
+Cluster 12:
+Examples: ['1902', '1901', '1903', '1905', '1900', '1904', '1909']
+Raw count: 10
+Proportion: 3.257509373483222e-05
+

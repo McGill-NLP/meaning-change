@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["substance"],
+    "sense": ["0"],
+    "a_estimate": [0.3357],
+    "ci_lower": [0.333],
+    "ci_upper": [0.3384]
+  },
+  {
+    "word": ["substance"],
+    "sense": ["1"],
+    "a_estimate": [-0.0277],
+    "ci_lower": [-0.0289],
+    "ci_upper": [-0.0264]
+  }
+]

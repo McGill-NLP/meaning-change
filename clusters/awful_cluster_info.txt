@@ -1,0 +1,55 @@
+Cluster 0:
+Examples: ['enormous', 'entire', 'amazing', 'incredible', 'extra', 'absolute', 'old']
+Raw count: 61515
+Proportion: 0.43271056963182847
+
+Cluster 4:
+Examples: ['great', 'american', 'financial', 'worldwide', 'military', 'nuclear', 'said']
+Raw count: 4209
+Proportion: 0.029607067992853224
+
+Cluster 1:
+Examples: ['terrible', 'horrible', 'whole', 'new', 'good', 'bad', 'real']
+Raw count: 36733
+Proportion: 0.25838831755321395
+
+Cluster 2:
+Examples: ['insane', 'exceeding', 'dreadful', 'wonderful', 'tremendous', 'absurd', 'ridiculous']
+Raw count: 31790
+Proportion: 0.2236181258001435
+
+Cluster 5:
+Examples: ['true', 'desperate', 'war', 'world', 'next', 'armed', 'way']
+Raw count: 2179
+Proportion: 0.015327584023860103
+
+Cluster 9:
+Examples: ['long', 'three', 'enough', 'four', 'five', 'eight', 'six']
+Raw count: 1124
+Proportion: 0.007906472897117373
+
+Cluster 10:
+Examples: ['wrong', 'really', 'damn', 'like', 'worse', 'something', 'every']
+Raw count: 3341
+Proportion: 0.02350135760611134
+
+Cluster 3:
+Examples: ['illegal', 'alleged', 'air', 'oil', 'proposed', 'environmental', 'unlawful']
+Raw count: 744
+Proportion: 0.005233466045778759
+
+Cluster 8:
+Examples: ['high', 'higher', 'steep', 'felt', 'lower', 'established', 'minimum']
+Raw count: 228
+Proportion: 0.0016038041108031682
+
+Cluster 6:
+Examples: ['super', 'un', 'de', 'controversial', 'mega', 'en', 'anti']
+Raw count: 290
+Proportion: 0.0020399262812847317
+
+Cluster 7:
+Examples: ['cattle', 'livestock', 'cow', 'pig', 'dog', 'deer']
+Raw count: 9
+Proportion: 6.330805700538821e-05
+

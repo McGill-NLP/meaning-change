@@ -1,0 +1,70 @@
+Cluster 1:
+Examples: ['imp', 'ab', 'res', 'ref', 'trans', 'abs', 'sent']
+Raw count: 95534
+Proportion: 0.16316011497413424
+
+Cluster 4:
+Examples: ['app', 'rep', 'sp', 'sw', 'fr', 'fl', 'det']
+Raw count: 70898
+Proportion: 0.12108491041342526
+
+Cluster 0:
+Examples: ['sob', 'ass', 've', 'cu', 'pu', 'red', 'contra']
+Raw count: 264203
+Proportion: 0.4512256563789979
+
+Cluster 2:
+Examples: ['cap', 'put', 'ethan', 'set', 'trip', 'amp', 'build']
+Raw count: 37694
+Proportion: 0.06437663422273762
+
+Cluster 3:
+Examples: ['pl', 'int', 'prep', 'def', 'inc', 'just', 'advent']
+Raw count: 28341
+Proportion: 0.04840288084328028
+
+Cluster 9:
+Examples: ['rec', 'ap', 'op', 'em', 'cr', 'ant', 'ind']
+Raw count: 52765
+Proportion: 0.09011601593788801
+
+Cluster 7:
+Examples: ['part', 'cop', 'one', 'man', 'act', 'hand', 'law']
+Raw count: 19315
+Proportion: 0.03298760253653571
+
+Cluster 10:
+Examples: ['oct', 'prof', 'rest', 'carbon', 'cut', 'sl', 'arc']
+Raw count: 15835
+Proportion: 0.027044198092986953
+
+Cluster 11:
+Examples: ['50', '36', '51', '100', '41', '46', '20']
+Raw count: 567
+Proportion: 0.0009683650343368236
+
+Cluster 12:
+Examples: ['pal', 'sea', 'play', 'pig', 'star', 'horse', 'gaunt']
+Raw count: 184
+Proportion: 0.00031424897057844015
+
+Cluster 5:
+Examples: ['wise', 'true', 'proper', 'pure', 'grande', 'nice', 'appropriate']
+Raw count: 144
+Proportion: 0.0002459339769744314
+
+Cluster 6:
+Examples: ['odd', 'peculiar', 'technical', 'physical', 'singular', 'absurd', 'irregular']
+Raw count: 19
+Proportion: 3.2449621961904146e-05
+
+Cluster 13:
+Examples: ['director', 'advisor', 'adviser', 'consultant', 'aide', 'liaison', 'assistant']
+Raw count: 13
+Proportion: 2.2202372921302835e-05
+
+Cluster 8:
+Examples: ['collected', 'stored', 'measured', 'packed', 'stacked', 'examined', 'sorted']
+Raw count: 11
+Proportion: 1.87866232411024e-05
+

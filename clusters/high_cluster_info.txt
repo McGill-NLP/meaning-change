@@ -1,0 +1,50 @@
+Cluster 3:
+Examples: ['low', 'lower', 'one', 'average', 'maximum', 'total', 'minimum']
+Raw count: 494323
+Proportion: 0.11078244219209495
+
+Cluster 0:
+Examples: ['great', 'good', 'large', 'strong', 'rising', 'small', 'certain']
+Raw count: 1684767
+Proportion: 0.3775721598724907
+
+Cluster 1:
+Examples: ['higher', 'much', 'long', 'deep', 'far', 'well', 'hard']
+Raw count: 510757
+Proportion: 0.11446545644590245
+
+Cluster 2:
+Examples: ['public', 'middle', 'highest', 'elementary', 'secondary', 'new', 'grade']
+Raw count: 1121083
+Proportion: 0.2512452640076233
+
+Cluster 4:
+Examples: ['big', 'super', 'non', 'un', 'wide', 'mid', 'tall']
+Raw count: 610037
+Proportion: 0.13671503993854023
+
+Cluster 5:
+Examples: ['quality', 'raising', 'protective', 'paying', 'lowering', 'dropping', 'making']
+Raw count: 32523
+Proportion: 0.007288710756759252
+
+Cluster 6:
+Examples: ['net', '10', 'nine', '100', '12', '20', '50']
+Raw count: 8367
+Proportion: 0.0018751235403193021
+
+Cluster 7:
+Examples: ['canvas', 'advertising', 'cigar', 'banner', 'advertised', 'notwithstanding', 'slogan']
+Raw count: 97
+Proportion: 2.173861400872144e-05
+
+Cluster 9:
+Examples: ['martin', 'hybrid', 'mesa', 'magdalena', 'isle', 'rico', 'strain']
+Raw count: 83
+Proportion: 1.8601082089936906e-05
+
+Cluster 8:
+Examples: ['champagne', 'scotch', 'whisky', 'sherry', 'bordeaux', 'bourbon', 'wines']
+Raw count: 69
+Proportion: 1.5463550171152367e-05
+

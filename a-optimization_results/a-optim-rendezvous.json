@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["rendezvous"],
+    "sense": ["1"],
+    "a_estimate": [0.3414],
+    "ci_lower": [-0.0405],
+    "ci_upper": [0.7232]
+  },
+  {
+    "word": ["rendezvous"],
+    "sense": ["7"],
+    "a_estimate": [0.1564],
+    "ci_lower": [-0.0161],
+    "ci_upper": [0.329]
+  },
+  {
+    "word": ["rendezvous"],
+    "sense": ["14"],
+    "a_estimate": [0.1363],
+    "ci_lower": [-0.1749],
+    "ci_upper": [0.4474]
+  }
+]

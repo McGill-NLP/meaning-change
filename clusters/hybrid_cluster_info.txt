@@ -1,0 +1,95 @@
+Cluster 3:
+Examples: ['new', 'different', 'special', 'certain', 'current', 'general', 'two']
+Raw count: 5072
+Proportion: 0.15922147229634281
+
+Cluster 9:
+Examples: ['electric', 'gasoline', 'gas', 'hydrogen', 'passenger', 'power', 'green']
+Raw count: 11592
+Proportion: 0.36389891696750903
+
+Cluster 6:
+Examples: ['hybrids', 'modern', 'individual', 'pure', 'ev', 'synthetic', 'full']
+Raw count: 2459
+Proportion: 0.07719353319730027
+
+Cluster 7:
+Examples: ['commercial', 'urban', 'single', 'original', 'local', 'industrial', 'super']
+Raw count: 1666
+Proportion: 0.0522994820279391
+
+Cluster 5:
+Examples: ['similar', 'financial', 'family', 'common', 'business', 'pension', 'retirement']
+Raw count: 2014
+Proportion: 0.06322398367603202
+
+Cluster 0:
+Examples: ['one', 'good', 'whole', 'combination', 'thing', 'concept', 'lot']
+Raw count: 3348
+Proportion: 0.10510123999372155
+
+Cluster 2:
+Examples: ['mixed', 'national', 'federal', 'domestic', 'separate', 'government', 'political']
+Raw count: 1427
+Proportion: 0.044796735206404016
+
+Cluster 4:
+Examples: ['combined', 'first', 'second', 'joint', 'military', 'foreign', 'total']
+Raw count: 1369
+Proportion: 0.04297598493172187
+
+Cluster 1:
+Examples: ['american', 'corn', 'natural', 'seed', 'black', 'plant', 'sweet']
+Raw count: 2080
+Proportion: 0.06529587191963585
+
+Cluster 10:
+Examples: ['now', 'even', 'right', 'patented', 'wrong', 'means', 'patent']
+Raw count: 174
+Proportion: 0.0054622508240464605
+
+Cluster 12:
+Examples: ['heavy', 'duty', 'weight', 'load', 'postal', 'mail', 'postage']
+Raw count: 51
+Proportion: 0.0016010045518756867
+
+Cluster 18:
+Examples: ['park', 'river', 'reserve', 'forest', 'conservation', 'zoo', 'perfection']
+Raw count: 63
+Proportion: 0.001977711505258201
+
+Cluster 16:
+Examples: ['bio', 'nano', 'hydro', 'radio', 'micro', 'photo', 'para']
+Raw count: 345
+Proportion: 0.010830324909747292
+
+Cluster 15:
+Examples: ['open', 'deep', 'close', 'concrete', 'covered', 'closed', 'standing']
+Raw count: 80
+Proportion: 0.0025113796892167633
+
+Cluster 13:
+Examples: ['branch', 'grass', 'cell', 'secondary', 'wire', 'branches', 'cost']
+Raw count: 40
+Proportion: 0.0012556898446083817
+
+Cluster 17:
+Examples: ['said', 'strike', 'internet', 'say', 'hit', 'striking', 'following']
+Raw count: 34
+Proportion: 0.0010673363679171244
+
+Cluster 8:
+Examples: ['things', 'states', 'representatives', 'committees', 'houses', 'members', 'bodies']
+Raw count: 19
+Proportion: 0.0005964526761889814
+
+Cluster 11:
+Examples: ['devices', 'laws', 'exceptions', 'items', 'provisions', 'taxes', 'categories']
+Raw count: 12
+Proportion: 0.0003767069533825145
+
+Cluster 14:
+Examples: ['xx', 'mk', 'xl', 'hd', 'im', 'sd', 'av']
+Raw count: 10
+Proportion: 0.0003139224611520954
+

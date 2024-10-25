@@ -1,0 +1,75 @@
+Cluster 3:
+Examples: ['crisis', 'disaster', 'decline', 'collapse', 'unemployment', 'growth', 'change']
+Raw count: 126703
+Proportion: 0.30870342757457925
+
+Cluster 1:
+Examples: ['depression', 'war', 'storm', 'fall', 'hurricane', 'hole', 'bubble']
+Raw count: 62139
+Proportion: 0.15139753822764085
+
+Cluster 0:
+Examples: ['drought', 'slump', 'catastrophe', 'decade', 'contraction', 'deficit', 'boom']
+Raw count: 59061
+Proportion: 0.1438981960646727
+
+Cluster 6:
+Examples: ['one', 'time', 'summer', 'relief', 'two', 'low', 'now']
+Raw count: 21759
+Proportion: 0.05301435546589481
+
+Cluster 2:
+Examples: ['situation', 'economy', 'year', 'problem', 'world', 'government', 'period']
+Raw count: 121472
+Proportion: 0.2959584441910554
+
+Cluster 5:
+Examples: ['inflation', 'budget', 'reaction', 'discretion', 'comet', 'fragment', 'exclusion']
+Raw count: 10831
+Proportion: 0.02638901071056145
+
+Cluster 13:
+Examples: ['break', 'un', 'super', 'hyper', 'just', 'con', 'non']
+Raw count: 6928
+Proportion: 0.016879610950306503
+
+Cluster 10:
+Examples: ['rise', 'back', 'cut', 'republic', 'bernie', 'gm', 'combination']
+Raw count: 738
+Proportion: 0.0017980878870274537
+
+Cluster 4:
+Examples: ['supply', 'source', 'stocks', 'bodies', 'stores', 'supplies', 'ships']
+Raw count: 94
+Proportion: 0.00022902474441813096
+
+Cluster 8:
+Examples: ['1980', 'october', 'advance', '1974', 'september', 'january', '1973']
+Raw count: 452
+Proportion: 0.001101267919968034
+
+Cluster 12:
+Examples: ['works', 'happens', 'goes', 'occurs', 'grants', 'promises', 'attempts']
+Raw count: 119
+Proportion: 0.0002899355806995488
+
+Cluster 9:
+Examples: ['passing', 'running', 'waiting', 'yield', 'giving', 'trying', 'try']
+Raw count: 100
+Proportion: 0.00024364334512567124
+
+Cluster 14:
+Examples: ['menace', 'mischief', 'fuss', 'naughty', 'prank']
+Raw count: 17
+Proportion: 4.141936867136411e-05
+
+Cluster 11:
+Examples: ['tourism', 'tourists', 'visiting', 'tamil']
+Raw count: 13
+Proportion: 3.167363486633726e-05
+
+Cluster 7:
+Examples: ['wine', 'cigarettes', 'liquor', 'scotch', 'tobacco', 'whiskey']
+Raw count: 10
+Proportion: 2.4364334512567124e-05
+

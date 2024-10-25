@@ -1,0 +1,80 @@
+Cluster 9:
+Examples: ['citizens', 'owners', 'friends', 'residents', 'recipients', 'consumers', 'advocates']
+Raw count: 5460
+Proportion: 0.22664065418621063
+
+Cluster 5:
+Examples: ['people', 'children', 'enough', 'guys', 'parents', 'ones', 'things']
+Raw count: 2391
+Proportion: 0.09924868208044497
+
+Cluster 0:
+Examples: ['members', 'men', 'masters', 'employees', 'officers', 'agents', 'servants']
+Raw count: 4549
+Proportion: 0.1888257025445187
+
+Cluster 3:
+Examples: ['guardians', 'managers', 'representatives', 'keepers', 'leaders', 'defenders', 'owner']
+Raw count: 4110
+Proportion: 0.1706031297995102
+
+Cluster 6:
+Examples: ['users', 'holders', 'use', 'uses', 'management', 'protection', 'americans']
+Raw count: 1891
+Proportion: 0.07849404341870408
+
+Cluster 4:
+Examples: ['part', 'aware', 'one', 'representative', 'drivers', 'regardless', 'parts']
+Raw count: 2058
+Proportion: 0.08542609273172554
+
+Cluster 8:
+Examples: ['steward', 'patrons', 'fellows', 'gentlemen', 'lords', 'hosts', 'house']
+Raw count: 753
+Proportion: 0.03125648582458179
+
+Cluster 14:
+Examples: ['staff', 'beds', 'wards', 'ships', 'service', 'corps', 'companies']
+Raw count: 956
+Proportion: 0.0396828691212486
+
+Cluster 7:
+Examples: ['police', 'engineers', 'fire', 'first', 'state', 'personnel', 'security']
+Raw count: 1520
+Proportion: 0.06309410153169233
+
+Cluster 2:
+Examples: ['man', 'life', 'god', 'woman', 'christ', 'jesus', 'truth']
+Raw count: 50
+Proportion: 0.00207546386617409
+
+Cluster 15:
+Examples: ['responsible', 'informed', 'just', 'looking', 'concerned', 'made', 'working']
+Raw count: 208
+Proportion: 0.008633929683284214
+
+Cluster 12:
+Examples: ['history', 'view', 'choice', 'choices', 'stories', 'vision', 'story']
+Raw count: 74
+Proportion: 0.003071686521937653
+
+Cluster 10:
+Examples: ['new', 'white', 'brown', 'blue', 'black', 'dirty', 'green']
+Raw count: 21
+Proportion: 0.0008716948237931177
+
+Cluster 11:
+Examples: ['critics', 'violations', 'abuse', 'analysis', 'criticism', 'criticisms', 'scrutiny']
+Raw count: 26
+Proportion: 0.0010792412104105268
+
+Cluster 1:
+Examples: ['indians', 'hindus', 'hindu', 'muslims', 'hinduism', 'pigs', 'fishes']
+Raw count: 10
+Proportion: 0.00041509277323481796
+
+Cluster 13:
+Examples: ['reporters', 'photographers', 'media', 'photographer', 'camera', 'studio', 'press']
+Raw count: 14
+Proportion: 0.0005811298825287452
+

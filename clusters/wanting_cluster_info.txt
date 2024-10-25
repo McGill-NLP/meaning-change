@@ -1,0 +1,65 @@
+Cluster 3:
+Examples: ['trying', 'attempting', 'continuing', 'failing', 'deciding', 'working', 'agreeing']
+Raw count: 28737
+Proportion: 0.2098265136248138
+
+Cluster 1:
+Examples: ['going', 'willing', 'wishing', 'ready', 'able', 'hoping', 'just']
+Raw count: 29376
+Proportion: 0.21449224568474545
+
+Cluster 7:
+Examples: ['getting', 'seeking', 'needing', 'asking', 'helping', 'making', 'planning']
+Raw count: 38111
+Proportion: 0.27827185373404595
+
+Cluster 5:
+Examples: ['want', 'wants', 'wanted', 'like', 'now', 'needs', 'tried']
+Raw count: 11800
+Proportion: 0.08615905838371447
+
+Cluster 2:
+Examples: ['looking', 'enough', 'even', 'one', 'missing', 'today', 'elsewhere']
+Raw count: 8355
+Proportion: 0.061004994304740205
+
+Cluster 0:
+Examples: ['lacking', 'guilty', 'dead', 'necessary', 'interested', 'needed', 'wrong']
+Raw count: 20176
+Proportion: 0.14731738660591723
+
+Cluster 9:
+Examples: ['un', 'en', 'de', 'per', 'non', 're', 'af']
+Raw count: 154
+Proportion: 0.0011244487280586465
+
+Cluster 10:
+Examples: ['etc', 'inc', 'department', 'com', '12', '10', 'importance']
+Raw count: 148
+Proportion: 0.001080639037355063
+
+Cluster 11:
+Examples: ['faithful', 'radical', 'respectful', 'brave', 'humble', 'sacred', 'republican']
+Raw count: 41
+Proportion: 0.0002993662198078215
+
+Cluster 8:
+Examples: ['number', 'numbers', 'numbered', 'thirty', 'forty', 'fifty', 'section']
+Raw count: 25
+Proportion: 0.00018254037793159848
+
+Cluster 4:
+Examples: ['wilson', 'johnson', 'jones', 'smith', 'davis', 'moore', 'anderson']
+Raw count: 13
+Proportion: 9.49209965244312e-05
+
+Cluster 12:
+Examples: ['yuan', 'qing', 'shi', 'gong', 'cheng', 'hai', 'xi']
+Raw count: 10
+Proportion: 7.301615117263938e-05
+
+Cluster 6:
+Examples: ['dali', 'canton', 'wai', 'lu', 'nanjing', 'nan', 'yunnan']
+Raw count: 10
+Proportion: 7.301615117263938e-05
+

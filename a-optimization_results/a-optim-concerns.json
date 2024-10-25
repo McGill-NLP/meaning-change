@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["concerns"],
+    "sense": ["3"],
+    "a_estimate": [0.1344],
+    "ci_lower": [0.1325],
+    "ci_upper": [0.1363]
+  },
+  {
+    "word": ["concerns"],
+    "sense": ["0"],
+    "a_estimate": [0.1384],
+    "ci_lower": [0.1367],
+    "ci_upper": [0.1401]
+  },
+  {
+    "word": ["concerns"],
+    "sense": ["1"],
+    "a_estimate": [0.1622],
+    "ci_lower": [0.1603],
+    "ci_upper": [0.164]
+  }
+]

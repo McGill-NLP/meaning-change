@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["signal"],
+    "sense": ["2"],
+    "a_estimate": [0.0467],
+    "ci_lower": [0.0434],
+    "ci_upper": [0.05]
+  },
+  {
+    "word": ["signal"],
+    "sense": ["1"],
+    "a_estimate": [-0.0275],
+    "ci_lower": [-0.03],
+    "ci_upper": [-0.025]
+  },
+  {
+    "word": ["signal"],
+    "sense": ["0"],
+    "a_estimate": [0.2705],
+    "ci_lower": [0.2686],
+    "ci_upper": [0.2723]
+  }
+]

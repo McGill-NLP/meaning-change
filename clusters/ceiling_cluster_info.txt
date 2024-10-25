@@ -1,0 +1,70 @@
+Cluster 13:
+Examples: ['limit', 'level', 'ceilings', 'budget', 'limits', 'threshold', 'rate']
+Raw count: 157627
+Proportion: 0.33279355132925714
+
+Cluster 6:
+Examples: ['cap', 'restraint', 'million', 'percent', 'whatever', 'zero', 'trillion']
+Raw count: 16329
+Proportion: 0.034474968753166906
+
+Cluster 0:
+Examples: ['floor', 'wall', 'dome', 'line', 'room', 'one', 'roof']
+Raw count: 64402
+Proportion: 0.1359701719420329
+
+Cluster 4:
+Examples: ['amount', 'limitation', 'tax', 'bill', 'requirement', 'increase', 'burden']
+Raw count: 161657
+Proportion: 0.3413019795291018
+
+Cluster 2:
+Examples: ['maximum', 'price', 'minimum', 'market', 'target', 'average', 'contract']
+Raw count: 53854
+Proportion: 0.11370046954700537
+
+Cluster 7:
+Examples: ['crisis', 'freeze', 'war', 'years', 'crunch', 'sharing', 'generation']
+Raw count: 5487
+Proportion: 0.011584552241326892
+
+Cluster 5:
+Examples: ['resolution', 'government', 'population', 'president', 'state', 'person', 'man']
+Raw count: 6409
+Proportion: 0.013531145492010946
+
+Cluster 1:
+Examples: ['required', 'available', 'based', 'needed', 'due', 'authorized', 'except']
+Raw count: 7275
+Proportion: 0.015359507482349762
+
+Cluster 11:
+Examples: ['like', 'football', 'sports', 'soccer', 'baseball', 'scene', 'video']
+Raw count: 328
+Proportion: 0.0006924973820220924
+
+Cluster 12:
+Examples: ['support', 'supporting', 'supports', 'supported', 'lift', 'match', 'defence']
+Raw count: 247
+Proportion: 0.0005214843090227342
+
+Cluster 3:
+Examples: ['mat', 'sac', 'bonding', 'bonded', 'fleming']
+Raw count: 10
+Proportion: 2.1112725061649156e-05
+
+Cluster 9:
+Examples: ['consistently', 'repeatedly', 'frequently', 'continuously', 'periodically', 'persistent', 'continually']
+Raw count: 10
+Proportion: 2.1112725061649156e-05
+
+Cluster 10:
+Examples: ['variance', 'deviation', 'residual']
+Raw count: 6
+Proportion: 1.2667635036989495e-05
+
+Cluster 8:
+Examples: ['mas', 'dos', 'watches', 'swat', 'orbits', 'santos', 'vis']
+Raw count: 7
+Proportion: 1.477890754315441e-05
+

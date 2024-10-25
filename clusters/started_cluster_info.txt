@@ -1,0 +1,70 @@
+Cluster 8:
+Examples: ['began', 'stopped', 'ended', 'commenced', 'happened', 'occurred', 'ceased']
+Raw count: 101318
+Proportion: 0.11775015137445682
+
+Cluster 1:
+Examples: ['came', 'went', 'begun', 'got', 'finished', 'tried', 'continued']
+Raw count: 259741
+Proportion: 0.3018668160460411
+
+Cluster 0:
+Examples: ['made', 'done', 'created', 'completed', 'built', 'wanted', 'opened']
+Raw count: 258406
+Proportion: 0.30031530050008776
+
+Cluster 3:
+Examples: ['start', 'come', 'begin', 'want', 'like', 'go', 'keep']
+Raw count: 84811
+Proportion: 0.09856598124932447
+
+Cluster 4:
+Examples: ['starts', 'begins', 'comes', 'goes', 'ends', 'continues', 'works']
+Raw count: 53897
+Proportion: 0.06263822725112121
+
+Cluster 13:
+Examples: ['starting', 'going', 'back', 'together', 'just', 'now', 'beginning']
+Raw count: 96866
+Proportion: 0.1125761085200866
+
+Cluster 2:
+Examples: ['seemed', 'attempting', 'unable', 'considering', 'preparing', 'failing', 'threatening']
+Raw count: 2283
+Proportion: 0.0026532659111696334
+
+Cluster 11:
+Examples: ['two', 're', 'three', 'four', 'several', 'five', 'half']
+Raw count: 2518
+Proportion: 0.0029263791346146022
+
+Cluster 12:
+Examples: ['upon', 'american', 'deliberately', 'river', 'road', 'commercial', 'crop']
+Raw count: 251
+Proportion: 0.0002917081663178178
+
+Cluster 7:
+Examples: ['opening', 'compared', 'leaving', 'scored', 'general', 'similar', 'consistent']
+Raw count: 312
+Proportion: 0.0003626013860205544
+
+Cluster 10:
+Examples: ['germany', 'nazi', 'hitler', 'enemy', 'wwii', 'fascism', 'stalin']
+Raw count: 19
+Proportion: 2.208149466150812e-05
+
+Cluster 5:
+Examples: ['social', 'jazz', 'libre', 'music', 'nuevo', '54', 'blues']
+Raw count: 9
+Proportion: 1.045965536597753e-05
+
+Cluster 6:
+Examples: ['shirt', 'hat', 'boots', 'shoes', 'gloves', 'scarf', 'tie']
+Raw count: 11
+Proportion: 1.2784023225083649e-05
+
+Cluster 9:
+Examples: ['1870', '1871', '1872', '1869', '1873', '1874']
+Raw count: 7
+Proportion: 8.135287506871413e-06
+

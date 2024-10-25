@@ -1,0 +1,90 @@
+Cluster 4:
+Examples: ['industry', 'market', 'company', 'network', 'channel', 'plant', 'supply']
+Raw count: 91663
+Proportion: 0.12642335404000837
+
+Cluster 5:
+Examples: ['sectors', 'economy', 'sphere', 'marketplace', 'realm', 'firm', 'trade']
+Raw count: 88065
+Proportion: 0.12146092396641325
+
+Cluster 1:
+Examples: ['business', 'enterprise', 'equity', 'government', 'public', 'school', 'service']
+Raw count: 180474
+Proportion: 0.24891317540355948
+
+Cluster 3:
+Examples: ['world', 'companies', 'industries', 'community', 'businesses', 'system', 'markets']
+Raw count: 196968
+Proportion: 0.2716620141011354
+
+Cluster 0:
+Examples: ['part', 'segment', 'area', 'side', 'section', 'field', 'one']
+Raw count: 141060
+Proportion: 0.1945526365150997
+
+Cluster 16:
+Examples: ['domain', 'practice', 'party', 'law', 'library', 'authority', 'secretary']
+Raw count: 11579
+Proportion: 0.015969977160132848
+
+Cluster 7:
+Examples: ['line', 'foundation', 'generation', 'information', 'fraction', 'store', 'jurisdiction']
+Raw count: 4555
+Proportion: 0.006282342686277322
+
+Cluster 10:
+Examples: ['jet', 'debt', 'park', 'airport', 'aircraft', 'aviation', 'elevator']
+Raw count: 2453
+Proportion: 0.003383224283081948
+
+Cluster 9:
+Examples: ['society', 'space', 'crisis', 'bubble', 'boom', 'war', 'surplus']
+Raw count: 3043
+Proportion: 0.0041969635113813155
+
+Cluster 8:
+Examples: ['work', 'co', 'non', 'inc', 'car', 'data', 'news']
+Raw count: 4770
+Proportion: 0.006578874777945736
+
+Cluster 13:
+Examples: ['benefits', 'effects', 'results', 'impacts', 'depends', 'benefited', 'feeds']
+Raw count: 87
+Proportion: 0.00011999205569838134
+
+Cluster 2:
+Examples: ['specialty', 'studies', 'varieties', 'specialized', 'specialist', 'specialization', 'specializing']
+Raw count: 89
+Proportion: 0.0001227504937604131
+
+Cluster 11:
+Examples: ['cemetery', 'soldier', 'flag', 'cross', 'chapel', 'museum', 'remains']
+Raw count: 169
+Proportion: 0.00023308801624168332
+
+Cluster 17:
+Examples: ['shore', 'florida', 'fishermen', 'texas', 'carolina', 'dakota', 'georgia']
+Raw count: 25
+Proportion: 3.448047577539694e-05
+
+Cluster 14:
+Examples: ['brick', 'rock', 'fist', 'stone', 'nail', 'drum', 'boulder']
+Raw count: 13
+Proportion: 1.792984740320641e-05
+
+Cluster 12:
+Examples: ['john', 'james', 'william', 'paul', 'richard', 'robert', 'charles']
+Raw count: 16
+Proportion: 2.206750449625404e-05
+
+Cluster 15:
+Examples: ['links', 'golf', 'championship', 'turf']
+Raw count: 8
+Proportion: 1.103375224812702e-05
+
+Cluster 6:
+Examples: ['1980', '1970', '1971', '1972', '1969', '1974', '1973']
+Raw count: 11
+Proportion: 1.5171409341174654e-05
+

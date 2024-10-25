@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["wired"],
+    "sense": ["6"],
+    "a_estimate": [-0.0126],
+    "ci_lower": [-0.0201],
+    "ci_upper": [-0.0051]
+  },
+  {
+    "word": ["wired"],
+    "sense": ["5"],
+    "a_estimate": [0.2908],
+    "ci_lower": [0.2849],
+    "ci_upper": [0.2967]
+  },
+  {
+    "word": ["wired"],
+    "sense": ["7"],
+    "a_estimate": [0.2246],
+    "ci_lower": [0.2027],
+    "ci_upper": [0.2466]
+  }
+]

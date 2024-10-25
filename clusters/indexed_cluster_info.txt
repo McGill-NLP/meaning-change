@@ -1,0 +1,85 @@
+Cluster 0:
+Examples: ['adjusted', 'used', 'designed', 'ready', 'good', 'going', 'enough']
+Raw count: 5247
+Proportion: 0.21887123013390064
+
+Cluster 2:
+Examples: ['set', 'done', 'changed', 'included', 'increased', 'reduced', 'fixed']
+Raw count: 3955
+Proportion: 0.16497726609101906
+
+Cluster 3:
+Examples: ['made', 'published', 'paid', 'measured', 'written', 'calculated', 'prepared']
+Raw count: 4545
+Proportion: 0.1895882868226755
+
+Cluster 1:
+Examples: ['subject', 'tied', 'added', 'related', 'due', 'linked', 'sensitive']
+Raw count: 4116
+Proportion: 0.17169315479914904
+
+Cluster 7:
+Examples: ['index', 'real', 'new', 'federal', 'annual', 'government', 'average']
+Raw count: 3583
+Proportion: 0.14945980895173738
+
+Cluster 9:
+Examples: ['covered', 'indices', 'available', 'listed', 'important', 'required', 'authorized']
+Raw count: 1346
+Proportion: 0.05614649814374505
+
+Cluster 11:
+Examples: ['true', 'high', 'fair', 'wrong', 'illegal', 'increasing', 'inflation']
+Raw count: 494
+Proportion: 0.02060651566345472
+
+Cluster 15:
+Examples: ['etc', 'anything', 'whatever', 'thereof', 'suspended', 'nothing', 'either']
+Raw count: 303
+Proportion: 0.0126392191215117
+
+Cluster 12:
+Examples: ['per', 'com', 'section', 'books', 'copies', 'pages', 'report']
+Raw count: 99
+Proportion: 0.004129645851583031
+
+Cluster 6:
+Examples: ['violent', 'serious', 'armed', 'dangerous', 'street', 'property', 'hate']
+Raw count: 70
+Proportion: 0.0029199516122304257
+
+Cluster 4:
+Examples: ['green', 'consistent', 'competitive', 'global', 'dealt', 'readers', 'dealing']
+Raw count: 136
+Proportion: 0.005673048846619113
+
+Cluster 14:
+Examples: ['00', 'org', '25', '99', '95', '08', '01']
+Raw count: 15
+Proportion: 0.0006257039169065198
+
+Cluster 10:
+Examples: ['years', 'hours', 'billion', 'months', 'decades', 'weeks', 'sometime']
+Raw count: 21
+Proportion: 0.0008759854836691278
+
+Cluster 8:
+Examples: ['handed', 'eyed', 'minded', 'hearted', 'talk', 'edged', 'spirited']
+Raw count: 13
+Proportion: 0.0005422767279856506
+
+Cluster 13:
+Examples: ['1980', '2000', '1000', '3000', '1999', '2001', '1900']
+Raw count: 12
+Proportion: 0.0005005631335252158
+
+Cluster 16:
+Examples: ['printer', 'reporter', 'secretary', 'editor', 'librarian', 'publisher', 'engraver']
+Raw count: 10
+Proportion: 0.0004171359446043466
+
+Cluster 5:
+Examples: ['colorado', 'states', 'residence', 'denver', 'arizona', 'reservations', 'resident']
+Raw count: 8
+Proportion: 0.00033370875568347727
+

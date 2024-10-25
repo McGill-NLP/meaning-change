@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["security"],
+    "sense": ["2"],
+    "a_estimate": [-0.114],
+    "ci_lower": [-0.1153],
+    "ci_upper": [-0.1126]
+  }
+]

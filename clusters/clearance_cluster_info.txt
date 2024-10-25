@@ -1,0 +1,90 @@
+Cluster 4:
+Examples: ['approval', 'permission', 'confirmation', 'information', 'consent', 'consideration', 'assistance']
+Raw count: 22455
+Proportion: 0.27119565217391306
+
+Cluster 2:
+Examples: ['housing', 'removal', 'management', 'conditions', 'dwellers', 'treatment', 'demolition']
+Raw count: 16388
+Proportion: 0.19792270531400966
+
+Cluster 1:
+Examples: ['authorization', 'warrant', 'briefing', 'assurance', 'training', 'alert', 'exemption']
+Raw count: 10563
+Proportion: 0.12757246376811593
+
+Cluster 5:
+Examples: ['certification', 'protection', 'review', 'security', 'level', 'screening', 'system']
+Raw count: 8385
+Proportion: 0.10126811594202899
+
+Cluster 0:
+Examples: ['development', 'construction', 'clearing', 'improvement', 'inspection', 'cleaning', 'passage']
+Raw count: 11400
+Proportion: 0.13768115942028986
+
+Cluster 9:
+Examples: ['cleared', 'pass', 'away', 'clear', 'approved', 'started', 'just']
+Raw count: 2194
+Proportion: 0.026497584541062803
+
+Cluster 11:
+Examples: ['access', 'work', 'now', 'assignment', 'co', 'immediately', 'set']
+Raw count: 791
+Proportion: 0.009553140096618357
+
+Cluster 3:
+Examples: ['separation', 'departure', 'displacement', 'evacuation', 'height', 'discharge', 'section']
+Raw count: 5027
+Proportion: 0.06071256038647343
+
+Cluster 7:
+Examples: ['legal', 'legislative', 'oversight', 'administrative', 'voting', 'whole', 'new']
+Raw count: 3514
+Proportion: 0.042439613526570046
+
+Cluster 6:
+Examples: ['discussion', 'consultation', 'cooperation', 'communication', 'meeting', 'experience', 'together']
+Raw count: 1374
+Proportion: 0.016594202898550726
+
+Cluster 8:
+Examples: ['presence', 'number', 'rate', 'crime', 'arrest', 'amount', 'success']
+Raw count: 395
+Proportion: 0.004770531400966184
+
+Cluster 12:
+Examples: ['payments', 'banking', 'cards', 'points', 'bank', 'banks', 'credits']
+Raw count: 158
+Proportion: 0.0019082125603864734
+
+Cluster 13:
+Examples: ['10', '18', '12', '11', '15', '20', 'iii']
+Raw count: 63
+Proportion: 0.0007608695652173913
+
+Cluster 14:
+Examples: ['boston', 'baltimore', 'liverpool', 'london', 'charleston', 'calcutta', 'philadelphia']
+Raw count: 30
+Proportion: 0.00036231884057971015
+
+Cluster 16:
+Examples: ['1955', '1950', '1970', '1951', '1949', '1945', '1971']
+Raw count: 21
+Proportion: 0.0002536231884057971
+
+Cluster 15:
+Examples: ['july', 'saturday', 'november', 'august', 'june', 'october', 'thanksgiving']
+Raw count: 11
+Proportion: 0.00013285024154589372
+
+Cluster 17:
+Examples: ['nixon', 'strauss', 'hitler', 'suarez', 'reagan', 'franco', 'roth']
+Raw count: 11
+Proportion: 0.00013285024154589372
+
+Cluster 10:
+Examples: ['peter', 'paul', 'george', 'klaus', 'ernst', 'stefan', 'hans']
+Raw count: 20
+Proportion: 0.00024154589371980676
+

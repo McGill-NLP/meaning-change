@@ -1,0 +1,65 @@
+Cluster 2:
+Examples: ['purpose', 'point', 'effect', 'objective', 'goal', 'part', 'object']
+Raw count: 113784
+Proportion: 0.611350802443598
+
+Cluster 0:
+Examples: ['put', 'forced', 'imposed', 'placed', 'brought', 'bestowed', 'laid']
+Raw count: 38752
+Proportion: 0.2082108758375018
+
+Cluster 4:
+Examples: ['core', 'one', 'move', 'movement', 'attack', 'look', 'thrusts']
+Raw count: 8134
+Proportion: 0.04370322213207679
+
+Cluster 10:
+Examples: ['power', 'force', 'weight', 'energy', 'fuel', 'mass', 'performance']
+Raw count: 10626
+Proportion: 0.05709250533260978
+
+Cluster 1:
+Examples: ['use', 'push', 'place', 'throw', 'impose', 'bring', 'drive']
+Raw count: 11825
+Proportion: 0.06353462032355643
+
+Cluster 3:
+Examples: ['felt', 'try', 'eds', 'seat', 'est', 'woods', 'lam']
+Raw count: 2043
+Proportion: 0.010976848145541293
+
+Cluster 7:
+Examples: ['burden', 'posture', 'stance', 'guilt', 'fare', 'mantle', 'suit']
+Raw count: 116
+Proportion: 0.0006232571634276994
+
+Cluster 12:
+Examples: ['integrity', 'security', 'fairness', 'justice', 'general', 'destruction', 'senate']
+Raw count: 326
+Proportion: 0.0017515675454950865
+
+Cluster 5:
+Examples: ['commitment', 'funds', 'projects', 'contract', 'comparison', 'differences', 'according']
+Raw count: 207
+Proportion: 0.001112191662323567
+
+Cluster 6:
+Examples: ['everything', 'punch', 'soul', 'blood', 'breath', 'cuts', 'pound']
+Raw count: 126
+Proportion: 0.0006769862292404322
+
+Cluster 8:
+Examples: ['review', 'weakness', 'flaw', 'disadvantage', 'fault', 'minority', 'detachment']
+Raw count: 81
+Proportion: 0.000435205433083135
+
+Cluster 11:
+Examples: ['school', 'parties', 'houses', 'courses', 'papers', 'states', 'faculty']
+Raw count: 88
+Proportion: 0.00047281577915204786
+
+Cluster 9:
+Examples: ['trillion', '99', '81', '108', '205', '104', '210']
+Raw count: 11
+Proportion: 5.910197239400598e-05
+

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["outstanding"],
+    "sense": ["3"],
+    "a_estimate": [-0.0295],
+    "ci_lower": [-0.0327],
+    "ci_upper": [-0.0263]
+  },
+  {
+    "word": ["outstanding"],
+    "sense": ["2"],
+    "a_estimate": [-0.1849],
+    "ci_lower": [-0.1896],
+    "ci_upper": [-0.1802]
+  },
+  {
+    "word": ["outstanding"],
+    "sense": ["1"],
+    "a_estimate": [-0.1425],
+    "ci_lower": [-0.1474],
+    "ci_upper": [-0.1376]
+  }
+]

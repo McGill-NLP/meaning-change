@@ -1,0 +1,105 @@
+Cluster 4:
+Examples: ['animals', 'cats', 'things', 'livestock', 'food', 'goods', 'animal']
+Raw count: 3360
+Proportion: 0.21303575957392848
+
+Cluster 14:
+Examples: ['children', 'families', 'kids', 'dog', 'parents', 'family', 'adults']
+Raw count: 2289
+Proportion: 0.14513061120973877
+
+Cluster 16:
+Examples: ['dogs', 'farms', 'problems', 'companions', 'issues', 'wolves', 'kind']
+Raw count: 865
+Proportion: 0.054844027390311946
+
+Cluster 3:
+Examples: ['people', 'men', 'women', 'persons', 'individuals', 'citizens', 'officers']
+Raw count: 1979
+Proportion: 0.12547552624904895
+
+Cluster 10:
+Examples: ['pet', 'books', 'anything', 'eyes', 'habits', 'medicine', 'tourists']
+Raw count: 541
+Proportion: 0.034301293431397414
+
+Cluster 18:
+Examples: ['humans', 'horses', 'birds', 'cattle', 'pigs', 'everything', 'man']
+Raw count: 768
+Proportion: 0.048693887902612226
+
+Cluster 2:
+Examples: ['members', 'friends', 'property', 'toys', 'others', 'enemies', 'allies']
+Raw count: 1775
+Proportion: 0.11254121227491758
+
+Cluster 9:
+Examples: ['lives', 'ones', 'homes', 'houses', 'one', 'home', 'parts']
+Raw count: 993
+Proportion: 0.06295967537408065
+
+Cluster 1:
+Examples: ['money', 'interests', 'rights', 'work', 'power', 'parties', 'tools']
+Raw count: 648
+Proportion: 0.04108546791782906
+
+Cluster 11:
+Examples: ['hands', 'put', 'puts', 'takes', 'turns', 'feeds', 'moves']
+Raw count: 110
+Proportion: 0.00697438498605123
+
+Cluster 8:
+Examples: ['business', 'supporters', 'government', 'laws', 'car', 'president', 'public']
+Raw count: 203
+Proportion: 0.012870910474258179
+
+Cluster 7:
+Examples: ['cat', 'part', 'co', 'brit', 'mor', 'pe', 'sci']
+Raw count: 939
+Proportion: 0.05953588638092823
+
+Cluster 12:
+Examples: ['well', 'now', 'nothing', 'etc', 'today', 'berg', 'even']
+Raw count: 277
+Proportion: 0.01756276946487446
+
+Cluster 6:
+Examples: ['human', 'living', 'house', 'jobs', 'farm', 'arms', 'domestic']
+Raw count: 493
+Proportion: 0.03125792543748415
+
+Cluster 19:
+Examples: ['sale', 'consumption', 'slaughter', 'export', 'hunting', 'education', 'profit']
+Raw count: 190
+Proportion: 0.01204666497590667
+
+Cluster 5:
+Examples: ['time', 'ideas', 'thoughts', 'opinion', 'choice', 'idea', 'doubts']
+Raw count: 83
+Proportion: 0.005262490489475019
+
+Cluster 20:
+Examples: ['ships', 'bones', 'flight', 'planes', 'vessels', 'treasures', 'backs']
+Raw count: 66
+Proportion: 0.004184630991630738
+
+Cluster 0:
+Examples: ['un', 'hand', 'watch', 'go', 'pay', 'add', 'wolf']
+Raw count: 76
+Proportion: 0.004818665990362668
+
+Cluster 13:
+Examples: ['clothing', 'legs', 'dresses', 'quarters', 'rooms', 'yards', 'robes']
+Raw count: 38
+Proportion: 0.002409332995181334
+
+Cluster 15:
+Examples: ['abortion', 'violence', 'aids', 'tobacco', 'marijuana', 'smoking', 'died']
+Raw count: 60
+Proportion: 0.00380420999239158
+
+Cluster 17:
+Examples: ['hundred', 'number', 'minutes', 'whites', 'scan', 'braves', 'te']
+Raw count: 19
+Proportion: 0.001204666497590667
+

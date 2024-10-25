@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["lunatic"],
+    "sense": ["3"],
+    "a_estimate": [-0.0692],
+    "ci_lower": [-0.3923],
+    "ci_upper": [0.254]
+  },
+  {
+    "word": ["lunatic"],
+    "sense": ["1"],
+    "a_estimate": [1.5],
+    "ci_lower": [0.3254],
+    "ci_upper": [2.6746]
+  },
+  {
+    "word": ["lunatic"],
+    "sense": ["5"],
+    "a_estimate": [-0.5],
+    "ci_lower": [-1.3728],
+    "ci_upper": [0.3728]
+  }
+]

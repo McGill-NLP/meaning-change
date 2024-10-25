@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["projection"],
+    "sense": ["6"],
+    "a_estimate": [0.0493],
+    "ci_lower": [0.0393],
+    "ci_upper": [0.0592]
+  },
+  {
+    "word": ["projection"],
+    "sense": ["8"],
+    "a_estimate": [0.2648],
+    "ci_lower": [0.2574],
+    "ci_upper": [0.2721]
+  }
+]

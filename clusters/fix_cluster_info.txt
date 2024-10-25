@@ -1,0 +1,60 @@
+Cluster 0:
+Examples: ['make', 'change', 'determine', 'take', 'raise', 'increase', 'establish']
+Raw count: 505234
+Proportion: 0.6871463855159508
+
+Cluster 3:
+Examples: ['set', 'put', 'fixed', 'made', 'got', 'now', 'sets']
+Raw count: 50828
+Proportion: 0.06912891152021587
+
+Cluster 5:
+Examples: ['fixing', 'like', 'just', 'even', 'setting', 'without', 'half']
+Raw count: 16947
+Proportion: 0.02304886408147278
+
+Cluster 2:
+Examples: ['assess', 'punish', 'accomplish', 'relax', 'suppress', 'reset', 'guess']
+Raw count: 77644
+Proportion: 0.10560016538277407
+
+Cluster 1:
+Examples: ['measure', 'cure', 'start', 'one', 'thing', 'solution', 'answer']
+Raw count: 63877
+Proportion: 0.08687627845236541
+
+Cluster 4:
+Examples: ['affect', 'effect', 'cap', 'domestic', 'import', 'oxygen', 'origin']
+Raw count: 14738
+Proportion: 0.020044501022761892
+
+Cluster 6:
+Examples: ['watch', 'push', 'crack', 'hit', 'back', 'fuck', 'ring']
+Raw count: 4749
+Proportion: 0.006458904556730644
+
+Cluster 8:
+Examples: ['patch', 'either', 'patches', 'anyway', 'directly', 'permanently', 'generally']
+Raw count: 737
+Proportion: 0.0010023610567088828
+
+Cluster 9:
+Examples: ['narrow', 'etc', 'others', 'america', 'great', 'medicare', 'taxpayers']
+Raw count: 397
+Proportion: 0.0005399421160290726
+
+Cluster 10:
+Examples: ['smith', 'wilson', 'davis', 'johnson', 'williams', 'washington', 'brown']
+Raw count: 70
+Proportion: 9.520389955172563e-05
+
+Cluster 11:
+Examples: ['fed', 'corporate', 'forensic', 'csi', 'physicist', 'hacker', 'geologist']
+Raw count: 13
+Proportion: 1.768072420246333e-05
+
+Cluster 7:
+Examples: ['1991', '1992', '1993', '1990', '1987', '1995', '1994']
+Raw count: 30
+Proportion: 4.080167123645385e-05
+

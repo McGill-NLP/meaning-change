@@ -1,0 +1,85 @@
+Cluster 9:
+Examples: ['needles', 'medicine', 'plea', 'nipple', 'blade', 'little', 'skin']
+Raw count: 6138
+Proportion: 0.1943081452404318
+
+Cluster 10:
+Examples: ['knife', 'one', 'tube', 'finger', 'stick', 'gun', 'thing']
+Raw count: 3719
+Proportion: 0.1177308556776093
+
+Cluster 6:
+Examples: ['blood', 'drug', 'foreign', 'cultural', 'international', 'water', 'student']
+Raw count: 8618
+Proportion: 0.2728164867517174
+
+Cluster 2:
+Examples: ['medical', 'electronic', 'big', 'long', 'electrical', 'plastic', 'brain']
+Raw count: 1092
+Proportion: 0.034568995536420906
+
+Cluster 7:
+Examples: ['thread', 'pin', 'wire', 'point', 'power', 'line', 'ball']
+Raw count: 2340
+Proportion: 0.07407641900661623
+
+Cluster 3:
+Examples: ['machine', 'instrument', 'silver', 'spear', 'black', 'equipment', 'animal']
+Raw count: 586
+Proportion: 0.018550761340973124
+
+Cluster 0:
+Examples: ['man', 'pulse', 'child', 'hole', 'baby', 'body', 'feather']
+Raw count: 2906
+Proportion: 0.09199404856120802
+
+Cluster 1:
+Examples: ['hand', 'screw', 'piece', 'foot', 'iron', 'metal', 'wood']
+Raw count: 1810
+Proportion: 0.057298426667510845
+
+Cluster 16:
+Examples: ['device', 'cord', 'chain', 'test', 'part', 'product', 'object']
+Raw count: 692
+Proportion: 0.021906359808794202
+
+Cluster 12:
+Examples: ['field', 'word', 'current', 'compass', 'get', 'force', 'see']
+Raw count: 944
+Proportion: 0.029883820317199026
+
+Cluster 4:
+Examples: ['stone', 'rope', 'probe', 'phone', 'stake', 'cable', 'bribe']
+Raw count: 882
+Proportion: 0.027921111779416887
+
+Cluster 5:
+Examples: ['work', 'business', 'gentle', 'ship', 'sea', 'center', 'station']
+Raw count: 428
+Proportion: 0.013549020228560575
+
+Cluster 15:
+Examples: ['day', 'time', 'night', 'dollar', 'poor', 'half', 'eyes']
+Raw count: 197
+Proportion: 0.006236348095856152
+
+Cluster 14:
+Examples: ['car', 'question', 'law', 'book', 'lot', 'team', 'truth']
+Raw count: 675
+Proportion: 0.021368197790370067
+
+Cluster 11:
+Examples: ['super', 'auto', 'great', 'en', 're', 'fair', 'bio']
+Raw count: 462
+Proportion: 0.014625344265408844
+
+Cluster 8:
+Examples: ['till', 'dream', 'ho', 'wil', 'dot', 'ro', 'wo']
+Raw count: 88
+Proportion: 0.002785779860077875
+
+Cluster 13:
+Examples: ['gr', 'lap', 'mid', 'op', 'satan', 'pd', 'latin']
+Raw count: 12
+Proportion: 0.00037987907182880117
+

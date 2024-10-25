@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["drives"],
+    "sense": ["0"],
+    "a_estimate": [0.0283],
+    "ci_lower": [0.0244],
+    "ci_upper": [0.0322]
+  },
+  {
+    "word": ["drives"],
+    "sense": ["9"],
+    "a_estimate": [0.0762],
+    "ci_lower": [0.0706],
+    "ci_upper": [0.0818]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["fans"],
+    "sense": ["8"],
+    "a_estimate": [0.268],
+    "ci_lower": [0.256],
+    "ci_upper": [0.28]
+  },
+  {
+    "word": ["fans"],
+    "sense": ["2"],
+    "a_estimate": [0.4792],
+    "ci_lower": ["NaN"],
+    "ci_upper": ["NaN"]
+  },
+  {
+    "word": ["fans"],
+    "sense": ["11"],
+    "a_estimate": [0.7307],
+    "ci_lower": [0.7172],
+    "ci_upper": [0.7443]
+  }
+]

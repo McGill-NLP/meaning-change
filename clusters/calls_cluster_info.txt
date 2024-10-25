@@ -1,0 +1,60 @@
+Cluster 0:
+Examples: ['called', 'allows', 'provides', 'asks', 'provided', 'stands', 'allowed']
+Raw count: 452043
+Proportion: 0.5979744879669082
+
+Cluster 2:
+Examples: ['call', 'service', 'number', 'line', 'one', 'phone', 'royce']
+Raw count: 46521
+Proportion: 0.06153921453204349
+
+Cluster 5:
+Examples: ['calling', 'now', 'incumbent', 'paying', 'necessary', 'going', 'responsible']
+Raw count: 24596
+Proportion: 0.032536242140756684
+
+Cluster 3:
+Examples: ['demands', 'provide', 'requests', 'advocates', 'providing', 'accounts', 'terms']
+Raw count: 101946
+Proportion: 0.1348568767800285
+
+Cluster 6:
+Examples: ['numbers', 'messages', 'lines', 'conversations', 'names', 'visits', 'letters']
+Raw count: 128351
+Proportion: 0.16978611217304687
+
+Cluster 7:
+Examples: ['term', 'radio', 'advertising', 'com', 'unto', 'en', 'ten']
+Raw count: 1902
+Proportion: 0.0025160161226101484
+
+Cluster 11:
+Examples: ['commerce', '10', 'ii', '12', 'land', '11', 'navigation']
+Raw count: 459
+Proportion: 0.0006071773923649096
+
+Cluster 8:
+Examples: ['cells', 'branches', 'trees', 'seeds', 'potatoes', 'plants', 'corn']
+Raw count: 91
+Proportion: 0.00012037721722267271
+
+Cluster 10:
+Examples: ['union', 'clubs', 'unions', 'federation', 'legions', 'afl']
+Raw count: 19
+Proportion: 2.5133704694843753e-05
+
+Cluster 4:
+Examples: ['cookies', 'candy', 'cakes', 'cake', 'chocolate', 'pie', 'cocoa']
+Raw count: 11
+Proportion: 1.4551092191751647e-05
+
+Cluster 9:
+Examples: ['pursued', 'surrounded', 'harassed', 'confronted', 'intrigued', 'dominated', 'fascinated']
+Raw count: 9
+Proportion: 1.190543906597862e-05
+
+Cluster 1:
+Examples: ['francis', 'spanish', 'teresa', 'tomas', 'jose', 'latino', 'perez']
+Raw count: 9
+Proportion: 1.190543906597862e-05
+

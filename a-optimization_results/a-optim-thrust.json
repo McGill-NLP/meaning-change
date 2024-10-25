@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["thrust"],
+    "sense": ["2"],
+    "a_estimate": [0.0929],
+    "ci_lower": [0.0906],
+    "ci_upper": [0.0952]
+  },
+  {
+    "word": ["thrust"],
+    "sense": ["0"],
+    "a_estimate": [-0.0779],
+    "ci_lower": [-0.08],
+    "ci_upper": [-0.0758]
+  }
+]

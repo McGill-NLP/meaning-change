@@ -1,0 +1,75 @@
+Cluster 4:
+Examples: ['man', 'person', 'one', 'woman', 'fellow', 'friend', 'politician']
+Raw count: 39813
+Proportion: 0.3349740017163915
+
+Cluster 12:
+Examples: ['boy', 'kid', 'girl', 'bastard', 'brother', 'chick', 'sister']
+Raw count: 18853
+Proportion: 0.15862318474767362
+
+Cluster 5:
+Examples: ['thing', 'shit', 'way', 'lot', 'place', 'story', 'deal']
+Raw count: 11092
+Proportion: 0.09332458310195703
+
+Cluster 3:
+Examples: ['guys', 'people', 'ones', 'stuff', 'kids', 'men', 'girls']
+Raw count: 14527
+Proportion: 0.12222558769582849
+
+Cluster 0:
+Examples: ['dude', 'john', 'james', 'george', 'senator', 'robert', 'william']
+Raw count: 18491
+Proportion: 0.15557743113399633
+
+Cluster 9:
+Examples: ['lawyer', 'doctor', 'group', 'house', 'voice', 'team', 'congressman']
+Raw count: 5604
+Proportion: 0.04715028522388813
+
+Cluster 13:
+Examples: ['american', 'two', 'old', 'defendant', 'americans', 'three', 'also']
+Raw count: 1247
+Proportion: 0.010491863967556834
+
+Cluster 2:
+Examples: ['mess', 'kind', 'bonn', 'bow', 'math', 'say', 'car']
+Raw count: 4435
+Proportion: 0.03731468860955458
+
+Cluster 6:
+Examples: ['big', 'little', 'bad', 'devil', 'good', 'angel', 'smile']
+Raw count: 818
+Proportion: 0.006882393524828782
+
+Cluster 8:
+Examples: ['now', 'maybe', 'said', 'thought', 'something', 'today', 'head']
+Raw count: 797
+Proportion: 0.006705706160499436
+
+Cluster 11:
+Examples: ['face', 'gr', 'rock', 'beth', 'mel', 'wil', 'pat']
+Raw count: 3047
+Proportion: 0.025636495195786427
+
+Cluster 14:
+Examples: ['drunk', 'crack', 'broad', 'tired', 'stiff', 'scared', 'busy']
+Raw count: 101
+Proportion: 0.0008497820855839938
+
+Cluster 7:
+Examples: ['economist', 'keynes', 'churchill', 'economics', 'cambridge', 'economists']
+Raw count: 10
+Proportion: 8.413684015683106e-05
+
+Cluster 1:
+Examples: ['attended', 'attending', 'attends', 'visiting', 'attend', 'observing', 'visits']
+Raw count: 10
+Proportion: 8.413684015683106e-05
+
+Cluster 10:
+Examples: ['mussolini', 'ferrari', 'dante', 'colombo', 'leone', 'giovanni', 'rossi']
+Raw count: 9
+Proportion: 7.572315614114796e-05
+

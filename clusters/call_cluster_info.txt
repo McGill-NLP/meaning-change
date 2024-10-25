@@ -1,0 +1,60 @@
+Cluster 8:
+Examples: ['bring', 'draw', 'give', 'direct', 'turn', 'take', 'attract']
+Raw count: 2697053
+Proportion: 0.6066890142183335
+
+Cluster 1:
+Examples: ['called', 'calls', 'calling', 'drew', 'brought', 'paid', 'set']
+Raw count: 782471
+Proportion: 0.1760130630152369
+
+Cluster 3:
+Examples: ['term', 'vote', 'order', 'shift', 'need', 'request', 'demand']
+Raw count: 777381
+Proportion: 0.1748680921591316
+
+Cluster 2:
+Examples: ['phone', 'roll', 'speed', 'hand', 'door', 'away', 'fire']
+Raw count: 25410
+Proportion: 0.005715856474191592
+
+Cluster 4:
+Examples: ['poll', 'cal', 'wil', 'bell', 'mark', 'end', 'better']
+Raw count: 143412
+Proportion: 0.03225983505221427
+
+Cluster 9:
+Examples: ['telephone', 'caller', 'special', 'broadcast', 'communication', 'two', 'trade']
+Raw count: 19670
+Proportion: 0.004424671265145557
+
+Cluster 11:
+Examples: ['45', '35', '44', '38', '36', '40', '39']
+Raw count: 76
+Proportion: 1.7095832036149588e-05
+
+Cluster 6:
+Examples: ['1980s', '1970s', '1990s', 'eighties', 'sixties', 'seventies', '2000s']
+Raw count: 15
+Proportion: 3.3741773755558395e-06
+
+Cluster 0:
+Examples: ['1885', '1921', '1918', '1917', '1919', '1877', '1920']
+Raw count: 11
+Proportion: 2.4743967420742825e-06
+
+Cluster 7:
+Examples: ['1965', '1933', '1932', '1936', '1934', '1930', '1937']
+Raw count: 16
+Proportion: 3.5991225339262287e-06
+
+Cluster 10:
+Examples: ['1825', '1824', '1826', '1843', '1822', '1842', '1818']
+Raw count: 10
+Proportion: 2.249451583703893e-06
+
+Cluster 5:
+Examples: ['keynes', 'hari', 'vista']
+Raw count: 3
+Proportion: 6.748354751111679e-07
+

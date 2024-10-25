@@ -1,0 +1,90 @@
+Cluster 8:
+Examples: ['master', 'judges', 'directors', 'house', 'courts', 'council', 'commissioners']
+Raw count: 7630
+Proportion: 0.07511321126205946
+
+Cluster 2:
+Examples: ['graduate', 'doctoral', 'doctorate', 'college', 'undergraduate', 'degree', 'bachelor']
+Raw count: 35111
+Proportion: 0.34564874975388854
+
+Cluster 0:
+Examples: ['men', 'members', 'agents', 'part', 'rulers', 'lords', 'aware']
+Raw count: 14629
+Proportion: 0.14401456979720417
+
+Cluster 1:
+Examples: ['people', 'government', 'governments', 'forces', 'ones', 'power', 'powers']
+Raw count: 10225
+Proportion: 0.10065957865721599
+
+Cluster 5:
+Examples: ['leaders', 'owners', 'enemies', 'citizens', 'slaves', 'friends', 'children']
+Raw count: 17025
+Proportion: 0.16760189013585353
+
+Cluster 11:
+Examples: ['officers', 'captains', 'persons', 'crews', 'crew', 'ships', 'commanders']
+Raw count: 6750
+Proportion: 0.06645008860011814
+
+Cluster 6:
+Examples: ['hands', 'years', 'women', 'houses', 'times', 'terms', 'school']
+Raw count: 5511
+Proportion: 0.054252805670407564
+
+Cluster 9:
+Examples: ['good', 'experts', 'living', 'experience', 'poor', 'bad', 'skilled']
+Raw count: 1745
+Proportion: 0.017178578460326836
+
+Cluster 7:
+Examples: ['man', 'lot', 'number', 'words', 'game', 'questions', 'title']
+Raw count: 688
+Proportion: 0.006772986808426856
+
+Cluster 16:
+Examples: ['book', 'group', 'art', 'society', 'arts', 'music', 'team']
+Raw count: 739
+Proportion: 0.007275054144516637
+
+Cluster 15:
+Examples: ['co', 'com', 'sc', 'sec', 'de', 'post', 'ex']
+Raw count: 624
+Proportion: 0.0061429415239220315
+
+Cluster 12:
+Examples: ['also', 'knows', 'faces', 'takes', 'likes', 'except', 'learned']
+Raw count: 717
+Proportion: 0.007058476077968104
+
+Cluster 10:
+Examples: ['south', 'north', 'deal', 'york', 'philippines', 'mexico', 'orleans']
+Raw count: 59
+Proportion: 0.0005808229966528844
+
+Cluster 17:
+Examples: ['minority', 'support', 'smallest', 'least', 'exception', 'consent', 'permission']
+Raw count: 68
+Proportion: 0.0006694231147863752
+
+Cluster 4:
+Examples: ['fingers', 'hand', 'hold', 'touch', 'grip', 'grasp', 'grips']
+Raw count: 31
+Proportion: 0.00030517818468202404
+
+Cluster 3:
+Examples: ['sixties', 'twenties', '1960s', '1900s', 'seventies', 'eighties', 'fifties']
+Raw count: 12
+Proportion: 0.00011813349084465446
+
+Cluster 14:
+Examples: ['radical', 'complex', 'global', 'polar', 'trivial', 'institutional', 'rational']
+Raw count: 12
+Proportion: 0.00011813349084465446
+
+Cluster 13:
+Examples: ['comune', 'scala', 'gallo', 'casa']
+Raw count: 4
+Proportion: 3.9377830281551485e-05
+

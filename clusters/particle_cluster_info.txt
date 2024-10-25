@@ -1,0 +1,85 @@
+Cluster 5:
+Examples: ['bit', 'thing', 'second', 'day', 'little', 'minute', 'man']
+Raw count: 8880
+Proportion: 0.19051296904164253
+
+Cluster 6:
+Examples: ['lot', 'penny', 'lick', 'deal', 'problem', 'burden', 'loss']
+Raw count: 3074
+Proportion: 0.06595009761644247
+
+Cluster 2:
+Examples: ['degree', 'kind', 'moment', 'word', 'point', 'sort', 'question']
+Raw count: 17115
+Proportion: 0.3671880028319495
+
+Cluster 0:
+Examples: ['piece', 'line', 'grain', 'inch', 'drop', 'foot', 'pound']
+Raw count: 4141
+Proportion: 0.08884168972989208
+
+Cluster 1:
+Examples: ['matter', 'body', 'nuclear', 'ion', 'electron', 'particles', 'proton']
+Raw count: 7354
+Proportion: 0.15777391602840532
+
+Cluster 7:
+Examples: ['part', 'portion', 'cent', 'third', 'one', 'percent', 'tenth']
+Raw count: 3717
+Proportion: 0.07974512454141726
+
+Cluster 3:
+Examples: ['scrap', 'shadow', 'hand', 'lie', 'cloud', 'stroke', 'picture']
+Raw count: 723
+Proportion: 0.015511359979404003
+
+Cluster 13:
+Examples: ['world', 'mind', 'age', 'depths', 'depth', 'era', 'ages']
+Raw count: 304
+Proportion: 0.006522065606831005
+
+Cluster 9:
+Examples: ['chip', 'paper', 'fiber', 'side', 'ship', 'sea', 'clap']
+Raw count: 969
+Proportion: 0.02078908412177383
+
+Cluster 4:
+Examples: ['quality', 'pollution', 'conditioning', 'pipe', 'breathing', 'pressure', 'hood']
+Raw count: 42
+Proportion: 0.0009010748535753363
+
+Cluster 11:
+Examples: ['rule', 'test', 'trial', 'situation', 'passage', 'compromise', 'convention']
+Raw count: 66
+Proportion: 0.0014159747699040999
+
+Cluster 12:
+Examples: ['good', 'american', 'german', 'russian', 'professional', 'chinese', 'japanese']
+Raw count: 32
+Proportion: 0.0006865332217716848
+
+Cluster 10:
+Examples: ['movement', 'motion', 'image', 'spin', 'photo', 'elevation', 'camera']
+Raw count: 25
+Proportion: 0.0005363540795091287
+
+Cluster 14:
+Examples: ['knows', 'makes', 'takes', 'sees', 'knew', 'said', 'finds']
+Raw count: 92
+Proportion: 0.001973783012593594
+
+Cluster 16:
+Examples: ['toxic', 'radioactive', 'symbol', 'spill', 'toxin', 'strain', 'cheese']
+Raw count: 46
+Proportion: 0.000986891506296797
+
+Cluster 8:
+Examples: ['10', '14', '12', '13', 'behind', 'around', '60']
+Raw count: 28
+Proportion: 0.0006007165690502242
+
+Cluster 15:
+Examples: ['est', 'ser', 'et']
+Raw count: 3
+Proportion: 6.436248954109545e-05
+

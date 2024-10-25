@@ -1,0 +1,90 @@
+Cluster 2:
+Examples: ['message', 'warning', 'note', 'letter', 'sign', 'reminder', 'statement']
+Raw count: 146758
+Proportion: 0.51951757413563
+
+Cluster 1:
+Examples: ['signals', 'bell', 'marine', 'communication', 'medical', 'telegraph', 'air']
+Raw count: 44723
+Proportion: 0.15831766900658079
+
+Cluster 7:
+Examples: ['show', 'report', 'mean', 'indicate', 'alert', 'represent', 'demonstrate']
+Raw count: 36118
+Proportion: 0.12785630590925665
+
+Cluster 9:
+Examples: ['sound', 'light', 'flag', 'broadcast', 'station', 'channel', 'service']
+Raw count: 20455
+Proportion: 0.07240989914651544
+
+Cluster 0:
+Examples: ['great', 'public', 'special', 'symbol', 'first', 'remarkable', 'tremendous']
+Raw count: 30561
+Proportion: 0.10818474347673715
+
+Cluster 5:
+Examples: ['kind', 'level', 'fuel', 'signaled', 'label', 'tick', 'counsel']
+Raw count: 2302
+Proportion: 0.008148989872172014
+
+Cluster 17:
+Examples: ['now', 'given', 'today', 'coming', 'indeed', 'ahead', 'around']
+Raw count: 1309
+Proportion: 0.004633808750075224
+
+Cluster 15:
+Examples: ['upon', 'holding', 'bearing', 'carried', 'taking', 'keeping', 'playing']
+Raw count: 83
+Proportion: 0.0002938167503867407
+
+Cluster 11:
+Examples: ['penny', 'dime', 'cent', 'pound', 'ounce', 'inch', 'cents']
+Raw count: 35
+Proportion: 0.0001238986296811557
+
+Cluster 10:
+Examples: ['protein', 'rna', 'cell', 'cellular', 'gene', 'dna', 'molecular']
+Raw count: 49
+Proportion: 0.000173458081553618
+
+Cluster 3:
+Examples: ['restoration', 'strengthening', 'weakening', 'widening', 'renewal', 'tightening', 'consolidation']
+Raw count: 16
+Proportion: 5.663937356852833e-05
+
+Cluster 8:
+Examples: ['awards', 'scholarships', 'honors', 'medals', 'nominations', 'prizes', 'nominees']
+Raw count: 18
+Proportion: 6.371929526459437e-05
+
+Cluster 13:
+Examples: ['execution', 'assignment', 'execute', 'executing']
+Raw count: 9
+Proportion: 3.1859647632297184e-05
+
+Cluster 16:
+Examples: ['china', 'india', 'burma', 'myanmar', 'burmese', 'sudan', 'asia']
+Raw count: 13
+Proportion: 4.601949102442927e-05
+
+Cluster 12:
+Examples: ['observations', 'suggestions', 'theories', 'models', 'patterns', 'hypothesis', 'predictions']
+Raw count: 11
+Proportion: 3.893956932836323e-05
+
+Cluster 4:
+Examples: ['bands', 'sticks', 'orchestras', 'choirs', 'singers', 'trumpets', 'ceremonies']
+Raw count: 14
+Proportion: 4.955945187246229e-05
+
+Cluster 6:
+Examples: ['disorder', 'controversy', 'confusion', 'chaos', 'confused']
+Raw count: 7
+Proportion: 2.4779725936231145e-05
+
+Cluster 14:
+Examples: ['2005', '2007', '2002', '2006', '2001', '1997', '1995']
+Raw count: 8
+Proportion: 2.8319686784264165e-05
+

@@ -1,0 +1,95 @@
+Cluster 5:
+Examples: ['people', 'men', 'citizens', 'women', 'americans', 'everyone', 'girls']
+Raw count: 7640
+Proportion: 0.16275056984001873
+
+Cluster 8:
+Examples: ['players', 'teams', 'coaches', 'spectators', 'guys', 'clubs', 'enthusiasts']
+Raw count: 13979
+Proportion: 0.2977866774598982
+
+Cluster 3:
+Examples: ['supporters', 'friends', 'members', 'students', 'families', 'others', 'alumni']
+Raw count: 8861
+Proportion: 0.18876083761157147
+
+Cluster 9:
+Examples: ['team', 'kids', 'owners', 'residents', 'crowd', 'game', 'city']
+Raw count: 3799
+Proportion: 0.0809279338772554
+
+Cluster 7:
+Examples: ['fan', 'now', 'today', 'just', 'also', 'lives', 'stadium']
+Raw count: 2309
+Proportion: 0.04918731227233027
+
+Cluster 1:
+Examples: ['community', 'faithful', 'history', 'football', 'life', 'rest', 'nation']
+Raw count: 1671
+Proportion: 0.03559636154485227
+
+Cluster 12:
+Examples: ['club', 'player', 'league', 'one', 'coach', 'veterans', 'man']
+Raw count: 1462
+Proportion: 0.031144153547919818
+
+Cluster 10:
+Examples: ['public', 'giants', 'two', 'best', 'patriots', 'three', 'squad']
+Raw count: 717
+Proportion: 0.015273842745457256
+
+Cluster 2:
+Examples: ['cars', 'lights', 'things', 'homes', 'lamps', 'motors', 'pumps']
+Raw count: 3659
+Proportion: 0.07794559359222887
+
+Cluster 11:
+Examples: ['eyes', 'bags', 'gen', 'un', 'res', 'bones', 'bonds']
+Raw count: 615
+Proportion: 0.013100994823509363
+
+Cluster 4:
+Examples: ['money', 'ball', 'country', 'business', 'population', 'states', 'victims']
+Raw count: 466
+Proportion: 0.009926932663016851
+
+Cluster 15:
+Examples: ['miles', 'days', 'yards', 'time', 'hours', 'minutes', 'name']
+Raw count: 326
+Proportion: 0.006944592377990329
+
+Cluster 18:
+Examples: ['play', 'played', 'playing', 'win', 'live', 'involved', 'based']
+Raw count: 334
+Proportion: 0.007115011822848987
+
+Cluster 14:
+Examples: ['feeds', 'plays', 'raises', 'matches', 'sets', 'fuels', 'go']
+Raw count: 932
+Proportion: 0.019853865326033702
+
+Cluster 0:
+Examples: ['places', 'place', 'ground', 'park', 'station', 'heights', 'pools']
+Raw count: 88
+Proportion: 0.001874613893445242
+
+Cluster 17:
+Examples: ['areas', 'planners', 'plans', 'beaches', 'zones', 'information', 'avenues']
+Raw count: 33
+Proportion: 0.0007029802100419658
+
+Cluster 16:
+Examples: ['truth', 'change', 'changes', 'difference', 'rise', 'tale', 'lies']
+Raw count: 26
+Proportion: 0.0005538631957906397
+
+Cluster 13:
+Examples: ['wind', 'devil', 'salt', 'fang', 'wolf', 'fu', 'tang']
+Raw count: 16
+Proportion: 0.00034083888971731674
+
+Cluster 6:
+Examples: ['jewel', 'shutter', 'veil', 'fresco', 'enamel', 'recess', 'tier']
+Raw count: 10
+Proportion: 0.00021302430607332296
+

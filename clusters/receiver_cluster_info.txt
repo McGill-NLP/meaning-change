@@ -1,0 +1,70 @@
+Cluster 4:
+Examples: ['clerk', 'trustee', 'secretary', 'judge', 'agent', 'director', 'manager']
+Raw count: 20652
+Proportion: 0.37345388788426764
+
+Cluster 12:
+Examples: ['person', 'man', 'lawyer', 'defendant', 'corporation', 'bank', 'one']
+Raw count: 9959
+Proportion: 0.1800904159132007
+
+Cluster 5:
+Examples: ['receivers', 'register', 'records', 'journal', 'repository', 'reception', 'report']
+Raw count: 5295
+Proportion: 0.095750452079566
+
+Cluster 1:
+Examples: ['company', 'government', 'court', 'state', 'people', 'others', 'defendants']
+Raw count: 4289
+Proportion: 0.07755877034358047
+
+Cluster 9:
+Examples: ['owner', 'buyer', 'recipient', 'carrier', 'holder', 'seller', 'source']
+Raw count: 3333
+Proportion: 0.06027124773960217
+
+Cluster 10:
+Examples: ['committee', 'receipt', 'trust', 'persons', 'law', 'business', 'case']
+Raw count: 4904
+Proportion: 0.08867992766726944
+
+Cluster 6:
+Examples: ['plaintiff', 'first', 'well', 'also', 'now', 'etc', 'accused']
+Raw count: 2005
+Proportion: 0.03625678119349005
+
+Cluster 11:
+Examples: ['station', 'system', 'body', 'party', 'radio', 'telephone', 'transmitter']
+Raw count: 4011
+Proportion: 0.07253164556962026
+
+Cluster 0:
+Examples: ['mr', 'co', 'esq', 'hon', 'inc', 'bar', 'project']
+Raw count: 585
+Proportion: 0.01057866184448463
+
+Cluster 7:
+Examples: ['time', 'year', 'day', 'third', 'car', 'month', 'mistake']
+Raw count: 221
+Proportion: 0.003996383363471971
+
+Cluster 13:
+Examples: ['tanker', 'fuel', 'boeing', 'garrett', 'harvey', 'rachel', 'pipeline']
+Raw count: 15
+Proportion: 0.00027124773960217
+
+Cluster 8:
+Examples: ['dress', 'clothes', 'shirt', 'shoes', 'shorts', 'boots', 'pants']
+Raw count: 11
+Proportion: 0.00019891500904159132
+
+Cluster 2:
+Examples: ['1949', '1968', '1955', '1954', '1961', '1976', '1967']
+Raw count: 10
+Proportion: 0.00018083182640144665
+
+Cluster 3:
+Examples: ['december', 'august', 'november', 'october', 'july', 'march', 'january']
+Raw count: 10
+Proportion: 0.00018083182640144665
+

@@ -1,0 +1,80 @@
+Cluster 2:
+Examples: ['thing', 'force', 'one', 'strength', 'power', 'anchor', 'foundation']
+Raw count: 3904
+Proportion: 0.33568357695614787
+
+Cluster 6:
+Examples: ['stuff', 'something', 'product', 'goods', 'kind', 'anything', 'now']
+Raw count: 628
+Proportion: 0.05399828030954428
+
+Cluster 14:
+Examples: ['paper', 'oil', 'plastic', 'paste', 'water', 'steel', 'rubber']
+Raw count: 3549
+Proportion: 0.3051590713671539
+
+Cluster 10:
+Examples: ['money', 'energy', 'material', 'way', 'tools', 'support', 'place']
+Raw count: 770
+Proportion: 0.06620808254514188
+
+Cluster 0:
+Examples: ['hand', 'war', 'head', 'back', 'medium', 'ground', 'end']
+Raw count: 204
+Proportion: 0.017540842648323302
+
+Cluster 1:
+Examples: ['things', 'pin', 'products', 'matches', 'shit', 'ones', 'ties']
+Raw count: 454
+Proportion: 0.039036973344797936
+
+Cluster 15:
+Examples: ['tie', 'wi', 'hu', 'bo', 'mu', 'gin', 'fit']
+Raw count: 431
+Proportion: 0.03705932932072227
+
+Cluster 7:
+Examples: ['people', 'language', 'others', 'quality', 'world', 'interest', 'america']
+Raw count: 358
+Proportion: 0.03078245915735168
+
+Cluster 3:
+Examples: ['good', 'small', 'big', 'new', 'first', 'whole', 'american']
+Raw count: 490
+Proportion: 0.04213241616509028
+
+Cluster 5:
+Examples: ['put', 'get', 'make', 'keep', 'bring', 'hold', 'pull']
+Raw count: 309
+Proportion: 0.026569217540842648
+
+Cluster 13:
+Examples: ['nails', 'concrete', 'books', 'papers', 'tape', 'mortar', 'hard']
+Raw count: 196
+Proportion: 0.016852966466036113
+
+Cluster 4:
+Examples: ['wire', 'knit', 'grind', 'squeeze', 'whip', 'insert', 'forward']
+Raw count: 60
+Proportion: 0.005159071367153913
+
+Cluster 11:
+Examples: ['co', 'manufacture', 'mr', 'mill', 'commerce', 'inc', 'term']
+Raw count: 203
+Proportion: 0.017454858125537404
+
+Cluster 9:
+Examples: ['taxes', 'tax', 'duty', 'pressure', 'price', 'wages', 'cost']
+Raw count: 53
+Proportion: 0.004557179707652623
+
+Cluster 8:
+Examples: ['iv', 'transcript', 'vial', 'implant', 'stomach', 'positive', 'newborn']
+Raw count: 12
+Proportion: 0.0010318142734307824
+
+Cluster 12:
+Examples: ['diet', 'restoration', 'greenhouse', 'harvest', 'lifestyle', 'landfill', 'livelihood']
+Raw count: 9
+Proportion: 0.0007738607050730869
+

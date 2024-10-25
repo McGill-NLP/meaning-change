@@ -1,0 +1,100 @@
+Cluster 1:
+Examples: ['effect', 'influence', 'impression', 'attack', 'aspect', 'emphasis', 'issue']
+Raw count: 354866
+Proportion: 0.243668743554073
+
+Cluster 0:
+Examples: ['effects', 'consequences', 'implications', 'result', 'value', 'toll', 'importance']
+Raw count: 599678
+Proportion: 0.4117689065647861
+
+Cluster 4:
+Examples: ['impacts', 'risk', 'policy', 'development', 'environmental', 'financial', 'direct']
+Raw count: 172584
+Proportion: 0.1185048058634418
+
+Cluster 3:
+Examples: ['affect', 'bearing', 'affects', 'focus', 'hold', 'change', 'increase']
+Raw count: 226960
+Proportion: 0.15584208697658386
+
+Cluster 2:
+Examples: ['burden', 'dependence', 'amount', 'portion', 'money', 'load', 'tax']
+Raw count: 54352
+Proportion: 0.03732080151282731
+
+Cluster 6:
+Examples: ['benefit', 'harm', 'assault', 'stress', 'level', 'disrupt', 'budget']
+Raw count: 43987
+Proportion: 0.030203674126890175
+
+Cluster 11:
+Examples: ['blast', 'drilling', 'running', 'shaking', 'quake', 'lightning', 'tears']
+Raw count: 495
+Proportion: 0.00033989175649193256
+
+Cluster 8:
+Examples: ['ripple', 'disease', 'window', 'disability', 'foot', 'cars', 'rail']
+Raw count: 954
+Proportion: 0.0006550641125117246
+
+Cluster 14:
+Examples: ['phase', 'george', 'millennium', 'paul', 'john', 'elizabeth', 'mary']
+Raw count: 166
+Proportion: 0.00011398390217709254
+
+Cluster 9:
+Examples: ['half', 'together', 'un', 'etc', 'trip', 'vs', 'inc']
+Raw count: 2175
+Proportion: 0.0014934637785251582
+
+Cluster 19:
+Examples: ['catholic', 'newsweek', 'catholics', 'catholicism', 'priests', 'jesuit', 'clergy']
+Raw count: 16
+Proportion: 1.0986400209840245e-05
+
+Cluster 10:
+Examples: ['stick', 'straw', 'strings', 'sticks', 'sticking', 'glue', 'rope']
+Raw count: 15
+Proportion: 1.0299750196725229e-05
+
+Cluster 15:
+Examples: ['europe', 'britain', 'germany', 'russia', 'polish', 'england', 'poland']
+Raw count: 25
+Proportion: 1.716625032787538e-05
+
+Cluster 18:
+Examples: ['blackout', 'jihad', 'templar', 'rf', 'ci', 'mag', 'jacob']
+Raw count: 17
+Proportion: 1.1673050222955259e-05
+
+Cluster 17:
+Examples: ['exposed', 'aggressive', 'uncomfortable', 'awkward', 'upright', 'unsafe', 'uneasy']
+Raw count: 13
+Proportion: 8.926450170495198e-06
+
+Cluster 13:
+Examples: ['fat', 'sugar', 'sugarcane', 'candy', 'brown', 'chocolate', 'coke']
+Raw count: 9
+Proportion: 6.179850118035137e-06
+
+Cluster 5:
+Examples: ['sulfur', 'sulfate', 'silicon', 'arsenic', 'reynolds', 'zeta', 'sul']
+Raw count: 9
+Proportion: 6.179850118035137e-06
+
+Cluster 7:
+Examples: ['brush', 'lance', 'pen', 'misty', 'rode', 'saddle', 'ridge']
+Raw count: 8
+Proportion: 5.493200104920122e-06
+
+Cluster 12:
+Examples: ['woods', 'swans', 'lam', 'melt', 'sanders', 'del', 'stills']
+Raw count: 8
+Proportion: 5.493200104920122e-06
+
+Cluster 16:
+Examples: ['cameo', 'valentine', 'novella', 'lyric', 'wexford', 'reprise', 'sonata']
+Raw count: 9
+Proportion: 6.179850118035137e-06
+

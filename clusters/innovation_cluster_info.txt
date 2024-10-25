@@ -1,0 +1,55 @@
+Cluster 6:
+Examples: ['development', 'research', 'education', 'investment', 'discovery', 'reform', 'training']
+Raw count: 23197
+Proportion: 0.1310853803945502
+
+Cluster 3:
+Examples: ['growth', 'business', 'industry', 'money', 'production', 'competition', 'employment']
+Raw count: 20337
+Proportion: 0.11492362723990032
+
+Cluster 7:
+Examples: ['technology', 'progress', 'science', 'innovations', 'people', 'advances', 'jobs']
+Raw count: 33148
+Proportion: 0.18731810963997717
+
+Cluster 1:
+Examples: ['change', 'improvement', 'invention', 'action', 'advancement', 'advance', 'idea']
+Raw count: 39777
+Proportion: 0.2247783409903877
+
+Cluster 9:
+Examples: ['energy', 'economic', 'america', 'manufacturing', 'government', 'new', 'market']
+Raw count: 15199
+Proportion: 0.08588898118794537
+
+Cluster 2:
+Examples: ['power', 'life', 'creativity', 'efficiency', 'knowledge', 'leadership', 'quality']
+Raw count: 39217
+Proportion: 0.22161380191115557
+
+Cluster 5:
+Examples: ['work', 'everything', 'now', 'etc', 'yes', 'investing', 'also']
+Raw count: 4334
+Proportion: 0.024491272088200226
+
+Cluster 8:
+Examples: ['inc', 'together', 'ii', 'com', 'un', 'co', 're']
+Raw count: 1504
+Proportion: 0.00849904781279491
+
+Cluster 0:
+Examples: ['building', 'room', 'structure', 'facility', 'plant', 'site', 'location']
+Raw count: 157
+Proportion: 0.0008872011347132985
+
+Cluster 10:
+Examples: ['dream', 'patriot', 'brand', 'cup', 'ran', 'gi', 'classic']
+Raw count: 76
+Proportion: 0.0004294731607529343
+
+Cluster 4:
+Examples: ['tension', 'cyclic', 'travers', 'collision', 'geometric', 'conform', 'ton']
+Raw count: 15
+Proportion: 8.476443962228965e-05
+

@@ -1,0 +1,65 @@
+Cluster 11:
+Examples: ['large', 'huge', 'big', 'great', 'small', 'many', 'whole']
+Raw count: 67369
+Proportion: 0.15618609999582694
+
+Cluster 2:
+Examples: ['major', 'real', 'recent', 'global', 'current', 'possible', 'military']
+Raw count: 67005
+Proportion: 0.15534221422643033
+
+Cluster 1:
+Examples: ['new', 'human', 'industrial', 'ancient', 'sexual', 'home', 'animal']
+Raw count: 12082
+Proportion: 0.028010516114972482
+
+Cluster 3:
+Examples: ['vast', 'enormous', 'total', 'serious', 'tremendous', 'comprehensive', 'extensive']
+Raw count: 114333
+Proportion: 0.2650659111879779
+
+Cluster 4:
+Examples: ['significant', 'substantial', 'direct', 'national', 'certain', 'general', 'public']
+Raw count: 82740
+Proportion: 0.19182172681284745
+
+Cluster 12:
+Examples: ['mass', 'giant', 'mega', 'super', 'un', 'near', 'automatic']
+Raw count: 6467
+Proportion: 0.01499288261178009
+
+Cluster 6:
+Examples: ['federal', 'government', 'little', 'various', 'one', 'budget', 'spending']
+Raw count: 36235
+Proportion: 0.08400604630243567
+
+Cluster 8:
+Examples: ['full', 'deep', 'school', 'open', 'water', 'black', 'student']
+Raw count: 7887
+Proportion: 0.01828496445942625
+
+Cluster 9:
+Examples: ['high', 'growing', 'increased', 'additional', 'illegal', 'increasing', 'another']
+Raw count: 26748
+Proportion: 0.06201169384566164
+
+Cluster 7:
+Examples: ['two', 'several', 'three', 'annual', 'four', 'five', 'six']
+Raw count: 9720
+Proportion: 0.02253453208388781
+
+Cluster 0:
+Examples: ['double', 'fucking', 'environmental', 'hurricane', 'electoral', 'storm', 'flood']
+Raw count: 725
+Proportion: 0.0016808164362982162
+
+Cluster 5:
+Examples: ['intensified', 'emphasize', 'emphasized', 'emphasizing', 'emphasis', 'emphasizes', 'stressed']
+Raw count: 19
+Proportion: 4.404898246850498e-05
+
+Cluster 10:
+Examples: ['62', '92', '72', '82', '202', '192', '102']
+Raw count: 8
+Proportion: 1.8546939986738937e-05
+

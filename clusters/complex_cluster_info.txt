@@ -1,0 +1,100 @@
+Cluster 1:
+Examples: ['important', 'complicated', 'difficult', 'serious', 'large', 'big', 'dangerous']
+Raw count: 341420
+Proportion: 0.5926062211329676
+
+Cluster 0:
+Examples: ['major', 'new', 'general', 'technical', 'particular', 'specific', 'current']
+Raw count: 126014
+Proportion: 0.21872380162219487
+
+Cluster 2:
+Examples: ['system', 'area', 'building', 'center', 'facility', 'program', 'project']
+Raw count: 98930
+Proportion: 0.17171382302350324
+
+Cluster 5:
+Examples: ['just', 'right', 'including', 'making', 'ing', 'draft', 'upon']
+Raw count: 3194
+Proportion: 0.0055438587964931705
+
+Cluster 4:
+Examples: ['standard', 'money', 'mr', 'issues', 'questions', 'disorder', 'syndrome']
+Raw count: 3767
+Proportion: 0.006538420816026855
+
+Cluster 8:
+Examples: ['ever', 'un', 'com', 'super', 'non', '10', 'million']
+Raw count: 2502
+Proportion: 0.004342747247597343
+
+Cluster 12:
+Examples: ['quality', 'color', 'mystery', 'intensity', 'wonder', 'dress', 'doubt']
+Raw count: 108
+Proportion: 0.00018745671572362632
+
+Cluster 13:
+Examples: ['treatment', 'pumping', 'generating', 'supportive', 'pump', 'pumped']
+Raw count: 26
+Proportion: 4.512846860013226e-05
+
+Cluster 3:
+Examples: ['2008', '2012', '2013', '2009', '2005', '2007', '2014']
+Raw count: 69
+Proportion: 0.00011976401282342792
+
+Cluster 7:
+Examples: ['licensing', 'licensed', 'certification', 'licence']
+Raw count: 10
+Proportion: 1.735710330774318e-05
+
+Cluster 9:
+Examples: ['wisdom', 'creativity', 'insight']
+Raw count: 6
+Proportion: 1.0414261984645907e-05
+
+Cluster 11:
+Examples: ['smith', 'allen', 'harris', 'bingham', 'franklin', 'jacobs']
+Raw count: 8
+Proportion: 1.3885682646194541e-05
+
+Cluster 16:
+Examples: ['espionage', 'spying', 'sabotage']
+Raw count: 5
+Proportion: 8.67855165387159e-06
+
+Cluster 17:
+Examples: ['graduate', 'undergraduate', 'doctoral']
+Raw count: 6
+Proportion: 1.0414261984645907e-05
+
+Cluster 18:
+Examples: ['northwest', 'rancho', 'annexation', 'annexed', 'reclamation', 'alam', 'pueblo']
+Raw count: 11
+Proportion: 1.9092813638517495e-05
+
+Cluster 6:
+Examples: ['aromatic', 'methyl', 'sodium', 'ole', 'cyclic', 'lewis', 'amino']
+Raw count: 22
+Proportion: 3.818562727703499e-05
+
+Cluster 19:
+Examples: ['williams', 'david', 'johnson', 'ali', 'horton', 'stein', 'cohen']
+Raw count: 21
+Proportion: 3.644991694626067e-05
+
+Cluster 10:
+Examples: ['stripped', 'rid', 'deprived', 'robbed', 'reminded']
+Raw count: 6
+Proportion: 1.0414261984645907e-05
+
+Cluster 14:
+Examples: ['ko', 'ka']
+Raw count: 2
+Proportion: 3.4714206615486353e-06
+
+Cluster 15:
+Examples: ['rhythmic', 'drum', 'rhythm', 'harmonic', 'blues', 'melodic']
+Raw count: 6
+Proportion: 1.0414261984645907e-05
+

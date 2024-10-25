@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["fabulous"],
+    "sense": ["0"],
+    "a_estimate": [0.422],
+    "ci_lower": [0.4051],
+    "ci_upper": [0.439]
+  }
+]

@@ -1,0 +1,80 @@
+Cluster 10:
+Examples: ['directors', 'survivors', 'wards', 'guardians', 'clerks', 'dealers', 'heirs']
+Raw count: 19486
+Proportion: 0.35053067098398993
+
+Cluster 12:
+Examples: ['trustees', 'promoters', 'etc', 'principals', 'also', 'even', 'whatever']
+Raw count: 2367
+Proportion: 0.04257960064759849
+
+Cluster 3:
+Examples: ['receiver', 'receipts', 'holders', 'reeves', 'ones', 'lbs', 'divers']
+Raw count: 2834
+Proportion: 0.050980392156862744
+
+Cluster 2:
+Examples: ['officers', 'agents', 'creditors', 'managers', 'others', 'men', 'persons']
+Raw count: 17880
+Proportion: 0.32164058283864005
+
+Cluster 4:
+Examples: ['government', 'defendants', 'state', 'one', 'company', 'president', 'clerk']
+Raw count: 5138
+Proportion: 0.09242669544882173
+
+Cluster 5:
+Examples: ['accounts', 'records', 'registers', 'letters', 'papers', 'charges', 'books']
+Raw count: 2060
+Proportion: 0.03705702464472027
+
+Cluster 8:
+Examples: ['funds', 'stations', 'sets', 'equipment', 'systems', 'channels', 'transmitters']
+Raw count: 4215
+Proportion: 0.07582298974635726
+
+Cluster 7:
+Examples: ['recipients', 'sale', 'payment', 'sources', 'use', 'recipient', 'receipt']
+Raw count: 590
+Proportion: 0.010613419679798525
+
+Cluster 15:
+Examples: ['victims', 'part', 'account', 'necessary', 'made', 'except', 'required']
+Raw count: 462
+Proportion: 0.008310847274689693
+
+Cluster 9:
+Examples: ['proceeds', 'means', 'work', 'act', 'living', 'labor', 'acts']
+Raw count: 247
+Proportion: 0.00444324518798345
+
+Cluster 11:
+Examples: ['hundreds', 'thousands', 'dozens', 'amount', 'kind', 'quality', 'type']
+Raw count: 120
+Proportion: 0.0021586616297895305
+
+Cluster 14:
+Examples: ['objects', 'water', 'field', 'targets', 'earth', 'ground', 'plant']
+Raw count: 69
+Proportion: 0.00124123043712898
+
+Cluster 0:
+Examples: ['de', '12', 'california', 'little', 'al', '50', 'john']
+Raw count: 70
+Proportion: 0.0012592192840438928
+
+Cluster 1:
+Examples: ['going', 'continuing', 'trying', 'attempting', 'wanting', 'choosing', 'pretending']
+Raw count: 13
+Proportion: 0.0002338550098938658
+
+Cluster 6:
+Examples: ['bob', 'abandonment', 'lockheed', 'gm', 'ibm', '1964', 'mining']
+Raw count: 29
+Proportion: 0.0005216765605324698
+
+Cluster 13:
+Examples: ['mccoy', 'manning', 'graham', 'stephens', 'johnson', 'brady', 'young']
+Raw count: 10
+Proportion: 0.00017988846914912754
+
