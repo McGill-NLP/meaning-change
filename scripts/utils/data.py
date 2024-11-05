@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import re 
 import os 
+import json
+import yaml
 
 from torch.utils.data import Dataset, DataLoader
 
@@ -50,7 +52,6 @@ def get_prominent_senses(word, window_size=20, threshold=0.2):
 # prominent_clusters = get_prominent_senses(word_tibble)
 # print(prominent_clusters)
 
-
 def get_high_change_senses(word, window_size=10, threshold=0.3):
     word_df = pd.read_csv(f"./clusters/{word}_cluster_counts.csv")
     cluster_p_columns = [col for col in word_df.columns if col.startswith("cluster_") and col.endswith("_p")]
@@ -74,4 +75,46 @@ def get_high_change_senses(word, window_size=10, threshold=0.3):
     cluster_numbers = [re.search(r'\d+', col).group() for col in high_change_columns]
     return cluster_numbers
 
+
+
+def yaml_to_df(yaml_path, list_column='terms'):
+    # Read in yaml as df
+    with open(yaml_path, 'r') as file:
+        data = yaml.safe_load(file)
+        df = pd.DataFrame(data)
+    # Unpack dictionary columns into separate columns
+    df = pd.json_normalize(df.to_dict(orient='records'))
+    # Expand the specified list column into separate rows
+    if list_column in df.columns:
+        df = df.explode(list_column)
+        # Unpack dictionaries within the exploded column
+        if df[list_column].notna().any():  # Check for non-null values to unpack
+            list_col_df = pd.json_normalize(df[list_column].dropna())
+            list_col_df.columns = [f"{list_column}.{col}" for col in list_col_df.columns]  # Use period as separator
+            # Merge unpacked columns back into the original DataFrame
+            df = df.drop(columns=[list_column]).reset_index(drop=True)
+            list_col_df = list_col_df.reset_index(drop=True)
+            df = pd.concat([df, list_col_df], axis=1)
+    return df
+
+def return_mode(x):
+    unique,pos = np.unique(x,return_inverse=True) #Finds all unique elements and their positions
+    counts = np.bincount(pos)                     #Count the number of each unique element
+    maxpos = counts.argmax() 
+    return unique[maxpos]
+
+def summarize_yaml_df(df):
+    # Group by `id.bioguide` and `terms.type` and summarize the desired columns
+    grouped_df = df.groupby(['id.bioguide', 'terms.type'], as_index=False).agg(
+        {
+            'name.first': 'first',
+            'name.last': 'first',
+            'bio.birthday': 'first',
+            # 'terms.type': 'first',
+            'terms.state': return_mode
+            # Add other columns that should be summarized here as needed
+            # For example: 'id.govtrack': 'first', 'id.opensecrets': 'first', etc.
+        }
+    )
+    return grouped_df
 

@@ -3,6 +3,7 @@ import os
 import numpy as np
 import pandas as pd 
 import re
+from utils.data import yaml_to_df, summarize_yaml_df
 
 '''
 PATH_TO_HEIN_BOUND: Path to the unzipped hein-bound folder
@@ -15,9 +16,10 @@ path_to_hein_bound = os.getenv("PATH_TO_HEIN_BOUND")
 ### Sticking Together DOB Files:
 path_to_leg_hist = os.getenv("PATH_TO_LEG_HIST")
 path_to_leg_current = os.getenv("PATH_TO_LEG_CURRENT")
-leg_hist_df = pd.read_csv(path_to_leg_hist)
-leg_current_df = pd.read_csv(path_to_leg_current)
+leg_hist_df = yaml_to_df(path_to_leg_hist)
+leg_current_df = yaml_to_df(path_to_leg_current)
 leg_all_df = pd.concat((leg_current_df, leg_hist_df))
+leg_summarized_df = summarize_yaml_df(leg_all_df)
 print("DOB files compiled!")
 
 ### Sticking together all Mapping Files:
@@ -59,26 +61,26 @@ chamber_conversion = {"sen":"S", "rep":"H"}
 speakermaps_compiled_df['identifiers'] = speakermaps_compiled_df['firstname']+" "+speakermaps_compiled_df['lastname']+" "+speakermaps_compiled_df['chamber']+" "+speakermaps_compiled_df['state']
 speakermaps_compiled_df['identifiers'] = speakermaps_compiled_df['identifiers'].str.lower()
 
-leg_all_df['identifiers'] = leg_all_df['first_name']+" "+leg_all_df['last_name']+" "+leg_all_df['type'].apply(lambda x: chamber_conversion[x])+" "+leg_all_df['state']
-leg_all_df['identifiers'] = leg_all_df['identifiers'].str.lower()
+leg_summarized_df['identifiers'] = leg_summarized_df['name.first']+" "+leg_summarized_df['name.last']+" "+leg_summarized_df['terms.type'].apply(lambda x: chamber_conversion[x])+" "+leg_summarized_df['terms.state']
+leg_summarized_df['identifiers'] = leg_summarized_df['identifiers'].str.lower()
 print("Identifier tags prepared for speakermap / DOB file matching!")
 
 # Removing duplicates in the DOB dataset
-unique_name_counts = np.unique(leg_all_df['identifiers'], return_counts = True)
+unique_name_counts = np.unique(leg_summarized_df['identifiers'], return_counts = True)
 duplicate_names_indices = np.where(unique_name_counts[1] > 1)[0]
 duplicate_names = unique_name_counts[0][duplicate_names_indices]
-leg_all_df = leg_all_df[~leg_all_df['identifiers'].isin(duplicate_names)]
+leg_summarized_df = leg_summarized_df[~leg_summarized_df['identifiers'].isin(duplicate_names)]
 print("People with identical identifiers removed!")
 
 # Now we filter for items in the Speakermap dataset that have identifier strings present in the DOB dataset
-speakermaps_filtered = speakermaps_compiled_df[speakermaps_compiled_df['identifiers'].isin(leg_all_df['identifiers'])]
+speakermaps_filtered = speakermaps_compiled_df[speakermaps_compiled_df['identifiers'].isin(leg_summarized_df['identifiers'])]
 print("Speakermaps filtered for those with viable identifiers!")
 
 # Set 'identifiers' column as index to help us with matching:
-leg_all_df = leg_all_df.set_index('identifiers')
+leg_summarized_df = leg_summarized_df.set_index('identifiers')
 
 # Link it all up!
-speakermaps_filtered['DOB'] = speakermaps_filtered['identifiers'].apply(lambda x: leg_all_df.loc[x]['birthday'])
+speakermaps_filtered['DOB'] = speakermaps_filtered['identifiers'].apply(lambda x: leg_summarized_df.loc[x]['bio.birthday'])
 print("Dates of birth linked to speakermaps!")
 
 # Drop 'identifiers' column; we don't need it anymore
@@ -107,10 +109,6 @@ speeches_filtered = speeches_filtered.set_index("speech_id")
 # Put it all together!
 speakermaps_filtered['speech'] = speakermaps_filtered['speech_id'].apply(lambda x: speeches_filtered.loc[x]['speech'])
 print("Speeches linked to speakermaps: everything's ready!")
-
-### Post-hoc Addition: remove any cases of DOB being NAs. 
-### This step was done separately to avoid re-running all of the code above, but the step added here is the exact same.
-speakermaps_filtered = speakermaps_filtered[~speakermaps_filtered['DOB'].isna()]
 
 # Write to .csv:
 csv_path = "datasets/uscongress_linked.csv"
