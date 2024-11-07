@@ -13,7 +13,6 @@ import matplotlib.pyplot as plt
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--corpus-path', type=str, default='./datasets/uscongress_base_preprocessed.csv')
-    parser.add_argument('--corpus-age-min', type=int, default=25)
     parser.add_argument('--procedural-prob', type=int, default=0.5)
     parser.add_argument('--substitution-directory', type=str, default='./substitutions/')
     parser.add_argument('--wordlist-path', type=str, default='./assets/wordlist.txt')
@@ -159,7 +158,6 @@ def get_lineplots(merged_word_df, word, word_folder):
 
 def run_clustering(args):
     corpus_filepath = args.corpus_path
-    corpus_age_min = args.corpus_age_min
     procedural_prob_cutoff = args.procedural_prob
     substitution_directory = args.substitution_directory
     wordlist_path = args.wordlist_path
@@ -171,7 +169,6 @@ def run_clustering(args):
         os.mkdir(output_directory)
     #
     all_speeches = pd.read_csv(corpus_filepath)
-    all_speeches = all_speeches[all_speeches['age']>=corpus_age_min]
     all_speeches = all_speeches[all_speeches['procedural_prob']<procedural_prob_cutoff]
     #
     word_list = []

@@ -32,7 +32,7 @@ def get_tokenizer(tokenizer_string):
     return AutoTokenizer.from_pretrained(tokenizer_string)
 
 def get_model(model_string):
-    return AutoModelForMaskedLM.from_pretrained(model_string)
+    return AutoModelForMaskedLM.from_pretrained(model_string, cache_dir=cache_dir)
 
 def get_stopwords(stopwords_filepath):
     stopwords = []

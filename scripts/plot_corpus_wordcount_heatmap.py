@@ -24,14 +24,8 @@ corpus = pd.read_csv(corpus_path)
 print("Done!")
 
 print("Filtering corpus...")
-# Remove any cases of age being less than 25, since these are presumably errors:
-corpus = corpus[corpus['age']>=min_age]
 # Remove speeches deemed to have too high a probability of being procedural (0.5 here):
 corpus = corpus[corpus['procedural_prob']<procedural_prob_threshold]
-
-# Noticed later -- manually remove a couple errors:
-bad_speakerids = [43052360, 45048920, 46048920, 47053640, 48053640, 49053640]
-corpus = corpus[~corpus['speakerid'].isin(bad_speakerids)]
 
 print("Done!")
 

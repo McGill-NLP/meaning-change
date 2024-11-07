@@ -7,12 +7,14 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ### Read in .csv:
+print("Reading in .csv...")
 usc_df = pd.read_csv("datasets/uscongress_linked.csv")
 
 # Remove any cases of DOB being NAs: 
 usc_df = usc_df[~usc_df['DOB'].isna()]
 
 # Create columns for year of birth and year of speech, coded as ints:
+print("Adding columns for year of birth, year of speech, and age at time of speech...")
 usc_df['yob'] = usc_df['DOB'].apply(lambda x: int(x[0:4]))
 usc_df['year'] = usc_df['date'].apply(lambda x: int(str(x)[0:4]))
 
@@ -20,9 +22,10 @@ usc_df['year'] = usc_df['date'].apply(lambda x: int(str(x)[0:4]))
 usc_df['age'] = usc_df['year'] - usc_df['yob']
 
 # Make speakerIDs constant for each member, instead of changing with each session of congress:
-usc_df['speakerid'] = usc_df['speakerid'].apply(lambda x: int(str(x)[-6:-1])) # See the Stanford US Congressional Record Codebook for more: https://stacks.stanford.edu/file/druid:md374tz9962/codebook_v4.pdf 
+# Have verified with some scratchpad code: there is no case of one speakerID mapping to more than one person!
+usc_df['speakerid'] = usc_df['speakerid'].apply(lambda x: str(x)[-6:-1]) # See the Stanford US Congressional Record Codebook for more: https://stacks.stanford.edu/file/druid:md374tz9962/codebook_v4.pdf 
 
-# Filtering for procedural speech using Dallas' weights:
+# Filtering for procedural speech using the Card et al. weights:
 # Import weights as df:
 weights = pd.read_table("assets/congress_procedural_weights.tsv", index_col=0)
 
@@ -51,7 +54,10 @@ def assign_procedural_prob(speech):
         return get_prob(load_ngrams(speech))
 
 # Create column with procedural speech probabilities so we can set our own filtering threshold later:
+print("Adding procedural probabilities...")
 usc_df['procedural_prob'] = usc_df['speech'].apply(lambda x: assign_procedural_prob(x))
 
 ### Write to .csv:
+print("Writing to .csv...")
 usc_df.to_csv("datasets/uscongress_base_preprocessed.csv", index=False)
+print("All done!")
