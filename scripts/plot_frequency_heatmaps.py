@@ -9,9 +9,7 @@ import seaborn as sns
 from scipy.ndimage import gaussian_filter
 
 # These are used to filter the corpus -- same default parameter values as used in the rest of the codebase.
-min_age = 25
 procedural_prob_threshold = 0.5
-
 
 word_list_path = './assets/wordlist.txt'
 word_list = []
@@ -64,8 +62,6 @@ corpus = pd.read_csv(corpus_path)
 print("Done!")
 
 print("Filtering corpus...")
-# Remove any cases of age being less than 25, since these are presumably errors:
-corpus = corpus[corpus['age']>=min_age]
 # Remove speeches deemed to have too high a probability of being procedural (0.5 here):
 corpus = corpus[corpus['procedural_prob']<procedural_prob_threshold]
 print("Done!")
