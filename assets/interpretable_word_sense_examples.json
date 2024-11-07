@@ -1,0 +1,11 @@
+{
+    "articles": {
+        "2": "object",
+        "1": "news / literary",
+        "0": "legal"
+    },
+    "segregation": {
+        "4": "historic",
+        "0": "division"
+    }
+}
