@@ -8,56 +8,68 @@ library(stats4)
 library(purrr)
 
 word <- Sys.getenv("WORD")
+change_threshold <- as.numeric(Sys.getenv('CHANGE_THRESHOLD'))
 window_size <- as.numeric(Sys.getenv("WINDOW_SIZE"))
-prominence_threshold <- as.numeric(Sys.getenv("PROMINENCE_THRESHOLD"))
 sample_size <- as.numeric(Sys.getenv("SAMPLE_SIZE"))
-speaker_threshold <- as.numeric(Sys.getenv("SPEAKER_THRESHOLD"))
 random_seed <- as.numeric(Sys.getenv("RANDOM_SEED"))
 saved_model_dir <- Sys.getenv("SAVED_MODEL_DIR")
 if (!file.exists(saved_model_dir)) {
   dir.create(saved_model_dir)
 }
 
-get_prominent_senses <- function(word_tibble, window_size=20, threshold=0.2) {
-    #
-    cluster_columns <- names(word_tibble)[str_detect(names(word_tibble), "^cluster_\\d+$")]
+get_high_change_senses_word_tibble <- function(word_tibble, window_size = 10, threshold = 0.3) {
+    # Identify the cluster probability columns
+    cluster_p_columns <- grep("^cluster_.*_p$", colnames(word_tibble), value = TRUE)
+    high_change_columns <- c()
     
-    max_proportion_in_window <- function(column) {
-        max_proportion <- 0
-        years <- word_tibble$year
-        for (start_year in unique(years)) {
+    # Iterate over the identified columns
+    for (column in cluster_p_columns) {
+        years <- unique(word_tibble$year)
+        mean_props <- c()
+        
+        # Calculate mean proportions over sliding windows
+        for (start_year in years) {
             end_year <- start_year + window_size
-            window_data <- word_tibble %>%
-            filter(year >= start_year & year < end_year)
-            proportion <- sum(window_data[[column]], na.rm = TRUE) / sum(window_data$n, na.rm = TRUE)
-            if (proportion > max_proportion) {
-            max_proportion <- proportion
+            if (end_year <= max(years)) {
+                window_data <- word_tibble %>%
+                    filter(year >= start_year & year < end_year)
+                mean_prop <- mean(window_data[[column]], na.rm = TRUE)
+                mean_props <- c(mean_props, mean_prop)
+            } else {
+                break
             }
         }
-        return(max_proportion)
+        
+        # Check if the difference between max and min exceeds the threshold
+        max_prop <- max(mean_props, na.rm = TRUE)
+        min_prop <- min(mean_props, na.rm = TRUE)
+        if (max_prop - min_prop > threshold) {
+            high_change_columns <- c(high_change_columns, column)
         }
-    #
-    # Determine which columns to exclude
-    columns_to_exclude <- cluster_columns %>%
-        map_lgl(function(column) {
-            max_proportion <- max_proportion_in_window(column)
-            max_proportion < threshold
-        })
+    }
     
-    # Exclude low-frequency columns
-    excluded_cluster_columns <- cluster_columns[columns_to_exclude]
-    excluded_p_columns <- purrr::map_chr(excluded_cluster_columns, ~paste0(.x, "_p"))
-    final_columns_to_exclude <- c(excluded_cluster_columns, excluded_p_columns)
-    prominent_senses_word_tibble <- word_tibble %>%
-        select(-all_of(final_columns_to_exclude))
-    #
-    # print("Data filtered for prominent senses!")
-    return(prominent_senses_word_tibble)
+    # Extract corresponding cluster columns to include based on high-change probability columns
+    high_change_cluster_columns <- high_change_columns %>%
+        gsub("_p$", "", .) %>%
+        unique()
+    
+    # Determine columns to exclude
+    cluster_columns_to_exclude <- setdiff(grep("^cluster_\\d+$", colnames(word_tibble), value = TRUE), high_change_cluster_columns)
+    cluster_p_columns_to_exclude <- setdiff(cluster_p_columns, high_change_columns)
+    columns_to_exclude <- c(cluster_columns_to_exclude, cluster_p_columns_to_exclude)
+    
+    # Select all columns except those marked for exclusion
+    high_change_senses_word_tibble <- word_tibble %>%
+        select(-all_of(columns_to_exclude))
+    
+    return(high_change_senses_word_tibble)
 }
 
+
+
 ## Pivot:
-pivot_custom <- function(prominent_senses_word_tibble){
-    prominent_senses_long <- prominent_senses_word_tibble %>%
+pivot_custom <- function(high_change_senses_word_tibble){
+    high_change_senses_long <- high_change_senses_word_tibble %>%
         select(-matches("^cluster_\\d+$")) %>% # Super roundabout, but we exclude the `cluster_<number>` columns here to recalculate them after pivoting
         pivot_longer(
             cols = starts_with("cluster_"),  # Select columns that start with "cluster_"
@@ -68,13 +80,7 @@ pivot_custom <- function(prominent_senses_word_tibble){
         mutate(cluster_number = factor(as.numeric(str_extract(cluster_number, "\\d+")))) %>%
         mutate(n_cluster = round(cluster_p*n))
     #
-    return(prominent_senses_long)
-}
-
-filter_by_speaker_uses_of_word <- function(word_tibble, n_threshold=1){
-    prolific_speakers <- word_tibble %>% count(speakerid) %>% filter(n > n_threshold) %>% pull(speakerid)
-    word_tibble_sub <- filter(word_tibble, speakerid %in% prolific_speakers)
-    return(word_tibble_sub)
+    return(high_change_senses_long)
 }
 
 get_sample <- function(tibble, sample_size, random_seed){
@@ -84,12 +90,12 @@ get_sample <- function(tibble, sample_size, random_seed){
 }
 
 word_tibble <- read.csv(glue("./clusters/{word}_cluster_counts.csv"))
-prominent_senses_word_tibble <- get_prominent_senses(word_tibble, window_size=window_size, threshold=prominence_threshold)
-n_speeches <- nrow(prominent_senses_word_tibble)
+high_change_senses_word_tibble <- get_high_change_senses_word_tibble(word_tibble, window_size=window_size, threshold=change_threshold)
+n_speeches <- nrow(high_change_senses_word_tibble)
 if(n_speeches > sample_size){
-  data_for_modelling <- get_sample(prominent_senses_word_tibble, sample_size, random_seed)
+  data_for_modelling <- get_sample(high_change_senses_word_tibble, sample_size, random_seed)
 } else{
-  data_for_modelling <- prominent_senses_word_tibble
+  data_for_modelling <- high_change_senses_word_tibble
 }
 
 data_long <- pivot_custom(data_for_modelling)
