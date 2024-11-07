@@ -1,0 +1,60 @@
+Cluster 5:
+Examples: ['man', 'person', 'one', 'boy', 'woman', 'fellow', 'friend']
+Raw count: 47683
+Proportion: 0.38976442315551996
+
+Cluster 10:
+Examples: ['kid', 'girl', 'deal', 'michael', 'dick', 'asshole', 'gal']
+Raw count: 9747
+Proportion: 0.07967271003285978
+
+Cluster 6:
+Examples: ['thing', 'stuff', 'shit', 'part', 'lot', 'place', 'group']
+Raw count: 15866
+Proportion: 0.12968987559057693
+
+Cluster 1:
+Examples: ['guys', 'people', 'ones', 'kids', 'lady', 'men', 'girls']
+Raw count: 14086
+Proportion: 0.11514002190652128
+
+Cluster 0:
+Examples: ['dude', 'way', 'maybe', 'buddy', 'said', 'says', 'even']
+Raw count: 3293
+Proportion: 0.02691722931550295
+
+Cluster 11:
+Examples: ['john', 'james', 'george', 'senator', 'robert', 'william', 'charles']
+Raw count: 15647
+Proportion: 0.12789975314293187
+
+Cluster 9:
+Examples: ['president', 'leader', 'lawyer', 'doctor', 'voice', 'team', 'judge']
+Raw count: 7902
+Proportion: 0.064591541467083
+
+Cluster 4:
+Examples: ['big', 'mess', 'kind', 'job', 'town', 'bonn', 'bow']
+Raw count: 5646
+Proportion: 0.046150828033807975
+
+Cluster 2:
+Examples: ['dr', 'sam', 'mary', 'mel', 'pat', 'tall', 'de']
+Raw count: 2419
+Proportion: 0.019773087675129558
+
+Cluster 8:
+Examples: ['donor', 'contribution', 'contributor', 'volunteer', 'gesture', 'donation', 'offer']
+Raw count: 20
+Proportion: 0.000163481502068041
+
+Cluster 7:
+Examples: ['visiting', 'using', 'occupying', 'approaching', 'holding', 'seeking', 'controlling']
+Raw count: 20
+Proportion: 0.000163481502068041
+
+Cluster 3:
+Examples: ['dread', 'justify', 'suppress', 'herald', 'boycott', 'uphold', 'cancel']
+Raw count: 9
+Proportion: 7.356667593061845e-05
+

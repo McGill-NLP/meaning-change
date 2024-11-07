@@ -1,0 +1,75 @@
+Cluster 3:
+Examples: ['action', 'power', 'debate', 'pressure', 'manipulation', 'violence', 'politics']
+Raw count: 10190
+Proportion: 0.40646190666134824
+
+Cluster 14:
+Examples: ['work', 'stuff', 'business', 'things', 'life', 'shit', 'crap']
+Raw count: 1165
+Proportion: 0.046469884323893096
+
+Cluster 6:
+Examples: ['efforts', 'effort', 'trying', 'attempts', 'order', 'attempting', 'competition']
+Raw count: 1055
+Proportion: 0.0420821699242122
+
+Cluster 2:
+Examples: ['fighting', 'going', 'working', 'running', 'moving', 'standing', 'getting']
+Raw count: 4060
+Proportion: 0.16194654966094935
+
+Cluster 5:
+Examples: ['training', 'maneuvers', 'battle', 'military', 'new', 'maneuver', 'parade']
+Raw count: 2092
+Proportion: 0.08344635021938572
+
+Cluster 13:
+Examples: ['process', 'thing', 'time', 'vote', 'war', 'act', 'situation']
+Raw count: 2158
+Proportion: 0.08607897885919426
+
+Cluster 9:
+Examples: ['thinking', 'breathing', 'right', 'enough', 'extra', 'leg', 'air']
+Raw count: 749
+Proportion: 0.02987634623055445
+
+Cluster 1:
+Examples: ['movement', 'landing', 'use', 'research', 'control', 'operations', 'warfare']
+Raw count: 2843
+Proportion: 0.11340247307538891
+
+Cluster 10:
+Examples: ['money', 'people', 'energy', 'men', 'spending', 'water', 'effect']
+Raw count: 351
+Proportion: 0.014000797766254488
+
+Cluster 7:
+Examples: ['one', 'two', 'like', 'study', 'hours', 'years', 'words']
+Raw count: 324
+Proportion: 0.01292381332269645
+
+Cluster 0:
+Examples: ['involved', 'engaging', 'taken', 'held', 'result', 'elected', 'participating']
+Raw count: 39
+Proportion: 0.0015556441962504986
+
+Cluster 8:
+Examples: ['un', 'des', 'co', 'ss', 'ne', 'int', 'poly']
+Raw count: 17
+Proportion: 0.0006781013163143199
+
+Cluster 11:
+Examples: ['rumors', 'strikes', 'unions', 'boycott', 'mergers', 'protests']
+Raw count: 9
+Proportion: 0.0003589948145193458
+
+Cluster 4:
+Examples: ['trenches', 'canals', 'ponds', 'dams', 'wells', 'holes', 'fences']
+Raw count: 11
+Proportion: 0.0004387714399680894
+
+Cluster 12:
+Examples: ['countries', 'nations', 'states', 'cities', 'theaters', 'capitals', 'places']
+Raw count: 7
+Proportion: 0.0002792181890706023
+

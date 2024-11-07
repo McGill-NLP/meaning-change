@@ -1,0 +1,60 @@
+Cluster 2:
+Examples: ['satellites', 'space', 'system', 'mission', 'spacecraft', 'missile', 'radar']
+Raw count: 43887
+Proportion: 0.23192411351265654
+
+Cluster 4:
+Examples: ['cable', 'television', 'radio', 'network', 'digital', 'tv', 'telephone']
+Raw count: 35591
+Proportion: 0.188083284891402
+
+Cluster 5:
+Examples: ['new', 'small', 'national', 'foreign', 'american', 'military', 'two']
+Raw count: 55647
+Proportion: 0.29407070760450243
+
+Cluster 1:
+Examples: ['communications', 'telecommunications', 'technology', 'communication', 'program', 'service', 'project']
+Raw count: 28998
+Proportion: 0.15324208634994452
+
+Cluster 9:
+Examples: ['computer', 'nuclear', 'electronic', 'solar', 'aerial', 'scientific', 'weather']
+Raw count: 6631
+Proportion: 0.03504201236590393
+
+Cluster 0:
+Examples: ['member', 'world', 'government', 'state', 'country', 'shell', 'center']
+Raw count: 14289
+Proportion: 0.07551128256618929
+
+Cluster 3:
+Examples: ['land', 'un', 'hand', 'inc', 'super', 'de', 'gas']
+Raw count: 3024
+Proportion: 0.01598055276647466
+
+Cluster 7:
+Examples: ['company', 'receiving', 'also', 'participating', 'fusion', 'set', 'frequency']
+Raw count: 886
+Proportion: 0.004682132854198594
+
+Cluster 6:
+Examples: ['florida', 'made', 'surfing', 'miami', 'taken', 'found', 'installed']
+Raw count: 230
+Proportion: 0.0012154520953337208
+
+Cluster 10:
+Examples: ['corridor', 'wedge', 'corridors', 'triangle', 'pin', 'slug', 'triangles']
+Raw count: 15
+Proportion: 7.926861491306875e-05
+
+Cluster 8:
+Examples: ['suffering', 'happy', 'sad', 'missing', 'unhappy', 'miserable', 'distressed']
+Raw count: 15
+Proportion: 7.926861491306875e-05
+
+Cluster 11:
+Examples: ['franchise', 'staple', 'simi', 'nes', 'ke', 'wat', 'ya']
+Raw count: 17
+Proportion: 8.983776356814459e-05
+

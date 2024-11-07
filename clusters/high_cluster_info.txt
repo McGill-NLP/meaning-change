@@ -1,0 +1,65 @@
+Cluster 3:
+Examples: ['low', 'super', 'non', 'un', 'mid', 'one', 'sub']
+Raw count: 863073
+Proportion: 0.18720023112826642
+
+Cluster 1:
+Examples: ['great', 'public', 'middle', 'big', 'elementary', 'secondary', 'new']
+Raw count: 989724
+Proportion: 0.21467078862760433
+
+Cluster 7:
+Examples: ['higher', 'lower', 'rising', 'much', 'long', 'deep', 'increased']
+Raw count: 792603
+Proportion: 0.17191531283327988
+
+Cluster 0:
+Examples: ['good', 'large', 'strong', 'highest', 'small', 'special', 'certain']
+Raw count: 1845664
+Proportion: 0.4003238745565216
+
+Cluster 4:
+Examples: ['increasing', 'falling', 'raising', 'soaring', 'either', 'excess', 'without']
+Raw count: 83048
+Proportion: 0.018013082085455424
+
+Cluster 6:
+Examples: ['nano', 'information', 'business', 'food', 'computer', 'consumer', 'plastic']
+Raw count: 25415
+Proportion: 0.005512504590138831
+
+Cluster 5:
+Examples: ['cabinet', 'office', 'president', 'lord', 'congress', 'committee', 'privy']
+Raw count: 2279
+Proportion: 0.0004943143010397952
+
+Cluster 8:
+Examples: ['10', '100', 'hundred', '20', '50', '40', 'twenty']
+Raw count: 8165
+Proportion: 0.001770985637555914
+
+Cluster 11:
+Examples: ['teachers', 'movie', 'rules', 'movies', 'cinema', 'lew', 'culture']
+Raw count: 253
+Proportion: 5.4875611304549446e-05
+
+Cluster 10:
+Examples: ['canvas', 'advertising', 'bid', 'bidding', 'banner', 'cigar', 'advertised']
+Raw count: 139
+Proportion: 3.014905127008843e-05
+
+Cluster 2:
+Examples: ['abuse', 'torture', 'attacks', 'rape', 'detention', 'abuses', 'cruelty']
+Raw count: 32
+Proportion: 6.940788781603092e-06
+
+Cluster 9:
+Examples: ['isle', 'eve', 'abbey', 'anne', 'ile', 'terre', 'webster']
+Raw count: 24
+Proportion: 5.205591586202319e-06
+
+Cluster 12:
+Examples: ['stud', 'stallion', 'mating', 'breeders']
+Raw count: 8
+Proportion: 1.735197195400773e-06
+

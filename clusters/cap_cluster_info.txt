@@ -1,0 +1,70 @@
+Cluster 4:
+Examples: ['limit', 'ceiling', 'bill', 'tax', 'ban', 'program', 'limitation']
+Raw count: 175312
+Proportion: 0.3809747330860318
+
+Cluster 0:
+Examples: ['caps', 'ava', 'cop', 'int', 'cr', 'bo', 'tor']
+Raw count: 170596
+Proportion: 0.3707262798071135
+
+Cluster 3:
+Examples: ['top', 'bar', 'vest', 'hat', 'club', 'bag', 'suit']
+Raw count: 26948
+Proportion: 0.058561348380044634
+
+Cluster 1:
+Examples: ['increase', 'cut', 'stop', 'raise', 'fund', 'scrap', 'cover']
+Raw count: 54654
+Proportion: 0.11876992483163722
+
+Cluster 5:
+Examples: ['capped', 'based', 'spent', 'required', 'left', 'made', 'going']
+Raw count: 4318
+Proportion: 0.00938354988515039
+
+Cluster 2:
+Examples: ['new', 'government', 'house', 'big', 'project', 'base', 'rapid']
+Raw count: 24633
+Proportion: 0.0535305660770981
+
+Cluster 6:
+Examples: ['mike', 'john', 'jack', 'paul', 'david', 'mr', 'senator']
+Raw count: 2956
+Proportion: 0.006423754854215969
+
+Cluster 8:
+Examples: ['years', 'decade', 'yard', 'quarter', 'arts', 'seem', 'ways']
+Raw count: 267
+Proportion: 0.000580224136020184
+
+Cluster 7:
+Examples: ['50', '1974', '1990', '40', '60', '1998', '1985']
+Raw count: 283
+Proportion: 0.0006149941216992961
+
+Cluster 13:
+Examples: ['march', 'june', 'april', 'july', 'august', 'parade', 'october']
+Raw count: 68
+Proportion: 0.00014777243913622663
+
+Cluster 10:
+Examples: ['holding', 'notes', 'shares', 'ownership', 'securities', 'circulation', 'deposits']
+Raw count: 66
+Proportion: 0.0001434261909263376
+
+Cluster 12:
+Examples: ['nearly', 'approximately', 'substantially', 'reasonably', 'virtually', 'roughly']
+Raw count: 31
+Proportion: 6.736684725327979e-05
+
+Cluster 11:
+Examples: ['vera', 'via', 'magna', 'disco', 'serra', 'emilia', 'felicia']
+Raw count: 21
+Proportion: 4.5635606203834695e-05
+
+Cluster 9:
+Examples: ['spike', 'derby', 'kicker', 'hitter', 'kicking', 'qb', 'oliver']
+Raw count: 14
+Proportion: 3.042373746922313e-05
+

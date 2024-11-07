@@ -1,0 +1,80 @@
+Cluster 2:
+Examples: ['young', 'black', 'working', 'many', 'two', 'adult', 'younger']
+Raw count: 31640
+Proportion: 0.28983117608801195
+
+Cluster 8:
+Examples: ['older', 'elderly', 'women', 'homeless', 'naked', 'children', 'engaged']
+Raw count: 16437
+Proportion: 0.15056747918326968
+
+Cluster 5:
+Examples: ['married', 'pregnancy', 'alive', 'grown', 'nursing', 'sleeping', 'expecting']
+Raw count: 9017
+Proportion: 0.08259822107413413
+
+Cluster 6:
+Examples: ['sick', 'vulnerable', 'raped', 'battered', 'ill', 'infected', 'dying']
+Raw count: 15452
+Proportion: 0.14154460597066879
+
+Cluster 1:
+Examples: ['single', 'poor', 'little', 'new', 'certain', 'small', 'beautiful']
+Raw count: 15436
+Proportion: 0.1413980415326976
+
+Cluster 3:
+Examples: ['old', 'healthy', 'baby', 'dead', 'whole', 'away', 'later']
+Raw count: 8418
+Proportion: 0.077111214927588
+
+Cluster 4:
+Examples: ['born', 'living', 'filled', 'now', 'especially', 'involved', 'along']
+Raw count: 9613
+Proportion: 0.08805774638856065
+
+Cluster 0:
+Examples: ['one', 'back', 'full', 'around', 'fat', 'less', 'fresh']
+Raw count: 1822
+Proportion: 0.016690025373968322
+
+Cluster 13:
+Examples: ['eligible', 'interested', 'looking', 'registered', 'waiting', 'wet', 'responsible']
+Raw count: 754
+Proportion: 0.006906849139391941
+
+Cluster 7:
+Examples: ['day', 'means', 'year', 'mr', 'helps', 'de', 'days']
+Raw count: 279
+Proportion: 0.002555717387122482
+
+Cluster 9:
+Examples: ['life', 'times', 'prison', 'career', 'jail', 'trouble', 'adolescence']
+Raw count: 102
+Proportion: 0.0009343482920662838
+
+Cluster 10:
+Examples: ['work', 'money', 'fired', 'go', 'coffee', 'america', 'take']
+Raw count: 121
+Proportion: 0.001108393562157062
+
+Cluster 15:
+Examples: ['green', 'giant', 'vibrant', 'pet', 'pink', 'orange', 'lush']
+Raw count: 36
+Proportion: 0.000329769985435159
+
+Cluster 11:
+Examples: ['protective', 'secured', 'status', 'guard', 'security']
+Raw count: 16
+Proportion: 0.00014656443797118177
+
+Cluster 14:
+Examples: ['rivers', 'mines', 'valleys', 'lakes', 'mountains', 'fields', 'hills']
+Raw count: 10
+Proportion: 9.16027737319886e-05
+
+Cluster 12:
+Examples: ['1972', '1971', '1973', '1970', '1975', '1974', '72']
+Raw count: 14
+Proportion: 0.00012824388322478405
+

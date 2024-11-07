@@ -1,0 +1,85 @@
+Cluster 1:
+Examples: ['directors', 'wards', 'survivors', 'guardians', 'clerks', 'dealers', 'heirs']
+Raw count: 19708
+Proportion: 0.34366226655274035
+
+Cluster 5:
+Examples: ['trustees', 'agents', 'distributors', 'employees', 'promoters', 'carriers', 'funds']
+Raw count: 5487
+Proportion: 0.09568068076795648
+
+Cluster 9:
+Examples: ['receiver', 'accounts', 'receipts', 'registers', 'reeves', 'holders', 'ones']
+Raw count: 3443
+Proportion: 0.060038014194290897
+
+Cluster 4:
+Examples: ['officers', 'managers', 'judges', 'commissioners', 'secretaries', 'officials', 'representatives']
+Raw count: 7548
+Proportion: 0.13161978830627583
+
+Cluster 2:
+Examples: ['creditors', 'others', 'men', 'people', 'government', 'lawyers', 'americans']
+Raw count: 10460
+Proportion: 0.18239838178108705
+
+Cluster 16:
+Examples: ['persons', 'parties', 'witnesses', 'now', 'branches', 'taxes', 'groups']
+Raw count: 1475
+Proportion: 0.02572061310966572
+
+Cluster 11:
+Examples: ['owners', 'hundreds', 'residents', 'sale', 'department', 'commission', 'administration']
+Raw count: 1115
+Proportion: 0.01944303974052697
+
+Cluster 3:
+Examples: ['members', 'leaders', 'players', 'coaches', 'time', 'winners', 'defenders']
+Raw count: 611
+Proportion: 0.010654437023732715
+
+Cluster 10:
+Examples: ['stations', 'sets', 'equipment', 'systems', 'channels', 'transmitters', 'broadcasts']
+Raw count: 4031
+Proportion: 0.07029138403055085
+
+Cluster 0:
+Examples: ['company', 'law', 'two', 'bank', 'cases', 'money', 'general']
+Raw count: 2556
+Proportion: 0.044570770920885135
+
+Cluster 6:
+Examples: ['victims', 'etc', 'slaves', 'part', 'whatever', 'necessary', 'deceased']
+Raw count: 635
+Proportion: 0.011072941915008632
+
+Cluster 8:
+Examples: ['objects', 'pay', 'water', 'continue', 'exist', 'field', 'earth']
+Raw count: 116
+Proportion: 0.002022773641166931
+
+Cluster 7:
+Examples: ['less', 'different', 'better', 'never', 'worse', 'rare', 'rarely']
+Raw count: 40
+Proportion: 0.000697508152126528
+
+Cluster 15:
+Examples: ['12', 'de', 'california', 'al', 'john', 'little', '50']
+Raw count: 73
+Proportion: 0.0012729523776309135
+
+Cluster 12:
+Examples: ['going', 'continuing', 'trying', 'attempting', 'wanting', 'choosing', 'pretending']
+Raw count: 13
+Proportion: 0.0002266901494411216
+
+Cluster 13:
+Examples: ['bob', 'abandonment', 'lockheed', 'gm', 'ibm', '1964', 'boeing']
+Raw count: 26
+Proportion: 0.0004533802988822432
+
+Cluster 14:
+Examples: ['mccoy', 'manning', 'graham', 'stephens', 'johnson', 'brady', 'young']
+Raw count: 10
+Proportion: 0.000174377038031632
+

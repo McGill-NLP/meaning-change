@@ -1,0 +1,65 @@
+Cluster 4:
+Examples: ['criminal', 'dangerous', 'violent', 'various', 'secret', 'evil', 'hostile']
+Raw count: 35017
+Proportion: 0.35532217148655504
+
+Cluster 7:
+Examples: ['political', 'communist', 'revolutionary', 'religious', 'american', 'socialist', 'fascist']
+Raw count: 18772
+Proportion: 0.19048198883815323
+
+Cluster 3:
+Examples: ['terrorist', 'black', 'industrial', 'spy', 'civilian', 'individual', 'traitor']
+Raw count: 5556
+Proportion: 0.05637747336377474
+
+Cluster 1:
+Examples: ['illegal', 'organized', 'active', 'guilty', 'unconstitutional', 'affiliated', 'involved']
+Raw count: 5455
+Proportion: 0.05535261288685946
+
+Cluster 5:
+Examples: ['foreign', 'military', 'enemy', 'chemical', 'war', 'government', 'intelligence']
+Raw count: 15119
+Proportion: 0.15341451040081178
+
+Cluster 0:
+Examples: ['certain', 'destructive', 'part', 'one', 'outside', 'independent', 'representative']
+Raw count: 10739
+Proportion: 0.10897006595636732
+
+Cluster 2:
+Examples: ['similar', 'alien', 'related', 'true', 'harmful', 'possible', 'important']
+Raw count: 4602
+Proportion: 0.04669710806697108
+
+Cluster 6:
+Examples: ['communists', 'whatever', 'terrorists', 'communism', 'people', 'well', 'members']
+Raw count: 1906
+Proportion: 0.019340436326737695
+
+Cluster 11:
+Examples: ['first', 'second', 'third', 'future', 'previous', 'last', 'yes']
+Raw count: 495
+Proportion: 0.00502283105022831
+
+Cluster 10:
+Examples: ['white', 'red', 'anti', 'air', 'news', 'internet', 'un']
+Raw count: 657
+Proportion: 0.006666666666666667
+
+Cluster 9:
+Examples: ['making', 'including', 'conducting', 'spreading', 'using', 'forming', 'creating']
+Raw count: 213
+Proportion: 0.0021613394216133943
+
+Cluster 8:
+Examples: ['30', '50', '120', '80', '130', '100', '110']
+Raw count: 12
+Proportion: 0.000121765601217656
+
+Cluster 12:
+Examples: ['crowd', 'silence', 'chatter', 'excitement', 'buzz', 'moment', 'audience']
+Raw count: 7
+Proportion: 7.102993404363267e-05
+

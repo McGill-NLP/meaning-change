@@ -1,0 +1,75 @@
+Cluster 8:
+Examples: ['bit', 'thing', 'second', 'day', 'little', 'minute', 'scrap']
+Raw count: 12183
+Proportion: 0.25215771499534306
+
+Cluster 5:
+Examples: ['lot', 'piece', 'grain', 'amount', 'drop', 'item', 'pound']
+Raw count: 5858
+Proportion: 0.12124598985822209
+
+Cluster 2:
+Examples: ['degree', 'kind', 'moment', 'word', 'sort', 'matter', 'question']
+Raw count: 17501
+Proportion: 0.36222705164027735
+
+Cluster 7:
+Examples: ['point', 'sheet', 'chip', 'paper', 'side', 'fiber', 'ship']
+Raw count: 1894
+Proportion: 0.03920107627030943
+
+Cluster 10:
+Examples: ['part', 'portion', 'section', 'copy', 'whatsoever', 'child', 'rule']
+Raw count: 1634
+Proportion: 0.03381972472317086
+
+Cluster 1:
+Examples: ['body', 'nuclear', 'ion', 'electron', 'particles', 'person', 'element']
+Raw count: 7190
+Proportion: 0.14881506778433198
+
+Cluster 11:
+Examples: ['man', 'difference', 'woman', 'page', 'member', 'subject', 'friend']
+Raw count: 778
+Proportion: 0.016102659629514644
+
+Cluster 6:
+Examples: ['line', 'end', 'foundation', 'round', 'roll', 'count', 'color']
+Raw count: 461
+Proportion: 0.009541550243195696
+
+Cluster 9:
+Examples: ['world', 'problem', 'loss', 'war', 'secret', 'profit', 'crisis']
+Raw count: 575
+Proportion: 0.011901065921556453
+
+Cluster 4:
+Examples: ['quality', 'good', 'american', 'german', 'pollution', 'conditioning', 'pipe']
+Raw count: 70
+Proportion: 0.0014488254165373072
+
+Cluster 13:
+Examples: ['knows', 'makes', 'takes', 'sees', 'knew', 'said', 'finds']
+Raw count: 94
+Proportion: 0.0019455655593500984
+
+Cluster 12:
+Examples: ['toxic', 'radioactive', 'symbol', 'spill', 'toxin', 'strain', 'organic']
+Raw count: 37
+Proportion: 0.0007658077201697195
+
+Cluster 3:
+Examples: ['10', '14', '12', '13', 'behind', 'around', '60']
+Raw count: 28
+Proportion: 0.0005795301666149229
+
+Cluster 14:
+Examples: ['est', 'ser', 'et']
+Raw count: 3
+Proportion: 6.209251785159888e-05
+
+Cluster 0:
+Examples: ['cheese', 'grande', 'dei', 'bianca', 'mori', 'di', 'yo']
+Raw count: 9
+Proportion: 0.00018627755355479664
+

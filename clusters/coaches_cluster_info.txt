@@ -1,0 +1,70 @@
+Cluster 9:
+Examples: ['players', 'teams', 'men', 'women', 'girls', 'individuals', 'stars']
+Raw count: 4360
+Proportion: 0.14111859140341793
+
+Cluster 2:
+Examples: ['coach', 'car', 'train', 'manager', 'mr', 'also', 'carriage']
+Raw count: 2089
+Proportion: 0.06761393060590368
+
+Cluster 0:
+Examples: ['fans', 'athletes', 'teachers', 'officials', 'parents', 'students', 'people']
+Raw count: 13879
+Proportion: 0.44921672708441224
+
+Cluster 12:
+Examples: ['team', 'boys', 'player', 'community', 'americans', 'national', 'club']
+Raw count: 1364
+Proportion: 0.04414810978767478
+
+Cluster 1:
+Examples: ['cars', 'carriages', 'wagons', 'boats', 'vehicles', 'horses', 'houses']
+Raw count: 4270
+Proportion: 0.1382055929570171
+
+Cluster 10:
+Examples: ['coaching', 'football', 'sports', 'programs', 'clubs', 'league', 'basketball']
+Raw count: 2485
+Proportion: 0.08043112377006732
+
+Cluster 4:
+Examples: ['trains', 'coached', 'everyone', 'plays', 'lives', 'recruits', 'runs']
+Raw count: 1296
+Proportion: 0.04194717762817193
+
+Cluster 3:
+Examples: ['things', 'one', 'two', 'time', 'years', 'times', 'hands']
+Raw count: 783
+Proportion: 0.02534308648368721
+
+Cluster 8:
+Examples: ['life', 'professional', 'reserve', 'former', 'past', 'retired', 'guard']
+Raw count: 137
+Proportion: 0.00443423096841015
+
+Cluster 11:
+Examples: ['words', 'laws', 'rights', 'letters', 'caps', 'flags', 'instructions']
+Raw count: 54
+Proportion: 0.001747799067840497
+
+Cluster 13:
+Examples: ['great', 'especially', 'young', 'senator', 'strong', 'congratulations', 'directly']
+Raw count: 108
+Proportion: 0.003495598135680994
+
+Cluster 7:
+Examples: ['go', 'pl', 'leg', 'af', 'aw', 'ag', 'injury']
+Raw count: 51
+Proportion: 0.0016506991196271362
+
+Cluster 5:
+Examples: ['examined', 'measured', 'prepared', 'heard', 'tested', 'read', 'written']
+Raw count: 10
+Proportion: 0.0003236664940445365
+
+Cluster 6:
+Examples: ['sp', 'mcc', 'ki', 'mar', 'char', 'fi', 'fin']
+Raw count: 10
+Proportion: 0.0003236664940445365
+

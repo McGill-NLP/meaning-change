@@ -1,0 +1,50 @@
+Cluster 2:
+Examples: ['owner', 'person', 'man', 'applicant', 'defendant', 'plaintiff', 'party']
+Raw count: 2468
+Proportion: 0.3547506108955009
+
+Cluster 8:
+Examples: ['information', 'support', 'care', 'search', 'advisory', 'protection', 'management']
+Raw count: 1837
+Proportion: 0.26405059652148916
+
+Cluster 5:
+Examples: ['radio', 'warning', 'radar', 'emergency', 'beacon', 'distress', 'communications']
+Raw count: 1089
+Proportion: 0.15653298835705046
+
+Cluster 1:
+Examples: ['state', 'government', 'agent', 'subject', 'people', 'president', 'miner']
+Raw count: 738
+Proportion: 0.10608020698576973
+
+Cluster 7:
+Examples: ['company', 'property', 'location', 'name', 'place', 'site', 'year']
+Raw count: 342
+Proportion: 0.04915912031047866
+
+Cluster 0:
+Examples: ['persons', 'men', 'agents', 'receivers', 'officers', 'reporters', 'farmers']
+Raw count: 87
+Proportion: 0.01250539025442001
+
+Cluster 6:
+Examples: ['service', 'office', 'list', 'operator', 'station', 'record', 'agency']
+Raw count: 243
+Proportion: 0.03492884864165589
+
+Cluster 4:
+Examples: ['patent', 'corporation', 'line', 'portion', 'reservation', 'provision', 'reserve']
+Raw count: 78
+Proportion: 0.01121172919361794
+
+Cluster 9:
+Examples: ['right', 'also', 'now', 'requirement', 'well', 'currently', 'intent']
+Raw count: 67
+Proportion: 0.009630587897082075
+
+Cluster 3:
+Examples: ['lo', 'mo', 'tel', 'aaron', 'moi', 'lu', 'lia']
+Raw count: 8
+Proportion: 0.001149920942935173
+

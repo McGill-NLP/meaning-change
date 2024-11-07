@@ -1,0 +1,90 @@
+Cluster 0:
+Examples: ['general', 'newspaper', 'news', 'court', 'professional', 'official', 'legal']
+Raw count: 2909
+Proportion: 0.30204547814349497
+
+Cluster 2:
+Examples: ['short', 'good', 'new', 'common', 'simple', 'different', 'wrong']
+Raw count: 1370
+Proportion: 0.14224898764406604
+
+Cluster 4:
+Examples: ['english', 'law', 'business', 'reading', 'french', 'typing', 'title']
+Raw count: 689
+Proportion: 0.07153981933340256
+
+Cluster 1:
+Examples: ['full', 'writing', 'hand', 'order', 'detail', 'paper', 'fact']
+Raw count: 1496
+Proportion: 0.15533174125220642
+
+Cluster 6:
+Examples: ['goddamn', 'except', 'swamp', 'burden', 'brief', 'second', 'quarter']
+Raw count: 1541
+Proportion: 0.1600041532551137
+
+Cluster 10:
+Examples: ['one', 'word', 'name', 'term', 'reference', 'metaphor', 'thing']
+Raw count: 514
+Proportion: 0.05336932821098536
+
+Cluster 8:
+Examples: ['evidence', 'slang', 'famous', 'now', 'used', 'known', 'possible']
+Raw count: 296
+Proportion: 0.030734087841345653
+
+Cluster 5:
+Examples: ['school', 'history', 'language', 'book', 'voice', 'way', 'terms']
+Raw count: 437
+Proportion: 0.04537431211712179
+
+Cluster 11:
+Examples: ['newspapers', 'reporters', 'food', 'journalists', 'writers', 'photographers', 'coffee']
+Raw count: 42
+Proportion: 0.004360917869380127
+
+Cluster 7:
+Examples: ['turn', 'call', 'make', 'like', 'say', 'around', 'pay']
+Raw count: 72
+Proportion: 0.007475859204651646
+
+Cluster 14:
+Examples: ['kind', 'fur', 'lad', 'pick', 'channel', 'metal', 'tread']
+Raw count: 116
+Proportion: 0.01204443982971654
+
+Cluster 17:
+Examples: ['things', 'stuff', 'ones', 'skills', 'bullshit', 'shit', 'topics']
+Raw count: 34
+Proportion: 0.003530266846641055
+
+Cluster 13:
+Examples: ['politics', 'rule', 'vote', 'son', 'guns', 'democrats', 'farms']
+Raw count: 30
+Proportion: 0.003114941335271519
+
+Cluster 9:
+Examples: ['video', 'sex', 're', 'pro', 'pre', 'stereo', 'counter']
+Raw count: 47
+Proportion: 0.004880074758592047
+
+Cluster 12:
+Examples: ['human', 'mechanical', 'manual', 'chemical', 'electrical', 'electronic', 'electric']
+Raw count: 16
+Proportion: 0.0016613020454781435
+
+Cluster 16:
+Examples: ['conference', 'convention', 'anthology', 'fantasy', 'hope', 'contest', 'strike']
+Raw count: 10
+Proportion: 0.0010383137784238396
+
+Cluster 15:
+Examples: ['mon', 'gen', 'yer']
+Raw count: 3
+Proportion: 0.0003114941335271519
+
+Cluster 3:
+Examples: ['defend', 'evaluate', 'preface', 'amend', 'analyze', 'utter', 'compose']
+Raw count: 9
+Proportion: 0.0009344824005814557
+

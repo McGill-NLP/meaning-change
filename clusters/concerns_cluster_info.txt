@@ -1,0 +1,70 @@
+Cluster 2:
+Examples: ['issues', 'questions', 'problems', 'needs', 'matters', 'complaints', 'challenges']
+Raw count: 250050
+Proportion: 0.18412090643005724
+
+Cluster 3:
+Examples: ['concern', 'now', 'also', 'just', 'many', 'even', 'today']
+Raw count: 60066
+Proportion: 0.04422877970656996
+
+Cluster 10:
+Examples: ['interests', 'things', 'people', 'companies', 'ones', 'firms', 'businesses']
+Raw count: 279595
+Proportion: 0.20587596414041934
+
+Cluster 4:
+Examples: ['fears', 'views', 'thoughts', 'opinions', 'feelings', 'ideas', 'doubts']
+Raw count: 548440
+Proportion: 0.4038363124275169
+
+Cluster 1:
+Examples: ['worries', 'concerned', 'involves', 'includes', 'affects', 'troubles', 'scares']
+Raw count: 219695
+Proportion: 0.16176941626935185
+
+Cluster 6:
+Examples: ['gain', 'weakness', 'gaining', 'growing', 'yields', 'yielding', 'yield']
+Raw count: 99
+Proportion: 7.289729948640539e-05
+
+Cluster 12:
+Examples: ['advocate', 'attorney', 'lawyer', 'parent', 'activist']
+Raw count: 40
+Proportion: 2.945345433794157e-05
+
+Cluster 13:
+Examples: ['russia', 'israel', 'illinois', 'rabbi', 'avenue', 'yeshiva', 'cohen']
+Raw count: 25
+Proportion: 1.8408408961213483e-05
+
+Cluster 11:
+Examples: ['broadcasting', 'traveling', 'broadcast', 'dissemination', 'spreading']
+Raw count: 19
+Proportion: 1.3990390810522246e-05
+
+Cluster 7:
+Examples: ['fifteen', 'thirteen', 'fourteen', 'sixteen', 'twelve', 'eighteen', 'seventeen']
+Raw count: 11
+Proportion: 8.099699942933931e-06
+
+Cluster 8:
+Examples: ['pirates', 'rangers', 'steelers', 'penguins', 'panthers', 'colts', 'hornets']
+Raw count: 12
+Proportion: 8.836036301382471e-06
+
+Cluster 9:
+Examples: ['india', 'indies', 'antilles', 'amsterdam', 'guiana', 'indonesia', 'dutch']
+Raw count: 9
+Proportion: 6.627027226036853e-06
+
+Cluster 5:
+Examples: ['1923', '1946', '1948', '1954', '1949', '1956', '1924']
+Raw count: 10
+Proportion: 7.363363584485393e-06
+
+Cluster 0:
+Examples: ['arabia', 'arabian', 'dhabi', 'abdullah']
+Raw count: 4
+Proportion: 2.9453454337941573e-06
+

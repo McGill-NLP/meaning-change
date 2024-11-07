@@ -1,0 +1,75 @@
+Cluster 5:
+Examples: ['called', 'told', 'asked', 'contacted', 'informed', 'met', 'visited']
+Raw count: 9581
+Proportion: 0.3942311648767642
+
+Cluster 4:
+Examples: ['sent', 'wrote', 'went', 'said', 'came', 'gave', 'received']
+Raw count: 6259
+Proportion: 0.2575402213718471
+
+Cluster 2:
+Examples: ['made', 'built', 'used', 'ready', 'equipped', 'designed', 'prepared']
+Raw count: 2424
+Proportion: 0.09974077274410567
+
+Cluster 1:
+Examples: ['got', 'going', 'put', 'come', 'taken', 'coming', 'hooked']
+Raw count: 1617
+Proportion: 0.06653499567954574
+
+Cluster 10:
+Examples: ['connected', 'open', 'now', 'just', 'also', 'right', 'started']
+Raw count: 1446
+Proportion: 0.05949882730527095
+
+Cluster 8:
+Examples: ['done', 'considered', 'acted', 'attempted', 'accomplished', 'activities', 'activity']
+Raw count: 104
+Proportion: 0.004279307081430276
+
+Cluster 11:
+Examples: ['good', 'safe', 'alliance', 'partnership', 'respect', 'support', 'people']
+Raw count: 849
+Proportion: 0.03493395877052216
+
+Cluster 6:
+Examples: ['wireless', 'telephone', 'electric', 'together', 'mobile', 'cable', 'finished']
+Raw count: 1257
+Proportion: 0.05172200962844093
+
+Cluster 7:
+Examples: ['sc', 'smart', 'st', 'red', 'sp', 'ga', 'ku']
+Raw count: 443
+Proportion: 0.018228202279553966
+
+Cluster 0:
+Examples: ['represents', 'owned', 'runs', 'serves', 'owns', 'acquired', 'operates']
+Raw count: 101
+Proportion: 0.004155865531004403
+
+Cluster 12:
+Examples: ['president', 'mr', 'thomas', 'john', 'secretary', 'com', 'sir']
+Raw count: 85
+Proportion: 0.003497510595399745
+
+Cluster 13:
+Examples: ['take', 'accept', 'claim', 'demand', 'refuse']
+Raw count: 14
+Proportion: 0.0005760605686540756
+
+Cluster 3:
+Examples: ['since', 'means', 'today', 'meeting', 'daily', 'day', 'nearly']
+Raw count: 100
+Proportion: 0.004114718347529111
+
+Cluster 9:
+Examples: ['se', 'fe', 'int', 'ai', 'dei', 'fu', 've']
+Raw count: 12
+Proportion: 0.0004937662017034934
+
+Cluster 14:
+Examples: ['ass', 'ins', 'suggest', 'post', 'fest', 'prospect', 'predict']
+Raw count: 11
+Proportion: 0.0004526190182282023
+

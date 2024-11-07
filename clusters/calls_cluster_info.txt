@@ -1,0 +1,85 @@
+Cluster 0:
+Examples: ['called', 'allows', 'provides', 'asks', 'provided', 'stands', 'allowed']
+Raw count: 472301
+Proportion: 0.6039368981263035
+
+Cluster 2:
+Examples: ['call', 'demands', 'provide', 'plans', 'allow', 'terms', 'appeals']
+Raw count: 113030
+Proportion: 0.14453280343513158
+
+Cluster 1:
+Examples: ['calling', 'providing', 'asking', 'also', 'pay', 'now', 'allowing']
+Raw count: 39846
+Proportion: 0.050951553443123535
+
+Cluster 3:
+Examples: ['numbers', 'requests', 'messages', 'lines', 'conversations', 'names', 'visits']
+Raw count: 148726
+Proportion: 0.1901777025895194
+
+Cluster 5:
+Examples: ['accounts', 'amounts', 'usage', 'reserves', 'jack', 'capital', 'securities']
+Raw count: 4919
+Proportion: 0.006289983721997809
+
+Cluster 13:
+Examples: ['sex', 'hands', 'commerce', 'table', '10', 'board', 'transportation']
+Raw count: 1226
+Proportion: 0.001567700760961438
+
+Cluster 4:
+Examples: ['etc', 'de', 'mr', 'radio', 'advertising', 'com', 'unto']
+Raw count: 1731
+Proportion: 0.0022134502587473483
+
+Cluster 9:
+Examples: ['cells', 'branches', 'trees', 'seeds', 'potatoes', 'plants', 'corn']
+Raw count: 97
+Proportion: 0.00012403505204996694
+
+Cluster 12:
+Examples: ['proceeds', 'gas', 'fortune', 'wealth', 'radiation', 'chemicals', 'poison']
+Raw count: 52
+Proportion: 6.649301759379671e-05
+
+Cluster 14:
+Examples: ['union', 'clubs', 'unions', 'federation', 'legions', 'afl']
+Raw count: 19
+Proportion: 2.4295525659271875e-05
+
+Cluster 11:
+Examples: ['budgets', 'financial', 'finances', 'finance', 'financially']
+Raw count: 15
+Proportion: 1.9180678152056743e-05
+
+Cluster 6:
+Examples: ['leader', 'spain', 'england', 'herald', 'journal', 'spanish', 'francis']
+Raw count: 29
+Proportion: 3.708264442730971e-05
+
+Cluster 15:
+Examples: ['fever', 'flu', 'influenza', 'illness', 'fatigue', 'exhaustion', 'anxiety']
+Raw count: 11
+Proportion: 1.4065830644841613e-05
+
+Cluster 10:
+Examples: ['russians', 'germans', 'taliban', 'communists', 'soviets', 'reds', 'turks']
+Raw count: 10
+Proportion: 1.2787118768037829e-05
+
+Cluster 16:
+Examples: ['cookies', 'candy', 'cakes', 'cake', 'chocolate', 'pie', 'cocoa']
+Raw count: 11
+Proportion: 1.4065830644841613e-05
+
+Cluster 8:
+Examples: ['pursued', 'surrounded', 'harassed', 'confronted', 'intrigued', 'dominated', 'fascinated']
+Raw count: 9
+Proportion: 1.1508406891234047e-05
+
+Cluster 7:
+Examples: ['whales', 'whaling', 'whale', 'sonar', 'shark']
+Raw count: 5
+Proportion: 6.393559384018914e-06
+

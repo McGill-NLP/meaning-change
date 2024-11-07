@@ -1,0 +1,55 @@
+Cluster 3:
+Examples: ['problems', 'challenge', 'difficulties', 'demands', 'risks', 'dangers', 'obstacles']
+Raw count: 141804
+Proportion: 0.363054487360018
+
+Cluster 2:
+Examples: ['issues', 'needs', 'things', 'people', 'requirements', 'goals', 'opportunities']
+Raw count: 142458
+Proportion: 0.36472889453283014
+
+Cluster 1:
+Examples: ['threats', 'changes', 'matters', 'decisions', 'cases', 'appeals', 'actions']
+Raw count: 53334
+Proportion: 0.13654867301951426
+
+Cluster 0:
+Examples: ['questions', 'concerns', 'challenging', 'approaches', 'attacks', 'targets', 'limits']
+Raw count: 48663
+Proportion: 0.12458971903754872
+
+Cluster 4:
+Examples: ['york', 'two', 'taxes', 'three', 'orleans', 'america', 'zealand']
+Raw count: 2152
+Proportion: 0.005509670085461333
+
+Cluster 9:
+Examples: ['critics', 'conservatives', 'liberals', 'predecessors', 'orthodoxy', 'predecessor', 'conservative']
+Raw count: 118
+Proportion: 0.00030211016267864184
+
+Cluster 7:
+Examples: ['vs', 'un', 'go', 'mr', 'super', 'around', 'non']
+Raw count: 1502
+Proportion: 0.0038455039351128818
+
+Cluster 5:
+Examples: ['still', 'often', 'tomorrow', 'return', 'well', 'always', 'directly']
+Raw count: 470
+Proportion: 0.001203320139482726
+
+Cluster 8:
+Examples: ['scores', 'rolls', 'register', 'registry', 'registers', 'grades', 'roll']
+Raw count: 39
+Proportion: 9.984996902090705e-05
+
+Cluster 6:
+Examples: ['music', 'enthusiasm', 'laughter', 'applause', 'fireworks', 'poetry', 'cheering']
+Raw count: 42
+Proportion: 0.00010753073586866912
+
+Cluster 10:
+Examples: ['intervals', 'currents', 'alternating', 'spins']
+Raw count: 4
+Proportion: 1.0241022463682773e-05
+

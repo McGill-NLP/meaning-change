@@ -1,0 +1,60 @@
+Cluster 0:
+Examples: ['serious', 'severe', 'new', 'common', 'terminal', 'rare', 'chronic']
+Raw count: 11004
+Proportion: 0.09068433544303797
+
+Cluster 2:
+Examples: ['dangerous', 'true', 'possible', 'impossible', 'wrong', 'different', 'made']
+Raw count: 12457
+Proportion: 0.10265855748945148
+
+Cluster 3:
+Examples: ['deadly', 'great', 'terrible', 'big', 'violent', 'devastating', 'painful']
+Raw count: 39690
+Proportion: 0.32708662974683544
+
+Cluster 6:
+Examples: ['major', 'final', 'first', 'second', 'last', 'particular', 'car']
+Raw count: 17817
+Proportion: 0.14683049841772153
+
+Cluster 8:
+Examples: ['lethal', 'total', 'vital', 'real', 'human', 'suicidal', 'minor']
+Raw count: 20976
+Proportion: 0.17286392405063292
+
+Cluster 1:
+Examples: ['necessary', 'harmful', 'essential', 'important', 'similar', 'detrimental', 'hazardous']
+Raw count: 16001
+Proportion: 0.13186478111814345
+
+Cluster 10:
+Examples: ['death', 'kill', 'deaths', 'fatalities', 'life', 'female', 'chemical']
+Raw count: 2338
+Proportion: 0.019267536919831223
+
+Cluster 4:
+Examples: ['war', 'thing', 'un', 'non', 'upon', 'house', 'mr']
+Raw count: 679
+Proportion: 0.005595661919831223
+
+Cluster 9:
+Examples: ['government', 'british', 'conservative', 'fine', 'business', 'money', 'fiscal']
+Raw count: 299
+Proportion: 0.002464069092827004
+
+Cluster 5:
+Examples: ['paranoid', 'indifference', 'lunatic', 'communist', 'hypnotic', 'hysterical', 'justice']
+Raw count: 38
+Proportion: 0.00031315928270042197
+
+Cluster 7:
+Examples: ['paper', 'eyes', 'faces', 'thoughts', 'shadows', 'actions', 'bodies']
+Raw count: 36
+Proportion: 0.0002966772151898734
+
+Cluster 11:
+Examples: ['wil', 'waitress', 'mistress', 'vacant', 'ramon', 'duchess', 'laps']
+Raw count: 9
+Proportion: 7.416930379746836e-05
+

@@ -1,0 +1,90 @@
+Cluster 4:
+Examples: ['relief', 'payment', 'settlement', 'reduction', 'servicing', 'acceptance', 'extension']
+Raw count: 10836
+Proportion: 0.2138416908412764
+
+Cluster 7:
+Examples: ['money', 'assistance', 'payments', 'loans', 'guarantees', 'funding', 'programs']
+Raw count: 10201
+Proportion: 0.2013103625204744
+
+Cluster 6:
+Examples: ['credit', 'loan', 'guarantee', 'program', 'interest', 'grant', 'amount']
+Raw count: 9381
+Proportion: 0.18512817476762772
+
+Cluster 0:
+Examples: ['forgive', 'pardon', 'redemption', 'mercy', 'support', 'justice', 'peace']
+Raw count: 12618
+Proportion: 0.24900834764075544
+
+Cluster 15:
+Examples: ['reconciliation', 'cash', 'apologetic', 'capital', 'monetary', 'receiving', 'nicaragua']
+Raw count: 682
+Proportion: 0.013458843960294438
+
+Cluster 10:
+Examples: ['forgiven', 'today', 'related', 'paid', 'remaining', 'due', 'going']
+Raw count: 948
+Proportion: 0.018708187792315433
+
+Cluster 8:
+Examples: ['one', 'special', 'new', 'first', 'main', 'general', 'second']
+Raw count: 4076
+Proportion: 0.08043731375683302
+
+Cluster 11:
+Examples: ['service', 'loyalty', 'obligation', 'duty', 'courtesy', 'attachment', 'substitution']
+Raw count: 288
+Proportion: 0.005683500088804689
+
+Cluster 14:
+Examples: ['crisis', 'war', 'student', 'america', 'market', 'disaster', 'revolving']
+Raw count: 354
+Proportion: 0.006985968859155763
+
+Cluster 9:
+Examples: ['thing', 'need', 'request', 'evil', 'state', 'world', 'future']
+Raw count: 258
+Proportion: 0.0050914688295542005
+
+Cluster 5:
+Examples: ['just', 'much', 'instead', 'none', 'like', 'mention', 'plenty']
+Raw count: 480
+Proportion: 0.009472500148007814
+
+Cluster 2:
+Examples: ['amendment', 'delay', 'success', 'trouble', 'failure', 'divorce', 'stopping']
+Raw count: 284
+Proportion: 0.005604562587571291
+
+Cluster 17:
+Examples: ['repay', 'shark', 'zero', 'excess', 'lunch', 'laps', 'bread']
+Raw count: 124
+Proportion: 0.002447062538235352
+
+Cluster 13:
+Examples: ['caring', 'helping', 'dealing', '2014', '2012', '2010', 'serving']
+Raw count: 41
+Proportion: 0.0008091093876423342
+
+Cluster 16:
+Examples: ['flood', 'st', 'bridge', 'kill', 'events', 'incident', 'elevator']
+Raw count: 64
+Proportion: 0.0012630000197343754
+
+Cluster 1:
+Examples: ['covering', 'absolute', 'blanket', 'cloak', 'layer', 'blankets', 'carpet']
+Raw count: 19
+Proportion: 0.0003749531308586427
+
+Cluster 12:
+Examples: ['bo', 'ho', 'sb', 'bs', 'du', 'br', 'par']
+Raw count: 10
+Proportion: 0.00019734375308349614
+
+Cluster 3:
+Examples: ['disturbing', 'strange', 'frightening', 'shocking', 'chilling', 'ridiculous', 'creepy']
+Raw count: 9
+Proportion: 0.00017760937777514652
+

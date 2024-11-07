@@ -1,0 +1,70 @@
+Cluster 0:
+Examples: ['great', 'good', 'fine', 'perfect', 'nice', 'strong', 'magnificent']
+Raw count: 8606
+Proportion: 0.1260693777100668
+
+Cluster 5:
+Examples: ['huge', 'large', 'vast', 'significant', 'high', 'small', 'substantial']
+Raw count: 10762
+Proportion: 0.15765264268135473
+
+Cluster 7:
+Examples: ['big', 'new', 'massive', 'major', 'recent', 'whole', 'many']
+Raw count: 11061
+Proportion: 0.16203269658971053
+
+Cluster 1:
+Examples: ['wonderful', 'incredible', 'ridiculous', 'remarkable', 'amazing', 'absurd', 'impossible']
+Raw count: 23740
+Proportion: 0.34776749091761394
+
+Cluster 4:
+Examples: ['tremendous', 'enormous', 'terrific', 'scientific', 'pathetic', 'gigantic', 'catastrophic']
+Raw count: 8220
+Proportion: 0.12041485995546701
+
+Cluster 11:
+Examples: ['real', 'known', 'progressive', 'truth', 'dream', 'visionary', 'independent']
+Raw count: 878
+Proportion: 0.012861830540255479
+
+Cluster 9:
+Examples: ['first', 'two', 'one', 'three', 'final', 'second', 'proposed']
+Raw count: 1656
+Proportion: 0.02425876010781671
+
+Cluster 2:
+Examples: ['just', 'like', 'fast', 'yes', 'well', 'far', 'even']
+Raw count: 1387
+Proportion: 0.02031817649126919
+
+Cluster 3:
+Examples: ['wild', 'bloody', 'classic', 'day', 'grim', 'animal', 'moment']
+Raw count: 204
+Proportion: 0.0029883979842962615
+
+Cluster 6:
+Examples: ['now', 'future', 'time', 'something', 'everything', 'widespread', 'worldwide']
+Raw count: 887
+Proportion: 0.012993671627797961
+
+Cluster 10:
+Examples: ['said', 'done', 'made', 'calculated', 'lost', 'reported', 'double']
+Raw count: 653
+Proportion: 0.009565803351693426
+
+Cluster 8:
+Examples: ['mass', 'inc', 'un', 'com', 'con', 're', 'de']
+Raw count: 127
+Proportion: 0.0018604242353216923
+
+Cluster 12:
+Examples: ['100', '50', 'approximately', 'around', '500', 'gr', 'cr']
+Raw count: 61
+Proportion: 0.00089358959334349
+
+Cluster 13:
+Examples: ['per', 'kin', 'fin', 'dun', 'bal', 'chin', 'wo']
+Raw count: 22
+Proportion: 0.0003222782139927341
+

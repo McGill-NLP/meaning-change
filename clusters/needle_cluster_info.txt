@@ -1,0 +1,85 @@
+Cluster 3:
+Examples: ['needles', 'nipple', 'little', 'screw', 'skin', 'lac', 'lan']
+Raw count: 5344
+Proportion: 0.1630859375
+
+Cluster 10:
+Examples: ['knife', 'medicine', 'one', 'tube', 'patient', 'stick', 'finger']
+Raw count: 5142
+Proportion: 0.15692138671875
+
+Cluster 12:
+Examples: ['blood', 'drug', 'foreign', 'plea', 'cultural', 'international', 'student']
+Raw count: 8526
+Proportion: 0.26019287109375
+
+Cluster 11:
+Examples: ['medical', 'electronic', 'big', 'electrical', 'great', 'physical', 'surgical']
+Raw count: 1169
+Proportion: 0.035675048828125
+
+Cluster 1:
+Examples: ['water', 'wire', 'hand', 'iron', 'wood', 'metal', 'house']
+Raw count: 3162
+Proportion: 0.09649658203125
+
+Cluster 2:
+Examples: ['blade', 'pin', 'machine', 'point', 'power', 'ball', 'wound']
+Raw count: 2160
+Proportion: 0.06591796875
+
+Cluster 6:
+Examples: ['thread', 'line', 'way', 'cotton', 'road', 'threads', 'right']
+Raw count: 1098
+Proportion: 0.03350830078125
+
+Cluster 8:
+Examples: ['man', 'child', 'hole', 'baby', 'body', 'feather', 'person']
+Raw count: 2905
+Proportion: 0.088653564453125
+
+Cluster 5:
+Examples: ['field', 'pain', 'current', 'compass', 'get', 'force', 'price']
+Raw count: 1041
+Proportion: 0.031768798828125
+
+Cluster 4:
+Examples: ['stone', 'rope', 'word', 'paddle', 'probe', 'phone', 'stake']
+Raw count: 974
+Proportion: 0.02972412109375
+
+Cluster 15:
+Examples: ['car', 'question', 'book', 'lot', 'team', 'truth', 'heart']
+Raw count: 628
+Proportion: 0.0191650390625
+
+Cluster 16:
+Examples: ['cord', 'ship', 'key', 'center', 'station', 'card', 'voice']
+Raw count: 358
+Proportion: 0.01092529296875
+
+Cluster 9:
+Examples: ['natural', 'pure', 'standard', 'regular', 'mixed', 'solid', 'fused']
+Raw count: 56
+Proportion: 0.001708984375
+
+Cluster 7:
+Examples: ['far', 'till', 'dream', 'ho', 'grange', 'bae', 'wil']
+Raw count: 158
+Proportion: 0.00482177734375
+
+Cluster 13:
+Examples: ['points', 'turn', 'turning', 'goes', 'turned', 'turns', 'moves']
+Raw count: 21
+Proportion: 0.000640869140625
+
+Cluster 0:
+Examples: ['instructions', 'called', 'provide', 'providing', 'provided', 'provides', 'prepared']
+Raw count: 14
+Proportion: 0.00042724609375
+
+Cluster 14:
+Examples: ['gr', 'lap', 'mid', 'op', 'satan', 'pd', 'latin']
+Raw count: 12
+Proportion: 0.0003662109375
+

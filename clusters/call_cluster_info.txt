@@ -1,0 +1,70 @@
+Cluster 0:
+Examples: ['bring', 'draw', 'give', 'direct', 'turn', 'take', 'attract']
+Raw count: 2846696
+Proportion: 0.6182216119216801
+
+Cluster 1:
+Examples: ['called', 'calls', 'calling', 'drew', 'brought', 'paid', 'set']
+Raw count: 827327
+Proportion: 0.17967195356523064
+
+Cluster 2:
+Examples: ['term', 'vote', 'order', 'shift', 'need', 'request', 'demand']
+Raw count: 757234
+Proportion: 0.16444974246702196
+
+Cluster 8:
+Examples: ['phone', 'telephone', 'mail', 'another', 'plate', 'cell', 'gear']
+Raw count: 13645
+Proportion: 0.002963306898478561
+
+Cluster 3:
+Examples: ['poll', 'cal', 'wil', 'bell', 'mark', 'end', 'royce']
+Raw count: 151211
+Proportion: 0.0328387394229272
+
+Cluster 5:
+Examples: ['june', 'july', 'january', 'december', 'october', 'february', 'september']
+Raw count: 1437
+Proportion: 0.0003120756330607323
+
+Cluster 4:
+Examples: ['attack', 'sound', 'shot', 'forth', 'bomb', 'gun', 'eye']
+Raw count: 3546
+Proportion: 0.0007700906018325377
+
+Cluster 7:
+Examples: ['trade', 'entry', 'washington', 'commerce', 'registry', 'america', 'commercial']
+Raw count: 3463
+Proportion: 0.000752065356499176
+
+Cluster 9:
+Examples: ['15th', '1st', '25th', '14th', '24th', '20th', '27th']
+Raw count: 49
+Proportion: 1.0641409895599081e-05
+
+Cluster 12:
+Examples: ['1980s', '1970s', '1990s', 'eighties', 'sixties', 'seventies', '2000s']
+Raw count: 15
+Proportion: 3.257574457836454e-06
+
+Cluster 11:
+Examples: ['1885', '1921', '1918', '1917', '1919', '1877', '1920']
+Raw count: 11
+Proportion: 2.388887935746733e-06
+
+Cluster 10:
+Examples: ['1825', '1824', '1826', '1843', '1822', '1842', '1818']
+Raw count: 10
+Proportion: 2.1717163052243024e-06
+
+Cluster 13:
+Examples: ['actor', 'explorer', 'artist', 'swimmer', 'scientist', 'cowboy']
+Raw count: 6
+Proportion: 1.3030297831345815e-06
+
+Cluster 6:
+Examples: ['keynes', 'hari', 'vista']
+Raw count: 3
+Proportion: 6.515148915672907e-07
+

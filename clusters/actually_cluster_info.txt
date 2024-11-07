@@ -1,0 +1,65 @@
+Cluster 10:
+Examples: ['also', 'just', 'really', 'now', 'still', 'always', 'another']
+Raw count: 460426
+Proportion: 0.24140375381563123
+
+Cluster 4:
+Examples: ['already', 'right', 'made', 'considered', 'getting', 'going', 'got']
+Raw count: 143960
+Proportion: 0.07547897903093716
+
+Cluster 0:
+Examples: ['even', 'probably', 'never', 'simply', 'directly', 'truly', 'finally']
+Raw count: 948483
+Proportion: 0.49729458508058044
+
+Cluster 7:
+Examples: ['ever', 'people', 'others', 'someone', 'whatever', 'men', 'guys']
+Raw count: 63604
+Proportion: 0.03334790901836431
+
+Cluster 3:
+Examples: ['currently', 'generally', 'usually', 'today', 'exactly', 'one', 'however']
+Raw count: 168539
+Proportion: 0.0883658769581489
+
+Cluster 8:
+Examples: ['yes', '10', '12', '15', '13', '16', '22']
+Raw count: 74156
+Proportion: 0.03888037766753387
+
+Cluster 2:
+Examples: ['like', '11', 'worth', 'else', 'actual', '18', 'many']
+Raw count: 46331
+Proportion: 0.02429158500612913
+
+Cluster 12:
+Examples: ['tonight', 'respectively', 'monday', 'month', 'thursday', 'june', 'wednesday']
+Raw count: 1548
+Proportion: 0.0008116244758258593
+
+Cluster 1:
+Examples: ['repeat', 'substitute', 'repeated', 'explosion', 'boom', 'repeating', 'surge']
+Raw count: 181
+Proportion: 9.48992442664603e-05
+
+Cluster 6:
+Examples: ['threatening', 'threats', 'menacing', 'daring', 'menace']
+Raw count: 24
+Proportion: 1.2583325206602471e-05
+
+Cluster 9:
+Examples: ['conversion', 'transition', 'transitions', 'transformation', 'migration', 'transitional', 'transitioned']
+Raw count: 12
+Proportion: 6.291662603301236e-06
+
+Cluster 5:
+Examples: ['havre', 'monde', 'roy', 'roi', 'blanc', 'femme', 'comte']
+Raw count: 12
+Proportion: 6.291662603301236e-06
+
+Cluster 11:
+Examples: ['144', '142', '143', '145', '141', '149', '146']
+Raw count: 10
+Proportion: 5.243052169417696e-06
+

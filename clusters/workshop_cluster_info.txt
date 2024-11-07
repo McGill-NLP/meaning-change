@@ -1,0 +1,80 @@
+Cluster 5:
+Examples: ['program', 'conference', 'meeting', 'project', 'committee', 'session', 'event']
+Raw count: 7772
+Proportion: 0.30234186571228505
+
+Cluster 2:
+Examples: ['house', 'mill', 'room', 'shop', 'factory', 'building', 'store']
+Raw count: 4328
+Proportion: 0.1683653621722555
+
+Cluster 12:
+Examples: ['group', 'workshops', 'club', 'network', 'assembly', 'board', 'educational']
+Raw count: 1816
+Proportion: 0.0706449856064732
+
+Cluster 0:
+Examples: ['school', 'programs', 'library', 'shelter', 'fund', 'church', 'living']
+Raw count: 1274
+Proportion: 0.04956041391114915
+
+Cluster 1:
+Examples: ['center', 'home', 'place', 'city', 'town', 'area', 'country']
+Raw count: 2735
+Proportion: 0.10639539407142301
+
+Cluster 3:
+Examples: ['work', 'business', 'way', 'hand', 'life', 'production', 'lot']
+Raw count: 1141
+Proportion: 0.044386524546798416
+
+Cluster 4:
+Examples: ['field', 'laboratory', 'facility', 'station', 'mission', 'world', 'system']
+Raw count: 1930
+Proportion: 0.07507974791877382
+
+Cluster 11:
+Examples: ['office', 'company', 'council', 'association', 'department', 'organization', 'foundation']
+Raw count: 1548
+Proportion: 0.0602194040301875
+
+Cluster 6:
+Examples: ['community', 'person', 'site', 'education', 'special', 'press', 'public']
+Raw count: 1709
+Proportion: 0.06648253326071735
+
+Cluster 9:
+Examples: ['people', 'man', 'congress', 'family', 'government', 'head', 'president']
+Raw count: 1199
+Proportion: 0.04664280712674084
+
+Cluster 7:
+Examples: ['interest', 'purpose', 'need', 'interests', 'social', 'resources', 'age']
+Raw count: 75
+Proportion: 0.0029176067844083092
+
+Cluster 13:
+Examples: ['based', 'located', 'held', 'focused', 'continued', 'went', 'found']
+Raw count: 82
+Proportion: 0.003189916750953085
+
+Cluster 8:
+Examples: ['say', 'know', 'change', 'said', 'permit', 'dr', 'ask']
+Raw count: 32
+Proportion: 0.0012448455613475453
+
+Cluster 10:
+Examples: ['length', 'remainder', 'delay', 'extension', 'ruin', 'burn', 'recovery']
+Raw count: 45
+Proportion: 0.0017505640706449855
+
+Cluster 14:
+Examples: ['anderson', 'everybody', 'somebody', 'wilbur', 'frank', 'sally', 'bradley']
+Raw count: 10
+Proportion: 0.0003890142379211079
+
+Cluster 15:
+Examples: ['74', '1974', '1973', '73', '75', '72', '1975']
+Raw count: 10
+Proportion: 0.0003890142379211079
+

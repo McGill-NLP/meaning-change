@@ -1,0 +1,85 @@
+Cluster 1:
+Examples: ['assessing', 'determining', 'considering', 'evaluating', 'measuring', 'examining', 'studying']
+Raw count: 4055
+Proportion: 0.4407608695652174
+
+Cluster 0:
+Examples: ['making', 'taking', 'selling', 'buying', 'purchasing', 'acquiring', 'developing']
+Raw count: 2058
+Proportion: 0.22369565217391305
+
+Cluster 4:
+Examples: ['general', 'customs', 'police', 'certain', 'first', 'immigration', 'naval']
+Raw count: 1264
+Proportion: 0.1373913043478261
+
+Cluster 2:
+Examples: ['particular', 'fact', 'addition', 'detail', 'question', 'part', 'effect']
+Raw count: 595
+Proportion: 0.06467391304347826
+
+Cluster 8:
+Examples: ['inspecting', 'asking', 'see', 'debating', 'concerned', 'closing', 'wondering']
+Raw count: 152
+Proportion: 0.01652173913043478
+
+Cluster 3:
+Examples: ['thinking', 'work', 'telling', 'business', 'job', 'talking', 'accounting']
+Raw count: 233
+Proportion: 0.025326086956521738
+
+Cluster 9:
+Examples: ['watching', 'representing', 'acknowledging', 'reflecting', 'like', 'among', 'calling']
+Raw count: 131
+Proportion: 0.014239130434782608
+
+Cluster 7:
+Examples: ['valuation', 'sale', 'assessment', 'construction', 'development', 'evaluation', 'examination']
+Raw count: 234
+Proportion: 0.025434782608695652
+
+Cluster 6:
+Examples: ['working', 'running', 'etc', 'engineering', 'survey', 'operating', 'ing']
+Raw count: 107
+Proportion: 0.011630434782608695
+
+Cluster 12:
+Examples: ['just', 'living', 'almost', 'toward', 'even', 'within', 'made']
+Raw count: 168
+Proportion: 0.018260869565217393
+
+Cluster 10:
+Examples: ['good', 'time', 'old', 'critical', 'intelligent', 'eagle', 'eye']
+Raw count: 113
+Proportion: 0.012282608695652173
+
+Cluster 5:
+Examples: ['encouraging', 'teaching', 'informing', 'educating', 'advising', 'reassuring', 'convincing']
+Raw count: 16
+Proportion: 0.0017391304347826088
+
+Cluster 11:
+Examples: ['american', 'domestic', 'purely', 'german', 'primarily', 'largely', 'mostly']
+Raw count: 21
+Proportion: 0.002282608695652174
+
+Cluster 13:
+Examples: ['bank', 'finance', 'loan', 'servicing', 'mortgage', 'lending', 'insurance']
+Raw count: 25
+Proportion: 0.002717391304347826
+
+Cluster 15:
+Examples: ['rail', 'door', 'counter', 'till', 'machine', 'horses', 'scales']
+Raw count: 9
+Proportion: 0.0009782608695652175
+
+Cluster 16:
+Examples: ['1893', '1897', '1894', '1898', '1918', '1896', '1909']
+Raw count: 10
+Proportion: 0.0010869565217391304
+
+Cluster 14:
+Examples: ['1990', '2008', '2006', 'competition', 'auction', '2014', '2017']
+Raw count: 9
+Proportion: 0.0009782608695652175
+

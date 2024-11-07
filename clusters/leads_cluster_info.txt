@@ -1,0 +1,60 @@
+Cluster 1:
+Examples: ['led', 'runs', 'brought', 'came', 'went', 'took', 'got']
+Raw count: 38359
+Proportion: 0.1682427038833674
+
+Cluster 10:
+Examples: ['lead', 'among', 'dominate', 'first', 'within', 'lines', 'second']
+Raw count: 13187
+Proportion: 0.05783822665111098
+
+Cluster 2:
+Examples: ['goes', 'amounts', 'refers', 'comes', 'contributes', 'points', 'leading']
+Raw count: 84689
+Proportion: 0.37144624075649785
+
+Cluster 0:
+Examples: ['allows', 'brings', 'causes', 'gets', 'takes', 'forces', 'caused']
+Raw count: 69300
+Proportion: 0.30395003464942677
+
+Cluster 5:
+Examples: ['means', 'calls', 'results', 'trails', 'information', 'things', 'reports']
+Raw count: 11639
+Proportion: 0.05104869340959131
+
+Cluster 3:
+Examples: ['speaks', 'stands', 'works', 'falls', 'rules', 'begins', 'lies']
+Raw count: 7286
+Proportion: 0.031956420670356755
+
+Cluster 8:
+Examples: ['heads', 'loves', 'leaders', 'fails', 'des', 'officers', 'sp']
+Raw count: 2949
+Proportion: 0.012934323985298117
+
+Cluster 9:
+Examples: ['like', 'along', 'except', 'know', 'find', 'closely', 'liked']
+Raw count: 391
+Proportion: 0.001714927323923894
+
+Cluster 7:
+Examples: ['state', 'place', 'county', 'command', 'range', 'distance', 'city']
+Raw count: 154
+Proportion: 0.0006754445214431705
+
+Cluster 6:
+Examples: ['affect', 'correct', 'elect', 'predict', 'prevent', 'interpret', 'exhaust']
+Raw count: 16
+Proportion: 7.017605417591382e-05
+
+Cluster 4:
+Examples: ['street', 'sound', 'physical', 'visual', 'chemical', 'photographic', 'blood']
+Raw count: 18
+Proportion: 7.894806094790305e-05
+
+Cluster 11:
+Examples: ['1908', '1907', '1909', '1906', '1910', '1912', '1905']
+Raw count: 10
+Proportion: 4.386003385994614e-05
+

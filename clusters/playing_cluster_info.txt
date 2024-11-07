@@ -1,0 +1,55 @@
+Cluster 3:
+Examples: ['play', 'like', 'plays', 'singing', 'fucking', 'really', 'player']
+Raw count: 26879
+Proportion: 0.0937455314013874
+
+Cluster 2:
+Examples: ['running', 'making', 'taking', 'talking', 'watching', 'getting', 'using']
+Raw count: 113231
+Proportion: 0.39491425522193896
+
+Cluster 5:
+Examples: ['football', 'athletic', 'hockey', 'soccer', 'ball', 'killing', 'level']
+Raw count: 75586
+Proportion: 0.2636202885711994
+
+Cluster 1:
+Examples: ['played', 'going', 'working', 'fighting', 'living', 'just', 'dealing']
+Raw count: 66036
+Proportion: 0.2303128803758331
+
+Cluster 7:
+Examples: ['inside', 'listening', 'outside', 'within', 'responding', 'referring', 'close']
+Raw count: 1358
+Proportion: 0.004736278568513862
+
+Cluster 10:
+Examples: ['players', 'people', 'everything', 'things', 'politics', 'children', 'boys']
+Raw count: 1597
+Proportion: 0.0055698356950785255
+
+Cluster 4:
+Examples: ['based', 'relying', 'built', 'short', 'commenting', 'depending', 'focused']
+Raw count: 1120
+Proportion: 0.0039062091286712263
+
+Cluster 8:
+Examples: ['worth', 'truly', 'waste', 'hopeless', 'heap', 'pile', 'piled']
+Raw count: 134
+Proportion: 0.000467350020751736
+
+Cluster 6:
+Examples: ['par', 'de', 'man', 'online', 'en', 'russian', 'mr']
+Raw count: 472
+Proportion: 0.0016461881327971596
+
+Cluster 9:
+Examples: ['america', 'english', 'washington', 'john', 'king', 'french', 'uncle']
+Raw count: 300
+Proportion: 0.001046306016608364
+
+Cluster 0:
+Examples: ['josie', 'donna', 'lisa', 'lori', 'gail', 'diane', 'loretta']
+Raw count: 10
+Proportion: 3.487686722027881e-05
+

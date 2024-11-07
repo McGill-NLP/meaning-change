@@ -1,0 +1,85 @@
+Cluster 4:
+Examples: ['aircraft', 'airplane', 'jet', 'one', 'helicopter', 'fighter', 'bomber']
+Raw count: 81844
+Proportion: 0.2870440189810155
+
+Cluster 0:
+Examples: ['car', 'ship', 'boat', 'train', 'bus', 'ground', 'line']
+Raw count: 71903
+Proportion: 0.25217885363364395
+
+Cluster 6:
+Examples: ['flight', 'airline', 'year', 'automobile', 'cessna', 'war', 'business']
+Raw count: 23917
+Proportion: 0.0838819192850905
+
+Cluster 7:
+Examples: ['planes', 'machine', 'course', 'piece', 'plate', 'page', 'mile']
+Raw count: 16413
+Proportion: 0.057563822437019296
+
+Cluster 3:
+Examples: ['level', 'thing', 'basis', 'project', 'scale', 'place', 'footing']
+Raw count: 57966
+Proportion: 0.20329888084958633
+
+Cluster 1:
+Examples: ['engine', 'program', 'airplanes', 'design', 'type', 'weapon', 'system']
+Raw count: 31779
+Proportion: 0.11145559697959155
+
+Cluster 14:
+Examples: ['name', 'package', 'television', 'language', 'newspaper', 'magazine', 'press']
+Raw count: 604
+Proportion: 0.002118354277216819
+
+Cluster 9:
+Examples: ['flew', 'crashed', 'began', 'started', 'goes', 'drop', 'fall']
+Raw count: 363
+Proportion: 0.0012731168917710354
+
+Cluster 13:
+Examples: ['except', 'looking', 'rather', 'shaped', 'unless', 'seeing', 'watching']
+Raw count: 57
+Proportion: 0.0001999109168896667
+
+Cluster 12:
+Examples: ['20', '15', '50', '25', 'bills', '30', '80']
+Raw count: 140
+Proportion: 0.0004910092695535673
+
+Cluster 8:
+Examples: ['john', 'smith', 'hopkins', 'jones', 'william', 'johns', 'johann']
+Raw count: 21
+Proportion: 7.365139043303511e-05
+
+Cluster 11:
+Examples: ['unity', 'equilibrium', 'harmony', 'consortium', 'cooperation', 'goodwill', 'stability']
+Raw count: 28
+Proportion: 9.820185391071348e-05
+
+Cluster 10:
+Examples: ['inspection', 'observation', 'observations', 'insignia', 'occurrence']
+Raw count: 14
+Proportion: 4.910092695535674e-05
+
+Cluster 15:
+Examples: ['evacuation', 'truce', 'protocol', 'retreat', 'ceasefire', 'borne']
+Raw count: 17
+Proportion: 5.9622554160076035e-05
+
+Cluster 16:
+Examples: ['paying', 'buying', 'selling', 'receiving', 'purchasing', 'holding', 'obtaining']
+Raw count: 20
+Proportion: 7.014418136479533e-05
+
+Cluster 2:
+Examples: ['columbus', 'atlanta', 'odessa', 'jackson', 'austin', 'houston', 'athens']
+Raw count: 31
+Proportion: 0.00010872348111543277
+
+Cluster 5:
+Examples: ['carlos', 'jose', 'juan', 'pablo', 'manuel', 'antonio', 'luis']
+Raw count: 10
+Proportion: 3.5072090682397666e-05
+

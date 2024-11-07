@@ -1,0 +1,85 @@
+Cluster 1:
+Examples: ['targets', 'subject', 'object', 'source', 'top', 'victim', 'place']
+Raw count: 90652
+Proportion: 0.22854405647296105
+
+Cluster 3:
+Examples: ['market', 'targeted', 'average', 'reference', 'farm', 'minimum', 'food']
+Raw count: 86739
+Proportion: 0.21867893608975167
+
+Cluster 2:
+Examples: ['point', 'goal', 'one', 'objective', 'threat', 'budget', 'time']
+Raw count: 108533
+Proportion: 0.27362410185301905
+
+Cluster 0:
+Examples: ['targeting', 'focus', 'provide', 'kill', 'use', 'make', 'hit']
+Raw count: 94497
+Proportion: 0.23823774108155804
+
+Cluster 15:
+Examples: ['military', 'rifle', 'shooting', 'combat', 'field', 'war', 'defense']
+Raw count: 11502
+Proportion: 0.028997857052817346
+
+Cluster 6:
+Examples: ['back', 'going', 'net', 'super', 'shit', 'others', 'vet']
+Raw count: 4155
+Proportion: 0.010475230051682844
+
+Cluster 8:
+Examples: ['campaign', 'produced', 'achieved', 'sponsored', 'funded', 'led', 'campaigns']
+Raw count: 111
+Proportion: 0.00027984369091138284
+
+Cluster 11:
+Examples: ['death', 'execution', 'termination', 'renewal', 'abortion', 'extinction', 'terminating']
+Raw count: 131
+Proportion: 0.00033026597756208244
+
+Cluster 7:
+Examples: ['around', 'since', 'circle', 'diameter', 'circular', 'enclosed', 'crazy']
+Raw count: 107
+Proportion: 0.0002697592335812429
+
+Cluster 12:
+Examples: ['blast', 'beer', 'thrust', 'twist', 'arc', 'rum', 'bottle']
+Raw count: 57
+Proportion: 0.00014370351695449388
+
+Cluster 9:
+Examples: ['chain', 'bed', 'removal', 'prevention', 'bind', 'elimination', 'stricken']
+Raw count: 92
+Proportion: 0.0002319425185932182
+
+Cluster 10:
+Examples: ['banner', 'sheet', 'banners', 'flyer']
+Raw count: 13
+Proportion: 3.277448632295475e-05
+
+Cluster 14:
+Examples: ['blood', 'mixture', 'soup', 'potion', 'brew', 'pudding']
+Raw count: 14
+Proportion: 3.529560065548973e-05
+
+Cluster 13:
+Examples: ['okay', 'colorado', 'verde', 'grande', 'diablo', 'nevada', 'flats']
+Raw count: 15
+Proportion: 3.781671498802471e-05
+
+Cluster 4:
+Examples: ['tsunami', 'ripple', 'chord', 'disruption', 'shudder']
+Raw count: 9
+Proportion: 2.2690028992814823e-05
+
+Cluster 16:
+Examples: ['portland', 'northwest', 'maine', 'startup', 'oregon', 'innovation', 'eugene']
+Raw count: 19
+Proportion: 4.790117231816463e-05
+
+Cluster 5:
+Examples: ['b1', 'a2', 'a1', 'c1']
+Raw count: 4
+Proportion: 1.0084457330139921e-05
+

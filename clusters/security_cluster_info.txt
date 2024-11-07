@@ -1,0 +1,60 @@
+Cluster 3:
+Examples: ['welfare', 'protection', 'retirement', 'exclusion', '50', 'worker', 'protector']
+Raw count: 439919
+Proportion: 0.08149500473313807
+
+Cluster 10:
+Examples: ['defense', 'space', 'protect', 'warrior', 'defend', 'century', 'divide']
+Raw count: 180615
+Proportion: 0.03345893284871927
+
+Cluster 9:
+Examples: ['safety', 'now', 'together', 'also', 'today', 'just', 'back']
+Raw count: 180919
+Proportion: 0.033515248855617984
+
+Cluster 1:
+Examples: ['services', 'policy', 'work', 'health', 'defence', 'life', 'housing']
+Raw count: 1511677
+Proportion: 0.2800381985546793
+
+Cluster 6:
+Examples: ['insurance', 'service', 'credit', 'income', 'aid', 'business', 'equity']
+Raw count: 869791
+Proportion: 0.1611288024882783
+
+Cluster 2:
+Examples: ['assistance', 'interest', 'responsibility', 'support', 'care', 'peace', 'justice']
+Raw count: 1222502
+Proportion: 0.2264685232423941
+
+Cluster 5:
+Examples: ['military', 'intelligence', 'government', 'economic', 'strategic', 'war', 'political']
+Raw count: 937116
+Proportion: 0.17360076026609314
+
+Cluster 8:
+Examples: ['guard', 'access', 'arthur', 'huron', 'henry', 'hudson', 'jackson']
+Raw count: 55460
+Proportion: 0.010273966258560866
+
+Cluster 11:
+Examples: ['flame', 'spring', 'flowers', 'flames', 'spark', 'flower', 'glow']
+Raw count: 73
+Proportion: 1.3523251656598329e-05
+
+Cluster 4:
+Examples: ['santos', 'newark', 'phillips', 'elaine', 'dumont', 'gerald', 'essex']
+Raw count: 13
+Proportion: 2.4082502950106613e-06
+
+Cluster 0:
+Examples: ['1900', '1893', '1894', '1892', '1865', '1869', '1895']
+Raw count: 15
+Proportion: 2.7787503403969165e-06
+
+Cluster 7:
+Examples: ['carlos', 'hector', 'jorge', 'ramon', 'jose', 'jaime', 'rafael']
+Raw count: 10
+Proportion: 1.8525002269312778e-06
+

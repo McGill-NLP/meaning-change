@@ -1,0 +1,95 @@
+Cluster 1:
+Examples: ['great', 'good', 'strong', 'high', 'excellent', 'remarkable', 'outstanding']
+Raw count: 23047
+Proportion: 0.31551783147374907
+
+Cluster 0:
+Examples: ['fine', 'silver', 'pound', 'coin', 'value', 'rate', 'now']
+Raw count: 11233
+Proportion: 0.15378191525771784
+
+Cluster 5:
+Examples: ['john', 'william', 'thomas', 'james', 'smith', 'general', 'henry']
+Raw count: 12608
+Proportion: 0.17260592785269355
+
+Cluster 2:
+Examples: ['money', 'gold', 'currency', 'pounds', 'dollars', 'full', 'cash']
+Raw count: 5895
+Proportion: 0.08070367581627763
+
+Cluster 4:
+Examples: ['national', 'european', 'international', 'american', 'new', 'western', 'one']
+Raw count: 9544
+Proportion: 0.1306591826955986
+
+Cluster 8:
+Examples: ['precious', 'henderson', 'washington', 'levy', 'black', 'jackson', 'union']
+Raw count: 8150
+Proportion: 0.11157505647203779
+
+Cluster 3:
+Examples: ['white', 'tom', 'man', 'sam', 'sc', 're', 'ma']
+Raw count: 1063
+Proportion: 0.014552673009788486
+
+Cluster 14:
+Examples: ['10', '12', '20', '18', '11', '14', '13']
+Raw count: 396
+Proportion: 0.0054213156273530015
+
+Cluster 12:
+Examples: ['life', 'college', 'congress', 'school', 'graduate', 'name', 'academic']
+Raw count: 354
+Proportion: 0.004846327606270107
+
+Cluster 10:
+Examples: ['present', 'existing', 'hand', 'working', 'set', 'directed', 'chiefly']
+Raw count: 152
+Proportion: 0.00208090902868095
+
+Cluster 7:
+Examples: ['going', 'taken', 'directly', 'came', 'lost', 'received', 'far']
+Raw count: 221
+Proportion: 0.003025532206174276
+
+Cluster 13:
+Examples: ['called', 'making', 'gas', 'room', 'gasoline', 'office', 'bread']
+Raw count: 264
+Proportion: 0.0036142104182353345
+
+Cluster 15:
+Examples: ['dark', 'false', 'fraud', 'pseudo', 'fraudulent', 'fake', 'fictitious']
+Raw count: 28
+Proportion: 0.0003833253473885961
+
+Cluster 6:
+Examples: ['brady', 'fifth', 'fifteenth', 'fourth', 'fourteenth', 'roe', 'homestead']
+Raw count: 49
+Proportion: 0.0006708193579300432
+
+Cluster 9:
+Examples: ['stern', 'fore', 'aft', 'aye', 'starboard']
+Raw count: 11
+Proportion: 0.0001505921007598056
+
+Cluster 11:
+Examples: ['1952', '1956', '1955', '1954', '1957', '1987', '1985']
+Raw count: 11
+Proportion: 0.0001505921007598056
+
+Cluster 17:
+Examples: ['perez', 'martinez', 'hernandez', 'gonzalez', 'garcia', 'gomez', 'morales']
+Raw count: 11
+Proportion: 0.0001505921007598056
+
+Cluster 16:
+Examples: ['di', 'marxist', 'lend', 'fed', 'fm', 'ns']
+Raw count: 6
+Proportion: 8.214114586898487e-05
+
+Cluster 18:
+Examples: ['muscles', 'racks']
+Raw count: 2
+Proportion: 2.738038195632829e-05
+

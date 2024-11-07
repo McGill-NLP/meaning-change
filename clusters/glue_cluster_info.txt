@@ -1,0 +1,80 @@
+Cluster 3:
+Examples: ['thing', 'force', 'one', 'strength', 'power', 'foundation', 'core']
+Raw count: 4288
+Proportion: 0.35359116022099446
+
+Cluster 11:
+Examples: ['stuff', 'something', 'goods', 'gel', 'kind', 'anything', 'materials']
+Raw count: 624
+Proportion: 0.051455430032159646
+
+Cluster 1:
+Examples: ['paper', 'anchor', 'oil', 'plastic', 'water', 'steel', 'rubber']
+Raw count: 2997
+Proportion: 0.24713449327945905
+
+Cluster 8:
+Examples: ['paste', 'cement', 'cotton', 'clay', 'pencil', 'plastics', 'fuse']
+Raw count: 955
+Proportion: 0.07874989692421869
+
+Cluster 9:
+Examples: ['wood', 'money', 'bond', 'backbone', 'heart', 'fabric', 'word']
+Raw count: 897
+Proportion: 0.07396718067122948
+
+Cluster 0:
+Examples: ['hand', 'war', 'state', 'congress', 'america', 'back', 'tape']
+Raw count: 266
+Proportion: 0.021934526263709078
+
+Cluster 2:
+Examples: ['pin', 'products', 'matches', 'salt', 'nails', 'tar', 'shit']
+Raw count: 442
+Proportion: 0.03644759627277975
+
+Cluster 6:
+Examples: ['piece', 'put', 'get', 'make', 'keep', 'bring', 'hold']
+Raw count: 299
+Proportion: 0.02465572689040983
+
+Cluster 12:
+Examples: ['chain', 'wire', 'fashion', 'knit', 'expose', 'grind', 'squeeze']
+Raw count: 133
+Proportion: 0.010967263131854539
+
+Cluster 15:
+Examples: ['tie', 'wi', 'bone', 'bo', 'hu', 'mu', 'fit']
+Raw count: 542
+Proportion: 0.044693658777933534
+
+Cluster 7:
+Examples: ['small', 'good', 'coffee', 'new', 'big', 'american', 'two']
+Raw count: 489
+Proportion: 0.04032324565020203
+
+Cluster 10:
+Examples: ['weight', 'taxes', 'tax', 'duty', 'pressure', 'price', 'wages']
+Raw count: 68
+Proportion: 0.005607322503504576
+
+Cluster 5:
+Examples: ['alone', 'imports', 'women', 'manufactures', 'factories', 'exports', 'altogether']
+Raw count: 44
+Proportion: 0.0036282675022676673
+
+Cluster 4:
+Examples: ['color', 'eyes', 'sauce', 'notes', 'blues', 'white', 'whites']
+Raw count: 37
+Proportion: 0.003051043126906902
+
+Cluster 14:
+Examples: ['com', 'de', 'al', 'en', 'dale', 'ne', 'marc']
+Raw count: 34
+Proportion: 0.002803661251752288
+
+Cluster 13:
+Examples: ['iv', 'transcript', 'vial', 'implant', 'stomach', 'positive', 'newborn']
+Raw count: 12
+Proportion: 0.0009895275006184547
+

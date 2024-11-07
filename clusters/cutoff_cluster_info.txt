@@ -1,0 +1,75 @@
+Cluster 4:
+Examples: ['starting', 'start', 'due', 'specific', 'target', 'first', 'set']
+Raw count: 20742
+Proportion: 0.30253792298716453
+
+Cluster 2:
+Examples: ['end', 'limit', 'increase', 'stop', 'halt', 'raise', 'appropriate']
+Raw count: 3726
+Proportion: 0.0543465577596266
+
+Cluster 9:
+Examples: ['reduction', 'loss', 'withdrawal', 'change', 'crisis', 'decision', 'suspension']
+Raw count: 12251
+Proportion: 0.1786901983663944
+
+Cluster 5:
+Examples: ['date', 'deadline', 'question', 'vote', 'law', 'act', 'amendment']
+Raw count: 4846
+Proportion: 0.0706826137689615
+
+Cluster 0:
+Examples: ['cut', 'approved', 'required', 'removed', 'made', 'available', 'run']
+Raw count: 3115
+Proportion: 0.04543465577596266
+
+Cluster 3:
+Examples: ['program', 'transfer', 'issue', 'release', 'lack', 'use', 'provision']
+Raw count: 17477
+Proportion: 0.2549154025670945
+
+Cluster 6:
+Examples: ['effective', 'effect', 'result', 'value', 'exclusion', 'service', 'impact']
+Raw count: 1022
+Proportion: 0.014906651108518087
+
+Cluster 1:
+Examples: ['one', 'line', 'point', 'river', 'project', 'road', 'power']
+Raw count: 4194
+Proportion: 0.06117269544924154
+
+Cluster 7:
+Examples: ['control', 'test', 'safety', 'protection', 'taking', 'acquisition', 'oil']
+Raw count: 734
+Proportion: 0.010705950991831971
+
+Cluster 12:
+Examples: ['age', 'conversion', '18', 'height', 'college', 'license', 'ad']
+Raw count: 128
+Proportion: 0.0018669778296382731
+
+Cluster 10:
+Examples: ['cover', 'coverage', 'insurance', 'en', 'dollars', 'pinch', 'du']
+Raw count: 109
+Proportion: 0.0015898483080513419
+
+Cluster 8:
+Examples: ['eastern', 'western', 'tide', 'indian', 'northern', 'southern', 'south']
+Raw count: 86
+Proportion: 0.0012543757292882147
+
+Cluster 13:
+Examples: ['education', 'examination', 'educational', 'educated', 'educate', 'academy', 'workforce']
+Raw count: 20
+Proportion: 0.00029171528588098014
+
+Cluster 14:
+Examples: ['note', '1972', '1970', '1960', '1979', '1980', '1949']
+Raw count: 87
+Proportion: 0.0012689614935822637
+
+Cluster 11:
+Examples: ['dream', 'sleep', 'bed', 'dog', 'sm', 'fr', 'sl']
+Raw count: 23
+Proportion: 0.0003354725787631272
+

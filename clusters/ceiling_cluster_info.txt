@@ -1,0 +1,70 @@
+Cluster 1:
+Examples: ['limit', 'level', 'ceilings', 'budget', 'amount', 'rate', 'increase']
+Raw count: 134849
+Proportion: 0.2759431452636059
+
+Cluster 5:
+Examples: ['cap', 'limits', 'tax', 'burden', 'deficit', 'restriction', 'freeze']
+Raw count: 84252
+Proportion: 0.17240589010485302
+
+Cluster 0:
+Examples: ['floor', 'wall', 'dome', 'line', 'room', 'one', 'area']
+Raw count: 63159
+Proportion: 0.12924302821455175
+
+Cluster 2:
+Examples: ['maximum', 'price', 'minimum', 'total', 'market', 'target', 'average']
+Raw count: 63025
+Proportion: 0.12896882238829183
+
+Cluster 3:
+Examples: ['threshold', 'limitation', 'bill', 'requirement', 'issue', 'program', 'act']
+Raw count: 134972
+Proportion: 0.2761948416563669
+
+Cluster 11:
+Examples: ['government', 'department', 'force', 'state', 'unit', 'economy', 'industry']
+Raw count: 3997
+Proportion: 0.008179109608663268
+
+Cluster 13:
+Examples: ['war', 'says', 'requires', 'wars', '2000', '1990', 'talks']
+Raw count: 770
+Proportion: 0.0015756603449263737
+
+Cluster 7:
+Examples: ['service', 'cycle', 'services', 'seems', 'began', 'served', 'servicing']
+Raw count: 572
+Proportion: 0.001170490541945306
+
+Cluster 4:
+Examples: ['person', 'man', 'like', 'woman', 'team', 'football', 'sports']
+Raw count: 1157
+Proportion: 0.0023675831416620965
+
+Cluster 6:
+Examples: ['billion', 'million', 'etc', 'per', 'quarter', 'ii', 'super']
+Raw count: 1852
+Proportion: 0.003789770076368369
+
+Cluster 9:
+Examples: ['disclosure', 'exposure', 'reporting', 'transparency', 'discovery', 'disclosed', 'disclose']
+Raw count: 40
+Proportion: 8.185248545072071e-05
+
+Cluster 8:
+Examples: ['relations', 'emotion', 'friendship', 'feelings', 'emotions', 'friendships', 'memories']
+Raw count: 17
+Proportion: 3.4787306316556305e-05
+
+Cluster 10:
+Examples: ['celebration', 'dance', 'drinking', 'festival', 'celebrations', 'celebrating']
+Raw count: 12
+Proportion: 2.4555745635216213e-05
+
+Cluster 12:
+Examples: ['consistently', 'repeatedly', 'frequently', 'continuously', 'periodically', 'persistent', 'continually']
+Raw count: 10
+Proportion: 2.0463121362680177e-05
+

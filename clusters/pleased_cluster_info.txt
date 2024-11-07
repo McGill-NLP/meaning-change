@@ -1,0 +1,70 @@
+Cluster 7:
+Examples: ['happy', 'satisfied', 'concerned', 'interested', 'content', 'familiar', 'blessed']
+Raw count: 207766
+Proportion: 0.1365181389230386
+
+Cluster 4:
+Examples: ['proud', 'glad', 'excited', 'grateful', 'sorry', 'fortunate', 'eager']
+Raw count: 413891
+Proportion: 0.2719580154452383
+
+Cluster 6:
+Examples: ['delighted', 'joy', 'newsletter', 'delightful', 'richer', 'triumphant', 'celebrated']
+Raw count: 62857
+Proportion: 0.041301852364128096
+
+Cluster 2:
+Examples: ['going', 'prepared', 'ready', 'able', 'willing', 'expected', 'asked']
+Raw count: 428131
+Proportion: 0.28131478362802115
+
+Cluster 5:
+Examples: ['thrilled', 'honored', 'surprised', 'relieved', 'impressed', 'shocked', 'amazed']
+Raw count: 230909
+Proportion: 0.1517248584493128
+
+Cluster 1:
+Examples: ['sure', 'aware', 'hoping', 'convinced', 'told', 'informed', 'hopeful']
+Raw count: 135475
+Proportion: 0.08901742763781685
+
+Cluster 3:
+Examples: ['also', 'now', 'today', 'please', 'want', 'wish', 'pledge']
+Raw count: 14335
+Proportion: 0.009419190442429264
+
+Cluster 9:
+Examples: ['present', 'president', 'mr', 'asleep', 'conscious', 'thirteen', 'fifteen']
+Raw count: 3829
+Proportion: 0.0025159456019575623
+
+Cluster 0:
+Examples: ['wanted', 'said', 'wished', 'liked', 'desired', 'chose', 'made']
+Raw count: 24622
+Proportion: 0.01617853554750564
+
+Cluster 12:
+Examples: ['fu', 'points', 'pal', 'mid', 'ideas', 'theories', 'stories']
+Raw count: 29
+Proportion: 1.9055216102577513e-05
+
+Cluster 13:
+Examples: ['government', 'peace', 'citizenship', 'governments', 'democracy', 'politics', 'partnership']
+Raw count: 12
+Proportion: 7.884917007963109e-06
+
+Cluster 10:
+Examples: ['smiles', 'pauses', 'laughter', 'pause', 'silence', 'harry', 'laughs']
+Raw count: 15
+Proportion: 9.856146259953886e-06
+
+Cluster 11:
+Examples: ['monde', 'roy', 'sage', 'comte', 'femme', 'roi', 'petit']
+Raw count: 11
+Proportion: 7.22784059063285e-06
+
+Cluster 8:
+Examples: ['minds', 'ears', 'hearts', 'dreams', 'dreamed', 'limbs', 'prayers']
+Raw count: 11
+Proportion: 7.22784059063285e-06
+

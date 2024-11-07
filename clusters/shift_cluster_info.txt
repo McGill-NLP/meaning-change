@@ -1,0 +1,90 @@
+Cluster 1:
+Examples: ['change', 'increase', 'transition', 'reduction', 'changes', 'movement', 'decrease']
+Raw count: 78755
+Proportion: 0.33123738223418575
+
+Cluster 0:
+Examples: ['move', 'transfer', 'turn', 'switch', 'take', 'give', 'get']
+Raw count: 116348
+Proportion: 0.48935060565275906
+
+Cluster 17:
+Examples: ['shifting', 'shifted', 'moving', 'changing', 'increases', 'changed', 'moved']
+Raw count: 9677
+Proportion: 0.0407007065948856
+
+Cluster 4:
+Examples: ['shifts', 'day', 'one', 'work', 'job', 'time', 'hand']
+Raw count: 26064
+Proportion: 0.10962314939434724
+
+Cluster 16:
+Examples: ['law', 'list', 'sense', 'heart', 'mind', 'self', 'drift']
+Raw count: 5427
+Proportion: 0.022825538358008074
+
+Cluster 7:
+Examples: ['also', 'anything', 'actually', 'really', 'often', 'including', 'etc']
+Raw count: 432
+Proportion: 0.0018169582772543742
+
+Cluster 3:
+Examples: ['waste', 'profit', 'energy', 'income', 'living', 'un', 'water']
+Raw count: 828
+Proportion: 0.0034825033647375506
+
+Cluster 14:
+Examples: ['others', 'america', 'americans', 'american', 'countries', 'europe', 'japanese']
+Raw count: 81
+Proportion: 0.00034067967698519515
+
+Cluster 5:
+Examples: ['transportation', 'evacuation', 'transports', 'transported']
+Raw count: 20
+Proportion: 8.411843876177658e-05
+
+Cluster 11:
+Examples: ['10', '12', '11', '13', '16', '50', '20']
+Raw count: 34
+Proportion: 0.0001430013458950202
+
+Cluster 15:
+Examples: ['dissent', 'drawn', 'selections', 'lessons', 'excerpt', 'reprinted', 'quoting']
+Raw count: 21
+Proportion: 8.83243606998654e-05
+
+Cluster 8:
+Examples: ['justice', 'rehabilitation', 'outreach', 'reconciliation', 'lobbying', 'consulting']
+Raw count: 10
+Proportion: 4.205921938088829e-05
+
+Cluster 2:
+Examples: ['states', 'cities', 'corridors', 'cycles', 'zones', 'storms', 'regions']
+Raw count: 17
+Proportion: 7.15006729475101e-05
+
+Cluster 6:
+Examples: ['bathroom', 'bath', 'toilet', 'locker', 'restroom', 'laundry', 'towel']
+Raw count: 11
+Proportion: 4.626514131897712e-05
+
+Cluster 9:
+Examples: ['advisors', 'analysts', 'advisers', 'experts', 'consultants', 'advisor', 'committees']
+Raw count: 10
+Proportion: 4.205921938088829e-05
+
+Cluster 10:
+Examples: ['iowa', 'minnesota', 'kansas', 'illinois', 'wisconsin', 'burlington', 'chicago']
+Raw count: 9
+Proportion: 3.785329744279946e-05
+
+Cluster 12:
+Examples: ['1968', '1969', '1970', '1967', '1965', '1966', '1959']
+Raw count: 10
+Proportion: 4.205921938088829e-05
+
+Cluster 13:
+Examples: ['torture', 'tease', 'frustrating', 'torment', 'madden', 'pierce']
+Raw count: 6
+Proportion: 2.5235531628532976e-05
+

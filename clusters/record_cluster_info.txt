@@ -1,0 +1,55 @@
+Cluster 4:
+Examples: ['paper', 'press', 'senate', 'gazette', 'newspaper', 'newspapers', 'papers']
+Raw count: 4728185
+Proportion: 0.6028316167711699
+
+Cluster 7:
+Examples: ['report', 'register', 'file', 'vote', 'document', 'note', 'act']
+Raw count: 654639
+Proportion: 0.0834648150974342
+
+Cluster 1:
+Examples: ['records', 'history', 'story', 'evidence', 'statement', 'case', 'process']
+Raw count: 1872608
+Proportion: 0.23875277896669167
+
+Cluster 8:
+Examples: ['recording', 'year', 'majority', 'state', 'trial', 'first', 'television']
+Raw count: 557421
+Proportion: 0.07106976623211704
+
+Cluster 9:
+Examples: ['un', 'cd', 'co', 'ms', 'com', 'etc', 'inc']
+Raw count: 30346
+Proportion: 0.003869038170574528
+
+Cluster 0:
+Examples: ['hiring', 'recruitment', 'purchasing', 'procurement', 'contracting', 'hires', 'hired']
+Raw count: 29
+Proportion: 3.6974265783517203e-06
+
+Cluster 3:
+Examples: ['deception', 'manipulation', 'cheating', 'manipulating', 'manipulated', 'blackmail']
+Raw count: 19
+Proportion: 2.422451896161472e-06
+
+Cluster 6:
+Examples: ['detector', 'acceleration', 'accelerating', 'roth', 'accelerator', 'ajax']
+Raw count: 18
+Proportion: 2.294954427942447e-06
+
+Cluster 5:
+Examples: ['1880s', '1800s', '1870s', '1830s', '1890s', '1850s', '1860s']
+Raw count: 17
+Proportion: 2.1674569597234223e-06
+
+Cluster 10:
+Examples: ['wolfe', 'hesse', 'hess', 'hermann', 'schmidt']
+Raw count: 6
+Proportion: 7.64984809314149e-07
+
+Cluster 2:
+Examples: ['vortex', 'swirling', 'swirl', 'cassandra', 'dove']
+Raw count: 5
+Proportion: 6.374873410951242e-07
+

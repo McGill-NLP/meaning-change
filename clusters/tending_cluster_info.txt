@@ -1,0 +1,80 @@
+Cluster 0:
+Examples: ['designed', 'necessary', 'intended', 'trying', 'used', 'sufficient', 'enough']
+Raw count: 21244
+Proportion: 0.525295484891944
+
+Cluster 3:
+Examples: ['going', 'moving', 'now', 'looking', 'inclined', 'heading', 'even']
+Raw count: 5043
+Proportion: 0.12469709707729588
+
+Cluster 7:
+Examples: ['working', 'helping', 'running', 'getting', 'seeing', 'keeping', 'making']
+Raw count: 3175
+Proportion: 0.0785074922110677
+
+Cluster 1:
+Examples: ['leading', 'relating', 'due', 'according', 'related', 'listening', 'contributing']
+Raw count: 4922
+Proportion: 0.1217051580040552
+
+Cluster 2:
+Examples: ['also', 'just', 'tend', 'seems', 'try', 'like', 'especially']
+Raw count: 2496
+Proportion: 0.06171801592403937
+
+Cluster 8:
+Examples: ['attending', 'responding', 'catering', 'help', 'serves', 'attention', 'regard']
+Raw count: 1175
+Proportion: 0.029053953810395133
+
+Cluster 6:
+Examples: ['means', 'attempts', 'something', 'one', 'efforts', 'though', 'way']
+Raw count: 1815
+Proportion: 0.044879086098610355
+
+Cluster 9:
+Examples: ['tended', 'upon', 'served', 'etc', 'worked', 'forth', 'duty']
+Raw count: 404
+Proportion: 0.009989614756935859
+
+Cluster 10:
+Examples: ['extended', 'adjusted', 'expanded', 'increased', 'changed', 'altered', 'revised']
+Raw count: 29
+Proportion: 0.0007170763068097523
+
+Cluster 14:
+Examples: ['changes', 'research', 'result', 'withdrawing', 'business', 'politics', 'experiment']
+Raw count: 52
+Proportion: 0.0012857919984174868
+
+Cluster 12:
+Examples: ['parts', 'extracted', 'takes', 'sets', 'extracts', 'extract', 'elements']
+Raw count: 15
+Proportion: 0.00037090153800504425
+
+Cluster 15:
+Examples: ['line', 'blocking', 'scoring', 'play', 'kicking', 'performance', 'scored']
+Raw count: 11
+Proportion: 0.0002719944612036991
+
+Cluster 13:
+Examples: ['big', 'gas', 'treason', 'sea', 'drilling', 'irrelevant', 'nonsense']
+Raw count: 21
+Proportion: 0.000519262153207062
+
+Cluster 5:
+Examples: ['sweeping', 'diving', 'servicing', 'hopping', 'boys', 'girls', 'dogs']
+Raw count: 21
+Proportion: 0.000519262153207062
+
+Cluster 11:
+Examples: ['imprisoned', 'dissolved', 'disqualified', 'defeated', 'captured', 'destroyed', 'arrested']
+Raw count: 9
+Proportion: 0.00022254092280302656
+
+Cluster 4:
+Examples: ['xvi', 'sl', 'xx', 'th', 'si', 'fr', 'ki']
+Raw count: 10
+Proportion: 0.00024726769200336283
+

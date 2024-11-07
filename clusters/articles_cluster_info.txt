@@ -1,0 +1,65 @@
+Cluster 2:
+Examples: ['items', 'things', 'goods', 'products', 'pieces', 'parts', 'materials']
+Raw count: 404842
+Proportion: 0.45131730178601887
+
+Cluster 1:
+Examples: ['papers', 'stories', 'reports', 'letters', 'books', 'pages', 'words']
+Raw count: 320113
+Proportion: 0.3568615297489585
+
+Cluster 3:
+Examples: ['article', 'affairs', 'restrictions', 'rolls', 'including', 'entry', 'annex']
+Raw count: 18205
+Proportion: 0.020294908826195092
+
+Cluster 0:
+Examples: ['provisions', 'laws', 'acts', 'terms', 'rules', 'states', 'letter']
+Raw count: 122229
+Proportion: 0.1362607201822027
+
+Cluster 11:
+Examples: ['paper', 'waste', 'flushed', 'distribution', 'ladies', 'bowl', 'flushing']
+Raw count: 1994
+Proportion: 0.0022229084427043675
+
+Cluster 5:
+Examples: ['also', 'now', 'three', 'made', 'many', 'first', 'together']
+Raw count: 23081
+Proportion: 0.025730666883680798
+
+Cluster 4:
+Examples: ['mr', 'ad', 'inc', 'co', '10', 'de', '12']
+Raw count: 5179
+Proportion: 0.005773542038498456
+
+Cluster 12:
+Examples: ['america', 'england', 'britain', 'india', 'intelligence', 'france', 'science']
+Raw count: 957
+Proportion: 0.001066862276664032
+
+Cluster 10:
+Examples: ['practices', 'education', 'symbols', 'training', 'monuments', 'examination', 'religion']
+Raw count: 308
+Proportion: 0.0003433579740987689
+
+Cluster 6:
+Examples: ['reduction', 'imitation', 'converts', 'conversion', 'conversions', 'elimination', 'converting']
+Raw count: 52
+Proportion: 5.796952809459735e-05
+
+Cluster 8:
+Examples: ['emotions', 'anger', 'passions', 'sentiment', 'emotion', 'hatred', 'sympathy']
+Raw count: 45
+Proportion: 5.016593777417078e-05
+
+Cluster 7:
+Examples: ['1812', '1815', '1814', '1813', '1800', '1807', '1790']
+Raw count: 8
+Proportion: 8.918388937630361e-06
+
+Cluster 9:
+Examples: ['12th', '14th', '11th', '10th', '19th', '15th', '17th']
+Raw count: 10
+Proportion: 1.1147986172037952e-05
+

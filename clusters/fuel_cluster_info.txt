@@ -1,0 +1,60 @@
+Cluster 4:
+Examples: ['energy', 'gasoline', 'heating', 'now', 'well', 'even', 'also']
+Raw count: 82039
+Proportion: 0.09051290905901395
+
+Cluster 2:
+Examples: ['oil', 'gas', 'fuels', 'water', 'food', 'diesel', 'fueled']
+Raw count: 288003
+Proportion: 0.3177511835556649
+
+Cluster 0:
+Examples: ['power', 'drive', 'supply', 'feed', 'motor', 'use', 'support']
+Raw count: 95834
+Proportion: 0.10573281155013521
+
+Cluster 10:
+Examples: ['coal', 'pipeline', '10', '12', '18', 'colliery', 'whose']
+Raw count: 13586
+Proportion: 0.014989314624456216
+
+Cluster 1:
+Examples: ['electricity', 'engines', 'weapons', 'vehicles', 'resources', 'living', 'goods']
+Raw count: 137969
+Proportion: 0.15221998744454582
+
+Cluster 6:
+Examples: ['petroleum', 'crude', 'total', 'new', 'heavy', 'land', 'domestic']
+Raw count: 140030
+Proportion: 0.1544938706655825
+
+Cluster 3:
+Examples: ['material', 'engine', 'money', 'product', 'resource', 'car', 'vehicle']
+Raw count: 124367
+Proportion: 0.13721302016044062
+
+Cluster 7:
+Examples: ['sea', 'super', 'hyper', 'non', 'per', 'bio', 'back']
+Raw count: 22888
+Proportion: 0.02525212962789297
+
+Cluster 8:
+Examples: ['america', 'inflation', 'expansion', '2010', 'iraq', '2008', '2009']
+Raw count: 1621
+Proportion: 0.001788435080689204
+
+Cluster 11:
+Examples: ['havoc', 'drama', 'chaos', 'sabotage', 'mayhem', 'circus', 'mischief']
+Raw count: 22
+Proportion: 2.4272407017373527e-05
+
+Cluster 9:
+Examples: ['lies', 'bitterness', 'gossip', 'bile', 'resentment', 'tales']
+Raw count: 11
+Proportion: 1.2136203508686764e-05
+
+Cluster 5:
+Examples: ['merit', 'honors', 'distinction', 'honours', 'majors', 'classics']
+Raw count: 9
+Proportion: 9.929621052561897e-06
+

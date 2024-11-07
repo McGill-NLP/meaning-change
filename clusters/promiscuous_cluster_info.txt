@@ -1,0 +1,85 @@
+Cluster 5:
+Examples: ['public', 'illegal', 'direct', 'commercial', 'actual', 'widespread', 'full']
+Raw count: 1264
+Proportion: 0.25129224652087473
+
+Cluster 1:
+Examples: ['general', 'new', 'first', 'whole', 'one', 'particular', 'simple']
+Raw count: 442
+Proportion: 0.08787276341948311
+
+Cluster 13:
+Examples: ['certain', 'private', 'large', 'big', 'long', 'personal', 'political']
+Raw count: 518
+Proportion: 0.10298210735586481
+
+Cluster 0:
+Examples: ['good', 'small', 'bad', 'strange', 'friendly', 'individual', 'social']
+Raw count: 242
+Proportion: 0.048111332007952284
+
+Cluster 3:
+Examples: ['excessive', 'great', 'free', 'common', 'massive', 'various', 'national']
+Raw count: 551
+Proportion: 0.10954274353876739
+
+Cluster 2:
+Examples: ['violent', 'dangerous', 'extensive', 'sudden', 'adult', 'effective', 'physical']
+Raw count: 323
+Proportion: 0.06421471172962227
+
+Cluster 15:
+Examples: ['sexual', 'homosexual', 'heterosexual', 'male', 'casual', 'illicit', 'anal']
+Raw count: 404
+Proportion: 0.08031809145129225
+
+Cluster 7:
+Examples: ['aggressive', 'different', 'open', 'active', 'explicit', 'involved', 'successful']
+Raw count: 380
+Proportion: 0.07554671968190854
+
+Cluster 14:
+Examples: ['gay', 'human', 'people', 'dead', 'poor', 'killed', 'sick']
+Raw count: 371
+Proportion: 0.07375745526838966
+
+Cluster 11:
+Examples: ['government', 'federal', 'every', 'necessary', 'old', 'excess', 'extra']
+Raw count: 180
+Proportion: 0.03578528827037773
+
+Cluster 8:
+Examples: ['many', 'making', 'several', 'two', 'local', 'thing', 'three']
+Raw count: 137
+Proportion: 0.027236580516898607
+
+Cluster 4:
+Examples: ['daily', 'single', 'endless', 'paper', 'clear', 'desperate', 'relentless']
+Raw count: 82
+Proportion: 0.016302186878727636
+
+Cluster 16:
+Examples: ['like', 'especially', 'sells', 'includes', 'means', 'graphic', 'including']
+Raw count: 67
+Proportion: 0.013320079522862823
+
+Cluster 6:
+Examples: ['limited', 'controlled', 'corrupt', 'regulated', 'restricted', 'prohibited', 'forbidden']
+Raw count: 26
+Proportion: 0.005168986083499006
+
+Cluster 9:
+Examples: ['purchase', 'sale', 'consideration', 'use', 'settlement', 'congress', 'study']
+Raw count: 17
+Proportion: 0.003379721669980119
+
+Cluster 12:
+Examples: ['waste', 'oil', 'gas', 'helium', 'directional', 'petroleum', 'scuba']
+Raw count: 16
+Proportion: 0.0031809145129224653
+
+Cluster 10:
+Examples: ['writer', 'reader', 'poet', 'scholar', 'printer', 'pro', 'pen']
+Raw count: 10
+Proportion: 0.0019880715705765406
+

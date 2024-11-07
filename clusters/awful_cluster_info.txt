@@ -1,0 +1,65 @@
+Cluster 0:
+Examples: ['enormous', 'entire', 'amazing', 'incredible', 'extra', 'absolute', 'old']
+Raw count: 61457
+Proportion: 0.419072621888851
+
+Cluster 1:
+Examples: ['great', 'whole', 'new', 'real', 'big', 'dangerous', 'particular']
+Raw count: 33965
+Proportion: 0.23160586430276167
+
+Cluster 3:
+Examples: ['terrible', 'horrible', 'good', 'bad', 'true', 'wrong', 'sad']
+Raw count: 11887
+Proportion: 0.08105693828844186
+
+Cluster 2:
+Examples: ['insane', 'exceeding', 'awesome', 'dreadful', 'wonderful', 'tremendous', 'absurd']
+Raw count: 34384
+Proportion: 0.23446300715990454
+
+Cluster 11:
+Examples: ['long', 'three', 'enough', 'four', 'five', 'six', 'eight']
+Raw count: 1136
+Proportion: 0.007746334810773952
+
+Cluster 4:
+Examples: ['american', 'said', 'european', 'german', 'nazi', 'sea', 'water']
+Raw count: 648
+Proportion: 0.004418683941356972
+
+Cluster 12:
+Examples: ['high', 'rising', 'raging', 'steep', 'lower', 'minimum', 'responsibility']
+Raw count: 254
+Proportion: 0.0017320150017047392
+
+Cluster 5:
+Examples: ['different', 'desperate', 'civil', 'war', 'world', 'military', 'government']
+Raw count: 2577
+Proportion: 0.017572451414933514
+
+Cluster 8:
+Examples: ['super', 'un', 'de', 'mega', 'en', 'anti', 'com']
+Raw count: 240
+Proportion: 0.0016365496079099899
+
+Cluster 6:
+Examples: ['unlawful', 'lawful', 'valid', 'lax', 'rights', 'affairs', 'justify']
+Raw count: 55
+Proportion: 0.00037504261847937266
+
+Cluster 9:
+Examples: ['food', 'table', 'homes', 'camp', 'beds', 'road', 'labour']
+Raw count: 25
+Proportion: 0.00017047391749062393
+
+Cluster 7:
+Examples: ['train', 'railway', 'rail', 'railroad', 'trains']
+Raw count: 13
+Proportion: 8.864643709512445e-05
+
+Cluster 10:
+Examples: ['cattle', 'livestock', 'cow', 'pig', 'dog', 'deer']
+Raw count: 9
+Proportion: 6.137061029662461e-05
+

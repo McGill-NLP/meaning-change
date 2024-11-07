@@ -1,0 +1,85 @@
+Cluster 10:
+Examples: ['medical', 'physical', 'political', 'human', 'general', 'criminal', 'modern']
+Raw count: 2128
+Proportion: 0.14315506222670704
+
+Cluster 7:
+Examples: ['scientific', 'academic', 'additional', 'oral', 'photographic', 'necessary', 'documentary']
+Raw count: 539
+Proportion: 0.03625967036663303
+
+Cluster 4:
+Examples: ['legal', 'new', 'police', 'professional', 'investigative', 'various', 'intelligence']
+Raw count: 2296
+Proportion: 0.15445677766565757
+
+Cluster 12:
+Examples: ['ballistic', 'diagnostic', 'biological', 'safeguard', 'interrogation', 'tribunal', 'prosecution']
+Raw count: 1799
+Proportion: 0.1210225361587622
+
+Cluster 6:
+Examples: ['public', 'dramatic', 'debate', 'football', 'literary', 'athletic', 'speaking']
+Raw count: 1337
+Proportion: 0.08994281870164816
+
+Cluster 0:
+Examples: ['great', 'personal', 'intellectual', 'natural', 'mental', 'technical', 'chemical']
+Raw count: 2809
+Proportion: 0.1889673730238816
+
+Cluster 8:
+Examples: ['dna', 'evidence', 'blood', 'many', 'examiner', 'visual', 'composite']
+Raw count: 687
+Proportion: 0.04621594349142281
+
+Cluster 11:
+Examples: ['social', 'computer', 'research', 'crime', 'life', 'defense', 'security']
+Raw count: 1577
+Proportion: 0.10608812647157753
+
+Cluster 1:
+Examples: ['military', 'national', 'legislative', 'american', 'government', 'international', 'administrative']
+Raw count: 860
+Proportion: 0.05785401950891356
+
+Cluster 3:
+Examples: ['information', 'identification', 'training', 'communication', 'communications', 'telephone', 'education']
+Raw count: 250
+Proportion: 0.016818028927009756
+
+Cluster 14:
+Examples: ['federal', 'rape', 'female', 'homicide', 'victim', 'sexual', 'male']
+Raw count: 211
+Proportion: 0.014194416414396232
+
+Cluster 9:
+Examples: ['combat', 'heroic', 'pleading', 'greeting', 'editorial', 'ruling', 'consultation']
+Raw count: 307
+Proportion: 0.02065253952236798
+
+Cluster 13:
+Examples: ['lifetime', 'time', 'way', 'day', 'year', 'month', 'week']
+Raw count: 22
+Proportion: 0.0014799865455768584
+
+Cluster 16:
+Examples: ['cyber', 'counter', 'auto', 'self', 'anti', 'super', 'double']
+Raw count: 13
+Proportion: 0.0008745375042045072
+
+Cluster 5:
+Examples: ['integrate', 'appoint', 'activate', 'relocate', 'designate', 'consolidate', 'strengthen']
+Raw count: 11
+Proportion: 0.0007399932727884292
+
+Cluster 2:
+Examples: ['lloyd', 'cooper', 'foster', 'yacht', 'cole', 'robinson', 'scott']
+Raw count: 9
+Proportion: 0.0006054490413723512
+
+Cluster 15:
+Examples: ['province', 'desert', 'plains', 'states', 'region', 'wyoming', 'springs']
+Raw count: 10
+Proportion: 0.0006727211570803902
+

@@ -1,0 +1,55 @@
+Cluster 0:
+Examples: ['getting', 'taking', 'making', 'giving', 'paying', 'seeking', 'providing']
+Raw count: 567837
+Proportion: 0.6727567842946762
+
+Cluster 1:
+Examples: ['given', 'received', 'paid', 'granted', 'worth', 'offered', 'awarded']
+Raw count: 162036
+Proportion: 0.19197554632750624
+
+Cluster 4:
+Examples: ['receive', 'get', 'pay', 'make', 'take', 'passing', 'use']
+Raw count: 37861
+Proportion: 0.044856613095273355
+
+Cluster 5:
+Examples: ['receives', 'plus', 'gets', 'gives', 'makes', 'needs', 'requires']
+Raw count: 16203
+Proportion: 0.01919684377017813
+
+Cluster 2:
+Examples: ['whose', 'contributing', 'certain', 'recipient', 'one', 'continuing', 'federal']
+Raw count: 45208
+Proportion: 0.053561125295452254
+
+Cluster 6:
+Examples: ['broadcasting', 'reception', 'manufacturing', 'shipping', 'receiver', 'radio', 'listening']
+Raw count: 12054
+Proportion: 0.01428122908138784
+
+Cluster 8:
+Examples: ['per', 'men', 'de', 'mr', '12', 'en', 'yes']
+Raw count: 2086
+Proportion: 0.0024714322103679305
+
+Cluster 3:
+Examples: ['2012', 'example', '2015', '2007', '2010', '2011', 'months']
+Raw count: 606
+Proportion: 0.0007179711982181044
+
+Cluster 9:
+Examples: ['murder', 'fraud', 'politics', 'theft', 'criminal', 'risk', 'felony']
+Raw count: 110
+Proportion: 0.00013032480495708167
+
+Cluster 10:
+Examples: ['prompt', 'timely', 'quick', 'prompted', 'rapid', 'prompting', 'reliable']
+Raw count: 35
+Proportion: 4.1466983395435076e-05
+
+Cluster 7:
+Examples: ['christians', 'angels', 'dreams', 'gods', 'doubts', 'ghosts', 'fairies']
+Raw count: 9
+Proportion: 1.066293858739759e-05
+

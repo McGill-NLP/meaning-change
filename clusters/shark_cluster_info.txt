@@ -1,0 +1,80 @@
+Cluster 8:
+Examples: ['sharks', 'pool', 'developer', 'shock', 'chicken', 'ray', 'viper']
+Raw count: 1950
+Proportion: 0.16632548618219037
+
+Cluster 2:
+Examples: ['fish', 'dolphin', 'fishing', 'marine', 'whale', 'human', 'tuna']
+Raw count: 2388
+Proportion: 0.20368474923234392
+
+Cluster 13:
+Examples: ['broker', 'default', 'bust', 'tail', 'sham', 'crunch', 'forward']
+Raw count: 1047
+Proportion: 0.08930399181166837
+
+Cluster 12:
+Examples: ['fin', 'sea', 'boat', 'people', 'submarine', 'ship', 'another']
+Raw count: 476
+Proportion: 0.04060047765267827
+
+Cluster 3:
+Examples: ['man', 'agent', 'manager', 'officer', 'banker', 'person', 'guy']
+Raw count: 1382
+Proportion: 0.11787785738655748
+
+Cluster 10:
+Examples: ['animal', 'monster', 'one', 'snake', 'beast', 'body', 'food']
+Raw count: 426
+Proportion: 0.036335721596724664
+
+Cluster 9:
+Examples: ['moon', 'finn', 'cool', 'mack', 'tall', 'dick', 'han']
+Raw count: 999
+Proportion: 0.08520982599795292
+
+Cluster 11:
+Examples: ['guarantee', 'bank', 'company', 'card', 'money', 'retail', 'agency']
+Raw count: 1359
+Proportion: 0.11591606960081884
+
+Cluster 7:
+Examples: ['dog', 'new', 'red', 'white', 'oil', 'big', 'blue']
+Raw count: 706
+Proportion: 0.060218355510064825
+
+Cluster 15:
+Examples: ['rat', 'super', 'now', 'mosquito', 'un', 'hyper', 'bio']
+Raw count: 502
+Proportion: 0.04281815080177414
+
+Cluster 6:
+Examples: ['tiger', 'jaguar', 'scout', 'ii', 'crocodile', 'hare', 'phoenix']
+Raw count: 73
+Proportion: 0.006226543841692255
+
+Cluster 14:
+Examples: ['terror', 'terrorist', 'war', 'two', 'certain', 'panic', 'torpedo']
+Raw count: 310
+Proportion: 0.026441487546912317
+
+Cluster 4:
+Examples: ['high', 'low', 'aggressive', 'critical', 'increased', 'risky', 'excessive']
+Raw count: 43
+Proportion: 0.0036676902081200957
+
+Cluster 0:
+Examples: ['said', 'made', 'used', 'ismail', 'ban', 'liable', 'able']
+Raw count: 30
+Proportion: 0.00255885363357216
+
+Cluster 5:
+Examples: ['il', 'ul', 'rum', 'khan', 'sar', 'ada', 'par']
+Raw count: 13
+Proportion: 0.001108836574547936
+
+Cluster 1:
+Examples: ['coin', 'coins', 'digger', 'dollar', 'salt', 'dollars', 'sovereign']
+Raw count: 20
+Proportion: 0.0017059024223814397
+

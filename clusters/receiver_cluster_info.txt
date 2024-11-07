@@ -1,0 +1,75 @@
+Cluster 4:
+Examples: ['clerk', 'trustee', 'secretary', 'judge', 'agent', 'director', 'manager']
+Raw count: 22921
+Proportion: 0.401861949261006
+
+Cluster 8:
+Examples: ['person', 'owner', 'recipient', 'carrier', 'persons', 'holder', 'source']
+Raw count: 4781
+Proportion: 0.083822781703105
+
+Cluster 7:
+Examples: ['receivers', 'station', 'repository', 'system', 'reception', 'body', 'radio']
+Raw count: 6110
+Proportion: 0.10712344618405596
+
+Cluster 10:
+Examples: ['man', 'company', 'lawyer', 'corporation', 'buyer', 'one', 'friend']
+Raw count: 9241
+Proportion: 0.1620176376737907
+
+Cluster 0:
+Examples: ['register', 'office', 'records', 'journal', 'law', 'gazette', 'report']
+Raw count: 3505
+Proportion: 0.06145133860476533
+
+Cluster 1:
+Examples: ['government', 'state', 'bank', 'people', 'others', 'public', 'owners']
+Raw count: 3442
+Proportion: 0.0603467924329821
+
+Cluster 5:
+Examples: ['plaintiff', 'deceased', 'first', 'well', 'also', 'etc', 'now']
+Raw count: 2040
+Proportion: 0.03576625699107597
+
+Cluster 6:
+Examples: ['committee', 'receipt', 'trust', 'business', 'property', 'case', 'bankruptcy']
+Raw count: 4286
+Proportion: 0.07514420463909392
+
+Cluster 14:
+Examples: ['church', 'congregation', 'model', 'foundation', 'basis', 'brethren', 'religion']
+Raw count: 93
+Proportion: 0.0016305205392990515
+
+Cluster 11:
+Examples: ['esq', 'inc', 'ii', 'com', 'project', 'corp', 'ms']
+Raw count: 299
+Proportion: 0.0052422111962410365
+
+Cluster 3:
+Examples: ['door', 'desk', 'key', 'bar', 'section', 'dr', 'wire']
+Raw count: 278
+Proportion: 0.0048740291389799606
+
+Cluster 2:
+Examples: ['william', 'walter', 'henry', 'otto', 'stanley', 'olivia', 'gilbert']
+Raw count: 10
+Proportion: 0.00017532478917194102
+
+Cluster 13:
+Examples: ['dress', 'clothes', 'shirt', 'shoes', 'shorts', 'boots', 'pants']
+Raw count: 11
+Proportion: 0.00019285726808913512
+
+Cluster 9:
+Examples: ['1949', '1968', '1955', '1954', '1961', '1976', '1967']
+Raw count: 10
+Proportion: 0.00017532478917194102
+
+Cluster 12:
+Examples: ['december', 'august', 'november', 'october', 'july', 'march', 'january']
+Raw count: 10
+Proportion: 0.00017532478917194102
+

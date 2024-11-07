@@ -1,0 +1,90 @@
+Cluster 4:
+Examples: ['began', 'ended', 'commenced', 'occurred', 'erupted', 'based', 'day']
+Raw count: 77828
+Proportion: 0.08764276238888126
+
+Cluster 2:
+Examples: ['came', 'went', 'begun', 'stopped', 'got', 'finished', 'tried']
+Raw count: 246527
+Proportion: 0.27761611866479585
+
+Cluster 0:
+Examples: ['made', 'created', 'completed', 'built', 'wanted', 'opened', 'initiated']
+Raw count: 252275
+Proportion: 0.284088989588002
+
+Cluster 1:
+Examples: ['start', 'come', 'begin', 'want', 'like', 'go', 'keep']
+Raw count: 87796
+Proportion: 0.09886781064262501
+
+Cluster 5:
+Examples: ['done', 'starting', 'going', 'back', 'together', 'just', 'now']
+Raw count: 120052
+Proportion: 0.13519156229518903
+
+Cluster 3:
+Examples: ['starts', 'continued', 'happened', 'begins', 'worked', 'originated', 'comes']
+Raw count: 101680
+Proportion: 0.11450269928176808
+
+Cluster 16:
+Examples: ['re', 'un', 'de', 'en', 'iss', 'st', 'th']
+Raw count: 1219
+Proportion: 0.0013727261056695052
+
+Cluster 8:
+Examples: ['upon', 'word', 'meaning', 'term', 'beneath', 'rainer', 'noun']
+Raw count: 188
+Proportion: 0.0002117083739670771
+
+Cluster 6:
+Examples: ['originating', 'stopping', 'arriving', 'loading']
+Raw count: 142
+Proportion: 0.0001599073888474731
+
+Cluster 10:
+Examples: ['plus', 'equals', 'adds', '47', '46', '49', '90']
+Raw count: 75
+Proportion: 8.445812791239778e-05
+
+Cluster 11:
+Examples: ['general', 'national', 'comprehensive', 'basic', 'universal', 'compulsory', 'standard']
+Raw count: 54
+Proportion: 6.08098520969264e-05
+
+Cluster 12:
+Examples: ['american', 'army', 'senate', 'commercial', 'crop', 'military', 'mills']
+Raw count: 92
+Proportion: 0.00010360197023920795
+
+Cluster 14:
+Examples: ['eager', 'anxious', 'inclined', 'reluctant', 'hesitant', 'reluctance']
+Raw count: 19
+Proportion: 2.139605907114077e-05
+
+Cluster 7:
+Examples: ['germany', 'nazi', 'hitler', 'enemy', 'wwii', 'fascism', 'stalin']
+Raw count: 20
+Proportion: 2.2522167443306073e-05
+
+Cluster 13:
+Examples: ['landing', 'walker', 'dropping', 'kimball', 'georgie', 'drake', 'thorne']
+Raw count: 20
+Proportion: 2.2522167443306073e-05
+
+Cluster 15:
+Examples: ['social', 'jazz', 'libre', 'music', 'nuevo', '54', 'blues']
+Raw count: 9
+Proportion: 1.0134975349487734e-05
+
+Cluster 17:
+Examples: ['shirt', 'hat', 'boots', 'shoes', 'gloves', 'scarf', 'tie']
+Raw count: 11
+Proportion: 1.238719209381834e-05
+
+Cluster 9:
+Examples: ['1870', '1871', '1872', '1869', '1873', '1874']
+Raw count: 7
+Proportion: 7.882758605157126e-06
+

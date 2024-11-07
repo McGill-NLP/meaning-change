@@ -1,0 +1,65 @@
+Cluster 2:
+Examples: ['use', 'consumption', 'production', 'uses', 'power', 'supply', 'development']
+Raw count: 36845
+Proportion: 0.39984156095020024
+
+Cluster 0:
+Examples: ['law', 'laws', 'practice', 'custom', 'policy', 'rules', 'procedure']
+Raw count: 28860
+Proportion: 0.3131884230973749
+
+Cluster 1:
+Examples: ['constitution', 'ordinance', 'fashion', 'precedent', 'disposition', 'oath', 'enactment']
+Raw count: 13245
+Proportion: 0.14373460373959565
+
+Cluster 8:
+Examples: ['used', 'addiction', 'products', 'consumed', 'living', 'also', 'smoking']
+Raw count: 2639
+Proportion: 0.028638400850795994
+
+Cluster 6:
+Examples: ['service', 'minimum', 'calls', 'communication', 'telephone', 'call', 'contact']
+Raw count: 530
+Proportion: 0.005751554547526289
+
+Cluster 3:
+Examples: ['purposes', 'activities', 'safety', 'property', 'issues', 'projects', 'dealers']
+Raw count: 3638
+Proportion: 0.039479538573397435
+
+Cluster 5:
+Examples: ['people', 'now', 'years', 'travel', 'hours', 'vehicles', 'cars']
+Raw count: 2782
+Proportion: 0.03019023537965686
+
+Cluster 7:
+Examples: ['waste', 'equipment', 'pipeline', 'sewer', 'animals', 'poison', 'pipe']
+Raw count: 442
+Proportion: 0.004796579452842679
+
+Cluster 9:
+Examples: ['war', 'oil', 'violence', 'water', 'behavior', 'drugs', 'america']
+Raw count: 2001
+Proportion: 0.02171483141433982
+
+Cluster 11:
+Examples: ['list', 'survey', 'categories', 'ranking', 'image', 'picture', 'notions']
+Raw count: 74
+Proportion: 0.0008030472387112177
+
+Cluster 4:
+Examples: ['many', 'whole', 'city', 'half', 'di', 'mr', 'two']
+Raw count: 1069
+Proportion: 0.011600777002463402
+
+Cluster 10:
+Examples: ['chest', 'male', 'bladder', 'breast', 'brain', 'lung', 'prostate']
+Raw count: 18
+Proportion: 0.00019533581482164756
+
+Cluster 12:
+Examples: ['lewis', 'goddard', 'ct', 'virgil', 'eureka', 'ely']
+Raw count: 6
+Proportion: 6.511193827388252e-05
+

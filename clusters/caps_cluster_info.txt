@@ -1,0 +1,70 @@
+Cluster 6:
+Examples: ['limits', 'cuts', 'increases', 'changes', 'capped', 'raises', 'cut']
+Raw count: 19771
+Proportion: 0.15850784081069813
+
+Cluster 0:
+Examples: ['cap', 'charges', 'bars', 'ones', 'covers', 'heads', 'cards']
+Raw count: 22623
+Proportion: 0.1813728634191707
+
+Cluster 1:
+Examples: ['restrictions', 'rules', 'controls', 'limit', 'laws', 'limitations', 'issues']
+Raw count: 48188
+Proportion: 0.38633229644357503
+
+Cluster 4:
+Examples: ['programs', 'taxes', 'levels', 'ceilings', 'money', 'rates', 'fees']
+Raw count: 16618
+Proportion: 0.13322964435750248
+
+Cluster 7:
+Examples: ['things', 'people', 'government', 'now', 'years', 'something', 'kids']
+Raw count: 5654
+Proportion: 0.0453291857743001
+
+Cluster 2:
+Examples: ['mills', 'graves', 'gems', 'browns', 'births', 'pop', 'hearts']
+Raw count: 7230
+Proportion: 0.05796427540647148
+
+Cluster 8:
+Examples: ['numbers', 'size', 'number', 'letters', 'sizes', 'good', 'types']
+Raw count: 731
+Proportion: 0.005860565051470352
+
+Cluster 3:
+Examples: ['vapor', 'neutral', 'motor', 'downs', 'material', 'outs', 'equal']
+Raw count: 3273
+Proportion: 0.026240259115543726
+
+Cluster 12:
+Examples: ['enough', 'enforcement', 'content', 'cola', 'heavily', 'plenty', 'unreasonable']
+Raw count: 107
+Proportion: 0.0008578392072603662
+
+Cluster 5:
+Examples: ['base', 'cape', 'sea', 'hard', 'middle', 'little', 'white']
+Raw count: 237
+Proportion: 0.0019000737581374467
+
+Cluster 11:
+Examples: ['shit', 'gas', 'nose', 'team', 'fights', 'battles', 'sports']
+Raw count: 143
+Proportion: 0.0011464580059647885
+
+Cluster 10:
+Examples: ['pain', 'international', 'difficulties', 'trade', 'exchange', 'iran', 'economics']
+Raw count: 65
+Proportion: 0.0005211172754385402
+
+Cluster 9:
+Examples: ['2008', '2012', '2014', '2010', '2011', '2009', '2002']
+Raw count: 83
+Proportion: 0.0006654266747907514
+
+Cluster 13:
+Examples: ['foundation', 'piles', 'foundations', 'pile', 'anchors']
+Raw count: 9
+Proportion: 7.215469967610557e-05
+

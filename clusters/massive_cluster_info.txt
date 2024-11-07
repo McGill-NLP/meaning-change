@@ -1,0 +1,50 @@
+Cluster 9:
+Examples: ['large', 'huge', 'big', 'great', 'small', 'little', 'deep']
+Raw count: 63439
+Proportion: 0.1431882919606542
+
+Cluster 2:
+Examples: ['major', 'new', 'real', 'federal', 'recent', 'current', 'military']
+Raw count: 72184
+Proportion: 0.16292664870013499
+
+Cluster 1:
+Examples: ['vast', 'enormous', 'total', 'serious', 'tremendous', 'extensive', 'severe']
+Raw count: 128701
+Proportion: 0.2904912808150847
+
+Cluster 4:
+Examples: ['significant', 'substantial', 'direct', 'full', 'certain', 'comprehensive', 'general']
+Raw count: 74903
+Proportion: 0.16906370896024342
+
+Cluster 6:
+Examples: ['national', 'global', 'government', 'additional', 'one', 'budget', 'international']
+Raw count: 47485
+Proportion: 0.10717848710969065
+
+Cluster 0:
+Examples: ['mass', 'giant', 'super', 'concentrated', 'street', 'un', 'automatic']
+Raw count: 6459
+Proportion: 0.014578621632968134
+
+Cluster 5:
+Examples: ['many', 'two', 'various', 'several', 'three', 'annual', 'multiple']
+Raw count: 15352
+Proportion: 0.034651029464209136
+
+Cluster 3:
+Examples: ['high', 'growing', 'increased', 'illegal', 'increasing', 'future', 'like']
+Raw count: 25703
+Proportion: 0.05801429196968261
+
+Cluster 8:
+Examples: ['whole', 'much', 'completely', 'totally', 'now', 'brand', 'relatively']
+Raw count: 8770
+Proportion: 0.0197947842887646
+
+Cluster 7:
+Examples: ['cities', 'houses', 'roads', 'walls', 'buildings', 'bridges', 'towers']
+Raw count: 50
+Proportion: 0.00011285509856764309
+

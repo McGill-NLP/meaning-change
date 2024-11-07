@@ -1,0 +1,80 @@
+Cluster 7:
+Examples: ['animals', 'cats', 'humans', 'things', 'livestock', 'food', 'goods']
+Raw count: 3976
+Proportion: 0.2465277777777778
+
+Cluster 8:
+Examples: ['children', 'friends', 'families', 'kids', 'dog', 'parents', 'family']
+Raw count: 2721
+Proportion: 0.16871279761904762
+
+Cluster 13:
+Examples: ['dogs', 'farms', 'services', 'problems', 'companions', 'issues', 'wolves']
+Raw count: 910
+Proportion: 0.05642361111111111
+
+Cluster 4:
+Examples: ['people', 'members', 'men', 'women', 'ones', 'persons', 'individuals']
+Raw count: 3338
+Proportion: 0.20696924603174602
+
+Cluster 10:
+Examples: ['pet', 'toys', 'favorites', 'parts', 'books', 'anything', 'eyes']
+Raw count: 1072
+Proportion: 0.06646825396825397
+
+Cluster 3:
+Examples: ['lives', 'homes', 'one', 'home', 'care', 'housing', 'arms']
+Raw count: 834
+Proportion: 0.05171130952380952
+
+Cluster 9:
+Examples: ['property', 'money', 'enemies', 'business', 'servants', 'secrets', 'subjects']
+Raw count: 816
+Proportion: 0.050595238095238096
+
+Cluster 2:
+Examples: ['interests', 'slaves', 'something', 'use', 'fun', 'laws', 'good']
+Raw count: 310
+Proportion: 0.01922123015873016
+
+Cluster 5:
+Examples: ['hands', 'favors', 'put', 'puts', 'seals', 'policies', 'takes']
+Raw count: 162
+Proportion: 0.010044642857142858
+
+Cluster 6:
+Examples: ['cat', 'brit', 'co', 'mor', 'pe', 'sci', 'ae']
+Raw count: 999
+Proportion: 0.06194196428571429
+
+Cluster 15:
+Examples: ['living', 'house', 'farm', 'jobs', 'first', 'new', 'sex']
+Raw count: 375
+Proportion: 0.023251488095238096
+
+Cluster 0:
+Examples: ['rights', 'guns', 'classes', 'disabilities', 'freedom', 'group', 'right']
+Raw count: 328
+Proportion: 0.020337301587301588
+
+Cluster 14:
+Examples: ['part', 'dead', 'berg', 'hell', 'sid', 'sis', 'nord']
+Raw count: 140
+Proportion: 0.008680555555555556
+
+Cluster 11:
+Examples: ['ships', 'vessels', 'treasures', 'colors', 'spirit', 'warships', 'submarines']
+Raw count: 25
+Proportion: 0.0015500992063492063
+
+Cluster 1:
+Examples: ['un', 'hand', 'go', 'pay', 'watch', 'add', 'make']
+Raw count: 86
+Proportion: 0.00533234126984127
+
+Cluster 12:
+Examples: ['back', 'keeps', 'never', 'side', 'stove', 'kitchen', 'closer']
+Raw count: 36
+Proportion: 0.002232142857142857
+

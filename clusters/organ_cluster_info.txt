@@ -1,0 +1,75 @@
+Cluster 5:
+Examples: ['organs', 'blood', 'heart', 'kidney', 'human', 'liver', 'tissue']
+Raw count: 36323
+Proportion: 0.347661708685082
+
+Cluster 1:
+Examples: ['body', 'part', 'one', 'object', 'institution', 'thing', 'system']
+Raw count: 10642
+Proportion: 0.1018587645245889
+
+Cluster 4:
+Examples: ['arm', 'idea', 'infant', 'operation', 'income', 'abortion', 'ether']
+Raw count: 3129
+Proportion: 0.029948888761270314
+
+Cluster 3:
+Examples: ['civil', 'real', 'un', 'total', 'gr', 'fr', 'general']
+Raw count: 25042
+Proportion: 0.23968682402036792
+
+Cluster 2:
+Examples: ['instrument', 'bell', 'piano', 'pipe', 'organist', 'engine', 'church']
+Raw count: 3660
+Proportion: 0.03503129845517717
+
+Cluster 0:
+Examples: ['newspaper', 'journal', 'publication', 'paper', 'member', 'leader', 'magazine']
+Raw count: 22912
+Proportion: 0.2192997568866173
+
+Cluster 6:
+Examples: ['big', 'indian', 'long', 'gas', 'hand', 'iron', 'tin']
+Raw count: 2118
+Proportion: 0.020272210417504162
+
+Cluster 7:
+Examples: ['called', 'said', 'established', 'says', 'organized', 'known', 'formed']
+Raw count: 399
+Proportion: 0.0038189858151955434
+
+Cluster 9:
+Examples: ['friends', 'etc', 'whatever', 'politics', 'editors', 'partners', 'else']
+Raw count: 116
+Proportion: 0.0011102815903826643
+
+Cluster 12:
+Examples: ['50', '100', '500', '90', '45', '800', '600']
+Raw count: 29
+Proportion: 0.00027757039759566607
+
+Cluster 8:
+Examples: ['box', 'vision', 'hope', 'instead', 'smile', 'promise', 'benefits']
+Raw count: 46
+Proportion: 0.0004402840789448496
+
+Cluster 11:
+Examples: ['prisoner', 'priest', 'boys', 'soldiers', 'girls', 'prisoners', 'guards']
+Raw count: 31
+Proportion: 0.0002967131836367465
+
+Cluster 10:
+Examples: ['french', 'dress', 'clothes', 'silk', 'shirt', 'laundry', 'linen']
+Raw count: 15
+Proportion: 0.00014357089530810314
+
+Cluster 14:
+Examples: ['possess', 'stress', 'torment', 'attract', 'resist', 'suppress', 'suit']
+Raw count: 8
+Proportion: 7.657114416432167e-05
+
+Cluster 13:
+Examples: ['dorchester', 'lawrence', 'poole', 'montgomery', 'cambridge', 'charleston', 'washington']
+Raw count: 8
+Proportion: 7.657114416432167e-05
+

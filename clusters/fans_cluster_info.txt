@@ -1,0 +1,90 @@
+Cluster 7:
+Examples: ['people', 'men', 'spectators', 'citizens', 'women', 'americans', 'children']
+Raw count: 9622
+Proportion: 0.19836721230363255
+
+Cluster 9:
+Examples: ['players', 'teams', 'coaches', 'clubs', 'enthusiasts', 'lovers', 'athletes']
+Raw count: 13596
+Proportion: 0.28029522120974726
+
+Cluster 4:
+Examples: ['supporters', 'friends', 'members', 'students', 'families', 'others', 'alumni']
+Raw count: 8563
+Proportion: 0.17653486166659796
+
+Cluster 6:
+Examples: ['team', 'kids', 'guys', 'scouts', 'owners', 'community', 'residents']
+Raw count: 6571
+Proportion: 0.13546777718220426
+
+Cluster 3:
+Examples: ['fan', 'lights', 'cars', 'things', 'homes', 'lamps', 'motors']
+Raw count: 4548
+Proportion: 0.09376159650352534
+
+Cluster 14:
+Examples: ['ones', 'one', 'two', 'person', 'three', 'guy', 'way']
+Raw count: 540
+Proportion: 0.01113264338432359
+
+Cluster 8:
+Examples: ['now', 'today', 'just', 'also', 'football', 'always', 'everywhere']
+Raw count: 1905
+Proportion: 0.03927349193914155
+
+Cluster 0:
+Examples: ['life', 'rest', 'ball', 'heart', 'best', 'future', 'states']
+Raw count: 873
+Proportion: 0.017997773471323135
+
+Cluster 10:
+Examples: ['money', 'population', 'talent', 'right', 'talents', 'work', 'skills']
+Raw count: 448
+Proportion: 0.009235970807735125
+
+Cluster 12:
+Examples: ['plays', 'go', 'matches', 'feeds', 'raises', 'sets', 'fuels']
+Raw count: 955
+Proportion: 0.01968828598523894
+
+Cluster 1:
+Examples: ['ever', 'un', 'bags', 'gen', 'land', 'res', 'bones']
+Raw count: 708
+Proportion: 0.014596132437224262
+
+Cluster 13:
+Examples: ['law', 'dil', 'chan', 'nad', 'heck', 'cot', 'mid']
+Raw count: 27
+Proportion: 0.0005566321692161794
+
+Cluster 2:
+Examples: ['center', 'green', 'wood', 'smith', 'brown', 'red', 'greens']
+Raw count: 92
+Proportion: 0.0018966725765884632
+
+Cluster 5:
+Examples: ['wind', 'devil', 'salt', 'fang', 'wolf', 'fu', 'tang']
+Raw count: 16
+Proportion: 0.0003298561002762545
+
+Cluster 17:
+Examples: ['planners', 'plans', 'zones', 'plan', 'planning', 'policies', 'schemes']
+Raw count: 13
+Proportion: 0.00026800808147445677
+
+Cluster 16:
+Examples: ['helps', 'explains', 'remembers', 'highlights', 'concerns', 'ruins', 'affects']
+Raw count: 10
+Proportion: 0.00020616006267265905
+
+Cluster 15:
+Examples: ['12', '11', '16', '14', '22', '15', '13']
+Raw count: 9
+Proportion: 0.00018554405640539316
+
+Cluster 11:
+Examples: ['jewel', 'shutter', 'veil', 'fresco', 'enamel', 'recess', 'tier']
+Raw count: 10
+Proportion: 0.00020616006267265905
+

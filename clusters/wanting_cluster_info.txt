@@ -1,0 +1,65 @@
+Cluster 9:
+Examples: ['trying', 'attempting', 'want', 'wants', 'continuing', 'helping', 'failing']
+Raw count: 43355
+Proportion: 0.30517935578330896
+
+Cluster 1:
+Examples: ['going', 'willing', 'wishing', 'ready', 'able', 'hoping', 'looking']
+Raw count: 34895
+Proportion: 0.24562873071291813
+
+Cluster 4:
+Examples: ['getting', 'seeking', 'needing', 'asking', 'making', 'planning', 'starting']
+Raw count: 35078
+Proportion: 0.24691688253181665
+
+Cluster 5:
+Examples: ['enough', 'even', 'one', 'many', 'anymore', 'two', 'part']
+Raw count: 2730
+Proportion: 0.019216691068814056
+
+Cluster 0:
+Examples: ['lacking', 'guilty', 'dead', 'necessary', 'interested', 'wrong', 'alive']
+Raw count: 20315
+Proportion: 0.14299893005969141
+
+Cluster 6:
+Examples: ['now', 'yes', 'line', 'mr', 'etc', 'works', 'act']
+Raw count: 870
+Proportion: 0.0061240004505011825
+
+Cluster 2:
+Examples: ['needed', 'made', 'used', 'found', 'required', 'available', 'done']
+Raw count: 4331
+Proportion: 0.03048625971393175
+
+Cluster 10:
+Examples: ['near', 'un', 'en', 'de', 'non', 're', 'gold']
+Raw count: 218
+Proportion: 0.0015345196531140893
+
+Cluster 7:
+Examples: ['members', 'political', 'positive', 'american', 'faithful', 'party', 'mutual']
+Raw count: 226
+Proportion: 0.00159083230093479
+
+Cluster 12:
+Examples: ['year', 'summer', 'month', 'week', 'march', 'december', 'january']
+Raw count: 13
+Proportion: 9.150805270863836e-05
+
+Cluster 11:
+Examples: ['wilson', 'johnson', 'jones', 'smith', 'davis', 'moore', 'anderson']
+Raw count: 13
+Proportion: 9.150805270863836e-05
+
+Cluster 8:
+Examples: ['yuan', 'qing', 'shi', 'gong', 'cheng', 'hai', 'xi']
+Raw count: 10
+Proportion: 7.039080977587566e-05
+
+Cluster 3:
+Examples: ['dali', 'canton', 'wai', 'lu', 'nanjing', 'nan', 'yunnan']
+Raw count: 10
+Proportion: 7.039080977587566e-05
+

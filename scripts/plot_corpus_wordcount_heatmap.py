@@ -9,7 +9,6 @@ import seaborn as sns
 from scipy.ndimage import gaussian_filter
 
 # These are used to filter the corpus -- same default parameter values as used in the rest of the codebase.
-min_age = 25
 procedural_prob_threshold = 0.5
 
 plot_directory = './plots/misc'

@@ -1,0 +1,60 @@
+Cluster 8:
+Examples: ['television', 'radio', 'broadcasting', 'tv', 'public', 'commercial', 'cable']
+Raw count: 65159
+Proportion: 0.366793323763686
+
+Cluster 0:
+Examples: ['news', 'show', 'program', 'broadcasts', 'report', 'speech', 'station']
+Raw count: 42260
+Proportion: 0.23789017422387346
+
+Cluster 4:
+Examples: ['aired', 'made', 'transmitted', 'heard', 'carried', 'produced', 'published']
+Raw count: 30699
+Proportion: 0.17281094317318246
+
+Cluster 3:
+Examples: ['air', 'print', 'live', 'talk', 'transmit', 'carry', 'make']
+Raw count: 20682
+Proportion: 0.11642320358017394
+
+Cluster 6:
+Examples: ['everywhere', 'back', 'widely', 'forth', 'online', 'now', 'far']
+Raw count: 12163
+Proportion: 0.06846801204649723
+
+Cluster 9:
+Examples: ['production', 'use', 'airing', 'distribution', 'stations', 'transmitting', 'sale']
+Raw count: 3583
+Proportion: 0.02016943904979031
+
+Cluster 5:
+Examples: ['channel', 'forward', 'relay', 'mail', 'simulcast', 'telegraph', 'except']
+Raw count: 2308
+Proportion: 0.01299220355202792
+
+Cluster 10:
+Examples: ['sky', 'com', 'inc', '10', 'publications', '24', 'productions']
+Raw count: 721
+Proportion: 0.0040586563089307325
+
+Cluster 1:
+Examples: ['fighting', 'okay', 'epic', 'hell', 'fuss', 'heck', 'fuck']
+Raw count: 18
+Proportion: 0.00010132567761546905
+
+Cluster 2:
+Examples: ['storm', 'earthquake', 'floods', 'stores', 'banks', 'flooding', 'interval']
+Raw count: 31
+Proportion: 0.0001745053336710856
+
+Cluster 7:
+Examples: ['tick', 'pu', 'gel', 'ri', 'towel', 'prick', 'pe']
+Raw count: 10
+Proportion: 5.629204311970503e-05
+
+Cluster 11:
+Examples: ['aa', 'chip', 'peg', 'cap', 'dot', 'aaa', 'apr']
+Raw count: 11
+Proportion: 6.192124743167554e-05
+

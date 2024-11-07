@@ -1,0 +1,90 @@
+Cluster 0:
+Examples: ['effect', 'result', 'value', 'importance', 'force', 'consequence', 'aspect']
+Raw count: 488176
+Proportion: 0.32547952585129214
+
+Cluster 2:
+Examples: ['effects', 'consequences', 'implications', 'toll', 'cost', 'benefits', 'damage']
+Raw count: 348431
+Proportion: 0.23230793130324223
+
+Cluster 3:
+Examples: ['influence', 'affect', 'bearing', 'affects', 'focus', 'hold', 'change']
+Raw count: 303350
+Proportion: 0.2022512662789434
+
+Cluster 6:
+Examples: ['impacts', 'accident', 'average', 'contact', 'crash', 'collision', 'launch']
+Raw count: 62974
+Proportion: 0.04198638945986544
+
+Cluster 4:
+Examples: ['impression', 'attack', 'emphasis', 'issue', 'assessment', 'position', 'action']
+Raw count: 105931
+Proportion: 0.070626928921031
+
+Cluster 1:
+Examples: ['burden', 'power', 'benefit', 'harm', 'assault', 'imprint', 'stress']
+Raw count: 73795
+Proportion: 0.04920102915791867
+
+Cluster 7:
+Examples: ['risk', 'policy', 'development', 'environmental', 'financial', 'direct', 'federal']
+Raw count: 114924
+Proportion: 0.07662279388772471
+
+Cluster 5:
+Examples: ['un', 'vs', 'inc', '10', 'mr', 'non', 're']
+Raw count: 1940
+Proportion: 0.0012934480190576899
+
+Cluster 12:
+Examples: ['fishing', 'ecosystem', 'fishery', 'reef', 'fishermen', 'tuna', 'fisher']
+Raw count: 63
+Proportion: 4.2003724330223944e-05
+
+Cluster 9:
+Examples: ['wings', 'tail', 'stick', 'straw', 'wing', 'strings', 'birds']
+Raw count: 47
+Proportion: 3.1336111801913105e-05
+
+Cluster 10:
+Examples: ['shaking', 'tears', 'screaming', 'crying', 'sobbing', 'trembling', 'weeping']
+Raw count: 30
+Proportion: 2.0001773490582833e-05
+
+Cluster 11:
+Examples: ['2000', '2009', '2002', '1973', '1990', '2001', '2003']
+Raw count: 104
+Proportion: 6.933948143402048e-05
+
+Cluster 16:
+Examples: ['catholic', 'newsweek', 'catholics', 'catholicism', 'priests', 'jesuit', 'clergy']
+Raw count: 17
+Proportion: 1.1334338311330271e-05
+
+Cluster 13:
+Examples: ['george', 'paul', 'john', 'elizabeth', 'mary', 'vatican', 'joseph']
+Raw count: 46
+Proportion: 3.0669386018893676e-05
+
+Cluster 14:
+Examples: ['exposed', 'aggressive', 'uncomfortable', 'awkward', 'upright', 'unsafe', 'uneasy']
+Raw count: 13
+Proportion: 8.66743517925256e-06
+
+Cluster 17:
+Examples: ['fat', 'sugar', 'sugarcane', 'candy', 'brown', 'chocolate', 'coke']
+Raw count: 9
+Proportion: 6.00053204717485e-06
+
+Cluster 15:
+Examples: ['templar', 'rf', 'ci', 'mag', 'jacob', 'cf', 'mccall']
+Raw count: 8
+Proportion: 5.333806264155422e-06
+
+Cluster 8:
+Examples: ['cameo', 'valentine', 'novella', 'lyric', 'wexford', 'reprise', 'sonata']
+Raw count: 9
+Proportion: 6.00053204717485e-06
+

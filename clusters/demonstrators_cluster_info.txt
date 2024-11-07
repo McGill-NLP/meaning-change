@@ -1,0 +1,100 @@
+Cluster 2:
+Examples: ['people', 'women', 'citizens', 'individuals', 'children', 'crowds', 'kids']
+Raw count: 6170
+Proportion: 0.2141022971753765
+
+Cluster 5:
+Examples: ['protesters', 'activists', 'leaders', 'groups', 'members', 'participants', 'crowd']
+Raw count: 5079
+Proportion: 0.17624401415781804
+
+Cluster 0:
+Examples: ['men', 'persons', 'workers', 'officers', 'volunteers', 'ones', 'residents']
+Raw count: 3785
+Proportion: 0.13134152265944896
+
+Cluster 10:
+Examples: ['students', 'government', 'teachers', 'professors', 'parents', 'schools', 'life']
+Raw count: 1375
+Proportion: 0.04771323478381567
+
+Cluster 8:
+Examples: ['demonstrations', 'protests', 'protest', 'demonstration', 'movement', 'movements', 'organizations']
+Raw count: 3118
+Proportion: 0.10819626622249982
+
+Cluster 17:
+Examples: ['police', 'soldiers', 'americans', 'public', 'communists', 'victims', 'president']
+Raw count: 3864
+Proportion: 0.1340828648761191
+
+Cluster 14:
+Examples: ['others', 'one', 'man', 'just', 'also', 'woman', 'dogs']
+Raw count: 954
+Proportion: 0.03310430980637102
+
+Cluster 12:
+Examples: ['group', 'party', 'now', 'two', 'whites', 'organization', 'rally']
+Raw count: 809
+Proportion: 0.028072732320077728
+
+Cluster 3:
+Examples: ['civilians', 'troops', 'rebels', 'forces', 'population', 'gatherings', 'targets']
+Raw count: 1298
+Proportion: 0.04504129363592199
+
+Cluster 4:
+Examples: ['events', 'violence', 'military', 'riot', 'elements', 'fire', 'tanks']
+Raw count: 486
+Proportion: 0.016864459712679577
+
+Cluster 11:
+Examples: ['army', 'rights', 'league', 'power', 'funds', 'money', 'powers']
+Raw count: 186
+Proportion: 0.0064542993962107015
+
+Cluster 1:
+Examples: ['posters', 'reporters', 'questions', 'words', 'etc', 'newspapers', 'pictures']
+Raw count: 451
+Proportion: 0.01564994100909154
+
+Cluster 18:
+Examples: ['christians', 'city', 'church', 'homeless', 'street', 'building', 'camp']
+Raw count: 278
+Proportion: 0.009646748559927823
+
+Cluster 16:
+Examples: ['cars', 'units', 'vehicles', 'buses', 'programs', 'scientists', 'mass']
+Raw count: 376
+Proportion: 0.013047400929974322
+
+Cluster 13:
+Examples: ['thousand', 'first', 'attendees', 'present', 'young', 'original', 'hundred']
+Raw count: 320
+Proportion: 0.011104171004233465
+
+Cluster 9:
+Examples: ['today', 'thomas', 'john', 'paul', 'david', 'ed', 'peter']
+Raw count: 100
+Proportion: 0.003470053438822958
+
+Cluster 7:
+Examples: ['end', 'sub', 'bus', 'com', 'non', 'take', 're']
+Raw count: 116
+Proportion: 0.004025261989034631
+
+Cluster 15:
+Examples: ['discrimination', 'amendment', 'equality', 'compensation', 'prejudice', 'inequality', 'limitation']
+Raw count: 18
+Proportion: 0.0006246096189881324
+
+Cluster 19:
+Examples: ['50', '45', '500', '34', '47', '49', '37']
+Raw count: 15
+Proportion: 0.0005205080158234437
+
+Cluster 6:
+Examples: ['educated', 'accepted', 'appointed', 'taught', 'selected', 'trained', 'honored']
+Raw count: 20
+Proportion: 0.0006940106877645916
+

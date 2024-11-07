@@ -1,0 +1,65 @@
+Cluster 4:
+Examples: ['programs', 'meetings', 'conferences', 'classes', 'seminars', 'events', 'courses']
+Raw count: 11637
+Proportion: 0.3477884040645547
+
+Cluster 0:
+Examples: ['schools', 'houses', 'factories', 'homes', 'buildings', 'shops', 'communities']
+Raw count: 10098
+Proportion: 0.3017931858936043
+
+Cluster 9:
+Examples: ['facilities', 'services', 'housing', 'education', 'hospitals', 'children', 'work']
+Raw count: 2623
+Proportion: 0.07839210998206814
+
+Cluster 5:
+Examples: ['workshop', 'program', 'school', 'conference', 'accommodation', 'instruction', 'group']
+Raw count: 2586
+Proportion: 0.07728631201434549
+
+Cluster 1:
+Examples: ['people', 'committees', 'men', 'workers', 'persons', 'members', 'teachers']
+Raw count: 1428
+Proportion: 0.042677824267782424
+
+Cluster 2:
+Examples: ['cities', 'business', 'states', 'hands', 'countries', 'country', 'government']
+Raw count: 2135
+Proportion: 0.06380753138075314
+
+Cluster 3:
+Examples: ['groups', 'etc', 'resources', 'women', 'materials', 'machines', 'tools']
+Raw count: 1198
+Proportion: 0.03580394500896593
+
+Cluster 7:
+Examples: ['times', 'community', 'state', 'college', 'area', 'now', 'post']
+Raw count: 1178
+Proportion: 0.03520621637776449
+
+Cluster 11:
+Examples: ['elections', 'outreach', 'examinations', 'fundraising', 'races', 'seats', 'rules']
+Raw count: 101
+Proportion: 0.0030185295875672443
+
+Cluster 12:
+Examples: ['life', 'use', 'needs', 'list', 'capacity', 'board', 'purposes']
+Raw count: 99
+Proportion: 0.002958756724447101
+
+Cluster 10:
+Examples: ['together', 'along', 'options', 'among', 'visit', 'united', 'deep']
+Raw count: 62
+Proportion: 0.001852958756724447
+
+Cluster 6:
+Examples: ['techniques', 'ii', 'methods', 'preparation', 'procedures', 'practice', 'limits']
+Raw count: 101
+Proportion: 0.0030185295875672443
+
+Cluster 8:
+Examples: ['called', 'going', 'working', 'academy', 'available', 'small', 'running']
+Raw count: 214
+Proportion: 0.00639569635385535
+

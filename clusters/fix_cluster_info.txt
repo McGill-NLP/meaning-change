@@ -1,0 +1,65 @@
+Cluster 0:
+Examples: ['make', 'change', 'determine', 'take', 'raise', 'increase', 'establish']
+Raw count: 522671
+Proportion: 0.6839605173106442
+
+Cluster 7:
+Examples: ['set', 'put', 'fixed', 'like', 'just', 'even', 'made']
+Raw count: 61604
+Proportion: 0.08061419843152752
+
+Cluster 2:
+Examples: ['fixing', 'assess', 'punish', 'accomplish', 'suppress', 'relax', 'limit']
+Raw count: 90300
+Proportion: 0.11816541325834257
+
+Cluster 1:
+Examples: ['measure', 'cure', 'remedy', 'start', 'one', 'thing', 'solution']
+Raw count: 68685
+Proportion: 0.0898803035398589
+
+Cluster 12:
+Examples: ['affect', 'assign', 'effect', 'cap', 'domestic', 'import', 'oxygen']
+Raw count: 17609
+Proportion: 0.023042909878916436
+
+Cluster 8:
+Examples: ['patch', 'etc', 'either', 'yet', 'others', 'patches', 'directly']
+Raw count: 918
+Proportion: 0.001201282938772519
+
+Cluster 10:
+Examples: ['half', 'new', 'two', 'low', 'three', 'five', 'train']
+Raw count: 1710
+Proportion: 0.0022376839055566534
+
+Cluster 6:
+Examples: ['back', 'inform', 'various', 'sweep', 'staff', 'jail', 'interview']
+Raw count: 541
+Proportion: 0.0007079456098866371
+
+Cluster 3:
+Examples: ['smith', 'davis', 'wilson', 'johnson', 'williams', 'washington', 'brown']
+Raw count: 77
+Proportion: 0.00010076120510401304
+
+Cluster 4:
+Examples: ['glimpse', 'google', 'cruise']
+Raw count: 7
+Proportion: 9.160109554910276e-06
+
+Cluster 9:
+Examples: ['fed', 'corporate', 'forensic', 'csi', 'physicist', 'hacker', 'geologist']
+Raw count: 13
+Proportion: 1.7011632030547656e-05
+
+Cluster 11:
+Examples: ['1991', '1992', '1993', '1990', '1987', '1995', '1994']
+Raw count: 30
+Proportion: 3.9257612378186904e-05
+
+Cluster 5:
+Examples: ['stein', 'meyer', 'muller', 'schmidt', 'wagner', 'berger', 'becker']
+Raw count: 18
+Proportion: 2.355456742691214e-05
+

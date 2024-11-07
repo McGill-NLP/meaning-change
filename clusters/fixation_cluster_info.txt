@@ -1,0 +1,100 @@
+Cluster 1:
+Examples: ['production', 'use', 'reduction', 'extraction', 'manufacture', 'synthesis', 'generation']
+Raw count: 3076
+Proportion: 0.35154285714285716
+
+Cluster 0:
+Examples: ['fixing', 'transfer', 'control', 'regulation', 'fix', 'exchange', 'adjustment']
+Raw count: 837
+Proportion: 0.09565714285714286
+
+Cluster 2:
+Examples: ['determination', 'change', 'question', 'calculation', 'idea', 'matter', 'addition']
+Raw count: 1063
+Proportion: 0.12148571428571428
+
+Cluster 3:
+Examples: ['focus', 'policy', 'war', 'attack', 'effect', 'emphasis', 'position']
+Raw count: 1442
+Proportion: 0.1648
+
+Cluster 5:
+Examples: ['problem', 'thing', 'obsession', 'concern', 'lot', 'relationship', 'problems']
+Raw count: 784
+Proportion: 0.0896
+
+Cluster 9:
+Examples: ['purpose', 'number', 'name', 'subject', 'goal', 'mission', 'job']
+Raw count: 147
+Proportion: 0.0168
+
+Cluster 13:
+Examples: ['gas', 'power', 'manufacturing', 'pressure', 'chemical', 'nitrogen', 'new']
+Raw count: 430
+Proportion: 0.04914285714285714
+
+Cluster 6:
+Examples: ['work', 'action', 'form', 'presence', 'composition', 'combination', 'absence']
+Raw count: 191
+Proportion: 0.02182857142857143
+
+Cluster 11:
+Examples: ['provision', 'elements', 'element', 'matters', 'relations', 'terms', 'enactment']
+Raw count: 77
+Proportion: 0.0088
+
+Cluster 8:
+Examples: ['place', 'time', 'point', 'case', 'situation', 'need', 'limit']
+Raw count: 203
+Proportion: 0.0232
+
+Cluster 16:
+Examples: ['sources', 'concentrations', 'traces', 'methods', 'amounts', 'quantities', 'explosions']
+Raw count: 31
+Proportion: 0.0035428571428571427
+
+Cluster 17:
+Examples: ['belief', 'fear', 'certainty', 'conviction', 'care', 'surprise', 'panic']
+Raw count: 92
+Proportion: 0.010514285714285714
+
+Cluster 10:
+Examples: ['movement', 'crisis', 'field', 'business', 'rise', 'growth', 'shortage']
+Raw count: 127
+Proportion: 0.014514285714285714
+
+Cluster 15:
+Examples: ['based', 'reserve', 'money', 'hands', 'lines', 'eyes', 'goes']
+Raw count: 93
+Proportion: 0.010628571428571428
+
+Cluster 18:
+Examples: ['report', 'committee', 'cost', 'now', 'whatever', 'even', 'without']
+Raw count: 105
+Proportion: 0.012
+
+Cluster 12:
+Examples: ['points', 'fields', 'waves', 'arcs', 'beams', 'angles', 'images']
+Raw count: 10
+Proportion: 0.001142857142857143
+
+Cluster 14:
+Examples: ['talent', 'ability', 'skill', 'expertise', 'talents', 'abilities', 'skills']
+Raw count: 11
+Proportion: 0.001257142857142857
+
+Cluster 7:
+Examples: ['camera', 'telescope', 'binoculars', 'lens', 'microscope', 'scope', 'mirror']
+Raw count: 11
+Proportion: 0.001257142857142857
+
+Cluster 19:
+Examples: ['germany', 'russia', 'americans', 'germans', 'france', 'hitler', 'aircraft']
+Raw count: 10
+Proportion: 0.001142857142857143
+
+Cluster 4:
+Examples: ['el', 'ol', 'bo', 'ea', 'wee', 'tho', 'ab']
+Raw count: 10
+Proportion: 0.001142857142857143
+

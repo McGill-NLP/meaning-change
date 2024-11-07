@@ -1,0 +1,75 @@
+Cluster 11:
+Examples: ['good', 'fine', 'beautiful', 'cool', 'really', 'tough', 'well']
+Raw count: 21469
+Proportion: 0.12830488621151273
+
+Cluster 0:
+Examples: ['great', 'wonderful', 'bad', 'interesting', 'important', 'pretty', 'better']
+Raw count: 77638
+Proportion: 0.4639868999808759
+
+Cluster 8:
+Examples: ['big', 'little', 'small', 'new', 'long', 'large', 'huge']
+Raw count: 21280
+Proportion: 0.12717536813922356
+
+Cluster 14:
+Examples: ['real', 'special', 'certain', 'sure', 'subtle', 'frail', 'uncertain']
+Raw count: 15323
+Proportion: 0.09157463186077644
+
+Cluster 1:
+Examples: ['kind', 'right', 'like', 'just', 'okay', 'something', 'time']
+Raw count: 11001
+Proportion: 0.06574512335054504
+
+Cluster 9:
+Examples: ['true', 'polite', 'safe', 'wise', 'cute', 'rare', 'brave']
+Raw count: 11323
+Proportion: 0.06766948747370434
+
+Cluster 2:
+Examples: ['fun', 'one', 'mr', 'lot', 'last', 'way', 'man']
+Raw count: 5510
+Proportion: 0.032929336393191816
+
+Cluster 13:
+Examples: ['people', 'things', 'love', 'stuff', 'men', 'friends', 'peace']
+Raw count: 1330
+Proportion: 0.007948460508701473
+
+Cluster 4:
+Examples: ['noble', 'summer', 'war', 'military', 'belle', 'glorious', 'gaines']
+Raw count: 810
+Proportion: 0.0048407917383821
+
+Cluster 5:
+Examples: ['civil', 'silent', 'court', 'criminal', 'silence', 'louder', 'debt']
+Raw count: 141
+Proportion: 0.0008426563396442914
+
+Cluster 12:
+Examples: ['also', 'paris', 'home', 'america', 'st', 'france', 'rome']
+Raw count: 1119
+Proportion: 0.006687464142283419
+
+Cluster 3:
+Examples: ['around', 'favorite', 'along', 'either', 'sports', 'football', 'former']
+Raw count: 354
+Proportion: 0.0021156052782558806
+
+Cluster 6:
+Examples: ['valley', 'phoenix', 'arizona', 'tucson', 'prescott', 'tombstone', 'sonora']
+Raw count: 10
+Proportion: 5.976286096768024e-05
+
+Cluster 7:
+Examples: ['jean', 'pierre', 'alain', 'andre', 'jacques', 'maurice', 'philippe']
+Raw count: 10
+Proportion: 5.976286096768024e-05
+
+Cluster 10:
+Examples: ['billboard', 'hampton', 'warner', 'barclay', 'vibe', 'coconut', 'neptune']
+Raw count: 10
+Proportion: 5.976286096768024e-05
+

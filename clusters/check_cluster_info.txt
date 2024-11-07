@@ -1,0 +1,60 @@
+Cluster 2:
+Examples: ['checks', 'money', 'account', 'cash', 'payment', 'order', 'power']
+Raw count: 86016
+Proportion: 0.12782348185838605
+
+Cluster 3:
+Examples: ['call', 'bill', 'report', 'letter', 'card', 'paper', 'one']
+Raw count: 232455
+Proportion: 0.3454381449426982
+
+Cluster 7:
+Examples: ['checking', 'watch', 'hand', 'round', 'question', 'play', 'lock']
+Raw count: 73154
+Proportion: 0.10870999572019592
+
+Cluster 1:
+Examples: ['take', 'work', 'look', 'get', 'review', 'pay', 'go']
+Raw count: 245079
+Proportion: 0.36419795282704837
+
+Cluster 11:
+Examples: ['checked', 'scan', 'just', 'paid', 'now', 'clearance', 'also']
+Raw count: 18763
+Proportion: 0.02788262637310381
+
+Cluster 0:
+Examples: ['control', 'balance', 'place', 'store', 'reserve', 'mind', 'office']
+Raw count: 16955
+Proportion: 0.02519586047838699
+
+Cluster 9:
+Examples: ['exchange', 'network', 'industry', 'chain', 'economic', 'plague', 'virus']
+Raw count: 373
+Proportion: 0.0005542940700936802
+
+Cluster 8:
+Examples: ['destruction', 'handicap', 'preservation', 'veteran', 'destroyed', 'embarrassment', 'disabled']
+Raw count: 72
+Proportion: 0.00010699510200199724
+
+Cluster 4:
+Examples: ['taxi', 'sui', 'bali', 'wadi', 'joshi', 'lai', 'bei']
+Raw count: 28
+Proportion: 4.1609206334110036e-05
+
+Cluster 10:
+Examples: ['beating', 'wound', 'wounded', 'wounds', 'wounding']
+Raw count: 22
+Proportion: 3.26929478339436e-05
+
+Cluster 6:
+Examples: ['bothered', 'intimidated', 'overwhelmed', 'affected', 'threatened', 'surprised', 'shocked']
+Raw count: 8
+Proportion: 1.1888344666888582e-05
+
+Cluster 5:
+Examples: ['drilling', 'sonar', '001']
+Raw count: 3
+Proportion: 4.458129250083218e-06
+

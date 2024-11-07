@@ -1,0 +1,80 @@
+Cluster 15:
+Examples: ['beginning', 'back', 'since', 'effective', 'early', 'tomorrow', 'late']
+Raw count: 29549
+Proportion: 0.09344266442354518
+
+Cluster 3:
+Examples: ['going', 'coming', 'started', 'trying', 'ready', 'able', 'began']
+Raw count: 75448
+Proportion: 0.2385888573362089
+
+Cluster 1:
+Examples: ['start', 'now', 'like', 'just', 'working', 'especially', 'along']
+Raw count: 56961
+Proportion: 0.18012750374731995
+
+Cluster 4:
+Examples: ['getting', 'making', 'building', 'ending', 'commencing', 'running', 'opening']
+Raw count: 86456
+Proportion: 0.2733994042235616
+
+Cluster 0:
+Examples: ['turning', 'right', 'meeting', 'reference', 'first', 'focal', 'end']
+Raw count: 54342
+Proportion: 0.1718454523030997
+
+Cluster 5:
+Examples: ['time', 'date', 'construction', 'commencement', 'departure', 'day', 'life']
+Raw count: 11937
+Proportion: 0.03774831924003719
+
+Cluster 11:
+Examples: ['america', 'europe', 'germany', 'canada', 'china', 'russia', 'london']
+Raw count: 359
+Proportion: 0.001135264020036303
+
+Cluster 10:
+Examples: ['line', 'road', 'water', 'etc', 'spring', 'gas', 'railroad']
+Raw count: 522
+Proportion: 0.0016507181572672708
+
+Cluster 13:
+Examples: ['10', 'million', 'com', '30', 'miles', '000', 'billion']
+Raw count: 370
+Proportion: 0.0011700492685610925
+
+Cluster 9:
+Examples: ['de', 'ing', 're', 'se', 'co', 'ed', 'er']
+Raw count: 147
+Proportion: 0.0004648574121040016
+
+Cluster 12:
+Examples: ['regards', 'sees', 'background', 'describes', 'views', 'experiences', 'lists']
+Raw count: 35
+Proportion: 0.00011068033621523847
+
+Cluster 2:
+Examples: ['peter', 'captain', 'port', 'christopher', 'doctor', 'andrew']
+Raw count: 12
+Proportion: 3.794754384522462e-05
+
+Cluster 7:
+Examples: ['forest', 'wood', 'prescribed', 'factory', 'woods', 'forests', 'trees']
+Raw count: 24
+Proportion: 7.589508769044924e-05
+
+Cluster 6:
+Examples: ['withdrawal', 'dispersal', 'diversion', 'exclusion', 'landfill', 'reclamation', 'residual']
+Raw count: 17
+Proportion: 5.375902044740154e-05
+
+Cluster 8:
+Examples: ['startling', 'abundant', 'minute', 'oral', 'insistent', 'acute', 'relentless']
+Raw count: 35
+Proportion: 0.00011068033621523847
+
+Cluster 14:
+Examples: ['athletic', 'athletics', 'raiders', 'oaks', 'oakland', 'coliseum', 'raider']
+Raw count: 12
+Proportion: 3.794754384522462e-05
+

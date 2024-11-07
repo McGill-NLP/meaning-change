@@ -1,0 +1,65 @@
+Cluster 0:
+Examples: ['disabled', 'ill', 'handicapped', 'impaired', 'challenged', 'sick', 'insane']
+Raw count: 39290
+Proportion: 0.535045551727425
+
+Cluster 5:
+Examples: ['disturbed', 'affected', 'delayed', 'stopped', 'made', 'interrupted', 'prevented']
+Raw count: 19008
+Proportion: 0.2588482017621505
+
+Cluster 4:
+Examples: ['poor', 'elderly', 'children', 'people', 'school', 'living', 'adult']
+Raw count: 5667
+Proportion: 0.07717238843571692
+
+Cluster 7:
+Examples: ['young', 'small', 'little', 'concerned', 'human', 'senior', 'two']
+Raw count: 4408
+Proportion: 0.060027508068579524
+
+Cluster 2:
+Examples: ['abnormal', 'normal', 'good', 'new', 'slow', 'special', 'advanced']
+Raw count: 3241
+Proportion: 0.044135470428826276
+
+Cluster 9:
+Examples: ['mentally', 'now', 'just', 'also', 'even', 'severely', 'especially']
+Raw count: 829
+Proportion: 0.011289202402189752
+
+Cluster 10:
+Examples: ['involved', 'engaged', 'interested', 'early', 'together', 'instrumental', 'liberal']
+Raw count: 250
+Proportion: 0.0034044639331090925
+
+Cluster 8:
+Examples: ['re', 'trans', 'half', 'un', 'de', 'super', 'non']
+Raw count: 275
+Proportion: 0.003744910326420002
+
+Cluster 1:
+Examples: ['delay', 'affects', 'stop', 'interfere', 'prevent', 'limits', 'means']
+Raw count: 324
+Proportion: 0.004412185257309384
+
+Cluster 6:
+Examples: ['added', 'disastrous', 'due', 'detrimental', 'liable', 'fatal', 'adding']
+Raw count: 32
+Proportion: 0.00043577138343796383
+
+Cluster 11:
+Examples: ['see', 'make', 'think', 'find', 'go', 'read', 'separate']
+Raw count: 68
+Proportion: 0.0009260141898056732
+
+Cluster 12:
+Examples: ['named', 'designated', 'declared', 'issued', 'assigned', 'classified', 'listed']
+Raw count: 31
+Proportion: 0.0004221535277055275
+
+Cluster 3:
+Examples: ['land', 'territorial', 'territory', 'island', 'northward', 'alaska', 'westward']
+Raw count: 10
+Proportion: 0.0001361785573243637
+

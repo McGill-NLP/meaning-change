@@ -1,0 +1,90 @@
+Cluster 0:
+Examples: ['great', 'good', 'remarkable', 'fine', 'beautiful', 'amazing', 'perfect']
+Raw count: 5717
+Proportion: 0.23060788189262232
+
+Cluster 3:
+Examples: ['huge', 'enormous', 'wonderful', 'tremendous', 'massive', 'immense', 'incredible']
+Raw count: 6582
+Proportion: 0.2654995764591989
+
+Cluster 2:
+Examples: ['large', 'high', 'considerable', 'real', 'substantial', 'certain', 'significant']
+Raw count: 5283
+Proportion: 0.21310152878060587
+
+Cluster 1:
+Examples: ['vast', 'small', 'many', 'rich', 'extravagant', 'several', 'particular']
+Raw count: 1286
+Proportion: 0.051873663829615585
+
+Cluster 6:
+Examples: ['big', 'little', 'old', 'two', 'grand', 'glorious', 'three']
+Raw count: 2804
+Proportion: 0.11310556250252107
+
+Cluster 8:
+Examples: ['new', 'natural', 'recent', 'human', 'government', 'steady', 'economic']
+Raw count: 1023
+Proportion: 0.04126497519261022
+
+Cluster 7:
+Examples: ['true', 'one', 'like', 'now', 'illegal', 'short', 'inflated']
+Raw count: 691
+Proportion: 0.02787301843410915
+
+Cluster 10:
+Examples: ['business', 'daily', 'family', 'war', 'time', 'country', 'weekly']
+Raw count: 269
+Proportion: 0.010850711951918035
+
+Cluster 12:
+Examples: ['public', 'private', 'corporate', 'political', 'legal', 'man', 'royal']
+Raw count: 282
+Proportion: 0.011375095800895487
+
+Cluster 5:
+Examples: ['money', 'oil', 'well', 'heavy', 'mr', 'taxes', 'yes']
+Raw count: 309
+Proportion: 0.012464200718002501
+
+Cluster 14:
+Examples: ['increased', 'made', 'reduced', 'lost', 'found', 'done', 'working']
+Raw count: 272
+Proportion: 0.01097172360937437
+
+Cluster 11:
+Examples: ['people', 'television', 'tv', 'musical', 'art', 'men', 'radio']
+Raw count: 114
+Proportion: 0.004598442983340729
+
+Cluster 9:
+Examples: ['making', 'getting', 'imagine', 'dynamic', 'thriving', 'booming', 'prosperous']
+Raw count: 85
+Proportion: 0.0034286636279294907
+
+Cluster 15:
+Examples: ['known', 'dil', 'noted', 'grateful', 'dal', 'sul', 'pal']
+Raw count: 26
+Proportion: 0.001048767697954903
+
+Cluster 16:
+Examples: ['secrets', 'cases', 'investigations', 'deals', 'avenues', 'doors', 'leaks']
+Raw count: 13
+Proportion: 0.0005243838489774515
+
+Cluster 4:
+Examples: ['none', 'une', 'deco', 'una', 'disco', 'ce', 'dei']
+Raw count: 12
+Proportion: 0.00048404662982533985
+
+Cluster 17:
+Examples: ['ready', 'determined', 'keen', 'willing', 'delighted', 'thrilled', 'compelled']
+Raw count: 13
+Proportion: 0.0005243838489774515
+
+Cluster 13:
+Examples: ['boston', 'philadelphia', 'reading', 'bridgeport', 'memphis', 'georgia', 'passing']
+Raw count: 10
+Proportion: 0.00040337219152111655
+

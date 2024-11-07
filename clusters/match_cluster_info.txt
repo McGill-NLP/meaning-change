@@ -1,0 +1,70 @@
+Cluster 6:
+Examples: ['make', 'meet', 'use', 'get', 'provide', 'take', 'pay']
+Raw count: 125775
+Proportion: 0.6051413560170128
+
+Cluster 2:
+Examples: ['fund', 'share', 'matching', 'grant', 'program', 'funding', 'budget']
+Raw count: 27982
+Proportion: 0.13462981851773445
+
+Cluster 1:
+Examples: ['matches', 'watch', 'candle', 'line', 'fuse', 'fire', 'oil']
+Raw count: 11755
+Proportion: 0.05655684070745367
+
+Cluster 5:
+Examples: ['fight', 'game', 'balance', 'one', 'test', 'pair', 'challenge']
+Raw count: 17735
+Proportion: 0.08532841939146668
+
+Cluster 11:
+Examples: ['limit', 'bound', 'peer', 'age', 'self', 'tire', 'price']
+Raw count: 12746
+Proportion: 0.061324839783683915
+
+Cluster 8:
+Examples: ['matched', 'made', 'also', 'received', 'exceeds', 'got', 'used']
+Raw count: 2744
+Proportion: 0.013202209349319682
+
+Cluster 0:
+Examples: ['substitute', 'place', 'partner', 'mate', 'good', 'target', 'replacement']
+Raw count: 7038
+Proportion: 0.033861934912723005
+
+Cluster 13:
+Examples: ['date', 'america', 'everyone', 'americans', 'since', 'peg', 'everybody']
+Raw count: 408
+Proportion: 0.001963010719578145
+
+Cluster 3:
+Examples: ['review', 'hilton', 'commune', 'metro', 'france', '24', 'tonight']
+Raw count: 212
+Proportion: 0.0010199957660553107
+
+Cluster 4:
+Examples: ['par', 'best', 'march', 'july', 'august', 'fall', 'june']
+Raw count: 1342
+Proportion: 0.006456765651161448
+
+Cluster 7:
+Examples: ['engineering', 'social', 'physical', 'royal', 'math', 'written', 'mathematics']
+Raw count: 49
+Proportion: 0.0002357537383807086
+
+Cluster 9:
+Examples: ['patriot', 'preservation', 'arson', 'smith', 'conservation', 'rehabilitation', 'cleanup']
+Raw count: 35
+Proportion: 0.00016839552741479186
+
+Cluster 12:
+Examples: ['crown', 'vice', 'pirate', 'negative', 'crowns', 'crowned', 'warrior']
+Raw count: 15
+Proportion: 7.216951174919652e-05
+
+Cluster 10:
+Examples: ['1956', '1953', '1954', '1955', '1952', '1959', '1960']
+Raw count: 8
+Proportion: 3.849040626623814e-05
+

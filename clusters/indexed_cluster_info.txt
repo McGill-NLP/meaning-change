@@ -1,0 +1,105 @@
+Cluster 4:
+Examples: ['adjusted', 'set', 'designed', 'ready', 'good', 'going', 'enough']
+Raw count: 6429
+Proportion: 0.2630416104087394
+
+Cluster 5:
+Examples: ['used', 'made', 'done', 'covered', 'changed', 'included', 'published']
+Raw count: 8645
+Proportion: 0.353708931713105
+
+Cluster 1:
+Examples: ['subject', 'tied', 'added', 'related', 'due', 'linked', 'sensitive']
+Raw count: 4313
+Proportion: 0.17646577472280184
+
+Cluster 2:
+Examples: ['index', 'real', 'new', 'annual', 'federal', 'adjustment', 'government']
+Raw count: 3755
+Proportion: 0.15363528497197332
+
+Cluster 13:
+Examples: ['paid', 'funded', 'spent', 'supported', 'spending', 'funding', 'fund']
+Raw count: 338
+Proportion: 0.013829221390286812
+
+Cluster 15:
+Examples: ['extended', 'enlarged', 'later', 'older', 'earlier', 'obsolete', 'augmented']
+Raw count: 84
+Proportion: 0.003436847919479563
+
+Cluster 7:
+Examples: ['etc', 'anything', 'whatever', 'thereof', 'suspended', 'either', 'otherwise']
+Raw count: 224
+Proportion: 0.009164927785278835
+
+Cluster 8:
+Examples: ['called', 'told', 'living', 'entered', 'ever', 'soon', 'initiated']
+Raw count: 87
+Proportion: 0.0035595924880324047
+
+Cluster 14:
+Examples: ['ignored', 'forgotten', 'challenged', 'abandoned', 'sought', 'remembered', 'appealed']
+Raw count: 31
+Proportion: 0.0012683605417126958
+
+Cluster 9:
+Examples: ['per', 'com', 'section', 'books', 'copies', 'pages', 'report']
+Raw count: 99
+Proportion: 0.004050570762243771
+
+Cluster 6:
+Examples: ['violent', 'serious', 'armed', 'dangerous', 'street', 'property', 'handed']
+Raw count: 85
+Proportion: 0.0034777627756638436
+
+Cluster 20:
+Examples: ['green', 'competitive', 'global', 'rich', 'healthy', 'killed', 'stable']
+Raw count: 91
+Proportion: 0.0037232519127695265
+
+Cluster 3:
+Examples: ['want', 'change', 'use', 'selling', 'need', 'include', 'leave']
+Raw count: 89
+Proportion: 0.0036414222004009654
+
+Cluster 16:
+Examples: ['place', 'readers', 'number', 'numbers', 'played', 'games', 'catalog']
+Raw count: 60
+Proportion: 0.002454891371056831
+
+Cluster 11:
+Examples: ['00', 'org', '25', '99', '95', '08', '01']
+Raw count: 15
+Proportion: 0.0006137228427642077
+
+Cluster 19:
+Examples: ['years', 'hours', 'billion', 'months', 'decades', 'weeks', 'sometime']
+Raw count: 21
+Proportion: 0.0008592119798698908
+
+Cluster 18:
+Examples: ['continues', 'means', 'knows', 'makes', 'wants', 'fails', 'seems']
+Raw count: 36
+Proportion: 0.0014729348226340984
+
+Cluster 12:
+Examples: ['historical', 'quantitative', 'statistical', 'mathematical', 'case', 'structural', 'psychological']
+Raw count: 9
+Proportion: 0.0003682337056585246
+
+Cluster 0:
+Examples: ['1980', '2000', '1000', '3000', '1999', '2001', '1900']
+Raw count: 12
+Proportion: 0.0004909782742113662
+
+Cluster 17:
+Examples: ['printer', 'reporter', 'secretary', 'editor', 'librarian', 'publisher', 'engraver']
+Raw count: 10
+Proportion: 0.0004091485618428051
+
+Cluster 10:
+Examples: ['colorado', 'states', 'residence', 'denver', 'arizona', 'reservations', 'resident']
+Raw count: 8
+Proportion: 0.0003273188494742441
+

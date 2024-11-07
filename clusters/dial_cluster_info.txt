@@ -1,0 +1,75 @@
+Cluster 3:
+Examples: ['cl', 'sl', 'mo', 'gr', 'sm', 'fl', 'rec']
+Raw count: 66679
+Proportion: 0.5018892635635576
+
+Cluster 14:
+Examples: ['dr', 'mental', 'ho', 'ph', 'air', 'anal', 'hip']
+Raw count: 19403
+Proportion: 0.14604534232552538
+
+Cluster 6:
+Examples: ['tel', 'nu', 'pedal', 'dil', 'harry', 'il', 'oval']
+Raw count: 8852
+Proportion: 0.06662853013789366
+
+Cluster 1:
+Examples: ['go', 'call', 'get', 'heads', 'run', 'bill', 'turn']
+Raw count: 8488
+Proportion: 0.06388872162341182
+
+Cluster 12:
+Examples: ['hand', 'table', 'head', 'wall', 'ground', 'key', 'clock']
+Raw count: 5408
+Proportion: 0.040705726500873125
+
+Cluster 2:
+Examples: ['del', 'cal', 'pl', 'tell', 'sc', 'cr', 'cat']
+Raw count: 7203
+Proportion: 0.054216595411573434
+
+Cluster 7:
+Examples: ['li', 'ro', 'pal', 'touch', 'ben', 'dal', 'si']
+Raw count: 3032
+Proportion: 0.022821701692057567
+
+Cluster 0:
+Examples: ['ring', 'high', 'dispatch', 'half', 'glass', 'mill', 'movie']
+Raw count: 1049
+Proportion: 0.007895766845306197
+
+Cluster 11:
+Examples: ['dialed', 'text', 'toll', 'channel', 'jack', 'meter', 'jones']
+Raw count: 4515
+Proportion: 0.033984163304630575
+
+Cluster 5:
+Examples: ['phone', 'telephone', 'comic', 'new', 'patrol', 'dash', 'mobile']
+Raw count: 2708
+Proportion: 0.02038297103630999
+
+Cluster 13:
+Examples: ['james', 'john', 'smith', 'thomas', 'henry', 'brown', 'phil']
+Raw count: 2771
+Proportion: 0.020857168663816462
+
+Cluster 8:
+Examples: ['alarm', 'one', 'knob', 'crank', 'switch', 'screw', 'tread']
+Raw count: 1972
+Proportion: 0.014843138435599446
+
+Cluster 4:
+Examples: ['number', 'lot', 'part', 'bit', 'thing', 'deal', 'kind']
+Raw count: 457
+Proportion: 0.00343981453603902
+
+Cluster 10:
+Examples: ['good', 'washington', 'yes', 'dim', 'rep', 'ass', 'crap']
+Raw count: 300
+Proportion: 0.0022580839405070153
+
+Cluster 9:
+Examples: ['kellogg', 'target', 'boeing', 'dupont', 'pepsi', 'chrysler', 'microsoft']
+Raw count: 19
+Proportion: 0.00014301198289877763
+

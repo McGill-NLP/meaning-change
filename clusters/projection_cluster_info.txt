@@ -1,0 +1,85 @@
+Cluster 5:
+Examples: ['estimate', 'budget', 'estimates', 'figure', 'point', 'number', 'level']
+Raw count: 11898
+Proportion: 0.22296765488549905
+
+Cluster 0:
+Examples: ['plan', 'plans', 'estimated', 'center', 'said', 'predicted', 'except']
+Raw count: 1600
+Proportion: 0.02998388366253139
+
+Cluster 8:
+Examples: ['projections', 'projected', 'target', 'goal', 'term', 'expectations', 'poster']
+Raw count: 2787
+Proportion: 0.05222817735467186
+
+Cluster 7:
+Examples: ['report', 'statement', 'forecast', 'analysis', 'assessment', 'prediction', 'thing']
+Raw count: 19872
+Proportion: 0.37239983508863983
+
+Cluster 2:
+Examples: ['one', 'part', 'portion', 'projecting', 'government', 'future', 'series']
+Raw count: 2276
+Proportion: 0.0426520745099509
+
+Cluster 13:
+Examples: ['program', 'curve', 'say', 'responsibility', 'business', 'break', 'go']
+Raw count: 771
+Proportion: 0.014448483939882312
+
+Cluster 1:
+Examples: ['project', 'development', 'use', 'extension', 'delivery', 'expansion', 'distribution']
+Raw count: 5337
+Proportion: 0.10001499194183126
+
+Cluster 6:
+Examples: ['generation', 'management', 'response', 'power', 'strategy', 'operations', 'land']
+Raw count: 4746
+Proportion: 0.08893969491398374
+
+Cluster 11:
+Examples: ['period', 'time', 'day', 'life', 'cycle', 'week', 'age']
+Raw count: 1074
+Proportion: 0.020126681908474196
+
+Cluster 4:
+Examples: ['source', 'effect', 'name', 'form', 'cap', 'impact', 'voice']
+Raw count: 1155
+Proportion: 0.021644616018889846
+
+Cluster 9:
+Examples: ['protection', 'right', 'copy', 'impression', 'war', 'panel', 'revision']
+Raw count: 1239
+Proportion: 0.023218769911172745
+
+Cluster 14:
+Examples: ['research', 'career', 'problems', 'damage', 'testing', 'exam', 'fires']
+Raw count: 114
+Proportion: 0.0021363517109553613
+
+Cluster 12:
+Examples: ['perspective', 'programs', 'quarter', 'changes', 'policies', 'charts', 'mind']
+Raw count: 308
+Proportion: 0.005771897605037293
+
+Cluster 10:
+Examples: ['wall', 'long', 'big', 'floor', 'bar', 'color', 'smile']
+Raw count: 128
+Proportion: 0.0023987106930025114
+
+Cluster 16:
+Examples: ['extreme', 'likely', 'conservative', 'paranoid', 'authoritarian', 'hysterical', 'hypnotic']
+Raw count: 21
+Proportion: 0.0003935384730707245
+
+Cluster 15:
+Examples: ['personality', 'suicide', 'cognitive', 'anxiety', 'trauma', 'psycho', 'messiah']
+Raw count: 26
+Proportion: 0.00048723810951613507
+
+Cluster 3:
+Examples: ['pastor', 'rib', 'robb', 'rev', 'jose', 'dauphin', 'inspector']
+Raw count: 10
+Proportion: 0.00018739927289082117
+
