@@ -27,7 +27,7 @@ with open(word_list_path, 'r') as file:
 print("Collecting word senses that showed high change...")
 word_senses = {}
 for word in tqdm(word_list):
-    high_change_senses = get_high_change_senses(word)
+    high_change_senses = get_high_change_senses(word, window_size=20, threshold=0.30)
     if len(high_change_senses) > 0:
         word_senses[word] = high_change_senses
 

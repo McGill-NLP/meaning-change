@@ -5,14 +5,19 @@ library(mgcViz)
 library(glue)
 library(fs)
 library(stringr)
+library(readr)
 
 scratch_dir <- Sys.getenv('SCRATCH')
 model_dir <- glue("{scratch_dir}/GAMMs")
 word_filepath <- "./assets/wordlist.txt"
-plots_and_summaries_dir <- "./plots/2D_GAMM_plots_and_predictions"
+plots_and_summaries_dir <- "./plots/2D_GAMM_plots_and_summaries"
 if (!dir.exists(plots_and_summaries_dir)){
     dir.create(plots_and_summaries_dir)}
  
+prediction_datasets_dir <- "./datasets/2D_GAMM_predictions"
+if (!dir.exists(prediction_datasets_dir)){
+    dir.create(prediction_datasets_dir)}
+
 words <- str_trim(readLines(word_filepath))
 
 
@@ -57,7 +62,9 @@ for (word in words){
                 filter(age >= age_min & age <= age_max)
                 preds <- mgcv::predict.bam(model, newdata=pred_data, type="response", exclude='s(speakerid)')
                 pred_data$probability = preds
-                print("Prediction data generated!")
+                pred_data_filename <- glue("{prediction_datasets_dir}/{word}-{cluster}.csv")
+                write_csv(pred_data, pred_data_filename)
+                print("Prediction data generated and saved!")
                 #
                 plot <- ggplot(pred_data, aes(x = age, y = year, fill = probability)) + 
                     geom_tile() +  # Creates the heatmap
