@@ -100,7 +100,7 @@ if(n_speeches > sample_size){
 data_long <- pivot_custom(data_for_modelling)
 
 for (cluster in unique(data_long$cluster_number)){
-  filename <- "{word}-{cluster}-LO_GAMM.rds"
+  filename <- glue("{word}-{cluster}-LO_GAMM.rds")
   full_filename <- glue("{saved_model_dir}/{filename}")
   models_fitted <- list.files(saved_model_dir)
   if (!filename %in% models_fitted)
