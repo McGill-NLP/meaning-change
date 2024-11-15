@@ -83,6 +83,8 @@ plot <- df_plotting %>%
     # geom_segment(aes(x=0, xend=max(order), y=df_Intercept$Estimate)) + 
     ggtitle("")
 
+plot_title <- "./plots/collated_results_plots/lollipop.png"
+ggsave(plot_title, plot, width=8, height=6, dpi=300)
 
 # Ascending order with more labels:
 df_plotting %>% 
