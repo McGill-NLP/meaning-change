@@ -9,9 +9,9 @@ collated <- collated %>% mutate(std_err = (a_estimate-ci_lower)/1.96,
                                 word = as.factor(word),
                                 word_sense = as.factor(paste(word, as.character(sense))))
 
-prediction_peaks <- read_csv("prediction_peaks.csv")
+# prediction_peaks <- read_csv("prediction_peaks.csv")
 
-collated <- collated %>% left_join(prediction_peaks, by=c("word", "sense"))
+# collated <- collated %>% left_join(prediction_peaks, by=c("word", "sense"))
 
 
 # Fitting Bayesian meta-analysis model:
@@ -58,9 +58,9 @@ df_plotting <- df_ma %>% mutate(adjusted_a_estimate = df_model$Estimate,
                  adjusted_ci_upper = df_model$Q97.5)
 
 # Ordering by peak year
-ggplot(df_plotting, aes(x=peak_year, y=adjusted_a_estimate)) +
-  geom_point() + 
-  geom_segment(aes(x=peak_year, xend=peak_year, y=0, yend=adjusted_a_estimate))
+# ggplot(df_plotting, aes(x=peak_year, y=adjusted_a_estimate)) +
+#  geom_point() + 
+#  geom_segment(aes(x=peak_year, xend=peak_year, y=0, yend=adjusted_a_estimate))
 
 # Ordering by overall word freq
 ggplot(df_plotting, aes(x=overall_word_freq, y=adjusted_a_estimate)) +
@@ -74,14 +74,15 @@ ggplot(df_plotting, aes(x=log_word_freq, y=adjusted_a_estimate)) +
 
 
 # Ascending order
-df_plotting %>% 
+plot <- df_plotting %>% 
   arrange(a_estimate) %>% 
   mutate(order = row_number()) %>% 
   ggplot(aes(x=order, y=a_estimate)) +
     geom_point() + 
     geom_segment(aes(x=order, xend=order, y=0, yend=a_estimate)) +  # Lollipops 
     # geom_segment(aes(x=0, xend=max(order), y=df_Intercept$Estimate)) + 
-  ggtitle("")
+    ggtitle("")
+
 
 # Ascending order with more labels:
 df_plotting %>% 
