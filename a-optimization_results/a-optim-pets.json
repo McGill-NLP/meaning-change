@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["pets"],
+    "sense": ["7"],
+    "a_estimate": [0.0724],
+    "ci_lower": [-0.1526],
+    "ci_upper": [0.2975]
+  }
+]

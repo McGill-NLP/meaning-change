@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["cutoff"],
+    "sense": ["4"],
+    "a_estimate": [-0.1228],
+    "ci_lower": [-0.1259],
+    "ci_upper": [-0.1198]
+  },
+  {
+    "word": ["cutoff"],
+    "sense": ["1"],
+    "a_estimate": [-0.0001],
+    "ci_lower": [-0.0052],
+    "ci_upper": [0.005]
+  }
+]

@@ -62,7 +62,7 @@ get_data <- function(word, cluster, threshold=2000){
   return(filtered)
 }
 
-get_high_change_senses <- function(word, window_size = 10, threshold = 0.3) {
+get_high_change_senses <- function(word, window_size = 20, threshold = 0.3) {
   # Read the CSV file
   word_df <- read.csv(glue("./clusters/{word}_cluster_counts.csv"))
   

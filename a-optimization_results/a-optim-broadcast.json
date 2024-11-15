@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["broadcast"],
+    "sense": ["8"],
+    "a_estimate": [0.0146],
+    "ci_lower": [0.0126],
+    "ci_upper": [0.0166]
+  },
+  {
+    "word": ["broadcast"],
+    "sense": ["0"],
+    "a_estimate": [0.0661],
+    "ci_lower": [0.0624],
+    "ci_upper": [0.0698]
+  },
+  {
+    "word": ["broadcast"],
+    "sense": ["6"],
+    "a_estimate": [0.1733],
+    "ci_lower": [0.168],
+    "ci_upper": [0.1786]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["segregation"],
+    "sense": ["4"],
+    "a_estimate": [0.3852],
+    "ci_lower": [0.3805],
+    "ci_upper": [0.3898]
+  },
+  {
+    "word": ["segregation"],
+    "sense": ["0"],
+    "a_estimate": [0.233],
+    "ci_lower": [0.2295],
+    "ci_upper": [0.2366]
+  }
+]

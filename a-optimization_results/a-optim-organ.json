@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["organ"],
+    "sense": ["5"],
+    "a_estimate": [0.1182],
+    "ci_lower": [0.1152],
+    "ci_upper": [0.1212]
+  },
+  {
+    "word": ["organ"],
+    "sense": ["3"],
+    "a_estimate": [0.117],
+    "ci_lower": [0.1144],
+    "ci_upper": [0.1196]
+  },
+  {
+    "word": ["organ"],
+    "sense": ["0"],
+    "a_estimate": [-0.1073],
+    "ci_lower": [-0.1101],
+    "ci_upper": [-0.1044]
+  }
+]

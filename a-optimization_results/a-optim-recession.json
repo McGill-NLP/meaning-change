@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["recession"],
+    "sense": ["3"],
+    "a_estimate": [-0.0906],
+    "ci_lower": [-0.0932],
+    "ci_upper": [-0.0881]
+  },
+  {
+    "word": ["recession"],
+    "sense": ["0"],
+    "a_estimate": [0.0183],
+    "ci_lower": [0.0164],
+    "ci_upper": [0.0201]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["plane"],
+    "sense": ["4"],
+    "a_estimate": [0.119],
+    "ci_lower": [0.1161],
+    "ci_upper": [0.1219]
+  },
+  {
+    "word": ["plane"],
+    "sense": ["3"],
+    "a_estimate": [0.0677],
+    "ci_lower": [0.0637],
+    "ci_upper": [0.0716]
+  }
+]

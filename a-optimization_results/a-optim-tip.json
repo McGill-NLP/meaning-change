@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["tip"],
+    "sense": ["1"],
+    "a_estimate": [0.1256],
+    "ci_lower": ["NaN"],
+    "ci_upper": ["NaN"]
+  },
+  {
+    "word": ["tip"],
+    "sense": ["2"],
+    "a_estimate": [0.0588],
+    "ci_lower": [0.0544],
+    "ci_upper": [0.0632]
+  }
+]

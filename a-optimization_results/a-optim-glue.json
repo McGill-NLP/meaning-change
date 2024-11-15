@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["glue"],
+    "sense": ["3"],
+    "a_estimate": [-0.0501],
+    "ci_lower": [-0.2347],
+    "ci_upper": [0.1345]
+  },
+  {
+    "word": ["glue"],
+    "sense": ["1"],
+    "a_estimate": [0.4783],
+    "ci_lower": [0.2426],
+    "ci_upper": [0.714]
+  }
+]

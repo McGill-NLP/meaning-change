@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["threshold"],
+    "sense": ["2"],
+    "a_estimate": [0.2643],
+    "ci_lower": [0.2622],
+    "ci_upper": [0.2665]
+  },
+  {
+    "word": ["threshold"],
+    "sense": ["1"],
+    "a_estimate": [0.1508],
+    "ci_lower": [0.1483],
+    "ci_upper": [0.1533]
+  }
+]

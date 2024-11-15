@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["awful"],
+    "sense": ["0"],
+    "a_estimate": [0.1423],
+    "ci_lower": [0.138],
+    "ci_upper": [0.1465]
+  },
+  {
+    "word": ["awful"],
+    "sense": ["1"],
+    "a_estimate": [-0.1499],
+    "ci_lower": [-0.1606],
+    "ci_upper": [-0.1392]
+  }
+]

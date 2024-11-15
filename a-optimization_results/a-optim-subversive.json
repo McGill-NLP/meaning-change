@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["subversive"],
+    "sense": ["4"],
+    "a_estimate": [0.1828],
+    "ci_lower": [0.1781],
+    "ci_upper": [0.1875]
+  },
+  {
+    "word": ["subversive"],
+    "sense": ["0"],
+    "a_estimate": [0.1675],
+    "ci_lower": [0.1637],
+    "ci_upper": [0.1712]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["ceiling"],
+    "sense": ["0"],
+    "a_estimate": [0.1566],
+    "ci_lower": [0.155],
+    "ci_upper": [0.1582]
+  },
+  {
+    "word": ["ceiling"],
+    "sense": ["2"],
+    "a_estimate": [0.005],
+    "ci_lower": [0.0029],
+    "ci_upper": [0.007]
+  }
+]

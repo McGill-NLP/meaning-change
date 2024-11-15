@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["caps"],
+    "sense": ["0"],
+    "a_estimate": [0.2179],
+    "ci_lower": [0.2129],
+    "ci_upper": [0.2229]
+  },
+  {
+    "word": ["caps"],
+    "sense": ["1"],
+    "a_estimate": [-0.0123],
+    "ci_lower": [-0.0138],
+    "ci_upper": [-0.0107]
+  },
+  {
+    "word": ["caps"],
+    "sense": ["2"],
+    "a_estimate": [-0.0709],
+    "ci_lower": [-0.0724],
+    "ci_upper": [-0.0693]
+  }
+]

@@ -52,7 +52,7 @@ def get_prominent_senses(word, window_size=20, threshold=0.2):
 # prominent_clusters = get_prominent_senses(word_tibble)
 # print(prominent_clusters)
 
-def get_high_change_senses(word, window_size=10, threshold=0.3):
+def get_high_change_senses(word, window_size=20, threshold=0.3):
     word_df = pd.read_csv(f"./clusters/{word}_cluster_counts.csv")
     cluster_p_columns = [col for col in word_df.columns if col.startswith("cluster_") and col.endswith("_p")]
     high_change_columns = []
