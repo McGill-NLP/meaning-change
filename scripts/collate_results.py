@@ -48,8 +48,8 @@ def extract_key_metrics(model_summary_path):
         dev_exp = float(dev_exp_regex.findall(summary_string)[0])/100
     return r_sq, freml, dev_exp
 
-GAMM_plots_and_summaries_dir_LO = './plots/LO_GAMM_plots_and_predictions'
-GAMM_plots_and_summaries_dir_2D = './plots/2D_GAMM_plots_and_predictions'
+GAMM_plots_and_summaries_dir_LO = './plots/LO_GAMM_plots_and_summaries'
+GAMM_plots_and_summaries_dir_2D = './plots/2D_GAMM_plots_and_summaries'
 
 def get_model_stats(row):
     # Initialize as NA values:
