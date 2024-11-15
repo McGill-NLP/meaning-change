@@ -107,6 +107,36 @@ plot <- ggplot(collated_results, aes(x=ci_width, y=a_estimate, colour=sig_non_ze
 
 ggsave(glue("{collated_results_plot_directory}/ci_width_a_estimate.png"), plot, width=12, height=8, dpi=300)
 
+# LO and 2D GAMM Adjusted R-Sq Density Plots:
+## 2D GAMM Adjusted R-Sq:
+plot <- ggplot(collated_results, aes(x=r_sq_2D)) +
+    geom_density() +
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=18), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=16), #change font size of legend text
+        legend.title=element_text(size=16),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Adjusted R-Sq. from 2D GAMM")
+
+ggsave(glue("{collated_results_plot_directory}/2D_r_sq_density.png"), plot, width=8, height=6, dpi=300)
+
+## LO GAMM Adjusted R-Sq:
+plot <- ggplot(collated_results, aes(x=r_sq_LO)) +
+    geom_density() +
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=18), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=16), #change font size of legend text
+        legend.title=element_text(size=16),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Adjusted R-Sq. from 2D GAMM")
+
+ggsave(glue("{collated_results_plot_directory}/LO_r_sq_density.png"), plot, width=8, height=6, dpi=300)
+
+
 # Correlations between LO and 2D GAMM fit metrics:
 ## Adj. R.Sq:
 plot <- ggplot(collated_results, aes(x=r_sq_LO, y=r_sq_2D, colour=sig_non_zero)) +
