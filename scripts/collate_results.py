@@ -105,4 +105,25 @@ def get_cluster_substitution_count_from_row(row):
 
 processed_data['cluster_substitution_total'] = processed_data.apply(lambda x: get_cluster_substitution_count_from_row(x), axis=1)
 
+# Add a column for normalized L2 Distances between 2D and LO GAMMs:
+GAMM_predictions_2D_path="./datasets/2D_GAMM_predictions"
+GAMM_predictions_LO_path="./datasets/LO_GAMM_predictions"
+def get_normalized_l2(word, sense):
+    preds_2D = pd.read_csv(os.path.join(GAMM_predictions_2D_path, f"{word}-{sense}.csv"))
+    preds_LO = pd.read_csv(os.path.join(GAMM_predictions_LO_path, f"{word}-{sense}.csv"))
+    #
+    preds_2D = preds_2D.sort_values(by=['year', 'age'])
+    preds_LO = preds_LO.sort_values(by=['year', 'age'])
+    #
+    deltas = preds_2D['probability']-preds_LO['probability']
+    delta_from_mean_2D = preds_2D['probability'] - np.mean(preds_2D['probability'])
+    delta_squared = deltas.apply(lambda x: x**2)
+    delta_squared_from_mean_2D = delta_from_mean_2D.apply(lambda x: x**2)
+    l2_distance_from_mean_2D = np.sum(delta_squared_from_mean_2D)
+    l2_distance = np.sum(delta_squared)
+    l2_normalized = l2_distance/l2_distance_from_mean_2D
+    return l2_normalized 
+
+processed_data['l2_distance_normalized'] = processed_data.apply(lambda x: get_normalized_l2(x['word'], x['sense']), axis=1)
+
 processed_data.to_csv("collated_results.csv", index=False)
