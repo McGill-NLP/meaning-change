@@ -137,6 +137,22 @@ plot <- ggplot(collated_results, aes(x=r_sq_LO)) +
 ggsave(glue("{collated_results_plot_directory}/LO_r_sq_density.png"), plot, width=8, height=6, dpi=300)
 
 
+# Density plot of Normalized L2 Distance b/w 2D and LO GAMM:
+plot <- ggplot(collated_results, aes(x=l2_distance_normalized)) +
+    geom_density() +
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=18), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=16), #change font size of legend text
+        legend.title=element_text(size=16),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Normalized L2 Distance b/w 2D and LO GAMM Predictions")
+
+ggsave(glue("{collated_results_plot_directory}/normalized_l2_density.png"), plot, width=8, height=6, dpi=300)
+
+
+
 # Correlations between LO and 2D GAMM fit metrics:
 ## Adj. R.Sq:
 plot <- ggplot(collated_results, aes(x=r_sq_LO, y=r_sq_2D, colour=sig_non_zero)) +
@@ -229,3 +245,37 @@ plot <- ggplot(collated_results, aes(x = a_estimate, colour = sig_non_zero)) +
             colour = "Estimate\nSignificantly\nNon-Zero?")
 
 ggsave(glue("{collated_results_plot_directory}/a_estimate_density_scaled.png"), plot, width=8, height=6, dpi=300)
+
+
+# Alpha-Values against R-Sq or Normalized L2 Distances:
+## Against Normalized L2 Distance:
+plot <- ggplot(collated_results, aes(x=l2_distance_normalized, y=a_estimate)) +
+    geom_point(size=0.75) +
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=16), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=12), #change font size of legend text
+        legend.title=element_text(size=12),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Normalized L2 Distance b/w 2D and LO GAMM Predictions",
+    y="a-Estimate") 
+
+ggsave(glue("{collated_results_plot_directory}/l2_distance_a_estimate.png"), plot, width=12, height=8, dpi=300)
+
+
+## Against Adjusted R-Sq:
+plot <- ggplot(collated_results, aes(x=r_sq_LO, y=a_estimate)) +
+    geom_point(size=0.75) +
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=16), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=12), #change font size of legend text
+        legend.title=element_text(size=12),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Adjusted R-Squared",
+    y="a-Estimate") 
+
+ggsave(glue("{collated_results_plot_directory}/r_sq_a_estimate.png"), plot, width=12, height=8, dpi=300)
+
