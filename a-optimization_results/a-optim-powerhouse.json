@@ -16,8 +16,8 @@
   {
     "word": ["powerhouse"],
     "sense": ["7"],
-    "a_estimate": [-0.5],
-    "ci_lower": [-1.5212],
-    "ci_upper": [0.5212]
+    "a_estimate": [-0.8536],
+    "ci_lower": [-1.2759],
+    "ci_upper": [-0.4312]
   }
 ]
