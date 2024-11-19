@@ -16,6 +16,18 @@ output_directory <- './a-optimization_results'
 if (!dir.exists(output_directory)){
     dir.create(output_directory)}
 
+### Variable lower and upper optimization bounds: added post-facto to help test some word senses that hit bounds
+lower_bound = as.numeric(Sys.getenv('LOWER_BOUND'))
+if (is.na(lower_bound)){
+  lower_bound = -0.5
+}
+
+upper_bound = as.numeric(Sys.getenv('UPPER_BOUND'))
+if (is.na(upper_bound)){
+  upper_bound = 1.5
+}
+
+
 compute_fREML <- function(a, data) {
   # Update 'time' based on 'a'
   data$time <- data$year - (a * data$age)
@@ -129,8 +141,6 @@ if (length(high_change_senses) < 1){
             negative_log_likelihood <- function(a){
                 compute_fREML(a, data = filtered)
             }
-            lower_bound = -0.5
-            upper_bound = 1.5
             starting_point = 0
             t1 <- Sys.time()
             mle_result <- mle(minuslogl = negative_log_likelihood, start = list(a = starting_point), method = "Brent",
