@@ -1,0 +1,67 @@
+{
+    "HUBERT HUMPHREY": {
+        "name": "Hubert Humphrey",
+        "birth": 1911,
+        "death": 1978
+    },
+    "J. THURMOND": {
+        "name": "Strom Thurmond",
+        "birth": 1902,
+        "death": 2003
+    },
+    "REED SMOOT": {
+        "name": "Reed Smoot",
+        "birth": 1862,
+        "death": 1941
+    },
+    "EDWARD KENNEDY": {
+        "name": "Ted Kennedy",
+        "birth": 1932,
+        "death": 2009
+    },
+    "ROBERT BYRD": {
+        "name": "Robert Byrd",
+        "birth": 1917,
+        "death": 2010
+    },
+    "ROBERT DOLE": {
+        "name": "Bob Dole",
+        "birth": 1923,
+        "death": 2021
+    },
+    "JACOB JAVITS": {
+        "name": "Jacob Javits",
+        "birth": 1904,
+        "death": 1986
+    },
+    "WILLIAM PROXMIRE": {
+        "name": "Bill Proxmire",
+        "birth": 1915,
+        "death": 2005
+    },
+    "ADOLPH SABATH": {
+        "name": "Adolph Sabath",
+        "birth": 1866,
+        "death": 1952
+    },
+    "ALBEN BARKLEY": {
+        "name": "Alben Barkley",
+        "birth": 1877,
+        "death": 1956
+    },
+    "JOHN MCCORMACK": {
+        "name": "John McCormack",
+        "birth": 1891,
+        "death": 1980
+    },
+    "EVERETT DIRKSEN": {
+        "name": "Everett Dirksen",
+        "birth": 1896,
+        "death": 1969
+    },
+    "WAYNE MORSE": {
+        "name": "Wayne Morse",
+        "birth": 1900,
+        "death": 1974
+    }
+}
