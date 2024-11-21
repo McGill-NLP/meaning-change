@@ -28,5 +28,29 @@
         "interpretable_sense": "news / literary",
         "start_year": 1900,
         "end_year": 1970
+    },
+    "sector": {
+        "sense": "0",
+        "interpretable_sense": "'section'",
+        "start_year": 1950,
+        "end_year": 1990
+    },
+    "substance": {
+        "sense": "2",
+        "interpretable_sense": "narcotics",
+        "start_year": 1960,
+        "end_year": 2000
+    },
+    "ceiling": {
+        "sense": "0",
+        "interpretable_sense": "literal / architectural",
+        "start_year": 1920,
+        "end_year": 1950
+    },
+    "cap": {
+        "sense": "4",
+        "interpretable_sense": "'limit'",
+        "start_year": 1960,
+        "end_year": 1990
     }
 }

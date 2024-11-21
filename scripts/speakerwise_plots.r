@@ -52,9 +52,11 @@ for (row in 1:nrow(df)){
         summarise(n_total = sum(n), firstname = first(firstname), lastname = first(lastname), yob = first(yob), first_use = min(year), last_use = max(year)) %>%
         arrange(desc(n_total)) %>% 
         filter(first_use > start_year-10, first_use < end_year-10) %>%
-        head(3)
+        head(6)
     title_string = glue("Speaker-wise probability of {interpretable_sense} sense of {word} being used:")
-    #print(title_string)
+    
+    population_smooth_data <- word_long %>% filter(cluster_number == cluster)
+    
     plot <- word_long %>%
         filter(speakerid %in% top_speakers$speakerid) %>%
         filter(cluster_number == cluster) %>%
@@ -67,13 +69,15 @@ for (row in 1:nrow(df)){
         mutate(name_string = glue("{common_name} ({birth_year}-{death_year})")) %>%
         ggplot(aes(x=year, y=cluster_p, colour=name_string)) +
             geom_smooth() +
+            geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p), 
+                    color = "black", linetype = "dotted", inherit.aes = FALSE) +
             xlim(min(top_speakers$first_use)-10,min(2010, max(top_speakers$last_use)+10)) +
             ylim(0,1) +
             labs(
                 title = title_string,
                 x = "Year of Speech",
                 y = "Probability of Word Sense Given Use",
-                color = "Speaker" 
+                color = "Speaker"
                 )
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
     ggsave(filepath, plot, width=8, height=6, dpi=300)

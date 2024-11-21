@@ -9,6 +9,11 @@
         "birth": 1902,
         "death": 2003
     },
+    "PORTER MCCUMBER": {
+        "name": "Porter McCumber",
+        "birth": 1858,
+        "death": 1933
+    },
     "REED SMOOT": {
         "name": "Reed Smoot",
         "birth": 1862,
@@ -63,5 +68,90 @@
         "name": "Wayne Morse",
         "birth": 1900,
         "death": 1974
+    },
+    "CHARLES GRASSLEY": {
+        "name": "Chuck Grassley",
+        "birth": 1933,
+        "death": ""
+    },
+    "PETE DOMENICI": {
+        "name": "Pete Domenici",
+        "birth": 1932,
+        "death": 2017
+    },
+    "TED STEVENS": {
+        "name": "Ted Stevens",
+        "birth": 1923,
+        "death": 2010
+    },
+    "FRANCIS CASE": {
+        "name": "Francis Case",
+        "birth": 1896,
+        "death": 1962
+    },
+    "GEORGE MAHON": {
+        "name": "George Mahon",
+        "birth": 1900,
+        "death": 1985
+    },
+    "JESSE WOLCOTT": {
+        "name": "Jesse Wolcott",
+        "birth": 1893,
+        "death": 1969
+    },
+    "WILLIAM POAGE": {
+        "name": "William Poage",
+        "birth": 1899,
+        "death": 1987
+    },
+    "ALAN CRANSTON": {
+        "name": "Alan Cranston",
+        "birth": 1914,
+        "death": 2000
+    },
+    "JOHN COCHRAN": {
+        "name": "John Cochran",
+        "birth": 1880,
+        "death": 1947
+    },
+    "JOSEPH HILL": {
+        "name": "J. Lister Hill",
+        "birth": 1894,
+        "death": 1984
+    },
+    "THOMAS CONNALLY": {
+        "name": "Tom Connally",
+        "birth": 1877,
+        "death": 1963
+    },
+    "CLAUDE PEPPER": {
+        "name": "Clause Pepper",
+        "birth": 1900,
+        "death": 1989
+    },
+    "JOHN PATMAN": {
+        "name": "Wright Patman",
+        "birth": 1893,
+        "death": 1976
+    },
+    "WALTER GEORGE": {
+        "name": "Walter George",
+        "birth": 1878,
+        "death": 1957
+    },
+    "ORRIN HATCH": {
+        "name": "Orrin Hatch",
+        "birth": 1934,
+        "death": 2022
+    },
+    "CHRISTOPHER DODD": {
+        "name": "Chris Dodd",
+        "birth": 1944,
+        "death": ""
+    },
+    "SAMUEL ERVIN": {
+        "name": "Sam Ervin",
+        "birth": 1896,
+        "death": 1985
     }
 }
