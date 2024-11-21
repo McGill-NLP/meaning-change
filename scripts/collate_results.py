@@ -126,4 +126,19 @@ def get_normalized_l2(word, sense):
 
 processed_data['l2_distance_normalized'] = processed_data.apply(lambda x: get_normalized_l2(x['word'], x['sense']), axis=1)
 
+# Remove tokenization artefacts that were found through manual inspection:
+tokenization_artefacts = [
+    'gay6',
+    'match11',
+    'guy2',
+    'prop0',
+    'dial3',
+    'organ3',
+    'cap0',
+    'caps2'
+]
+
+wordsense_tags = processed_data['word']+processed_data['sense']
+processed_data = processed_data[~wordsense_tags.apply(lambda x: x in tokenization_artefacts)]
+
 processed_data.to_csv("collated_results.csv", index=False)

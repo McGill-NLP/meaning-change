@@ -13,7 +13,6 @@ datasets/uscongress_base_preprocessed.csv
 datasets/uscongress_linked.csv
 Rplots.pdf
 scripts/a_optimization_sbatch_generator.py
-assets/speakerwise_word_sense_examples.json
 clusters/record_cluster_counts.csv
 substitutions/high.jsonl
 substitutions/call.jsonl

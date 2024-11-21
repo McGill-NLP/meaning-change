@@ -23,7 +23,7 @@ fit_ma <- brm(a_estimate | resp_se(std_err, sigma = FALSE) ~
                data = collated,
                prior = priors,
                control = list(adapt_delta = .99, max_treedepth = 20),
-               iter = 3000,
+               iter = 4000,
                file = "meta-analysis.rds")
 
 ############### Details of meta-analysis model ###################
