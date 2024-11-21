@@ -45,7 +45,12 @@ for (row in 1:nrow(df)){
         mutate(age = as.numeric(age)) %>% # Also adding buckets for age group:
         mutate(age_group = cut(age, breaks = seq(25, 85, 20), include.lowest = TRUE)) %>%
         mutate(yob = as.numeric(yob)) %>%
-        mutate(yob_group = cut(yob, breaks = seq(1800, 2000, 25), include.lowest = TRUE))
+        mutate(yob_group = cut(
+            yob, 
+            breaks = seq(1800, 2000, 10), 
+            include.lowest = TRUE,
+            labels = paste0("(", seq(1800, 1990, 10), "-", seq(1810, 2000, 10), "]")
+            ))
 
     top_speakers <- word_long %>% 
         group_by(speakerid) %>%
@@ -55,6 +60,15 @@ for (row in 1:nrow(df)){
         head(6)
     title_string = glue("Speaker-wise probability of {interpretable_sense} sense of {word} being used:")
     
+    prominent_yob_groups <- word_long %>%
+        filter(cluster_number==cluster) %>%
+        filter(year >= start_year-10, year <= min(2010, end_year+10)) %>%
+        mutate(yob_group = as.character(yob_group)) %>%
+        group_by(yob_group) %>%
+        summarise(count=n(), n_unique_years = length(unique(year))) %>%
+        filter(count>500, n_unique_years>20) %>%
+        .$yob_group
+
     population_smooth_data <- word_long %>% filter(cluster_number == cluster)
     
     plot <- word_long %>%
@@ -82,4 +96,25 @@ for (row in 1:nrow(df)){
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
     ggsave(filepath, plot, width=8, height=6, dpi=300)
 
+    if (length(prominent_yob_groups > 1)){
+        genwise_title_string = glue("Generation-wise probability of {interpretable_sense} sense of {word} being used:")
+        
+        plot <- word_long %>%
+            filter(yob_group %in% prominent_yob_groups) %>%
+            filter(cluster_number == cluster) %>%
+            ggplot(aes(x=year, y=cluster_p, colour=yob_group)) +
+                geom_smooth() +
+                geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p), 
+                        color = "black", linetype = "dotted", inherit.aes = FALSE) +
+                xlim(start_year-10,min(2010, end_year+10)) +
+                ylim(0,1) +
+                labs(
+                    title = genwise_title_string,
+                    x = "Year of Speech",
+                    y = "Probability of Word Sense Given Use",
+                    color = "Year of Birth Group"
+                    )
+        filepath <- glue("{speakerwise_plot_directory}/genwise-{word}-{cluster}.png")
+        ggsave(filepath, plot, width=8, height=6, dpi=300)
+    }
 }
