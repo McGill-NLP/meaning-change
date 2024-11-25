@@ -71,6 +71,11 @@ for (row in 1:nrow(df)){
 
     population_smooth_data <- word_long %>% filter(cluster_number == cluster)
     
+    population_label <- data.frame(
+    year = mean(population_smooth_data$year, na.rm = TRUE),  # Arbitrary year for label placement
+    cluster_p = mean(population_smooth_data$cluster_p, na.rm = TRUE),  # Arbitrary y-value
+    label = "Population Mean"  # Label for legend
+    )
     plot <- word_long %>%
         filter(speakerid %in% top_speakers$speakerid) %>%
         filter(cluster_number == cluster) %>%
@@ -83,16 +88,18 @@ for (row in 1:nrow(df)){
         mutate(name_string = glue("{common_name} ({birth_year}-{death_year})")) %>%
         ggplot(aes(x=year, y=cluster_p, colour=name_string)) +
             geom_smooth() +
-            geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p), 
-                    color = "black", linetype = "dotted", inherit.aes = FALSE) +
-            xlim(min(top_speakers$first_use)-10,min(2010, max(top_speakers$last_use)+10)) +
-            ylim(0,1) +
-            labs(
-                title = title_string,
-                x = "Year of Speech",
-                y = "Probability of Word Sense Given Use",
-                color = "Speaker"
-                )
+            geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p, linetype = "Average of all Speakers"), 
+                color = "black", inherit.aes = FALSE) +
+        scale_linetype_manual(values = c("Average of all Speakers" = "dotted"), guide = guide_legend(override.aes = list(color = "black"))) +
+        xlim(min(top_speakers$first_use) - 10, min(2010, max(top_speakers$last_use) + 10)) +
+        ylim(0, 1) +
+        labs(
+            title = title_string,
+            x = "Year of Speech",
+            y = "Probability of Word Sense Given Use",
+            colour = "Individual Speakers",
+            linetype = ""  # Makes the legend label blank for linetype
+        )
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
     ggsave(filepath, plot, width=8, height=6, dpi=300)
 
