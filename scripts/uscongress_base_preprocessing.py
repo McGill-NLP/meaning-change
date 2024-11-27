@@ -21,9 +21,13 @@ usc_df['year'] = usc_df['date'].apply(lambda x: int(str(x)[0:4]))
 # Create column for age at time of speech:
 usc_df['age'] = usc_df['year'] - usc_df['yob']
 
+# SpeakerIDs are actually sessionwise, changing with each session of congress. 
+usc_df['speakerXsessionid'] = usc_df['speakerid']
+
 # Make speakerIDs constant for each member, instead of changing with each session of congress:
 # Have verified with some scratchpad code: there is no case of one speakerID mapping to more than one person!
 usc_df['speakerid'] = usc_df['speakerid'].apply(lambda x: str(x)[-6:-1]) # See the Stanford US Congressional Record Codebook for more: https://stacks.stanford.edu/file/druid:md374tz9962/codebook_v4.pdf 
+
 
 # Filtering for procedural speech using the Card et al. weights:
 # Import weights as df:
@@ -43,7 +47,7 @@ def get_prob(ngram_list):
     filtered_ngrams = [x for x in ngram_list if x in weights.index] # Filter out n-grams with no weights in log-regression model; same as setting weights to zero
     collected_weights = weights.loc[filtered_ngrams]
     bias = weights.loc["__BIAS__"]
-    prob = 1/(1+np.exp(-(np.sum(collected_weights) + bias))).item()
+    prob = 1/(1+np.exp(-(np.sum(collected_weights, axis=0) + bias))).item()
     return prob 
 
 # Helper function: assign probability (of speech being procedural) of 0 if speech more than 400 characters, otherwise calculate probability of speech being procedural
