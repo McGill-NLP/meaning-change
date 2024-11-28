@@ -17,7 +17,7 @@ if (!file.exists(saved_model_dir)) {
   dir.create(saved_model_dir)
 }
 
-get_high_change_senses_word_tibble <- function(word_tibble, window_size = 10, threshold = 0.3) {
+get_high_change_senses_word_tibble <- function(word_tibble, window_size = 20, threshold = 0.3) {
     # Identify the cluster probability columns
     cluster_p_columns <- grep("^cluster_.*_p$", colnames(word_tibble), value = TRUE)
     high_change_columns <- c()
@@ -109,9 +109,10 @@ for (cluster in unique(data_long$cluster_number)){
     # Index to one sense:
     word_sense_indexed <- data_long %>% filter(cluster_number == cluster)
     word_sense_indexed$speakerid <- factor(word_sense_indexed$speakerid)
+    word_sense_indexed$speakerXsessionid <- factor(word_sense_indexed$speakerXsessionid)
     #
     print(glue("Starting to fit full model at {Sys.time()}"))
-    m_full_RE <- bam(cbind(n_cluster, n - n_cluster) ~ ti(age) + ti(year) + ti(age, year) + s(speakerid, bs = 're'), family = binomial, data = word_sense_indexed, discrete = TRUE)
+    m_full_RE <- bam(cbind(n_cluster, n - n_cluster) ~ ti(age) + ti(year) + ti(age, year) + s(speakerXsessionid, bs = 're'), family = binomial, data = word_sense_indexed, discrete = TRUE)
     print(glue("Full model fitted at {Sys.time()}"))
     print("Now saving full model...")
     saveRDS(m_full_RE, file=glue("{saved_model_dir}/{word}-{cluster}-2D_GAMM.rds"))
