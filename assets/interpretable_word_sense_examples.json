@@ -1,12 +1,13 @@
 {
     "articles": {
-        "2": "object",
-        "1": "news / literary",
+        "3": "object",
+        "2": "news / literary",
         "0": "legal"
     },
-    "segregation": {
-        "4": "historic",
-        "0": "division"
+    "monitor": {
+        "2": "observe",
+        "0": "naval ship",
+        "1": "journal name"
     },
     "usage": {
         "2": "utilization",
