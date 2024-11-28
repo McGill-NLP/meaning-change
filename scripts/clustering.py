@@ -9,6 +9,7 @@ import argparse
 import os 
 from tqdm import tqdm 
 import matplotlib.pyplot as plt
+import random
 
 def main():
     parser = argparse.ArgumentParser()
@@ -20,11 +21,12 @@ def main():
     parser.add_argument('--same-word-ok', type=bool, default=False)
     parser.add_argument('--use-log-probs', type=bool, default=True)
     parser.add_argument('--output-directory', type=str, default='./clusters/')
+    parser.add_argument('--random-seed', type=int, default=3535)
     args = parser.parse_args()
     run_clustering(args)
 
 
-def get_clusters(word: str, substitution_directory: str, threshold=0, same_word_ok=False, use_log_probs=True):
+def get_clusters(word: str, substitution_directory: str, threshold=0, same_word_ok=False, use_log_probs=True, random_seed=3535):
     data = []
     with open(os.path.join(substitution_directory, f'{word}.jsonl')) as file:
         for line in file:
@@ -74,7 +76,7 @@ def get_clusters(word: str, substitution_directory: str, threshold=0, same_word_
     G.remove_nodes_from(isolated_nodes)
     
     # Apply the Louvain method for community detection
-    partition = community_louvain.best_partition(G)
+    partition = community_louvain.best_partition(G, random_state=random_seed)
     
     sorted_nodes = sorted(partition.keys(), key=lambda node: node_frequencies[node], reverse=True)
     # Group the nodes by their community
@@ -165,6 +167,7 @@ def run_clustering(args):
     same_word_ok = args.same_word_ok
     use_log_probs = args.use_log_probs
     output_directory = args.output_directory
+    random_seed = args.random_seed
     if not os.path.exists(output_directory):
         os.mkdir(output_directory)
     #
@@ -187,7 +190,7 @@ def run_clustering(args):
                 word_data.append(json.loads(line))
         #
         word_df = pd.DataFrame(word_data)
-        clusters = get_clusters(word, substitution_directory=substitution_directory, threshold=clustering_threshold, same_word_ok=same_word_ok, use_log_probs=use_log_probs)
+        clusters = get_clusters(word, substitution_directory=substitution_directory, threshold=clustering_threshold, same_word_ok=same_word_ok, use_log_probs=use_log_probs, random_seed=random_seed)
         word_df_processed = get_clusterwise_count_df_optimized(word_df, clusters)
         write_cluster_count_info(word_df_processed, clusters, word, output_directory)
         merged_word_df = get_merged_word_df(word_df_processed, all_speeches)
