@@ -1,74 +1,69 @@
-Cluster 5:
-Examples: ['called', 'told', 'asked', 'contacted', 'informed', 'met', 'visited']
-Raw count: 9581
-Proportion: 0.3942311648767642
-
-Cluster 4:
-Examples: ['sent', 'wrote', 'went', 'said', 'came', 'gave', 'received']
-Raw count: 6259
-Proportion: 0.2575402213718471
-
-Cluster 2:
-Examples: ['made', 'built', 'used', 'ready', 'equipped', 'designed', 'prepared']
-Raw count: 2424
-Proportion: 0.09974077274410567
-
-Cluster 1:
-Examples: ['got', 'going', 'put', 'come', 'taken', 'coming', 'hooked']
-Raw count: 1617
-Proportion: 0.06653499567954574
-
-Cluster 10:
-Examples: ['connected', 'open', 'now', 'just', 'also', 'right', 'started']
-Raw count: 1446
-Proportion: 0.05949882730527095
-
-Cluster 8:
-Examples: ['done', 'considered', 'acted', 'attempted', 'accomplished', 'activities', 'activity']
-Raw count: 104
-Proportion: 0.004279307081430276
-
-Cluster 11:
-Examples: ['good', 'safe', 'alliance', 'partnership', 'respect', 'support', 'people']
-Raw count: 849
-Proportion: 0.03493395877052216
-
-Cluster 6:
-Examples: ['wireless', 'telephone', 'electric', 'together', 'mobile', 'cable', 'finished']
-Raw count: 1257
-Proportion: 0.05172200962844093
-
 Cluster 7:
-Examples: ['sc', 'smart', 'st', 'red', 'sp', 'ga', 'ku']
-Raw count: 443
-Proportion: 0.018228202279553966
+Examples: ['called', 'told', 'asked', 'contacted', 'informed', 'met', 'visited']
+Raw count: 9615
+Proportion: 0.3956301691149241
 
 Cluster 0:
-Examples: ['represents', 'owned', 'runs', 'serves', 'owns', 'acquired', 'operates']
-Raw count: 101
-Proportion: 0.004155865531004403
+Examples: ['sent', 'made', 'gave', 'received', 'brought', 'paid', 'given']
+Raw count: 2784
+Proportion: 0.11455375879521047
 
-Cluster 12:
-Examples: ['president', 'mr', 'thomas', 'john', 'secretary', 'com', 'sir']
-Raw count: 85
-Proportion: 0.003497510595399745
-
-Cluster 13:
-Examples: ['take', 'accept', 'claim', 'demand', 'refuse']
-Raw count: 14
-Proportion: 0.0005760605686540756
-
-Cluster 3:
-Examples: ['since', 'means', 'today', 'meeting', 'daily', 'day', 'nearly']
-Raw count: 100
-Proportion: 0.004114718347529111
+Cluster 6:
+Examples: ['wrote', 'went', 'said', 'came', 'written', 'talked', 'spoke']
+Raw count: 2863
+Proportion: 0.11780438628975846
 
 Cluster 9:
-Examples: ['se', 'fe', 'int', 'ai', 'dei', 'fu', 've']
-Raw count: 12
-Proportion: 0.0004937662017034934
+Examples: ['got', 'put', 'come', 'took', 'responded', 'gone', 'taken']
+Raw count: 1781
+Proportion: 0.07328313376949348
 
-Cluster 14:
+Cluster 3:
+Examples: ['connected', 'going', 'directed', 'open', 'coming', 'working', 'just']
+Raw count: 1763
+Proportion: 0.07254248446693824
+
+Cluster 5:
+Examples: ['built', 'used', 'ready', 'equipped', 'designed', 'prepared', 'opened']
+Raw count: 2071
+Proportion: 0.0852158169773279
+
+Cluster 11:
+Examples: ['done', 'now', 'asking', 'agreed', 'visiting', 'decided', 'voted']
+Raw count: 342
+Proportion: 0.014072336748549562
+
+Cluster 4:
+Examples: ['wireless', 'added', 'new', 'telephone', 'organized', 'electric', 'together']
+Raw count: 1430
+Proportion: 0.058840472369666295
+
+Cluster 1:
+Examples: ['served', 'proposed', 'created', 'formed', 'dangerous', 'important', 'represents']
+Raw count: 271
+Proportion: 0.011150886721803893
+
+Cluster 13:
+Examples: ['safe', 'alliance', 'partnership', 'respect', 'support', 'people', 'center']
+Raw count: 649
+Proportion: 0.026704522075463935
+
+Cluster 10:
+Examples: ['sc', 'trained', 'smart', 'st', 'red', 'sp', 'get']
+Raw count: 519
+Proportion: 0.02135538822367609
+
+Cluster 2:
+Examples: ['president', 'mr', 'thomas', 'john', 'com', 'sir', 'yes']
+Raw count: 94
+Proportion: 0.0038678352466773648
+
+Cluster 8:
+Examples: ['since', 'means', 'today', 'meeting', 'daily', 'though', 'day']
+Raw count: 110
+Proportion: 0.004526190182282023
+
+Cluster 12:
 Examples: ['ass', 'ins', 'suggest', 'post', 'fest', 'prospect', 'predict']
 Raw count: 11
 Proportion: 0.0004526190182282023

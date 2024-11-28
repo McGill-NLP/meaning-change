@@ -1,69 +1,79 @@
-Cluster 4:
+Cluster 3:
 Examples: ['clerk', 'trustee', 'secretary', 'judge', 'agent', 'director', 'manager']
-Raw count: 22921
-Proportion: 0.401861949261006
-
-Cluster 8:
-Examples: ['person', 'owner', 'recipient', 'carrier', 'persons', 'holder', 'source']
-Raw count: 4781
-Proportion: 0.083822781703105
-
-Cluster 7:
-Examples: ['receivers', 'station', 'repository', 'system', 'reception', 'body', 'radio']
-Raw count: 6110
-Proportion: 0.10712344618405596
-
-Cluster 10:
-Examples: ['man', 'company', 'lawyer', 'corporation', 'buyer', 'one', 'friend']
-Raw count: 9241
-Proportion: 0.1620176376737907
-
-Cluster 0:
-Examples: ['register', 'office', 'records', 'journal', 'law', 'gazette', 'report']
-Raw count: 3505
-Proportion: 0.06145133860476533
+Raw count: 23594
+Proportion: 0.41366130757227765
 
 Cluster 1:
-Examples: ['government', 'state', 'bank', 'people', 'others', 'public', 'owners']
-Raw count: 3442
-Proportion: 0.0603467924329821
+Examples: ['person', 'man', 'company', 'defendant', 'government', 'corporation', 'state']
+Raw count: 12364
+Proportion: 0.21677156933218789
 
-Cluster 5:
-Examples: ['plaintiff', 'deceased', 'first', 'well', 'also', 'etc', 'now']
-Raw count: 2040
-Proportion: 0.03576625699107597
+Cluster 7:
+Examples: ['receivers', 'one', 'carrier', 'station', 'repository', 'system', 'reception']
+Raw count: 5707
+Proportion: 0.10005785718042674
+
+Cluster 9:
+Examples: ['register', 'first', 'well', 'also', 'thief', 'etc', 'now']
+Raw count: 2662
+Proportion: 0.0466714588775707
 
 Cluster 6:
-Examples: ['committee', 'receipt', 'trust', 'business', 'property', 'case', 'bankruptcy']
-Raw count: 4286
-Proportion: 0.07514420463909392
+Examples: ['owner', 'buyer', 'recipient', 'holder', 'seller', 'source', 'party']
+Raw count: 3709
+Proportion: 0.06502796430387292
 
-Cluster 14:
-Examples: ['church', 'congregation', 'model', 'foundation', 'basis', 'brethren', 'religion']
-Raw count: 93
-Proportion: 0.0016305205392990515
+Cluster 0:
+Examples: ['court', 'committee', 'receipt', 'trust', 'persons', 'law', 'business']
+Raw count: 6329
+Proportion: 0.11096305906692147
 
-Cluster 11:
-Examples: ['esq', 'inc', 'ii', 'com', 'project', 'corp', 'ms']
-Raw count: 299
-Proportion: 0.0052422111962410365
+Cluster 8:
+Examples: ['body', 'telephone', 'line', 'phone', 'book', 'thing', 'second']
+Raw count: 1385
+Proportion: 0.02428248330031383
 
-Cluster 3:
-Examples: ['door', 'desk', 'key', 'bar', 'section', 'dr', 'wire']
-Raw count: 278
-Proportion: 0.0048740291389799606
+Cluster 15:
+Examples: ['power', 'place', 'point', 'room', 'library', 'control', 'range']
+Raw count: 602
+Proportion: 0.010554552308150849
 
-Cluster 2:
-Examples: ['william', 'walter', 'henry', 'otto', 'stanley', 'olivia', 'gilbert']
-Raw count: 10
-Proportion: 0.00017532478917194102
+Cluster 10:
+Examples: ['co', 'esq', 'hon', 'inc', 'ii', 'bar', 'com']
+Raw count: 456
+Proportion: 0.00799481038624051
 
 Cluster 13:
+Examples: ['two', 'three', 'four', 'five', 'six', 'seven', 'di']
+Raw count: 75
+Proportion: 0.0013149359187895576
+
+Cluster 4:
+Examples: ['information', 'rights', 'articles', 'forms', 'material', 'questions', 'subjects']
+Raw count: 48
+Proportion: 0.0008415589880253169
+
+Cluster 14:
+Examples: ['richardson', 'william', 'walter', 'henry', 'otto', 'stanley', 'olivia']
+Raw count: 20
+Proportion: 0.00035064957834388203
+
+Cluster 5:
+Examples: ['article', 'subordinate', 'similar', 'adhere', 'staple', 'aggregate', 'attache']
+Raw count: 21
+Proportion: 0.00036818205726107614
+
+Cluster 2:
+Examples: ['tanker', 'attack', 'fighter', 'minds', 'fuel', 'vs', 'killers']
+Raw count: 34
+Proportion: 0.0005961042831845994
+
+Cluster 16:
 Examples: ['dress', 'clothes', 'shirt', 'shoes', 'shorts', 'boots', 'pants']
 Raw count: 11
 Proportion: 0.00019285726808913512
 
-Cluster 9:
+Cluster 11:
 Examples: ['1949', '1968', '1955', '1954', '1961', '1976', '1967']
 Raw count: 10
 Proportion: 0.00017532478917194102

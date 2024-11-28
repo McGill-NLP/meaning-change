@@ -1,75 +1,75 @@
-Cluster 5:
-Examples: ['strong', 'great', 'healthy', 'sound', 'long', 'fair', 'unique']
-Raw count: 11230
-Proportion: 0.16868700524236552
-
-Cluster 0:
-Examples: ['good', 'full', 'big', 'small', 'high', 'perfect', 'steady']
-Raw count: 7831
-Proportion: 0.11763027053009478
-
-Cluster 4:
-Examples: ['new', 'comprehensive', 'national', 'global', 'single', 'free', 'complete']
-Raw count: 8183
-Proportion: 0.12291769936761149
-
-Cluster 1:
-Examples: ['large', 'powerful', 'effective', 'successful', 'major', 'significant', 'substantial']
-Raw count: 21077
-Proportion: 0.3165998227509651
-
-Cluster 2:
-Examples: ['real', 'current', 'positive', 'certain', 'true', 'first', 'possible']
-Raw count: 4640
-Proportion: 0.06969792558544756
-
-Cluster 8:
-Examples: ['massive', 'solid', 'excellent', 'smart', 'generous', 'liberal', 'remarkable']
-Raw count: 4390
-Proportion: 0.06594264942243852
-
-Cluster 12:
-Examples: ['public', 'political', 'living', 'legal', 'congressional', 'presidential', 'live']
-Raw count: 1264
-Proportion: 0.018986676280173646
-
 Cluster 6:
-Examples: ['growing', 'alive', 'booming', 'changing', 'working', 'rising', 'expanding']
-Raw count: 1447
-Proportion: 0.02173553843149625
-
-Cluster 9:
-Examples: ['federal', 'future', 'rapid', 'sustained', 'recent', 'increased', 'proposed']
-Raw count: 3759
-Proportion: 0.05646433238700374
-
-Cluster 11:
-Examples: ['much', 'just', 'now', 'yes', 'even', 'fully', 'relatively']
-Raw count: 1007
-Proportion: 0.015126252384600363
+Examples: ['strong', 'good', 'healthy', 'stable', 'growing', 'dynamic', 'vibrant']
+Raw count: 9111
+Proportion: 0.136857284484701
 
 Cluster 3:
-Examples: ['one', 'third', 'market', 'people', 'man', 'war', 'time']
-Raw count: 1298
-Proportion: 0.019497393838342873
+Examples: ['new', 'comprehensive', 'big', 'national', 'small', 'global', 'broad']
+Raw count: 11401
+Proportion: 0.1712556141378637
+
+Cluster 1:
+Examples: ['large', 'great', 'major', 'massive', 'significant', 'substantial', 'long']
+Raw count: 9733
+Proportion: 0.14620041157826746
+
+Cluster 0:
+Examples: ['full', 'real', 'high', 'current', 'positive', 'true', 'first']
+Raw count: 4586
+Proportion: 0.06888678593423761
 
 Cluster 7:
-Examples: ['mr', 'extra', 'com', 'net', 'dr', '12', 'ms']
-Raw count: 401
-Proportion: 0.0060234629654664805
+Examples: ['powerful', 'effective', 'successful', 'solid', 'competitive', 'efficient', 'important']
+Raw count: 19049
+Proportion: 0.28613702251663586
 
-Cluster 10:
+Cluster 8:
+Examples: ['public', 'federal', 'single', 'better', 'special', 'additional', 'increased']
+Raw count: 4453
+Proportion: 0.0668889790155168
+
+Cluster 11:
+Examples: ['extensive', 'general', 'sturdy', 'tough', 'conventional', 'stout', 'short']
+Raw count: 1703
+Proportion: 0.025580941222417497
+
+Cluster 13:
+Examples: ['free', 'home', 'controlled', 'civil', 'known', 'commitment', 'voluntary']
+Raw count: 418
+Proportion: 0.006278821744551094
+
+Cluster 4:
+Examples: ['complete', 'just', 'truly', 'now', 'yes', 'even', 'fully']
+Raw count: 1189
+Proportion: 0.017860093431270936
+
+Cluster 12:
+Examples: ['future', 'recent', 'human', 'economic', 'government', 'private', 'financial']
+Raw count: 2075
+Proportion: 0.03116879215297493
+
+Cluster 2:
+Examples: ['young', 'one', 'well', 'potential', 'living', 'live', 'social']
+Raw count: 1600
+Proportion: 0.02403376744325778
+
+Cluster 14:
+Examples: ['possible', 'enough', 'planned', 'available', 'organized', 'expected', 'needed']
+Raw count: 879
+Proportion: 0.013203550989139742
+
+Cluster 5:
+Examples: ['mr', 'extra', 'com', 'net', 'dr', 'ms', 'mrs']
+Raw count: 341
+Proportion: 0.005122196686344314
+
+Cluster 9:
 Examples: ['called', 'considered', 'termed', 'named', 'renamed', 'call', 'deemed']
 Raw count: 18
 Proportion: 0.00027037988373665
 
-Cluster 13:
+Cluster 10:
 Examples: ['aden', 'spire', 'botanic', 'ko', 'mast', 'gil', 'gram']
 Raw count: 17
 Proportion: 0.0002553587790846139
-
-Cluster 14:
-Examples: ['sword', 'glory', 'roll', 'chorus', 'shine', 'honour', 'honor']
-Raw count: 11
-Proportion: 0.0001652321511723972
 

@@ -1,85 +1,75 @@
-Cluster 3:
-Examples: ['crisis', 'war', 'situation', 'disaster', 'decline', 'economy', 'collapse']
-Raw count: 143871
-Proportion: 0.34193126723072537
-
-Cluster 1:
-Examples: ['depression', 'storm', 'fall', 'world', 'country', 'earthquake', 'hurricane']
-Raw count: 89117
-Proportion: 0.21180007605285672
+Cluster 4:
+Examples: ['crisis', 'war', 'disaster', 'decline', 'unemployment', 'growth', 'government']
+Raw count: 121621
+Proportion: 0.2890507652818709
 
 Cluster 2:
-Examples: ['drought', 'slump', 'catastrophe', 'contraction', 'deficit', 'boom', 'famine']
-Raw count: 54685
-Proportion: 0.12996720220553284
-
-Cluster 6:
-Examples: ['one', 'time', 'summer', 'worst', 'future', 'calendar', 'ever']
-Raw count: 25352
-Proportion: 0.06025287574864531
-
-Cluster 0:
-Examples: ['year', 'problem', 'period', 'thing', 'day', 'revolution', 'strike']
-Raw count: 82208
-Proportion: 0.19537978895332256
-
-Cluster 5:
-Examples: ['inflation', 'budget', 'transition', 'reaction', 'discretion', 'comet', 'fragment']
-Raw count: 11830
-Proportion: 0.028115790474379693
-
-Cluster 11:
-Examples: ['decade', 'century', '1980s', '1970s', '1990s', 'regime', '1960s']
-Raw count: 6471
-Proportion: 0.015379313622967962
+Examples: ['depression', 'drought', 'slump', 'catastrophe', 'collapse', 'contraction', 'fall']
+Raw count: 88150
+Proportion: 0.20950185378838293
 
 Cluster 7:
-Examples: ['break', 'half', 'un', 'super', 'hyper', 'con', 'non']
-Raw count: 6454
-Proportion: 0.015338910542827265
+Examples: ['one', 'time', 'summer', 'worst', 'future', 'relief', 'two']
+Raw count: 23446
+Proportion: 0.05572297746934119
 
-Cluster 9:
-Examples: ['back', 'republic', 'bernie', 'gm', 'lead', 'came', 'grimace']
-Raw count: 361
-Proportion: 0.0008579712900465824
+Cluster 1:
+Examples: ['situation', 'storm', 'economy', 'world', 'country', 'hurricane', 'hole']
+Raw count: 70913
+Proportion: 0.16853550717748836
 
-Cluster 10:
-Examples: ['works', 'happened', 'happens', 'goes', 'exists', 'began', 'occurs']
-Raw count: 171
-Proportion: 0.0004064074531799601
+Cluster 0:
+Examples: ['year', 'problem', 'period', 'thing', 'change', 'day', 'revolution']
+Raw count: 90034
+Proportion: 0.21397946572868143
+
+Cluster 11:
+Examples: ['inflation', 'budget', 'break', 'reaction', 'discretion', 'stimulus', 'comet']
+Raw count: 11673
+Proportion: 0.027742656146021484
 
 Cluster 8:
-Examples: ['passing', 'running', 'yield', 'giving', 'knowing', 'trying', 'try']
-Raw count: 92
-Proportion: 0.00021865196311436448
+Examples: ['decade', 'century', '1980s', '1970s', '1990s', 'regime', '1960s']
+Raw count: 6230
+Proportion: 0.014806540545679247
 
-Cluster 4:
-Examples: ['source', 'stocks', 'bodies', 'supplies', 'shipments', 'quantities', 'sources']
-Raw count: 47
-Proportion: 0.00011170263333016446
-
-Cluster 12:
-Examples: ['manager', 'owner', 'owners', 'expert', 'analyst', 'tenant', 'tenants']
-Raw count: 31
-Proportion: 7.36762049624489e-05
-
-Cluster 16:
-Examples: ['microwave', 'bread', 'brick', 'candle', 'tin', 'pottery', 'dutch']
-Raw count: 17
-Proportion: 4.040308014069779e-05
-
-Cluster 13:
-Examples: ['wine', 'cigarettes', 'liquor', 'scotch', 'tobacco', 'whiskey']
-Raw count: 10
-Proportion: 2.3766517729822226e-05
+Cluster 5:
+Examples: ['loss', 'ever', 'especially', 'gain', 'passing', 'running', 'yield']
+Raw count: 1563
+Proportion: 0.003714706721171214
 
 Cluster 14:
-Examples: ['75', '54', '37', '57', '90', '99', '80']
-Raw count: 37
-Proportion: 8.793611560034224e-05
+Examples: ['industry', 'cia', 'irs', 'pentagon', 'treasury', 'obama', 'democrats']
+Raw count: 802
+Proportion: 0.0019060747219317425
 
-Cluster 15:
-Examples: ['indian', 'sykes', 'sahib', 'accredited', 'expired', 'compliant']
-Raw count: 6
-Proportion: 1.4259910637893336e-05
+Cluster 12:
+Examples: ['un', 'super', 'three', 'non', 'autumn', 'four', 'mr']
+Raw count: 5735
+Proportion: 0.013630097918053048
+
+Cluster 10:
+Examples: ['back', 'republic', 'bernie', 'gm', 'lead', 'came', 'grimace']
+Raw count: 352
+Proportion: 0.0008365814240897424
+
+Cluster 13:
+Examples: ['works', 'happened', 'happens', 'goes', 'began', 'occurs', 'clay']
+Raw count: 165
+Proportion: 0.00039214754254206674
+
+Cluster 3:
+Examples: ['source', 'stocks', 'bodies', 'stores', 'supplies', 'shipments', 'quantities']
+Raw count: 51
+Proportion: 0.00012120924042209335
+
+Cluster 9:
+Examples: ['wine', 'bourbon', 'cigarettes', 'liquor', 'scotch', 'tobacco', 'whiskey']
+Raw count: 13
+Proportion: 3.0896473048768895e-05
+
+Cluster 6:
+Examples: ['75', '57', '73', '74', '63', '72', 'seventy']
+Raw count: 12
+Proportion: 2.8519821275786672e-05
 

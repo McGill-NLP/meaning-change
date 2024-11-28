@@ -1,104 +1,109 @@
-Cluster 15:
-Examples: ['evaluation', 'verification', 'testing', 'development', 'test', 'examination', 'demonstration']
-Raw count: 1290
-Proportion: 0.14568040654997177
+Cluster 2:
+Examples: ['evaluation', 'verification', 'analysis', 'review', 'validity', 'consideration', 'confirmation']
+Raw count: 1567
+Proportion: 0.1769621682665161
+
+Cluster 10:
+Examples: ['testing', 'development', 'test', 'design', 'first', 'production', 'construction']
+Raw count: 963
+Proportion: 0.10875211744776962
 
 Cluster 8:
-Examples: ['approval', 'ratification', 'support', 'acceptance', 'authorization', 'election', 'vote']
-Raw count: 483
-Proportion: 0.05454545454545454
-
-Cluster 4:
-Examples: ['analysis', 'review', 'consideration', 'assessment', 'study', 'report', 'inspection']
-Raw count: 707
-Proportion: 0.07984189723320158
+Examples: ['approval', 'information', 'support', 'acceptance', 'possession', 'authorization', 'rejection']
+Raw count: 544
+Proportion: 0.061434217955957084
 
 Cluster 0:
 Examples: ['use', 'application', 'recognition', 'sale', 'implementation', 'payment', 'issue']
-Raw count: 2101
-Proportion: 0.2372670807453416
-
-Cluster 5:
-Examples: ['validity', 'confirmation', 'control', 'performance', 'security', 'data', 'decision']
-Raw count: 685
-Proportion: 0.07735742518351214
+Raw count: 2206
+Proportion: 0.24912478825522305
 
 Cluster 6:
-Examples: ['certification', 'training', 'disclosure', 'time', 'signature', 'money', 'compliance']
-Raw count: 293
-Proportion: 0.03308865047995483
+Examples: ['certification', 'training', 'disclosure', 'time', 'money', 'qualifying', 'compliance']
+Raw count: 298
+Proportion: 0.03365330321852061
 
-Cluster 7:
-Examples: ['part', 'proof', 'evidence', 'statement', 'result', 'documentation', 'portion']
-Raw count: 673
-Proportion: 0.07600225861095426
-
-Cluster 16:
-Examples: ['research', 'first', 'final', 'engineering', 'planning', 'trial', 'third']
-Raw count: 704
-Proportion: 0.07950310559006211
-
-Cluster 11:
-Examples: ['information', 'management', 'processing', 'collection', 'reporting', 'exchange', 'accounting']
-Raw count: 305
-Proportion: 0.034443817052512704
-
-Cluster 18:
-Examples: ['one', 'marriage', 'many', 'main', 'several', 'copies', 'half']
-Raw count: 226
-Proportion: 0.02552230378317335
-
-Cluster 3:
-Examples: ['power', 'declaration', 'law', 'action', 'act', 'effect', 'resolution']
-Raw count: 611
-Proportion: 0.06900056465273857
-
-Cluster 17:
-Examples: ['value', 'knowledge', 'record', 'basis', 'number', 'level', 'history']
-Raw count: 280
-Proportion: 0.03162055335968379
-
-Cluster 10:
-Examples: ['work', 'access', 'service', 'entry', 'applications', 'operations', 'payments']
-Raw count: 132
-Proportion: 0.014906832298136646
+Cluster 5:
+Examples: ['part', 'statement', 'result', 'matter', 'question', 'portion', 'reminder']
+Raw count: 540
+Proportion: 0.060982495765104464
 
 Cluster 14:
-Examples: ['assistance', 'relief', 'coverage', 'insurance', 'treatment', 'technology', 'fraud']
-Raw count: 80
-Proportion: 0.009034443817052512
+Examples: ['research', 'performance', 'security', 'data', 'safety', 'quality', 'response']
+Raw count: 531
+Proportion: 0.05996612083568605
+
+Cluster 11:
+Examples: ['control', 'legal', 'monitoring', 'government', 'general', 'special', 'judicial']
+Raw count: 451
+Proportion: 0.05093167701863354
+
+Cluster 7:
+Examples: ['ratification', 'power', 'declaration', 'law', 'act', 'status', 'effect']
+Raw count: 570
+Proportion: 0.06437041219649915
+
+Cluster 15:
+Examples: ['one', 'signature', 'marriage', 'many', 'several', 'copies', 'half']
+Raw count: 196
+Proportion: 0.022134387351778657
+
+Cluster 9:
+Examples: ['action', 'work', 'funding', 'service', 'entry', 'applications', 'aid']
+Raw count: 210
+Proportion: 0.023715415019762844
+
+Cluster 12:
+Examples: ['selection', 'value', 'knowledge', 'system', 'record', 'basis', 'number']
+Raw count: 409
+Proportion: 0.04618859401468097
+
+Cluster 17:
+Examples: ['science', 'division', 'business', 'type', 'life', 'generation', 'majority']
+Raw count: 115
+Proportion: 0.012987012987012988
+
+Cluster 4:
+Examples: ['provisions', 'name', 'section', 'rest', 'content', 'interest', 'main']
+Raw count: 126
+Proportion: 0.014229249011857707
 
 Cluster 19:
-Examples: ['division', 'national', 'department', 'oversight', 'credit', 'international', 'executive']
-Raw count: 208
-Proportion: 0.023489553924336534
-
-Cluster 1:
 Examples: ['percentage', 'token', 'blank', 'tab', 'tin', 'envelope', 'safe']
 Raw count: 25
 Proportion: 0.00282326369282891
 
 Cluster 13:
+Examples: ['fraud', 'consolidation', 'liability', 'cash', 'corporation', 'bankruptcy', 'reorganization']
+Raw count: 25
+Proportion: 0.00282326369282891
+
+Cluster 20:
+Examples: ['theft', 'interrogation', 'checkpoint', 'intercept', 'rental', 'penetration', 'questioning']
+Raw count: 27
+Proportion: 0.003049124788255223
+
+Cluster 16:
 Examples: ['ii', 'mr', 'yes', 'ms', 'dr', '10', '22']
 Raw count: 12
 Proportion: 0.0013551665725578769
 
-Cluster 2:
+Cluster 21:
 Examples: ['september', 'october', 'august', 'july', 'november', 'june', 'january']
 Raw count: 10
 Proportion: 0.001129305477131564
 
-Cluster 9:
+Cluster 18:
 Examples: ['2012', '2013', '2017', '2014', '2015', '2016', '2011']
 Raw count: 10
 Proportion: 0.001129305477131564
 
-Cluster 12:
+Cluster 3:
 Examples: ['ready', 'suitable', 'available', 'intended', 'approved', 'prepared', 'licensed']
 Raw count: 10
 Proportion: 0.001129305477131564
 
-Cluster 20:
+Cluster 1:
 Examples: ['demolition', 'dig', 'commuter', 'skyscraper', 'millionaire', 'graveyard', 'quake']
 Raw count: 10
 Proportion: 0.001129305477131564

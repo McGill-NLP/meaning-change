@@ -1,79 +1,99 @@
 Cluster 0:
 Examples: ['minimum', 'percentage', 'quota', 'allowance', 'deadline', 'exclusion', 'exemption']
-Raw count: 15246
-Proportion: 0.10803341765693757
-
-Cluster 2:
-Examples: ['level', 'limit', 'requirement', 'amount', 'ceiling', 'rate', 'standard']
-Raw count: 52446
-Proportion: 0.37163325609574627
-
-Cluster 1:
-Examples: ['point', 'edge', 'brink', 'verge', 'end', 'line', 'bar']
-Raw count: 45983
-Proportion: 0.3258363271755844
-
-Cluster 8:
-Examples: ['maximum', 'subject', 'nuclear', 'total', 'international', 'comprehensive', 'required']
-Raw count: 22622
-Proportion: 0.16029988024630995
-
-Cluster 3:
-Examples: ['age', 'test', 'threat', 'weapons', 'arsenal', 'weapon', 'forces']
-Raw count: 3555
-Proportion: 0.025190791012095832
-
-Cluster 10:
-Examples: ['percent', 'just', 'still', 'actually', 'together', 'really', 'already']
-Raw count: 380
-Proportion: 0.0026926865216867556
-
-Cluster 5:
-Examples: ['un', 'data', 'well', 'oil', 'st', 'pre', 'production']
-Raw count: 437
-Proportion: 0.0030965894999397687
-
-Cluster 6:
-Examples: ['story', 'voting', 'coverage', 'cover', 'reporting', 'background', 'aspect']
-Raw count: 239
-Proportion: 0.0016935581017977226
+Raw count: 14887
+Proportion: 0.10548953749565981
 
 Cluster 4:
-Examples: ['distinction', 'breaks', 'allows', 'accounts', 'calls', 'goes', 'stands']
-Raw count: 113
-Proportion: 0.0008007199393436931
+Examples: ['level', 'test', 'threat', 'weapons', 'arsenal', 'weapon', 'forces']
+Raw count: 5403
+Proportion: 0.038285750728088264
 
-Cluster 12:
-Examples: ['drop', 'charged', 'offense', 'pop', 'jump', 'committed', 'offenses']
-Raw count: 21
-Proportion: 0.0001488063604090049
+Cluster 6:
+Examples: ['limit', 'requirement', 'amount', 'ceiling', 'rate', 'standard', 'price']
+Raw count: 45669
+Proportion: 0.3236113177866117
+
+Cluster 2:
+Examples: ['point', 'end', 'beginning', 'eve', 'time', 'subject', 'moment']
+Raw count: 19280
+Proportion: 0.13661841088979118
+
+Cluster 5:
+Examples: ['maximum', 'nuclear', 'total', 'international', 'comprehensive', 'required', 'first']
+Raw count: 21931
+Proportion: 0.15540344238713746
+
+Cluster 1:
+Examples: ['edge', 'brink', 'verge', 'line', 'bar', 'boundary', 'path']
+Raw count: 31794
+Proportion: 0.22529282965923345
+
+Cluster 7:
+Examples: ['committee', 'government', 'senate', 'people', 'family', 'president', 'today']
+Raw count: 965
+Proportion: 0.006838006561651892
+
+Cluster 13:
+Examples: ['percent', 'just', 'still', 'actually', 'really', 'already', 'shit']
+Raw count: 345
+Proportion: 0.0024446759210050807
+
+Cluster 3:
+Examples: ['un', 'data', 'well', 'st', 'pre', 'production', 'super']
+Raw count: 395
+Proportion: 0.002798976779121759
+
+Cluster 9:
+Examples: ['coverage', 'cover', 'reporting', 'background', 'accounting', 'admission', 'covered']
+Raw count: 124
+Proportion: 0.0008786661281293623
+
+Cluster 18:
+Examples: ['eligible', 'except', 'made', 'paid', 'allows', 'accounts', 'save']
+Raw count: 166
+Proportion: 0.0011762788489473723
+
+Cluster 10:
+Examples: ['distinction', 'separation', 'comparison', 'differences', 'distinguishing']
+Raw count: 23
+Proportion: 0.00016297839473367206
+
+Cluster 14:
+Examples: ['spouse', 'coffee', 'cocktail', 'slate', 'cigar', 'wedding', 'wife']
+Raw count: 46
+Proportion: 0.0003259567894673441
+
+Cluster 16:
+Examples: ['drop', 'pop', 'popping', 'bang', 'buzz', 'popped', 'pops']
+Raw count: 12
+Proportion: 8.50322059480028e-05
 
 Cluster 15:
 Examples: ['works', 'collection', 'bodies', 'collections', 'pieces']
 Raw count: 13
 Proportion: 9.211822311033637e-05
 
-Cluster 7:
+Cluster 8:
 Examples: ['participants', 'makers', 'sponsor', 'sponsors', 'recipients', 'producers', 'hosts']
 Raw count: 12
 Proportion: 8.50322059480028e-05
 
-Cluster 11:
+Cluster 17:
 Examples: ['upland', 'prairie', 'suburbs', 'wild', 'wilderness', 'homeless', 'flock']
 Raw count: 18
 Proportion: 0.00012754830892200422
 
-Cluster 9:
-Examples: ['duties', 'services', 'tasks', 'schedules', 'missions']
-Raw count: 7
-Proportion: 4.960212013633497e-05
-
-Cluster 14:
+Cluster 12:
 Examples: ['labour', 'envoy', 'surveyor', 'vassal', 'harbour', 'guild', 'ware']
 Raw count: 24
 Proportion: 0.0001700644118960056
 
-Cluster 13:
+Cluster 19:
+Examples: ['wanted', 'wants', 'willing', 'want', 'trying', 'wanting', 'choose']
+Raw count: 9
+Proportion: 6.377415446100211e-05
+
+Cluster 11:
 Examples: ['1st', '2nd', '3rd', '4th', '5th', '7th', '6th']
 Raw count: 7
 Proportion: 4.960212013633497e-05

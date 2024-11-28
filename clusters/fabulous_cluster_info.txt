@@ -1,90 +1,90 @@
 Cluster 0:
-Examples: ['great', 'good', 'remarkable', 'fine', 'beautiful', 'amazing', 'perfect']
-Raw count: 5717
-Proportion: 0.23060788189262232
+Examples: ['great', 'good', 'wonderful', 'real', 'remarkable', 'fine', 'beautiful']
+Raw count: 6700
+Proportion: 0.2702593683191481
 
 Cluster 3:
-Examples: ['huge', 'enormous', 'wonderful', 'tremendous', 'massive', 'immense', 'incredible']
-Raw count: 6582
-Proportion: 0.2654995764591989
+Examples: ['huge', 'enormous', 'tremendous', 'massive', 'immense', 'incredible', 'extraordinary']
+Raw count: 6084
+Proportion: 0.2454116413214473
 
 Cluster 2:
-Examples: ['large', 'high', 'considerable', 'real', 'substantial', 'certain', 'significant']
-Raw count: 5283
-Proportion: 0.21310152878060587
+Examples: ['large', 'high', 'considerable', 'substantial', 'certain', 'significant', 'reasonable']
+Raw count: 4582
+Proportion: 0.1848251381549756
 
 Cluster 1:
-Examples: ['vast', 'small', 'many', 'rich', 'extravagant', 'several', 'particular']
-Raw count: 1286
-Proportion: 0.051873663829615585
-
-Cluster 6:
-Examples: ['big', 'little', 'old', 'two', 'grand', 'glorious', 'three']
-Raw count: 2804
-Proportion: 0.11310556250252107
-
-Cluster 8:
-Examples: ['new', 'natural', 'recent', 'human', 'government', 'steady', 'economic']
-Raw count: 1023
-Proportion: 0.04126497519261022
-
-Cluster 7:
-Examples: ['true', 'one', 'like', 'now', 'illegal', 'short', 'inflated']
-Raw count: 691
-Proportion: 0.02787301843410915
-
-Cluster 10:
-Examples: ['business', 'daily', 'family', 'war', 'time', 'country', 'weekly']
-Raw count: 269
-Proportion: 0.010850711951918035
-
-Cluster 12:
-Examples: ['public', 'private', 'corporate', 'political', 'legal', 'man', 'royal']
-Raw count: 282
-Proportion: 0.011375095800895487
-
-Cluster 5:
-Examples: ['money', 'oil', 'well', 'heavy', 'mr', 'taxes', 'yes']
-Raw count: 309
-Proportion: 0.012464200718002501
-
-Cluster 14:
-Examples: ['increased', 'made', 'reduced', 'lost', 'found', 'done', 'working']
-Raw count: 272
-Proportion: 0.01097172360937437
-
-Cluster 11:
-Examples: ['people', 'television', 'tv', 'musical', 'art', 'men', 'radio']
-Raw count: 114
-Proportion: 0.004598442983340729
-
-Cluster 9:
-Examples: ['making', 'getting', 'imagine', 'dynamic', 'thriving', 'booming', 'prosperous']
-Raw count: 85
-Proportion: 0.0034286636279294907
+Examples: ['vast', 'rich', 'several', 'gold', 'wide', 'diverse', 'broad']
+Raw count: 764
+Proportion: 0.030817635432213303
 
 Cluster 15:
-Examples: ['known', 'dil', 'noted', 'grateful', 'dal', 'sul', 'pal']
-Raw count: 26
-Proportion: 0.001048767697954903
+Examples: ['big', 'many', 'two', 'grand', 'three', 'five', 'extravagant']
+Raw count: 1787
+Proportion: 0.07208261062482353
+
+Cluster 11:
+Examples: ['new', 'small', 'little', 'special', 'natural', 'american', 'particular']
+Raw count: 1571
+Proportion: 0.0633697712879674
+
+Cluster 9:
+Examples: ['old', 'lower', 'one', 'former', 'young', 'legendary', 'early']
+Raw count: 898
+Proportion: 0.03622282279859627
 
 Cluster 16:
-Examples: ['secrets', 'cases', 'investigations', 'deals', 'avenues', 'doors', 'leaks']
-Raw count: 13
-Proportion: 0.0005243838489774515
+Examples: ['unique', 'personal', 'national', 'government', 'business', 'professional', 'public']
+Raw count: 655
+Proportion: 0.026420878544633132
+
+Cluster 5:
+Examples: ['recent', 'human', 'steady', 'constant', 'economic', 'rapid', 'fast']
+Raw count: 238
+Proportion: 0.009600258158202573
+
+Cluster 13:
+Examples: ['like', 'now', 'living', 'people', 'also', 'almost', 'dead']
+Raw count: 366
+Proportion: 0.014763422209672866
+
+Cluster 10:
+Examples: ['money', 'illegal', 'wrong', 'false', 'fake', 'evil', 'taxes']
+Raw count: 298
+Proportion: 0.012020491307329273
+
+Cluster 6:
+Examples: ['oil', 'well', 'hot', 'heavy', 'income', 'sales', 'property']
+Raw count: 135
+Proportion: 0.005445524585535073
+
+Cluster 12:
+Examples: ['growing', 'increasing', 'making', 'getting', 'dynamic', 'thriving', 'booming']
+Raw count: 139
+Proportion: 0.00560687346214352
+
+Cluster 7:
+Examples: ['increased', 'made', 'reduced', 'lost', 'found', 'done', 'gone']
+Raw count: 251
+Proportion: 0.010124642007180025
+
+Cluster 14:
+Examples: ['daily', 'war', 'man', 'time', 'royal', 'mr', 'weekly']
+Raw count: 285
+Proportion: 0.011496107458351822
 
 Cluster 4:
+Examples: ['known', 'noted', 'grateful', 'thanks', 'thank', 'praised', 'gratitude']
+Raw count: 15
+Proportion: 0.0006050582872816748
+
+Cluster 8:
 Examples: ['none', 'une', 'deco', 'una', 'disco', 'ce', 'dei']
 Raw count: 12
 Proportion: 0.00048404662982533985
 
 Cluster 17:
-Examples: ['ready', 'determined', 'keen', 'willing', 'delighted', 'thrilled', 'compelled']
-Raw count: 13
-Proportion: 0.0005243838489774515
-
-Cluster 13:
-Examples: ['boston', 'philadelphia', 'reading', 'bridgeport', 'memphis', 'georgia', 'passing']
-Raw count: 10
-Proportion: 0.00040337219152111655
+Examples: ['dil', 'dal', 'sul', 'pal', 'mar', 'dun', 'din']
+Raw count: 11
+Proportion: 0.0004437094106732282
 

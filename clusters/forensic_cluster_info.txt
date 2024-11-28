@@ -1,84 +1,84 @@
-Cluster 10:
-Examples: ['medical', 'physical', 'political', 'human', 'general', 'criminal', 'modern']
-Raw count: 2128
-Proportion: 0.14315506222670704
+Cluster 3:
+Examples: ['medical', 'physical', 'human', 'social', 'general', 'natural', 'criminal']
+Raw count: 2908
+Proportion: 0.19562731247897747
 
-Cluster 7:
-Examples: ['scientific', 'academic', 'additional', 'oral', 'photographic', 'necessary', 'documentary']
-Raw count: 539
-Proportion: 0.03625967036663303
+Cluster 9:
+Examples: ['scientific', 'new', 'professional', 'basic', 'digital', 'independent', 'domestic']
+Raw count: 1236
+Proportion: 0.08314833501513623
 
 Cluster 4:
-Examples: ['legal', 'new', 'police', 'professional', 'investigative', 'various', 'intelligence']
-Raw count: 2296
-Proportion: 0.15445677766565757
+Examples: ['legal', 'public', 'private', 'lab', 'financial', 'electronic', 'certified']
+Raw count: 696
+Proportion: 0.04682139253279516
 
-Cluster 12:
+Cluster 1:
+Examples: ['political', 'military', 'national', 'defense', 'legislative', 'debate', 'courtroom']
+Raw count: 1700
+Proportion: 0.11436259670366633
+
+Cluster 5:
 Examples: ['ballistic', 'diagnostic', 'biological', 'safeguard', 'interrogation', 'tribunal', 'prosecution']
 Raw count: 1799
 Proportion: 0.1210225361587622
 
-Cluster 6:
-Examples: ['public', 'dramatic', 'debate', 'football', 'literary', 'athletic', 'speaking']
-Raw count: 1337
-Proportion: 0.08994281870164816
+Cluster 10:
+Examples: ['police', 'dna', 'evidence', 'blood', 'specialized', 'test', 'visual']
+Raw count: 904
+Proportion: 0.06081399260006727
 
-Cluster 0:
-Examples: ['great', 'personal', 'intellectual', 'natural', 'mental', 'technical', 'chemical']
-Raw count: 2809
-Proportion: 0.1889673730238816
+Cluster 2:
+Examples: ['great', 'personal', 'intellectual', 'mental', 'many', 'preliminary', 'real']
+Raw count: 2846
+Proportion: 0.19145644130507905
+
+Cluster 6:
+Examples: ['investigative', 'technical', 'intelligence', 'security', 'certain', 'special', 'examiner']
+Raw count: 1349
+Proportion: 0.09075008409014464
 
 Cluster 8:
-Examples: ['dna', 'evidence', 'blood', 'many', 'examiner', 'visual', 'composite']
-Raw count: 687
-Proportion: 0.04621594349142281
-
-Cluster 11:
-Examples: ['social', 'computer', 'research', 'crime', 'life', 'defense', 'security']
-Raw count: 1577
-Proportion: 0.10608812647157753
-
-Cluster 1:
-Examples: ['military', 'national', 'legislative', 'american', 'government', 'international', 'administrative']
-Raw count: 860
-Proportion: 0.05785401950891356
-
-Cluster 3:
-Examples: ['information', 'identification', 'training', 'communication', 'communications', 'telephone', 'education']
-Raw count: 250
-Proportion: 0.016818028927009756
-
-Cluster 14:
-Examples: ['federal', 'rape', 'female', 'homicide', 'victim', 'sexual', 'male']
-Raw count: 211
-Proportion: 0.014194416414396232
-
-Cluster 9:
-Examples: ['combat', 'heroic', 'pleading', 'greeting', 'editorial', 'ruling', 'consultation']
-Raw count: 307
-Proportion: 0.02065253952236798
+Examples: ['dramatic', 'academic', 'football', 'athletic', 'math', 'transcript', 'basketball']
+Raw count: 1117
+Proportion: 0.07514295324587958
 
 Cluster 13:
+Examples: ['two', 'five', 'four', 'six', 'ten', 'seven', 'thousand']
+Raw count: 175
+Proportion: 0.011772620248906828
+
+Cluster 12:
 Examples: ['lifetime', 'time', 'way', 'day', 'year', 'month', 'week']
 Raw count: 22
 Proportion: 0.0014799865455768584
 
-Cluster 16:
-Examples: ['cyber', 'counter', 'auto', 'self', 'anti', 'super', 'double']
-Raw count: 13
-Proportion: 0.0008745375042045072
+Cluster 7:
+Examples: ['adjective', 'impulse', 'joy', 'juice', 'comfort', 'meditation', 'purpose']
+Raw count: 40
+Proportion: 0.0026908846283215607
 
-Cluster 5:
+Cluster 15:
+Examples: ['cyber', 'counter', 'pseudo', 'auto', 'para', 'pre', 'self']
+Raw count: 24
+Proportion: 0.0016145307769929364
+
+Cluster 0:
+Examples: ['outburst', 'rage', 'fire', 'heads', 'shriek', 'howl', 'glare']
+Raw count: 19
+Proportion: 0.0012781701984527414
+
+Cluster 14:
 Examples: ['integrate', 'appoint', 'activate', 'relocate', 'designate', 'consolidate', 'strengthen']
 Raw count: 11
 Proportion: 0.0007399932727884292
 
-Cluster 2:
+Cluster 11:
 Examples: ['lloyd', 'cooper', 'foster', 'yacht', 'cole', 'robinson', 'scott']
 Raw count: 9
 Proportion: 0.0006054490413723512
 
-Cluster 15:
+Cluster 16:
 Examples: ['province', 'desert', 'plains', 'states', 'region', 'wyoming', 'springs']
 Raw count: 10
 Proportion: 0.0006727211570803902

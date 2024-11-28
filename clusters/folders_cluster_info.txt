@@ -1,99 +1,99 @@
 Cluster 5:
 Examples: ['files', 'boxes', 'drawers', 'items', 'rooms', 'individuals', 'chairs']
-Raw count: 359
-Proportion: 0.09808743169398908
+Raw count: 391
+Proportion: 0.10683060109289617
 
 Cluster 2:
 Examples: ['men', 'persons', 'officers', 'members', 'women', 'workers', 'employees']
-Raw count: 700
-Proportion: 0.1912568306010929
+Raw count: 705
+Proportion: 0.19262295081967212
 
 Cluster 0:
 Examples: ['people', 'ones', 'others', 'things', 'cases', 'hands', 'bags']
-Raw count: 417
-Proportion: 0.1139344262295082
-
-Cluster 8:
-Examples: ['books', 'papers', 'documents', 'pages', 'records', 'letters', 'reports']
-Raw count: 971
-Proportion: 0.2653005464480874
-
-Cluster 10:
-Examples: ['folder', 'file', 'one', 'room', 'accounts', 'stuff', 'note']
-Raw count: 199
-Proportion: 0.05437158469945355
-
-Cluster 18:
-Examples: ['bills', 'work', 'house', 'money', 'muster', 'committee', 'personnel']
-Raw count: 270
-Proportion: 0.07377049180327869
+Raw count: 384
+Proportion: 0.10491803278688525
 
 Cluster 6:
-Examples: ['years', 'hours', 'information', 'days', 'hundred', 'minutes', 'dollars']
-Raw count: 273
-Proportion: 0.07459016393442623
+Examples: ['books', 'papers', 'documents', 'pages', 'letters', 'reports', 'volumes']
+Raw count: 889
+Proportion: 0.24289617486338796
 
-Cluster 12:
+Cluster 8:
+Examples: ['records', 'folder', 'file', 'one', 'claims', 'report', 'funds']
+Raw count: 346
+Proportion: 0.09453551912568306
+
+Cluster 1:
+Examples: ['years', 'hours', 'information', 'days', 'hundred', 'minutes', 'dollars']
+Raw count: 274
+Proportion: 0.07486338797814207
+
+Cluster 10:
 Examples: ['offices', 'office', 'printers', 'machines', 'guns', 'computers', 'weapons']
-Raw count: 107
-Proportion: 0.029234972677595627
+Raw count: 103
+Proportion: 0.02814207650273224
+
+Cluster 4:
+Examples: ['work', 'house', 'labor', 'money', 'muster', 'back', 'personnel']
+Raw count: 239
+Proportion: 0.06530054644808743
 
 Cluster 3:
 Examples: ['etc', 'er', 'filed', 'inc', 'due', 'ie', 'vs']
-Raw count: 61
-Proportion: 0.016666666666666666
+Raw count: 67
+Proportion: 0.01830601092896175
+
+Cluster 17:
+Examples: ['also', 'services', 'works', 'arrangements', 'products', 'visitors', 'survey']
+Raw count: 73
+Proportion: 0.01994535519125683
 
 Cluster 9:
-Examples: ['also', 'services', 'works', 'arrangements', 'products', 'visitors', 'survey']
-Raw count: 68
-Proportion: 0.018579234972677595
-
-Cluster 7:
-Examples: ['labor', 'back', 'living', 'labour', 'day', 'prices', 'ten']
-Raw count: 68
-Proportion: 0.018579234972677595
-
-Cluster 11:
 Examples: ['clerk', '12', '10', '15', 'secretary', 'mr', '20']
 Raw count: 69
 Proportion: 0.018852459016393444
 
-Cluster 14:
+Cluster 12:
 Examples: ['well', 'usual', 'always', 'promised', 'expected', 'needed', 'passengers']
 Raw count: 11
 Proportion: 0.003005464480874317
 
-Cluster 19:
+Cluster 13:
+Examples: ['prices', 'rates', 'sold', 'paying', 'priced', 'paid', 'fees']
+Raw count: 22
+Proportion: 0.006010928961748634
+
+Cluster 18:
 Examples: ['stores', 'sizes', 'cigarettes', 'phones', 'head', 'mast', 'deck']
 Raw count: 21
 Proportion: 0.005737704918032787
 
-Cluster 13:
+Cluster 11:
 Examples: ['sale', 'printing', 'publication', 'writing', 'reading', 'use', 'speech']
 Raw count: 17
 Proportion: 0.004644808743169399
 
-Cluster 16:
+Cluster 15:
 Examples: ['mi', 'cd', 'dvd', 'tv', 'ob', 'wi', 'cb']
 Raw count: 11
 Proportion: 0.003005464480874317
 
-Cluster 15:
+Cluster 14:
 Examples: ['employed', 'remained', 'appeared', 'met', 'died', 'continued', 'lived']
 Raw count: 10
 Proportion: 0.00273224043715847
 
-Cluster 17:
+Cluster 16:
 Examples: ['increased', 'added', 'increase', 'improved', 'reduced', 'additional', 'decreased']
 Raw count: 10
 Proportion: 0.00273224043715847
 
-Cluster 1:
+Cluster 19:
 Examples: ['reservations', 'camps', 'tribes', 'reservation', 'states', 'wards', 'clans']
 Raw count: 8
 Proportion: 0.002185792349726776
 
-Cluster 4:
+Cluster 7:
 Examples: ['rocks', 'ridge', 'hills', 'bridge', 'hill', 'island', 'road']
 Raw count: 10
 Proportion: 0.00273224043715847

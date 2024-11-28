@@ -1,74 +1,74 @@
 Cluster 5:
 Examples: ['organs', 'blood', 'heart', 'kidney', 'human', 'liver', 'tissue']
-Raw count: 36323
-Proportion: 0.347661708685082
+Raw count: 36263
+Proportion: 0.3470874251038496
 
-Cluster 1:
-Examples: ['body', 'part', 'one', 'object', 'institution', 'thing', 'system']
-Raw count: 10642
-Proportion: 0.1018587645245889
+Cluster 0:
+Examples: ['body', 'newspaper', 'journal', 'publication', 'paper', 'member', 'leader']
+Raw count: 30079
+Proportion: 0.28789793066482894
 
 Cluster 4:
-Examples: ['arm', 'idea', 'infant', 'operation', 'income', 'abortion', 'ether']
-Raw count: 3129
-Proportion: 0.029948888761270314
+Examples: ['arm', 'embryo', 'article', 'area', 'idea', 'infant', 'abortion']
+Raw count: 3571
+Proportion: 0.03417944447634909
+
+Cluster 2:
+Examples: ['part', 'one', 'portion', 'item', 'parts', 'piece', 'building']
+Raw count: 2652
+Proportion: 0.025383334290472636
 
 Cluster 3:
 Examples: ['civil', 'real', 'un', 'total', 'gr', 'fr', 'general']
-Raw count: 25042
-Proportion: 0.23968682402036792
+Raw count: 25283
+Proportion: 0.2419935297383181
 
-Cluster 2:
+Cluster 1:
 Examples: ['instrument', 'bell', 'piano', 'pipe', 'organist', 'engine', 'church']
-Raw count: 3660
-Proportion: 0.03503129845517717
-
-Cluster 0:
-Examples: ['newspaper', 'journal', 'publication', 'paper', 'member', 'leader', 'magazine']
-Raw count: 22912
-Proportion: 0.2192997568866173
-
-Cluster 6:
-Examples: ['big', 'indian', 'long', 'gas', 'hand', 'iron', 'tin']
-Raw count: 2118
-Proportion: 0.020272210417504162
+Raw count: 3908
+Proportion: 0.03740500392427114
 
 Cluster 7:
-Examples: ['called', 'said', 'established', 'says', 'organized', 'known', 'formed']
-Raw count: 399
-Proportion: 0.0038189858151955434
+Examples: ['live', 'big', 'water', 'long', 'gas', 'tin', 'mud']
+Raw count: 1902
+Proportion: 0.018204789525067478
+
+Cluster 8:
+Examples: ['now', 'made', 'also', 'said', 'today', 'card', 'established']
+Raw count: 658
+Proportion: 0.0062979766075154575
+
+Cluster 13:
+Examples: ['friends', 'partners', 'circle', 'followers', 'gang', 'towns', 'schemes']
+Raw count: 37
+Proportion: 0.00035414154175998777
 
 Cluster 9:
-Examples: ['friends', 'etc', 'whatever', 'politics', 'editors', 'partners', 'else']
-Raw count: 116
-Proportion: 0.0011102815903826643
+Examples: ['support', 'priority', 'preference', 'fifth', 'priorities', 'supporting', 'supportive']
+Raw count: 36
+Proportion: 0.00034457014873944756
 
-Cluster 12:
+Cluster 6:
 Examples: ['50', '100', '500', '90', '45', '800', '600']
 Raw count: 29
 Proportion: 0.00027757039759566607
 
-Cluster 8:
-Examples: ['box', 'vision', 'hope', 'instead', 'smile', 'promise', 'benefits']
-Raw count: 46
-Proportion: 0.0004402840789448496
-
-Cluster 11:
-Examples: ['prisoner', 'priest', 'boys', 'soldiers', 'girls', 'prisoners', 'guards']
-Raw count: 31
-Proportion: 0.0002967131836367465
-
 Cluster 10:
-Examples: ['french', 'dress', 'clothes', 'silk', 'shirt', 'laundry', 'linen']
-Raw count: 15
-Proportion: 0.00014357089530810314
+Examples: ['vision', 'hope', 'instead', 'smile', 'promise', 'benefits', 'wish']
+Raw count: 38
+Proportion: 0.00036371293478052797
 
-Cluster 14:
+Cluster 12:
 Examples: ['possess', 'stress', 'torment', 'attract', 'resist', 'suppress', 'suit']
 Raw count: 8
 Proportion: 7.657114416432167e-05
 
-Cluster 13:
+Cluster 14:
+Examples: ['alabama', 'delta', 'mississippi', 'georgia', '70', 'oklahoma']
+Raw count: 6
+Proportion: 5.742835812324125e-05
+
+Cluster 11:
 Examples: ['dorchester', 'lawrence', 'poole', 'montgomery', 'cambridge', 'charleston', 'washington']
 Raw count: 8
 Proportion: 7.657114416432167e-05

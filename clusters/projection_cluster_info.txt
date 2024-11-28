@@ -1,84 +1,84 @@
-Cluster 5:
-Examples: ['estimate', 'budget', 'estimates', 'figure', 'point', 'number', 'level']
-Raw count: 11898
-Proportion: 0.22296765488549905
+Cluster 16:
+Examples: ['estimate', 'budget', 'estimates', 'figure', 'number', 'list', 'level']
+Raw count: 11151
+Proportion: 0.2089689292005547
 
 Cluster 0:
-Examples: ['plan', 'plans', 'estimated', 'center', 'said', 'predicted', 'except']
-Raw count: 1600
-Proportion: 0.02998388366253139
+Examples: ['plan', 'plans', 'estimated', 'center', 'draft', 'said', 'percent']
+Raw count: 1636
+Proportion: 0.030658521044938346
 
 Cluster 8:
-Examples: ['projections', 'projected', 'target', 'goal', 'term', 'expectations', 'poster']
-Raw count: 2787
-Proportion: 0.05222817735467186
-
-Cluster 7:
-Examples: ['report', 'statement', 'forecast', 'analysis', 'assessment', 'prediction', 'thing']
-Raw count: 19872
-Proportion: 0.37239983508863983
-
-Cluster 2:
-Examples: ['one', 'part', 'portion', 'projecting', 'government', 'future', 'series']
-Raw count: 2276
-Proportion: 0.0426520745099509
-
-Cluster 13:
-Examples: ['program', 'curve', 'say', 'responsibility', 'business', 'break', 'go']
-Raw count: 771
-Proportion: 0.014448483939882312
-
-Cluster 1:
-Examples: ['project', 'development', 'use', 'extension', 'delivery', 'expansion', 'distribution']
-Raw count: 5337
-Proportion: 0.10001499194183126
+Examples: ['projections', 'project', 'projected', 'summary', 'delivery', 'distribution', 'production']
+Raw count: 4281
+Proportion: 0.08022562872456054
 
 Cluster 6:
-Examples: ['generation', 'management', 'response', 'power', 'strategy', 'operations', 'land']
-Raw count: 4746
-Proportion: 0.08893969491398374
+Examples: ['report', 'statement', 'forecast', 'analysis', 'assessment', 'prediction', 'thing']
+Raw count: 17628
+Proportion: 0.3303474382519396
 
-Cluster 11:
-Examples: ['period', 'time', 'day', 'life', 'cycle', 'week', 'age']
-Raw count: 1074
-Proportion: 0.020126681908474196
-
-Cluster 4:
-Examples: ['source', 'effect', 'name', 'form', 'cap', 'impact', 'voice']
-Raw count: 1155
-Proportion: 0.021644616018889846
-
-Cluster 9:
-Examples: ['protection', 'right', 'copy', 'impression', 'war', 'panel', 'revision']
-Raw count: 1239
-Proportion: 0.023218769911172745
-
-Cluster 14:
-Examples: ['research', 'career', 'problems', 'damage', 'testing', 'exam', 'fires']
-Raw count: 114
-Proportion: 0.0021363517109553613
-
-Cluster 12:
-Examples: ['perspective', 'programs', 'quarter', 'changes', 'policies', 'charts', 'mind']
-Raw count: 308
-Proportion: 0.005771897605037293
-
-Cluster 10:
-Examples: ['wall', 'long', 'big', 'floor', 'bar', 'color', 'smile']
-Raw count: 128
-Proportion: 0.0023987106930025114
-
-Cluster 16:
-Examples: ['extreme', 'likely', 'conservative', 'paranoid', 'authoritarian', 'hysterical', 'hypnotic']
-Raw count: 21
-Proportion: 0.0003935384730707245
-
-Cluster 15:
-Examples: ['personality', 'suicide', 'cognitive', 'anxiety', 'trauma', 'psycho', 'messiah']
-Raw count: 26
-Proportion: 0.00048723810951613507
+Cluster 7:
+Examples: ['one', 'part', 'lot', 'portion', 'projecting', 'government', 'source']
+Raw count: 2392
+Proportion: 0.04482590607548443
 
 Cluster 3:
+Examples: ['program', 'year', 'proposal', 'period', 'time', 'bill', 'policy']
+Raw count: 4073
+Proportion: 0.07632772384843146
+
+Cluster 1:
+Examples: ['development', 'review', 'use', 'extension', 'expansion', 'deployment', 'planning']
+Raw count: 4487
+Proportion: 0.08408605374611146
+
+Cluster 4:
+Examples: ['goal', 'name', 'form', 'process', 'nature', 'state', 'command']
+Raw count: 1023
+Proportion: 0.01917094561673101
+
+Cluster 13:
+Examples: ['generation', 'management', 'strategy', 'operations', 'sharing', 'transfer', 'based']
+Raw count: 1919
+Proportion: 0.035961920467748584
+
+Cluster 9:
+Examples: ['now', 'today', 'second', 'first', 'equivalent', 'campaign', 'whole']
+Raw count: 699
+Proportion: 0.013099209175068401
+
+Cluster 12:
+Examples: ['position', 'effect', 'perspective', 'cap', 'impact', 'look', 'say']
+Raw count: 882
+Proportion: 0.016528615868970427
+
+Cluster 11:
+Examples: ['land', 'defense', 'special', 'combat', 'control', 'strategic', 'armed']
+Raw count: 1960
+Proportion: 0.03673025748660095
+
+Cluster 14:
+Examples: ['protection', 'right', 'copy', 'war', 'revision', 'preservation', 'public']
+Raw count: 705
+Proportion: 0.013211648738802893
+
+Cluster 15:
+Examples: ['research', 'etc', '10', 'inc', 'career', 'mr', 'problems']
+Raw count: 384
+Proportion: 0.007196132079007533
+
+Cluster 2:
+Examples: ['family', 'political', 'bank', 'earth', 'oil', 'media', 'island']
+Raw count: 98
+Proportion: 0.0018365128743300476
+
+Cluster 10:
+Examples: ['superiority', 'personality', 'suicide', 'cognitive', 'anxiety', 'trauma', 'psycho']
+Raw count: 34
+Proportion: 0.000637157527828792
+
+Cluster 5:
 Examples: ['pastor', 'rib', 'robb', 'rev', 'jose', 'dauphin', 'inspector']
 Raw count: 10
 Proportion: 0.00018739927289082117

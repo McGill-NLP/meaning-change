@@ -1,54 +1,54 @@
 Cluster 0:
 Examples: ['led', 'directed', 'chaired', 'represented', 'formed', 'appointed', 'founded']
-Raw count: 120321
-Proportion: 0.4921647789326429
-
-Cluster 3:
-Examples: ['going', 'heading', 'looking', 'moving', 'now', 'coming', 'walking']
-Raw count: 58438
-Proportion: 0.23903662163101855
-
-Cluster 2:
-Examples: ['called', 'signed', 'written', 'titled', 'entitled', 'said', 'read']
-Raw count: 27591
-Proportion: 0.1128590887337252
-
-Cluster 1:
-Examples: ['made', 'prepared', 'set', 'taken', 'went', 'built', 'left']
-Raw count: 20170
-Proportion: 0.08250399839655095
-
-Cluster 9:
-Examples: ['head', 'heads', 'one', 'chairman', 'enough', 'another', 'two']
-Raw count: 6363
-Proportion: 0.026027414070265428
-
-Cluster 8:
-Examples: ['sent', 'destined', 'bound', 'responsible', 'good', 'except', 'due']
-Raw count: 9793
-Proportion: 0.04005759327205867
+Raw count: 128975
+Proportion: 0.5275633710062052
 
 Cluster 7:
-Examples: ['like', 'say', 'work', 'know', 'remember', 'praying', 'think']
-Raw count: 1260
-Proportion: 0.0051539433802505795
+Examples: ['going', 'heading', 'looking', 'moving', 'now', 'coming', 'walking']
+Raw count: 66848
+Proportion: 0.2734371484785641
 
-Cluster 6:
-Examples: ['ii', 'de', 'co', 're', 'flight', 'per', 'project']
-Raw count: 470
-Proportion: 0.0019225026894585497
+Cluster 2:
+Examples: ['called', 'titled', 'entitled', 'saying', 'headlined', 'reading', 'labeled']
+Raw count: 18864
+Proportion: 0.07716189517860868
+
+Cluster 1:
+Examples: ['made', 'sent', 'prepared', 'set', 'taken', 'ran', 'went']
+Raw count: 22518
+Proportion: 0.09210833098133536
+
+Cluster 8:
+Examples: ['head', 'heads', 'enough', 'people', 'line', 'handed', 'either']
+Raw count: 4933
+Proportion: 0.020178097376806436
 
 Cluster 5:
+Examples: ['like', 'see', 'say', 'call', 'work', 'know', 'remember']
+Raw count: 1601
+Proportion: 0.00654878043792157
+
+Cluster 4:
+Examples: ['ii', 'inc', 'de', 'co', 're', 'every', 'etc']
+Raw count: 641
+Proportion: 0.0026219664339211285
+
+Cluster 9:
+Examples: ['pass', 'jack', 'th', 'bo', 'fi', 'chi', 'ali']
+Raw count: 49
+Proportion: 0.00020043113145418921
+
+Cluster 3:
 Examples: ['objection', 'refused', 'protested', 'objections', 'objected', 'protest', 'protests']
 Raw count: 14
 Proportion: 5.7266037558339777e-05
 
-Cluster 4:
-Examples: ['jack', 'th', 'bo', 'fi', 'chi', 'ali', 'fond']
-Raw count: 43
-Proportion: 0.00017588854392918646
-
 Cluster 10:
+Examples: ['dry', 'land', 'lands', 'schooner', 'prairie', 'natural', 'mature']
+Raw count: 20
+Proportion: 8.180862508334254e-05
+
+Cluster 6:
 Examples: ['monte', 'villa', 'valle', 'es', 'vila', 'campo', 'cho']
 Raw count: 10
 Proportion: 4.090431254167127e-05

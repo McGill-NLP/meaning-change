@@ -1,59 +1,64 @@
-Cluster 1:
-Examples: ['end', 'back', 'top', 'edge', 'bottom', 'part', 'head']
-Raw count: 26342
-Proportion: 0.22579373242816977
-
-Cluster 3:
-Examples: ['tips', 'home', 'bill', 'first', 'tax', 'lin', 'federal']
-Raw count: 13079
-Proportion: 0.11210827676061168
-
-Cluster 2:
-Examples: ['away', 'together', 'upon', 'forward', 'forth', 'around', 'now']
-Raw count: 17838
-Proportion: 0.15290063772886237
-
-Cluster 8:
-Examples: ['tipping', 'pot', 'flat', 'chop', 'chin', 'true', 'hard']
-Raw count: 2703
-Proportion: 0.02316910100802304
+Cluster 6:
+Examples: ['end', 'top', 'edge', 'bottom', 'part', 'head', 'point']
+Raw count: 24318
+Proportion: 0.20844476445175888
 
 Cluster 0:
-Examples: ['dip', 'toe', 'lip', 'chip', 'apart', 'tap', 'pop']
-Raw count: 17091
-Proportion: 0.14649763423163958
+Examples: ['back', 'away', 'together', 'upon', 'forward', 'forth', 'around']
+Raw count: 21302
+Proportion: 0.18259274497702804
 
-Cluster 4:
-Examples: ['john', 'james', 'tom', 'just', 'george', 'pete', 'david']
-Raw count: 12767
-Proportion: 0.10943392991839813
-
-Cluster 6:
-Examples: ['tipped', 'turn', 'like', 'change', 'shift', 'tilt', 'lift']
-Raw count: 15874
-Proportion: 0.13606596722210793
-
-Cluster 5:
-Examples: ['one', 'man', 'name', 'story', 'call', 'power', 'way']
-Raw count: 7601
-Proportion: 0.06515291778097786
-
-Cluster 10:
-Examples: ['law', 'little', 'als', 'brit', 'two', 'fuller', 'sex']
-Raw count: 3279
-Proportion: 0.028106356716724953
+Cluster 1:
+Examples: ['tips', 'home', 'bill', 'first', 'tax', 'federal', 'good']
+Raw count: 13409
+Proportion: 0.11493691284372214
 
 Cluster 9:
-Examples: ['pipe', 'tube', 'pump', 'mechanism', 'engine', 'machine', 'apparatus']
-Raw count: 66
-Proportion: 0.0005657272166220942
+Examples: ['tipping', 'john', 'james', 'tom', 'george', 'pete', 'david']
+Raw count: 13730
+Proportion: 0.11768840430638415
+
+Cluster 3:
+Examples: ['dip', 'lip', 'chip', 'tap', 'pop', 'trip', 'flip']
+Raw count: 14018
+Proportion: 0.1201570321607351
+
+Cluster 7:
+Examples: ['toe', 'slip', 'step', 'lin', 'law', 'little', 'pan']
+Raw count: 6405
+Proportion: 0.054901254885825965
+
+Cluster 4:
+Examples: ['tipped', 'turn', 'like', 'change', 'shift', 'tilt', 'lift']
+Raw count: 15865
+Proportion: 0.13598882260165945
+
+Cluster 12:
+Examples: ['one', 'man', 'name', 'story', 'call', 'way', 'life']
+Raw count: 7110
+Proportion: 0.06094425015428924
+
+Cluster 5:
+Examples: ['hot', 'sweet', 'phone', 'watch', 'night', 'dead', 'mom']
+Raw count: 424
+Proportion: 0.0036343687855722416
 
 Cluster 11:
+Examples: ['fire', 'shots', 'firing', 'fired', 'bullet', 'gunfire', 'rounds']
+Raw count: 46
+Proportion: 0.0003942947267366111
+
+Cluster 10:
+Examples: ['fifty', '1982', '1983', '1980', '1984', '1981', '1979']
+Raw count: 13
+Proportion: 0.00011143111842556402
+
+Cluster 2:
 Examples: ['march', 'june', 'april', 'january', 'july', 'december', 'february']
 Raw count: 11
 Proportion: 9.428786943701571e-05
 
-Cluster 7:
+Cluster 8:
 Examples: ['julian', 'sebastian', 'neville', 'martini', 'merlin', 'stein', 'cohen']
 Raw count: 13
 Proportion: 0.00011143111842556402

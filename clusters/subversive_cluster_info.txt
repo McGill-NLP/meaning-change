@@ -1,65 +1,100 @@
-Cluster 4:
-Examples: ['criminal', 'dangerous', 'violent', 'various', 'secret', 'evil', 'hostile']
-Raw count: 35017
-Proportion: 0.35532217148655504
-
-Cluster 7:
-Examples: ['political', 'communist', 'revolutionary', 'religious', 'american', 'socialist', 'fascist']
-Raw count: 18772
-Proportion: 0.19048198883815323
-
-Cluster 3:
-Examples: ['terrorist', 'black', 'industrial', 'spy', 'civilian', 'individual', 'traitor']
-Raw count: 5556
-Proportion: 0.05637747336377474
-
-Cluster 1:
-Examples: ['illegal', 'organized', 'active', 'guilty', 'unconstitutional', 'affiliated', 'involved']
-Raw count: 5455
-Proportion: 0.05535261288685946
-
 Cluster 5:
-Examples: ['foreign', 'military', 'enemy', 'chemical', 'war', 'government', 'intelligence']
-Raw count: 15119
-Proportion: 0.15341451040081178
-
-Cluster 0:
-Examples: ['certain', 'destructive', 'part', 'one', 'outside', 'independent', 'representative']
-Raw count: 10739
-Proportion: 0.10897006595636732
+Examples: ['criminal', 'dangerous', 'violent', 'evil', 'unlawful', 'suspicious', 'homosexual']
+Raw count: 17890
+Proportion: 0.1815322171486555
 
 Cluster 2:
-Examples: ['similar', 'alien', 'related', 'true', 'harmful', 'possible', 'important']
-Raw count: 4602
-Proportion: 0.04669710806697108
+Examples: ['political', 'foreign', 'certain', 'military', 'various', 'secret', 'revolutionary']
+Raw count: 41488
+Proportion: 0.42098427194317606
+
+Cluster 4:
+Examples: ['terrorist', 'communist', 'enemy', 'socialist', 'fascist', 'underground', 'hate']
+Raw count: 12720
+Proportion: 0.12907153729071538
+
+Cluster 1:
+Examples: ['illegal', 'active', 'prohibited', 'unconstitutional', 'involved', 'dead', 'living']
+Raw count: 5368
+Proportion: 0.05446981227803146
+
+Cluster 3:
+Examples: ['hostile', 'similar', 'alien', 'hazardous', 'offensive', 'related', 'true']
+Raw count: 6588
+Proportion: 0.06684931506849315
+
+Cluster 14:
+Examples: ['war', 'terrorism', 'chinese', 'arms', 'drug', 'crime', 'violence']
+Raw count: 1886
+Proportion: 0.019137493658041602
+
+Cluster 0:
+Examples: ['destructive', 'part', 'one', 'outside', 'independent', 'representative', 'critical']
+Raw count: 9190
+Proportion: 0.0932521562658549
 
 Cluster 6:
-Examples: ['communists', 'whatever', 'terrorists', 'communism', 'people', 'well', 'members']
-Raw count: 1906
-Proportion: 0.019340436326737695
+Examples: ['communists', 'sabotage', 'terrorists', 'right', 'communism', 'like', 'people']
+Raw count: 1973
+Proportion: 0.02002029426686961
 
 Cluster 11:
-Examples: ['first', 'second', 'third', 'future', 'previous', 'last', 'yes']
-Raw count: 495
-Proportion: 0.00502283105022831
+Examples: ['white', 'red', 'anti', 'air', 'news', 'sex', 'internet']
+Raw count: 708
+Proportion: 0.007184170471841705
 
-Cluster 10:
-Examples: ['white', 'red', 'anti', 'air', 'news', 'internet', 'un']
-Raw count: 657
-Proportion: 0.006666666666666667
+Cluster 13:
+Examples: ['committee', 'house', 'organization', 'name', 'list', 'type', 'program']
+Raw count: 184
+Proportion: 0.0018670725520040588
 
 Cluster 9:
-Examples: ['making', 'including', 'conducting', 'spreading', 'using', 'forming', 'creating']
+Examples: ['making', 'including', 'conducting', 'spreading', 'using', 'forming', 'building']
 Raw count: 213
 Proportion: 0.0021613394216133943
 
+Cluster 18:
+Examples: ['existing', '1954', 'uniform', '1950', '1951', '1949', '1952']
+Raw count: 41
+Proportion: 0.00041603247082699137
+
+Cluster 16:
+Examples: ['torture', 'farming', 'cleaning', 'hand', 'kitchen', 'gardening', 'garden']
+Raw count: 29
+Proportion: 0.00029426686960933534
+
 Cluster 8:
+Examples: ['last', 'airborne', 'fourth', 'parasitic', 'fifth', 'sixth', 'viral']
+Raw count: 48
+Proportion: 0.000487062404870624
+
+Cluster 12:
+Examples: ['yes', 'together', 'hot', 'okay', 'always', 'maybe', 'still']
+Raw count: 147
+Proportion: 0.0014916286149162861
+
+Cluster 19:
+Examples: ['raw', 'fishing', 'submarine', 'fish', 'ammunition', 'mosquito', 'drift']
+Raw count: 26
+Proportion: 0.00026382546930492134
+
+Cluster 15:
+Examples: ['refers', 'leads', 'appeals', 'applies', 'relates', 'extends', 'belongs']
+Raw count: 24
+Proportion: 0.000243531202435312
+
+Cluster 17:
 Examples: ['30', '50', '120', '80', '130', '100', '110']
 Raw count: 12
 Proportion: 0.000121765601217656
 
-Cluster 12:
-Examples: ['crowd', 'silence', 'chatter', 'excitement', 'buzz', 'moment', 'audience']
+Cluster 10:
+Examples: ['wheeler', 'oswald', 'reynolds', 'callahan', 'nicholson', 'wilson', 'whitehead']
+Raw count: 8
+Proportion: 8.117706747843735e-05
+
+Cluster 7:
+Examples: ['massage', 'magic', 'welding', 'sewing', 'cutting', 'cooking', 'wrestling']
 Raw count: 7
 Proportion: 7.102993404363267e-05
 

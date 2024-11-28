@@ -1,69 +1,79 @@
-Cluster 4:
-Examples: ['industry', 'market', 'company', 'profession', 'network', 'production', 'space']
-Raw count: 97936
-Proportion: 0.13081575516659186
+Cluster 8:
+Examples: ['industry', 'company', 'profession', 'trade', 'crisis', 'revolution', 'bubble']
+Raw count: 64590
+Proportion: 0.08627460409053023
 
-Cluster 3:
-Examples: ['sectors', 'world', 'companies', 'industries', 'sphere', 'community', 'businesses']
-Raw count: 260730
-Proportion: 0.3482640892479323
+Cluster 7:
+Examples: ['sectors', 'sphere', 'domain', 'marketplace', 'investor', 'realm', 'party']
+Raw count: 79696
+Proportion: 0.10645209548844864
 
 Cluster 2:
 Examples: ['business', 'enterprise', 'equity', 'government', 'public', 'school', 'service']
-Raw count: 193577
-Proportion: 0.2585660169690753
-
-Cluster 10:
-Examples: ['economy', 'right', 'today', 'just', 'involved', 'left', 'need']
-Raw count: 21498
-Proportion: 0.028715458100916844
-
-Cluster 0:
-Examples: ['part', 'segment', 'side', 'system', 'field', 'section', 'one']
-Raw count: 131944
-Proportion: 0.17624115748755104
-
-Cluster 11:
-Examples: ['area', 'party', 'region', 'division', 'army', 'infrastructure', 'district']
-Raw count: 29821
-Proportion: 0.03983271355602573
-
-Cluster 6:
-Examples: ['line', 'foundation', 'generation', 'information', 'fraction', 'store', 'conversation']
-Raw count: 4726
-Proportion: 0.0063126455942382085
+Raw count: 186616
+Proportion: 0.24926802162809086
 
 Cluster 9:
-Examples: ['trade', 'crisis', 'revolution', 'bubble', 'boom', 'complex', 'also']
-Raw count: 3594
-Proportion: 0.004800602680002565
+Examples: ['market', 'debt', 'credit', 'account', 'purse', 'exchange', 'bedroom']
+Raw count: 34453
+Proportion: 0.04601980081639632
 
-Cluster 7:
-Examples: ['authority', 'co', 'sec', 'non', 'inc', 'data', 'news']
-Raw count: 4609
-Proportion: 0.006156365540381697
+Cluster 4:
+Examples: ['world', 'companies', 'industries', 'community', 'businesses', 'system', 'markets']
+Raw count: 203123
+Proportion: 0.2713168664914193
 
-Cluster 5:
-Examples: ['specialty', 'studies', 'varieties', 'specialized', 'specialist', 'specialization', 'specializing']
-Raw count: 91
-Proportion: 0.00012155115299950845
+Cluster 6:
+Examples: ['economy', 'economics', 'directly', 'ever', 'wealthy', 'manager', 'really']
+Raw count: 20056
+Proportion: 0.026789339830309247
+
+Cluster 0:
+Examples: ['part', 'segment', 'area', 'side', 'field', 'section', 'one']
+Raw count: 137867
+Proportion: 0.1841526682481674
+
+Cluster 1:
+Examples: ['line', 'army', 'district', 'channel', 'zone', 'base', 'office']
+Raw count: 14617
+Proportion: 0.01952432091641555
+
+Cluster 11:
+Examples: ['foundation', 'generation', 'information', 'fraction', 'conversation', 'jurisdiction', 'cyclic']
+Raw count: 2656
+Proportion: 0.0035476907952384003
+
+Cluster 3:
+Examples: ['work', 'men', 'co', 'non', 'inc', 'data', 'news']
+Raw count: 4791
+Proportion: 0.0063994678463807145
 
 Cluster 13:
 Examples: ['12', '10', '18', '15', '50', '23', '20']
-Raw count: 98
-Proportion: 0.00013090124169177833
+Raw count: 94
+Proportion: 0.00012555833386762412
+
+Cluster 14:
+Examples: ['ranch', 'breed', 'livestock', 'herd', 'cows', 'cattle', 'meat']
+Raw count: 49
+Proportion: 6.545062084588916e-05
 
 Cluster 12:
 Examples: ['brick', 'rock', 'fist', 'stone', 'nail', 'drum', 'boulder']
 Raw count: 13
 Proportion: 1.7364450428501208e-05
 
-Cluster 1:
+Cluster 10:
+Examples: ['john', 'james', 'william', 'paul', 'richard', 'robert', 'charles']
+Raw count: 16
+Proportion: 2.137163129661687e-05
+
+Cluster 15:
 Examples: ['links', 'golf', 'championship', 'turf']
 Raw count: 8
 Proportion: 1.0685815648308435e-05
 
-Cluster 8:
+Cluster 5:
 Examples: ['1980', '1970', '1971', '1972', '1969', '1974', '1973']
 Raw count: 11
 Proportion: 1.46929965164241e-05

@@ -1,70 +1,75 @@
 Cluster 1:
-Examples: ['limit', 'level', 'ceilings', 'budget', 'amount', 'rate', 'increase']
-Raw count: 134849
-Proportion: 0.2759431452636059
+Examples: ['limit', 'level', 'ceilings', 'budget', 'amount', 'limits', 'threshold']
+Raw count: 193244
+Proportion: 0.39543754246097684
 
 Cluster 5:
-Examples: ['cap', 'limits', 'tax', 'burden', 'deficit', 'restriction', 'freeze']
-Raw count: 84252
-Proportion: 0.17240589010485302
+Examples: ['cap', 'freeze', 'year', 'stabilization', 'meter', 'pattern', 'years']
+Raw count: 21204
+Proportion: 0.04339000253742705
 
-Cluster 0:
+Cluster 11:
 Examples: ['floor', 'wall', 'dome', 'line', 'room', 'one', 'area']
-Raw count: 63159
-Proportion: 0.12924302821455175
+Raw count: 69496
+Proportion: 0.14221050822208217
 
 Cluster 2:
 Examples: ['maximum', 'price', 'minimum', 'total', 'market', 'target', 'average']
-Raw count: 63025
-Proportion: 0.12896882238829183
+Raw count: 59349
+Proportion: 0.12144657897537059
 
 Cluster 3:
-Examples: ['threshold', 'limitation', 'bill', 'requirement', 'issue', 'program', 'act']
-Raw count: 134972
-Proportion: 0.2761948416563669
-
-Cluster 11:
-Examples: ['government', 'department', 'force', 'state', 'unit', 'economy', 'industry']
-Raw count: 3997
-Proportion: 0.008179109608663268
-
-Cluster 13:
-Examples: ['war', 'says', 'requires', 'wars', '2000', '1990', 'talks']
-Raw count: 770
-Proportion: 0.0015756603449263737
-
-Cluster 7:
-Examples: ['service', 'cycle', 'services', 'seems', 'began', 'served', 'servicing']
-Raw count: 572
-Proportion: 0.001170490541945306
-
-Cluster 4:
-Examples: ['person', 'man', 'like', 'woman', 'team', 'football', 'sports']
-Raw count: 1157
-Proportion: 0.0023675831416620965
+Examples: ['limitation', 'bill', 'requirement', 'issue', 'burden', 'act', 'restriction']
+Raw count: 134112
+Proportion: 0.2744350132191764
 
 Cluster 6:
-Examples: ['billion', 'million', 'etc', 'per', 'quarter', 'ii', 'super']
-Raw count: 1852
-Proportion: 0.003789770076368369
-
-Cluster 9:
-Examples: ['disclosure', 'exposure', 'reporting', 'transparency', 'discovery', 'disclosed', 'disclose']
-Raw count: 40
-Proportion: 8.185248545072071e-05
+Examples: ['system', 'government', 'range', 'list', 'time', 'population', 'force']
+Raw count: 9782
+Proportion: 0.02001702531697375
 
 Cluster 8:
-Examples: ['relations', 'emotion', 'friendship', 'feelings', 'emotions', 'friendships', 'memories']
-Raw count: 17
-Proportion: 3.4787306316556305e-05
+Examples: ['service', 'work', 'cycle', 'staff', 'care', 'services', 'employees']
+Raw count: 858
+Proportion: 0.0017557358129179593
 
-Cluster 10:
+Cluster 13:
+Examples: ['like', 'team', 'football', 'sports', 'soccer', 'baseball', 'video']
+Raw count: 386
+Proportion: 0.0007898764845994549
+
+Cluster 12:
+Examples: ['visa', 'visas', 'delivery', 'relations', 'promised', 'passes', 'exit']
+Raw count: 99
+Proportion: 0.00020258490149053376
+
+Cluster 14:
+Examples: ['requires', 'faces', 'creates', 'causes', 'involves', 'brings', 'puts']
+Raw count: 47
+Proportion: 9.617667040459684e-05
+
+Cluster 0:
+Examples: ['occupation', 'owner', 'tenant', 'owners', 'tenants', 'ownership', 'occupants']
+Raw count: 64
+Proportion: 0.00013096397672115315
+
+Cluster 4:
+Examples: ['looking', 'stopping', 'striking', 'aiming', 'pointing', 'referring', 'staring']
+Raw count: 14
+Proportion: 2.864836990775225e-05
+
+Cluster 9:
 Examples: ['celebration', 'dance', 'drinking', 'festival', 'celebrations', 'celebrating']
 Raw count: 12
 Proportion: 2.4555745635216213e-05
 
-Cluster 12:
+Cluster 10:
 Examples: ['consistently', 'repeatedly', 'frequently', 'continuously', 'periodically', 'persistent', 'continually']
 Raw count: 10
 Proportion: 2.0463121362680177e-05
+
+Cluster 7:
+Examples: ['mas', 'dos', 'watches', 'swat', 'orbits', 'santos', 'vis']
+Raw count: 7
+Proportion: 1.4324184953876125e-05
 

@@ -1,69 +1,79 @@
-Cluster 2:
+Cluster 1:
 Examples: ['review', 'report', 'journal', 'reporter', 'record', 'magazine', 'observer']
-Raw count: 36775
-Proportion: 0.22308700241437462
+Raw count: 37133
+Proportion: 0.2252587263263895
 
-Cluster 3:
+Cluster 2:
 Examples: ['study', 'observe', 'watch', 'examine', 'investigate', 'assess', 'evaluate']
-Raw count: 110477
-Proportion: 0.6701830799655436
+Raw count: 110663
+Proportion: 0.6713114057969256
 
 Cluster 0:
 Examples: ['monitors', 'ship', 'union', 'line', 'vessel', 'boat', 'navy']
-Raw count: 12198
-Proportion: 0.07399633597418197
+Raw count: 12908
+Proportion: 0.07830338619074773
 
-Cluster 16:
-Examples: ['monitoring', 'monitored', 'tap', 'made', 'including', 'watched', 'watching']
-Raw count: 1872
-Proportion: 0.011356053528748043
-
-Cluster 9:
-Examples: ['arrest', 'attack', 'care', 'chart', 'silence', 'iv', 'transmit']
-Raw count: 592
-Proportion: 0.0035912306031083557
-
-Cluster 1:
-Examples: ['first', 'also', 'second', 'original', 'present', 'concern', 'now']
-Raw count: 1477
-Proportion: 0.00895987770403892
-
-Cluster 17:
-Examples: ['command', 'com', 'charge', 'carefully', 'planning', 'directly', 'leadership']
-Raw count: 241
-Proportion: 0.0014619705664680974
-
-Cluster 15:
-Examples: ['police', 'security', 'cop', 'policing', 'comfort', 'policeman', 'defenses']
-Raw count: 120
-Proportion: 0.0007279521492787207
+Cluster 14:
+Examples: ['monitoring', 'monitored', 'tap', 'made', 'including', 'watching', 'regarding']
+Raw count: 1816
+Proportion: 0.011016342525751307
 
 Cluster 11:
-Examples: ['map', 'warning', 'response', 'event', 'demonstration', 'zone', 'replacement']
-Raw count: 138
-Proportion: 0.0008371449716705288
+Examples: ['arrest', 'map', 'chart', 'iv', 'chair', 'operation', 'response']
+Raw count: 386
+Proportion: 0.0023415794135132183
 
-Cluster 7:
-Examples: ['weight', 'res', 'heart', 'de', 'pl', '10', 're']
-Raw count: 778
-Proportion: 0.004719556434490373
+Cluster 8:
+Examples: ['command', 'com', 'now', 'since', 'several', 'among', 'charge']
+Raw count: 493
+Proportion: 0.002990670079953411
 
-Cluster 19:
-Examples: ['laws', 'safe', 'peace', 'shelter', 'ready', 'interested', 'prepared']
-Raw count: 45
-Proportion: 0.0002729820559795203
+Cluster 3:
+Examples: ['police', 'concern', 'security', 'small', 'event', 'experimental', 'trial']
+Raw count: 253
+Proportion: 0.0015347657813959696
+
+Cluster 17:
+Examples: ['care', 'wonder', 'justice', 'worry', 'responsibility', 'caution', 'honour']
+Raw count: 74
+Proportion: 0.00044890382538854447
 
 Cluster 10:
+Examples: ['telegraph', 'weight', 'res', 'heart', 'de', 'pl', '10']
+Raw count: 816
+Proportion: 0.004950074615095301
+
+Cluster 20:
+Examples: ['label', 'labeling', 'labels']
+Raw count: 15
+Proportion: 9.099401865984009e-05
+
+Cluster 19:
+Examples: ['praise', 'music', 'accolades', 'applause', 'praises', 'oldies', 'voices']
+Raw count: 17
+Proportion: 0.0001031265544811521
+
+Cluster 5:
+Examples: ['real', 'children', 'environmental', 'rational', 'outs', 'internal', 'rival']
+Raw count: 78
+Proportion: 0.00047316889703116847
+
+Cluster 18:
+Examples: ['related', 'recent', 'illegal', 'requiring', '2010', '2011', '2007']
+Raw count: 55
+Proportion: 0.00033364473508608035
+
+Cluster 6:
 Examples: ['export', 'origin', 'segment', 'alien', 'sediment', 'conform', 'fraction']
 Raw count: 14
 Proportion: 8.492775074918409e-05
 
-Cluster 5:
-Examples: ['suit', 'helmet', 'skirt', 'hat', 'shirt', 'dress', 'backpack']
-Raw count: 17
-Proportion: 0.0001031265544811521
+Cluster 15:
+Examples: ['suit', 'knife', 'leg', 'helmet', 'needle', 'cold', 'headache']
+Raw count: 37
+Proportion: 0.00022445191269427223
 
-Cluster 4:
+Cluster 21:
 Examples: ['disappear', 'relax', 'retire', 'marry', 'divorce', 'withdraw']
 Raw count: 13
 Proportion: 7.886148283852809e-05
@@ -73,28 +83,28 @@ Examples: ['iran', 'indians', 'afghanistan', 'africa', 'europe', 'ethiopia', 'so
 Raw count: 33
 Proportion: 0.0002001868410516482
 
-Cluster 6:
-Examples: ['smith', 'wilson', 'jones', 'bartlett', 'mccarthy', 'coulter', 'kennedy']
-Raw count: 14
-Proportion: 8.492775074918409e-05
-
-Cluster 8:
+Cluster 4:
 Examples: ['tri', 'taxi', 'api', 'sui', 'toni', 'bari', 'pali']
 Raw count: 19
 Proportion: 0.00011525909030246412
 
-Cluster 12:
-Examples: ['looks', 'places', 'areas', 'cities', 'regions', 'sites', 'sales']
-Raw count: 12
-Proportion: 7.279521492787207e-05
+Cluster 7:
+Examples: ['looks', 'places', 'areas', 'cities', 'regions', 'sites']
+Raw count: 7
+Proportion: 4.2463875374592044e-05
 
-Cluster 14:
+Cluster 9:
 Examples: ['boeing', 'apple', 'bain', 'google', 'lehman', 'nielsen', 'microsoft']
 Raw count: 7
 Proportion: 4.2463875374592044e-05
 
-Cluster 18:
+Cluster 12:
 Examples: ['china', 'chinese', 'beijing', 'countries']
 Raw count: 4
 Proportion: 2.4265071642624026e-05
+
+Cluster 16:
+Examples: ['sales', 'advertising', 'rights', 'products', 'commercials']
+Raw count: 5
+Proportion: 3.0331339553280033e-05
 

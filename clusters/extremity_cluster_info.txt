@@ -1,65 +1,75 @@
 Cluster 0:
 Examples: ['end', 'part', 'point', 'half', 'portion', 'side', 'limit']
-Raw count: 2960
-Proportion: 0.2275172943889316
+Raw count: 3014
+Proportion: 0.23166794773251345
+
+Cluster 1:
+Examples: ['time', 'place', 'hour', 'moment', 'position', 'way', 'condition']
+Raw count: 2448
+Proportion: 0.188162951575711
 
 Cluster 8:
-Examples: ['time', 'place', 'moment', 'position', 'way', 'condition', 'case']
-Raw count: 2313
-Proportion: 0.17778631821675633
+Examples: ['arm', 'leg', 'body', 'one', 'limb', 'hand', 'foot']
+Raw count: 1852
+Proportion: 0.1423520368946964
 
 Cluster 4:
-Examples: ['arm', 'action', 'opportunity', 'emergency', 'election', 'object', 'occasion']
-Raw count: 1185
-Proportion: 0.09108378170637971
-
-Cluster 5:
 Examples: ['extreme', 'extent', 'state', 'degree', 'level', 'form', 'depths']
-Raw count: 1293
-Proportion: 0.09938508839354343
-
-Cluster 12:
-Examples: ['leg', 'body', 'limb', 'hand', 'foot', 'back', 'limbs']
-Raw count: 1208
-Proportion: 0.09285165257494235
-
-Cluster 6:
-Examples: ['one', 'hour', 'day', 'man', 'war', 'minute', 'year']
-Raw count: 1037
-Proportion: 0.07970791698693312
+Raw count: 1352
+Proportion: 0.10392006149116065
 
 Cluster 2:
-Examples: ['danger', 'need', 'power', 'crisis', 'life', 'trouble', 'death']
-Raw count: 2234
-Proportion: 0.1717140661029977
-
-Cluster 11:
-Examples: ['thing', 'number', 'change', 'council', 'money', 'heads', 'difference']
-Raw count: 156
-Proportion: 0.011990776325903152
-
-Cluster 7:
-Examples: ['person', 'turn', 'people', 'men', 'hands', 'terms', 'general']
-Raw count: 450
-Proportion: 0.034588777863182166
-
-Cluster 9:
-Examples: ['also', 'now', 'conduct', 'england', 'character', 'actions', 'washington']
-Raw count: 124
-Proportion: 0.009531129900076865
+Examples: ['danger', 'crisis', 'trouble', 'opportunity', 'task', 'necessity', 'distress']
+Raw count: 1057
+Proportion: 0.08124519600307456
 
 Cluster 3:
-Examples: ['think', 'die', 'know', 'worse', 'indians', 'kill', 'whites']
-Raw count: 26
-Proportion: 0.0019984627209838584
+Examples: ['need', 'power', 'day', 'war', 'death', 'pain', 'interest']
+Raw count: 1233
+Proportion: 0.09477325134511914
+
+Cluster 6:
+Examples: ['life', 'parts', 'capacity', 'people', 'service', 'struggle', 'men']
+Raw count: 626
+Proportion: 0.04811683320522675
+
+Cluster 11:
+Examples: ['action', 'order', 'attempt', 'person', 'decision', 'effort', 'act']
+Raw count: 463
+Proportion: 0.0355880092236741
+
+Cluster 7:
+Examples: ['emergency', 'election', 'occasion', 'age', 'exhibition', 'encounter', 'address']
+Raw count: 566
+Proportion: 0.04350499615680246
+
+Cluster 13:
+Examples: ['thing', 'number', 'change', 'council', 'money', 'heads', 'difference']
+Raw count: 150
+Proportion: 0.011529592621060722
 
 Cluster 10:
+Examples: ['law', 'government', 'court', 'constitution', 'laws', 'legislature', 'crown']
+Raw count: 61
+Proportion: 0.0046887009992313605
+
+Cluster 14:
+Examples: ['just', 'also', 'now', 'conduct', 'america', 'england', 'character']
+Raw count: 155
+Proportion: 0.01191391237509608
+
+Cluster 5:
 Examples: ['anything', 'nothing', 'either', 'anyway', 'tolerance', 'everything', 'anymore']
 Raw count: 15
 Proportion: 0.0011529592621060721
 
-Cluster 1:
+Cluster 9:
 Examples: ['la', 'ee', 'ne', 'ta', 'se', 'de', 'pl']
+Raw count: 9
+Proportion: 0.0006917755572636434
+
+Cluster 12:
+Examples: ['consider', 'discuss', 'make', 'say', 'considered', 'discussing', 'discussed']
 Raw count: 9
 Proportion: 0.0006917755572636434
 

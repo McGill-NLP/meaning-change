@@ -1,74 +1,74 @@
-Cluster 0:
-Examples: ['sale', 'possession', 'use', 'acquisition', 'purchase', 'transfer', 'property']
-Raw count: 6604
-Proportion: 0.33241053002466403
-
-Cluster 5:
-Examples: ['fear', 'violence', 'isolation', 'loss', 'anger', 'death', 'pain']
-Raw count: 6380
-Proportion: 0.3211355514169225
-
-Cluster 4:
-Examples: ['separation', 'exclusion', 'removal', 'distance', 'absence', 'displacement', 'withdrawal']
-Raw count: 1976
-Proportion: 0.09946141843257664
-
-Cluster 13:
-Examples: ['life', 'government', 'others', 'people', 'indians', 'population', 'men']
-Raw count: 1185
-Proportion: 0.05964665022398953
-
-Cluster 2:
-Examples: ['action', 'congress', 'man', 'money', 'children', 'act', 'women']
-Raw count: 1041
-Proportion: 0.05239844969044143
+Cluster 1:
+Examples: ['sale', 'possession', 'use', 'acquisition', 'purchase', 'transfer', 'loss']
+Raw count: 5166
+Proportion: 0.2600291941410379
 
 Cluster 8:
-Examples: ['interest', 'education', 'change', 'participation', 'discontent', 'behavior', 'involvement']
-Raw count: 827
-Proportion: 0.041626818341974126
+Examples: ['fear', 'violence', 'anger', 'death', 'pain', 'frustration', 'hatred']
+Raw count: 5569
+Proportion: 0.2803140886897871
 
-Cluster 7:
-Examples: ['marriage', 'taxes', 'water', 'union', 'tribes', 'opinion', 'religion']
-Raw count: 574
-Proportion: 0.028892132682337545
+Cluster 4:
+Examples: ['isolation', 'separation', 'exclusion', 'removal', 'distance', 'absence', 'displacement']
+Raw count: 2590
+Proportion: 0.13036694015201086
 
-Cluster 1:
-Examples: ['one', 'problem', 'question', 'safety', 'lives', 'thing', 'situation']
-Raw count: 835
-Proportion: 0.04202949614939347
+Cluster 0:
+Examples: ['property', 'life', 'law', 'land', 'action', 'government', 'others']
+Raw count: 2959
+Proportion: 0.14894045401922787
 
-Cluster 6:
-Examples: ['gap', 'relationship', 'friendship', 'differences', 'split', 'rivalry', 'humanity']
-Raw count: 257
-Proportion: 0.012936024563346252
+Cluster 5:
+Examples: ['power', 'belonging', 'justice', 'gap', 'relationship', 'security', 'friendship']
+Raw count: 391
+Proportion: 0.019680877837620174
 
-Cluster 11:
-Examples: ['self', 'anyone', 'even', 'de', 'rest', 'perhaps', 'including']
-Raw count: 100
-Proportion: 0.005033472592741732
+Cluster 10:
+Examples: ['interest', 'change', 'participation', 'enjoyment', 'discontent', 'involvement', 'reaction']
+Raw count: 535
+Proportion: 0.02692907837116827
 
-Cluster 3:
-Examples: ['worse', 'unbearable', 'certainly', 'exactly', 'identical', 'like', 'perfect']
-Raw count: 24
-Proportion: 0.0012080334222580157
+Cluster 2:
+Examples: ['rights', 'one', 'indians', 'issue', 'problem', 'question', 'union']
+Raw count: 1006
+Proportion: 0.05063673428298183
 
 Cluster 12:
+Examples: ['tenure', 'taxes', 'water', 'tribes', 'abortion', 'mining', 'travel']
+Raw count: 308
+Proportion: 0.015503095585644536
+
+Cluster 7:
+Examples: ['time', 'education', 'children', 'safety', 'behavior', 'lives', 'welfare']
+Raw count: 640
+Proportion: 0.032214224593547086
+
+Cluster 3:
+Examples: ['money', 'act', 'agreement', 'effect', 'income', 'estate', 'arrangement']
+Raw count: 328
+Proportion: 0.016509790104192883
+
+Cluster 11:
+Examples: ['something', 'also', 'now', 'self', 'anyone', 'yes', 'even']
+Raw count: 298
+Proportion: 0.014999748326370363
+
+Cluster 13:
+Examples: ['litigation', 'complaints', 'sanctions', 'lawsuits', 'charges', 'allegations', 'accusations']
+Raw count: 21
+Proportion: 0.0010570292444757638
+
+Cluster 9:
 Examples: ['stop', 'begin', 'ow', 'die', 'cease', 'fail', 'tend']
 Raw count: 37
 Proportion: 0.0018623848593144411
 
 Cluster 14:
-Examples: ['taxa', 'mana', 'ser', 'pat', 'cora', 'intra', 'maui']
-Raw count: 8
-Proportion: 0.0004026778074193386
-
-Cluster 9:
 Examples: ['1874', '1873', '1872', '1875', '1870', '1862', '1871']
 Raw count: 10
 Proportion: 0.0005033472592741732
 
-Cluster 10:
+Cluster 6:
 Examples: ['ceilings', 'walls', 'ceiling', 'tiles', 'floors', 'boarding', 'boards']
 Raw count: 9
 Proportion: 0.00045301253334675595

@@ -1,69 +1,69 @@
-Cluster 0:
-Examples: ['makes', 'takes', 'brings', 'runs', 'drove', 'gets', 'puts']
-Raw count: 41269
-Proportion: 0.5948084517598224
-
 Cluster 1:
-Examples: ['goes', 'comes', 'walks', 'works', 'rides', 'travels', 'says']
-Raw count: 5358
-Proportion: 0.07722464039664466
-
-Cluster 3:
-Examples: ['drive', 'heads', 'drivers', 'disks', 'cars', 'cards', 'ends']
-Raw count: 2714
-Proportion: 0.039116773803003664
-
-Cluster 5:
-Examples: ['efforts', 'programs', 'campaigns', 'activities', 'projects', 'events', 'calls']
-Raw count: 14958
-Proportion: 0.21558905768066647
-
-Cluster 6:
-Examples: ['driving', 'like', 'making', 'bringing', 'just', 'going', 'pushing']
-Raw count: 1699
-Proportion: 0.024487619267245107
-
-Cluster 9:
-Examples: ['lives', 'continues', 'desires', 'thoughts', 'feelings', 'bodies', 'behavior']
-Raw count: 533
-Proportion: 0.00768210775128996
-
-Cluster 13:
-Examples: ['changes', 'need', 'desire', 'ability', 'concern', 'sacrifices', 'gains']
-Raw count: 321
-Proportion: 0.004626560202934478
-
-Cluster 7:
-Examples: ['steps', 'places', 'roads', 'houses', 'parks', 'ones', 'streets']
-Raw count: 2021
-Proportion: 0.02912859243031334
-
-Cluster 8:
-Examples: ['raise', 'vote', 'herds', 'high', 'first', 'outside', 'ever']
-Raw count: 253
-Proportion: 0.0036464789138393244
-
-Cluster 12:
-Examples: ['loads', 'long', 'direct', 'great', 'ins', 'st', 'total']
-Raw count: 162
-Proportion: 0.0023348995416678678
+Examples: ['makes', 'takes', 'brings', 'runs', 'drove', 'goes', 'gets']
+Raw count: 34309
+Proportion: 0.4944942492289066
 
 Cluster 4:
-Examples: ['mr', 'paper', 'magazine', 'website', 'mrs', 'ms', 'newsletter']
-Raw count: 35
-Proportion: 0.0005044536046813294
+Examples: ['drive', 'efforts', 'programs', 'campaigns', 'activities', 'projects', 'events']
+Raw count: 16117
+Proportion: 0.23229367847568533
 
-Cluster 2:
-Examples: ['plunge', 'dash', 'step', 'dive', 'cruise', 'expedition', 'voyage']
-Raw count: 25
-Proportion: 0.00036032400334380676
+Cluster 0:
+Examples: ['forces', 'leads', 'causes', 'feeds', 'fuels', 'creates', 'means']
+Raw count: 11952
+Proportion: 0.17226369951860712
+
+Cluster 3:
+Examples: ['driving', 'like', 'trips', 'making', 'bringing', 'just', 'going']
+Raw count: 2335
+Proportion: 0.03365426191231155
+
+Cluster 7:
+Examples: ['calls', 'races', 'wheels', 'engines', 'hands', 'names', 'long']
+Raw count: 526
+Proportion: 0.007581217030353694
+
+Cluster 6:
+Examples: ['needs', 'power', 'concerns', 'interests', 'desires', 'need', 'use']
+Raw count: 1195
+Proportion: 0.017223487359833964
+
+Cluster 9:
+Examples: ['places', 'roads', 'houses', 'parks', 'points', 'ones', 'streets']
+Raw count: 2199
+Proportion: 0.03169409933412124
+
+Cluster 13:
+Examples: ['disks', 'discs', 'charges', 'taxes', 'rights', 'arms', 'links']
+Raw count: 335
+Proportion: 0.004828341644807011
+
+Cluster 8:
+Examples: ['raise', 'vote', 'high', 'first', 'outside', 'increase', 'direct']
+Raw count: 219
+Proportion: 0.003156438269291747
 
 Cluster 11:
+Examples: ['run', 'plunge', 'dash', 'step', 'dive', 'cruise', 'expedition']
+Raw count: 51
+Proportion: 0.0007350609668213658
+
+Cluster 10:
+Examples: ['end', 'start', 'half', 'yet', 'de', 'creation', 'et']
+Raw count: 70
+Proportion: 0.0010089072093626588
+
+Cluster 2:
+Examples: ['mr', 'paper', 'magazine', 'website', 'mrs', 'ms', 'newsletter']
+Raw count: 40
+Proportion: 0.0005765184053500908
+
+Cluster 5:
 Examples: ['th', 'li', 'int', 'ou', 'xx', 'lo', 'fr']
 Raw count: 24
 Proportion: 0.0003459110432100545
 
-Cluster 10:
+Cluster 12:
 Examples: ['dorothy', 'mary', 'susan', 'mildred', 'audrey', 'baker', 'anne']
 Raw count: 10
 Proportion: 0.0001441296013375227

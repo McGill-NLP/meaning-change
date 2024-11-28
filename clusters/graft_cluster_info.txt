@@ -1,74 +1,69 @@
-Cluster 5:
-Examples: ['corruption', 'crime', 'bribery', 'violence', 'murder', 'power', 'greed']
-Raw count: 13772
-Proportion: 0.40745562130177515
-
-Cluster 1:
-Examples: ['fraud', 'waste', 'life', 'stuff', 'right', 'good', 'shit']
-Raw count: 3657
-Proportion: 0.10819526627218935
-
-Cluster 3:
-Examples: ['money', 'profit', 'interest', 'law', 'bribes', 'taxes', 'things']
-Raw count: 4922
-Proportion: 0.14562130177514793
-
-Cluster 10:
-Examples: ['war', 'people', 'men', 'others', 'man', 'women', 'america']
-Raw count: 2082
-Proportion: 0.061597633136094676
-
-Cluster 2:
-Examples: ['business', 'politics', 'criminal', 'paper', 'land', 'news', 'political']
-Raw count: 996
-Proportion: 0.029467455621301774
-
-Cluster 9:
-Examples: ['one', 'thing', 'government', 'action', 'fact', 'bill', 'system']
-Raw count: 2138
-Proportion: 0.06325443786982249
-
-Cluster 12:
-Examples: ['something', 'etc', 'whatever', 'value', 'another', 'pork', 'beef']
-Raw count: 819
-Proportion: 0.02423076923076923
-
-Cluster 6:
-Examples: ['anything', 'nothing', 'loss', 'question', 'someone', 'gain', 'way']
-Raw count: 1105
-Proportion: 0.032692307692307694
-
-Cluster 0:
-Examples: ['work', 'put', 'force', 'change', 'place', 'bring', 'make']
-Raw count: 2804
-Proportion: 0.08295857988165681
-
-Cluster 4:
-Examples: ['part', 'issue', 'room', 'section', 'department', 'clause', 'need']
-Raw count: 329
-Proportion: 0.009733727810650888
-
-Cluster 11:
-Examples: ['problem', 'mr', 'house', 'election', 'job', 'office', 'hand']
-Raw count: 323
-Proportion: 0.00955621301775148
-
-Cluster 14:
-Examples: ['control', 'going', 'service', 'enough', 'authority', 'back', 'administration']
-Raw count: 268
-Proportion: 0.007928994082840236
+Cluster 8:
+Examples: ['corruption', 'fraud', 'crime', 'bribery', 'violence', 'murder', 'power']
+Raw count: 14152
+Proportion: 0.41869822485207103
 
 Cluster 13:
-Examples: ['either', 'cancer', 'transplant', 'operations', 'surgery', 'total', 'operation']
-Raw count: 545
-Proportion: 0.016124260355029587
+Examples: ['money', 'anything', 'bribes', 'taxes', 'government', 'tax', 'wealth']
+Raw count: 4848
+Proportion: 0.1434319526627219
+
+Cluster 2:
+Examples: ['waste', 'business', 'something', 'corrupt', 'stuff', 'right', 'good']
+Raw count: 3453
+Proportion: 0.10215976331360947
+
+Cluster 1:
+Examples: ['war', 'one', 'thing', 'truth', 'time', 'fact', 'problem']
+Raw count: 2635
+Proportion: 0.0779585798816568
+
+Cluster 10:
+Examples: ['people', 'life', 'everything', 'politics', 'things', 'men', 'others']
+Raw count: 2210
+Proportion: 0.06538461538461539
+
+Cluster 0:
+Examples: ['profit', 'work', 'put', 'force', 'place', 'bring', 'make']
+Raw count: 2977
+Proportion: 0.08807692307692308
+
+Cluster 3:
+Examples: ['interest', 'law', 'nothing', 'change', 'part', 'loss', 'someone']
+Raw count: 1337
+Proportion: 0.03955621301775148
 
 Cluster 7:
+Examples: ['action', 'activity', 'science', 'laws', 'parties', 'activities', 'elections']
+Raw count: 583
+Proportion: 0.01724852071005917
+
+Cluster 12:
+Examples: ['etc', 'whatever', 'garbage', 'pork', 'beef', 'fish', 'meat']
+Raw count: 504
+Proportion: 0.014911242603550296
+
+Cluster 4:
+Examples: ['disease', 'system', 'policy', 'guns', 'scheme', 'hell', 'cancer']
+Raw count: 853
+Proportion: 0.025236686390532545
+
+Cluster 9:
+Examples: ['going', 'service', 'back', 'friendship', 'loyalty', 'mining', 'taking']
+Raw count: 162
+Proportion: 0.0047928994082840235
+
+Cluster 11:
+Examples: ['liability', 'return', 'publication', 'scrutiny', 'disclosure', 'decline', 'liquidation']
+Raw count: 46
+Proportion: 0.00136094674556213
+
+Cluster 5:
 Examples: ['race', 'mile', 'length', 'whether', 'citizenship', 'parade', 'marathon']
 Raw count: 31
 Proportion: 0.0009171597633136094
 
-Cluster 8:
+Cluster 6:
 Examples: ['cal', 'stat', 'lb', 'ch', 'ac', 'pa', 'po']
 Raw count: 9
 Proportion: 0.0002662721893491124

@@ -1,65 +1,75 @@
 Cluster 0:
 Examples: ['effect', 'part', 'fact', 'general', 'principle', 'question', 'particular']
-Raw count: 114588
-Proportion: 0.21028137713858921
+Raw count: 113819
+Proportion: 0.2088701789413995
 
 Cluster 2:
 Examples: ['drug', 'sexual', 'child', 'matter', 'form', 'alcohol', 'sex']
-Raw count: 127006
-Proportion: 0.23306975062714821
+Raw count: 126285
+Proportion: 0.23174663762302106
 
 Cluster 3:
 Examples: ['content', 'nature', 'subject', 'purpose', 'text', 'spirit', 'meaning']
-Raw count: 186569
-Proportion: 0.34237429967683747
-
-Cluster 5:
-Examples: ['truth', 'importance', 'power', 'weight', 'value', 'reality', 'force']
-Raw count: 78762
-Proportion: 0.1445367911665232
-
-Cluster 4:
-Examples: ['time', 'money', 'heart', 'people', 'property', 'business', 'state']
-Raw count: 23962
-Proportion: 0.043972862420103974
-
-Cluster 11:
-Examples: ['everything', 'everywhere', 'effective', 'iconic', 'powerful', 'important', 'real']
-Raw count: 7680
-Proportion: 0.014093630890009121
-
-Cluster 1:
-Examples: ['paper', 'light', 'shadow', 'sun', 'internet', 'television', 'occasion']
-Raw count: 2205
-Proportion: 0.004046413556311212
-
-Cluster 7:
-Examples: ['head', 'soul', 'line', 'art', 'ever', 'hell', 'care']
-Raw count: 3809
-Proportion: 0.006989927091151659
-
-Cluster 10:
-Examples: ['data', 'file', 'documentation', 'feed', 'paperwork', 'contact', 'connections']
-Raw count: 227
-Proportion: 0.0004165695588583425
-
-Cluster 6:
-Examples: ['20', '15', '100', '40', '50', '30', '18']
-Raw count: 81
-Proportion: 0.00014864376329306494
+Raw count: 195611
+Proportion: 0.3589673479199966
 
 Cluster 9:
-Examples: ['curriculum', 'programming', 'norm']
-Raw count: 12
-Proportion: 2.202129826563925e-05
+Examples: ['truth', 'importance', 'power', 'weight', 'value', 'reality', 'force']
+Raw count: 68373
+Proportion: 0.12547185219304605
+
+Cluster 4:
+Examples: ['time', 'life', 'money', 'people', 'things', 'property', 'business']
+Raw count: 27635
+Proportion: 0.05071321479757839
 
 Cluster 8:
+Examples: ['everything', 'everywhere', 'right', 'effective', 'iconic', 'powerful', 'important']
+Raw count: 8676
+Proportion: 0.01592139864605718
+
+Cluster 1:
+Examples: ['paper', 'television', 'occasion', 'senator', 'tv', 'trial', 'friday']
+Raw count: 979
+Proportion: 0.0017965709168384022
+
+Cluster 7:
+Examples: ['head', 'art', 'ever', 'hell', 'care', 'counter', 'mentally']
+Raw count: 3140
+Proportion: 0.00576223971284227
+
+Cluster 11:
+Examples: ['father', 'five', '10', 'ten', 'sibling', 'six', 'inquiry']
+Raw count: 263
+Proportion: 0.0004826334536552602
+
+Cluster 14:
+Examples: ['games', 'stakes', 'stake', 'odds', 'scores', 'bets']
+Raw count: 49
+Proportion: 8.992030125136028e-05
+
+Cluster 12:
+Examples: ['song', 'album', 'melody', 'artist', 'hymn', 'bells', 'trumpet']
+Raw count: 29
+Proportion: 5.321813747529486e-05
+
+Cluster 6:
+Examples: ['contact', 'connections', 'communications', 'bridges', 'contacts', 'exchanges', 'pairs']
+Raw count: 37
+Proportion: 6.789900298572103e-05
+
+Cluster 13:
 Examples: ['preventing', 'controlling', 'reducing', 'spreading', 'causing', 'addressing', 'decreasing']
 Raw count: 16
 Proportion: 2.9361731020852334e-05
 
-Cluster 12:
+Cluster 10:
 Examples: ['ruin', 'wreck', 'destroy', 'protect', 'undermine', 'destroying', 'violate']
 Raw count: 10
 Proportion: 1.835108188803271e-05
+
+Cluster 5:
+Examples: ['allow', 'wear', 'consider', 'implement']
+Raw count: 5
+Proportion: 9.175540944016354e-06
 

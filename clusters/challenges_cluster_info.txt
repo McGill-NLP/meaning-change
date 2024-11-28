@@ -1,55 +1,50 @@
-Cluster 3:
-Examples: ['problems', 'challenge', 'difficulties', 'demands', 'risks', 'dangers', 'obstacles']
-Raw count: 141804
-Proportion: 0.363054487360018
+Cluster 5:
+Examples: ['problems', 'issues', 'difficulties', 'risks', 'dangers', 'obstacles', 'crisis']
+Raw count: 131636
+Proportion: 0.3370218082573364
 
 Cluster 2:
-Examples: ['issues', 'needs', 'things', 'people', 'requirements', 'goals', 'opportunities']
-Raw count: 142458
-Proportion: 0.36472889453283014
-
-Cluster 1:
-Examples: ['threats', 'changes', 'matters', 'decisions', 'cases', 'appeals', 'actions']
-Raw count: 53334
-Proportion: 0.13654867301951426
+Examples: ['threats', 'changes', 'approaches', 'solutions', 'objections', 'opposition', 'rights']
+Raw count: 28604
+Proportion: 0.07323355163779552
 
 Cluster 0:
-Examples: ['questions', 'concerns', 'challenging', 'approaches', 'attacks', 'targets', 'limits']
-Raw count: 48663
-Proportion: 0.12458971903754872
-
-Cluster 4:
-Examples: ['york', 'two', 'taxes', 'three', 'orleans', 'america', 'zealand']
-Raw count: 2152
-Proportion: 0.005509670085461333
-
-Cluster 9:
-Examples: ['critics', 'conservatives', 'liberals', 'predecessors', 'orthodoxy', 'predecessor', 'conservative']
-Raw count: 118
-Proportion: 0.00030211016267864184
-
-Cluster 7:
-Examples: ['vs', 'un', 'go', 'mr', 'super', 'around', 'non']
-Raw count: 1502
-Proportion: 0.0038455039351128818
-
-Cluster 5:
-Examples: ['still', 'often', 'tomorrow', 'return', 'well', 'always', 'directly']
-Raw count: 470
-Proportion: 0.001203320139482726
+Examples: ['questions', 'concerns', 'targets', 'limits', 'requires', 'wants', 'challenged']
+Raw count: 45216
+Proportion: 0.11576451792947008
 
 Cluster 8:
-Examples: ['scores', 'rolls', 'register', 'registry', 'registers', 'grades', 'roll']
-Raw count: 39
-Proportion: 9.984996902090705e-05
+Examples: ['challenge', 'views', 'sides', 'vs', 'series', 'looks', 'competitions']
+Raw count: 10521
+Proportion: 0.026936449335101618
+
+Cluster 3:
+Examples: ['needs', 'things', 'demands', 'requirements', 'goals', 'opportunities', 'responsibilities']
+Raw count: 122229
+Proportion: 0.31293748367837043
+
+Cluster 4:
+Examples: ['people', 'ones', 'men', 'others', 'children', 'leaders', 'numbers']
+Raw count: 20699
+Proportion: 0.05299473099394243
+
+Cluster 1:
+Examples: ['matters', 'battles', 'decisions', 'cases', 'appeals', 'actions', 'claims']
+Raw count: 27420
+Proportion: 0.07020220898854541
+
+Cluster 7:
+Examples: ['challenging', 'now', 'many', 'new', 'un', 'much', 'living']
+Raw count: 4116
+Proportion: 0.010538012115129575
+
+Cluster 9:
+Examples: ['already', 'coverage', 'rooms', 'insurance', 'drinks', 'publicity', 'recently']
+Raw count: 108
+Proportion: 0.0002765076065194349
 
 Cluster 6:
-Examples: ['music', 'enthusiasm', 'laughter', 'applause', 'fireworks', 'poetry', 'cheering']
-Raw count: 42
-Proportion: 0.00010753073586866912
-
-Cluster 10:
-Examples: ['intervals', 'currents', 'alternating', 'spins']
-Raw count: 4
-Proportion: 1.0241022463682773e-05
+Examples: ['focus', 'continue', 'release', 'expand', 'try', 'focusing', 'lecture']
+Raw count: 37
+Proportion: 9.472945778906566e-05
 

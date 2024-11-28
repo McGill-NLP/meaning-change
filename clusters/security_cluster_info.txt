@@ -1,59 +1,64 @@
-Cluster 3:
-Examples: ['welfare', 'protection', 'retirement', 'exclusion', '50', 'worker', 'protector']
-Raw count: 439919
-Proportion: 0.08149500473313807
+Cluster 11:
+Examples: ['welfare', 'services', 'insurance', 'work', 'health', 'development', 'income']
+Raw count: 926507
+Proportion: 0.17163544277534173
 
-Cluster 10:
-Examples: ['defense', 'space', 'protect', 'warrior', 'defend', 'century', 'divide']
-Raw count: 180615
-Proportion: 0.03345893284871927
-
-Cluster 9:
-Examples: ['safety', 'now', 'together', 'also', 'today', 'just', 'back']
-Raw count: 180919
-Proportion: 0.033515248855617984
+Cluster 0:
+Examples: ['defense', 'defence', 'life', 'guard', 'interests', 'affairs', 'peace']
+Raw count: 996886
+Proportion: 0.18467315412246138
 
 Cluster 1:
-Examples: ['services', 'policy', 'work', 'health', 'defence', 'life', 'housing']
-Raw count: 1511677
-Proportion: 0.2800381985546793
-
-Cluster 6:
-Examples: ['insurance', 'service', 'credit', 'income', 'aid', 'business', 'equity']
-Raw count: 869791
-Proportion: 0.1611288024882783
-
-Cluster 2:
-Examples: ['assistance', 'interest', 'responsibility', 'support', 'care', 'peace', 'justice']
-Raw count: 1222502
-Proportion: 0.2264685232423941
-
-Cluster 5:
-Examples: ['military', 'intelligence', 'government', 'economic', 'strategic', 'war', 'political']
-Raw count: 937116
-Proportion: 0.17360076026609314
-
-Cluster 8:
-Examples: ['guard', 'access', 'arthur', 'huron', 'henry', 'hudson', 'jackson']
-Raw count: 55460
-Proportion: 0.010273966258560866
-
-Cluster 11:
-Examples: ['flame', 'spring', 'flowers', 'flames', 'spark', 'flower', 'glow']
-Raw count: 73
-Proportion: 1.3523251656598329e-05
+Examples: ['protection', 'policy', 'assistance', 'interest', 'responsibility', 'support', 'care']
+Raw count: 1541444
+Proportion: 0.28555253598018565
 
 Cluster 4:
+Examples: ['safety', 'service', 'credit', 'housing', 'spending', 'aid', 'business']
+Raw count: 1009808
+Proportion: 0.18706695491570197
+
+Cluster 3:
+Examples: ['military', 'intelligence', 'economic', 'strategic', 'political', 'emergency', 'medical']
+Raw count: 866913
+Proportion: 0.16059565292296749
+
+Cluster 2:
+Examples: ['now', 'un', 'together', 'also', 'just', 'day', 'self']
+Raw count: 55381
+Proportion: 0.01025933150676811
+
+Cluster 9:
+Examples: ['light', 'burning', 'flame', 'spark', 'mirror', 'wake', 'glow']
+Raw count: 515
+Proportion: 9.540376168696081e-05
+
+Cluster 10:
+Examples: ['proliferation', 'deception', 'stealth', 'penetration', 'triad', 'camouflage', 'seduction']
+Raw count: 509
+Proportion: 9.429226155080204e-05
+
+Cluster 12:
+Examples: ['corrections', 'correction', 'bucks', 'bits', 'gough', 'wolff', 'hirsch']
+Raw count: 71
+Proportion: 1.3152751611212073e-05
+
+Cluster 5:
+Examples: ['martin', 'phoenix', 'arizona', 'fitzgerald', 'warren', 'clarke', 'murphy']
+Raw count: 40
+Proportion: 7.410000907725111e-06
+
+Cluster 6:
+Examples: ['hysteria', 'mania', 'hysterical', 'belmont', 'bavaria', 'amelie', 'telangana']
+Raw count: 13
+Proportion: 2.4082502950106613e-06
+
+Cluster 7:
 Examples: ['santos', 'newark', 'phillips', 'elaine', 'dumont', 'gerald', 'essex']
 Raw count: 13
 Proportion: 2.4082502950106613e-06
 
-Cluster 0:
-Examples: ['1900', '1893', '1894', '1892', '1865', '1869', '1895']
-Raw count: 15
-Proportion: 2.7787503403969165e-06
-
-Cluster 7:
+Cluster 8:
 Examples: ['carlos', 'hector', 'jorge', 'ramon', 'jose', 'jaime', 'rafael']
 Raw count: 10
 Proportion: 1.8525002269312778e-06

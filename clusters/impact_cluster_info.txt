@@ -1,89 +1,104 @@
 Cluster 0:
-Examples: ['effect', 'result', 'value', 'importance', 'force', 'consequence', 'aspect']
-Raw count: 488176
-Proportion: 0.32547952585129214
-
-Cluster 2:
-Examples: ['effects', 'consequences', 'implications', 'toll', 'cost', 'benefits', 'damage']
-Raw count: 348431
-Proportion: 0.23230793130324223
+Examples: ['effect', 'effects', 'toll', 'force', 'attack', 'damage', 'weight']
+Raw count: 308393
+Proportion: 0.20561356440271036
 
 Cluster 3:
-Examples: ['influence', 'affect', 'bearing', 'affects', 'focus', 'hold', 'change']
-Raw count: 303350
-Proportion: 0.2022512662789434
+Examples: ['influence', 'affect', 'bearing', 'affects', 'focus', 'influences', 'hold']
+Raw count: 319277
+Proportion: 0.21287020782509383
 
-Cluster 6:
-Examples: ['impacts', 'accident', 'average', 'contact', 'crash', 'collision', 'launch']
-Raw count: 62974
-Proportion: 0.04198638945986544
+Cluster 5:
+Examples: ['impacts', 'risk', 'policy', 'footprint', 'development', 'environmental', 'financial']
+Raw count: 194013
+Proportion: 0.12935346934094824
 
-Cluster 4:
-Examples: ['impression', 'attack', 'emphasis', 'issue', 'assessment', 'position', 'action']
-Raw count: 105931
-Proportion: 0.070626928921031
+Cluster 2:
+Examples: ['consequences', 'implications', 'result', 'value', 'importance', 'cost', 'consequence']
+Raw count: 568216
+Proportion: 0.3788442575241671
+
+Cluster 8:
+Examples: ['impression', 'mark', 'claim', 'marks', 'stance', 'movie', 'inside']
+Raw count: 19735
+Proportion: 0.013157833327888406
 
 Cluster 1:
 Examples: ['burden', 'power', 'benefit', 'harm', 'assault', 'imprint', 'stress']
-Raw count: 73795
-Proportion: 0.04920102915791867
+Raw count: 72207
+Proportion: 0.04814226861448382
 
-Cluster 7:
-Examples: ['risk', 'policy', 'development', 'environmental', 'financial', 'direct', 'federal']
-Raw count: 114924
-Proportion: 0.07662279388772471
+Cluster 6:
+Examples: ['money', 'dependency', 'people', 'taxes', 'ones', 'cuts', 'emissions']
+Raw count: 15474
+Proportion: 0.010316914766442625
 
-Cluster 5:
-Examples: ['un', 'vs', 'inc', '10', 'mr', 'non', 're']
-Raw count: 1940
-Proportion: 0.0012934480190576899
+Cluster 11:
+Examples: ['draft', 'outline', 'drafts', 'drafted', 'composite', 'june', 'conscription']
+Raw count: 108
+Proportion: 7.200638456609819e-05
 
-Cluster 12:
-Examples: ['fishing', 'ecosystem', 'fishery', 'reef', 'fishermen', 'tuna', 'fisher']
-Raw count: 63
-Proportion: 4.2003724330223944e-05
+Cluster 10:
+Examples: ['un', 'etc', 'trip', 'vs', 'inc', '10', 'mr']
+Raw count: 1991
+Proportion: 0.0013274510339916807
 
 Cluster 9:
+Examples: ['running', 'shaking', 'tears', 'screaming', 'crying', 'sobbing', 'trembling']
+Raw count: 53
+Proportion: 3.533646650002967e-05
+
+Cluster 15:
+Examples: ['fishing', 'chart', 'ecosystem', 'plot', 'fishery', 'graph', 'reef']
+Raw count: 100
+Proportion: 6.667257830194277e-05
+
+Cluster 14:
+Examples: ['2008', '2000', '2009', '2002', '1973', '1990', 'europe']
+Raw count: 150
+Proportion: 0.00010000886745291416
+
+Cluster 16:
+Examples: ['sponsor', 'sponsored', 'sponsorship', 'sponsoring']
+Raw count: 29
+Proportion: 1.9335047707563405e-05
+
+Cluster 7:
 Examples: ['wings', 'tail', 'stick', 'straw', 'wing', 'strings', 'birds']
 Raw count: 47
 Proportion: 3.1336111801913105e-05
 
-Cluster 10:
-Examples: ['shaking', 'tears', 'screaming', 'crying', 'sobbing', 'trembling', 'weeping']
-Raw count: 30
-Proportion: 2.0001773490582833e-05
-
-Cluster 11:
-Examples: ['2000', '2009', '2002', '1973', '1990', '2001', '2003']
-Raw count: 104
-Proportion: 6.933948143402048e-05
-
-Cluster 16:
+Cluster 19:
 Examples: ['catholic', 'newsweek', 'catholics', 'catholicism', 'priests', 'jesuit', 'clergy']
 Raw count: 17
 Proportion: 1.1334338311330271e-05
 
-Cluster 13:
-Examples: ['george', 'paul', 'john', 'elizabeth', 'mary', 'vatican', 'joseph']
-Raw count: 46
-Proportion: 3.0669386018893676e-05
-
-Cluster 14:
+Cluster 17:
 Examples: ['exposed', 'aggressive', 'uncomfortable', 'awkward', 'upright', 'unsafe', 'uneasy']
 Raw count: 13
 Proportion: 8.66743517925256e-06
 
-Cluster 17:
+Cluster 13:
+Examples: ['brush', 'lance', 'pen', 'misty', 'rode', 'saddle', 'ridge']
+Raw count: 9
+Proportion: 6.00053204717485e-06
+
+Cluster 4:
 Examples: ['fat', 'sugar', 'sugarcane', 'candy', 'brown', 'chocolate', 'coke']
 Raw count: 9
 Proportion: 6.00053204717485e-06
 
-Cluster 15:
+Cluster 20:
+Examples: ['sulfur', 'sulfate', 'silicon', 'arsenic', 'reynolds', 'zeta', 'sul']
+Raw count: 9
+Proportion: 6.00053204717485e-06
+
+Cluster 18:
 Examples: ['templar', 'rf', 'ci', 'mag', 'jacob', 'cf', 'mccall']
 Raw count: 8
 Proportion: 5.333806264155422e-06
 
-Cluster 8:
+Cluster 12:
 Examples: ['cameo', 'valentine', 'novella', 'lyric', 'wexford', 'reprise', 'sonata']
 Raw count: 9
 Proportion: 6.00053204717485e-06

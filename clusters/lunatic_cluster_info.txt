@@ -1,105 +1,90 @@
 Cluster 2:
-Examples: ['insane', 'mental', 'general', 'private', 'medical', 'psychiatric', 'state']
-Raw count: 1604
-Proportion: 0.14855978512549783
+Examples: ['insane', 'mental', 'political', 'general', 'private', 'radical', 'national']
+Raw count: 3925
+Proportion: 0.363526905621932
 
 Cluster 0:
 Examples: ['man', 'person', 'fool', 'one', 'criminal', 'child', 'woman']
-Raw count: 2095
-Proportion: 0.1940353801982032
+Raw count: 2010
+Proportion: 0.18616282300639067
 
-Cluster 10:
+Cluster 8:
 Examples: ['liar', 'traitor', 'coward', 'drunk', 'fraud', 'homosexual', 'asylum']
 Raw count: 2987
 Proportion: 0.27665092155228305
 
-Cluster 4:
-Examples: ['political', 'radical', 'national', 'liberal', 'extreme', 'mad', 'military']
-Raw count: 2557
-Proportion: 0.23682504399370197
-
 Cluster 3:
 Examples: ['madman', 'sane', 'idiot', 'insanity', 'genius', 'psycho', 'monster']
-Raw count: 481
-Proportion: 0.044549411873668614
+Raw count: 485
+Proportion: 0.044919885153283316
+
+Cluster 4:
+Examples: ['state', 'blind', 'poor', 'sick', 'patient', 'deceased', 'death']
+Raw count: 260
+Proportion: 0.024080763174956006
+
+Cluster 5:
+Examples: ['human', 'people', 'like', 'government', 'country', 'way', 'mr']
+Raw count: 364
+Proportion: 0.03371306844493841
+
+Cluster 12:
+Examples: ['suicide', 'mortgage', 'homicide', 'super', 'oath', 'warrant', 'ballistic']
+Raw count: 203
+Proportion: 0.018801518940446422
 
 Cluster 9:
-Examples: ['people', 'government', 'country', 'way', 'day', 'power', 'time']
-Raw count: 288
-Proportion: 0.026674076132258962
-
-Cluster 8:
 Examples: ['bell', 'di', 'cas', 'corp', 'su', 're', 'mod']
+Raw count: 196
+Proportion: 0.018153190701120682
+
+Cluster 6:
+Examples: ['sovereign', 'dollar', 'medalist', 'ounce', 'spoon', 'nickel', 'slug']
 Raw count: 180
 Proportion: 0.01667129758266185
 
 Cluster 14:
-Examples: ['sovereign', 'dollar', 'medalist', 'ounce', 'spoon', 'nickel', 'slug']
-Raw count: 121
-Proportion: 0.01120681670834491
-
-Cluster 18:
-Examples: ['mortgage', 'oath', 'co', 'warrant', 'ballistic', 'contradiction', 'divorce']
-Raw count: 195
-Proportion: 0.018060572381217006
-
-Cluster 17:
-Examples: ['super', 'un', 'ex', 'anti', 'non', 'en', 'semi']
-Raw count: 65
-Proportion: 0.0060201907937390015
-
-Cluster 16:
-Examples: ['legal', 'heart', 'home', 'money', 'capital', 'business', 'vicious']
-Raw count: 47
-Proportion: 0.004353061035472817
-
-Cluster 12:
-Examples: ['something', 'whatever', 'worse', 'otherwise', 'anyone', 'highly', 'less']
+Examples: ['current', 'mother', 'heart', 'home', 'money', 'capital', 'business']
 Raw count: 52
 Proportion: 0.004816152634991201
 
-Cluster 1:
-Examples: ['include', 'contain', 'included', 'represent', 'involved', 'meant', 'contained']
-Raw count: 38
-Proportion: 0.003519496156339724
-
-Cluster 19:
-Examples: ['ro', 'gi', 'go', 'bo', 'bra', 'mo', 'hu']
-Raw count: 15
-Proportion: 0.0013892747985551543
+Cluster 17:
+Examples: ['include', 'contain', 'ro', 'gi', 'included', 'represent', 'involved']
+Raw count: 51
+Proportion: 0.004723534315087524
 
 Cluster 11:
+Examples: ['highly', 'less', 'really', 'extremely', 'rather', 'particularly', 'seemingly']
+Raw count: 21
+Proportion: 0.001944984717977216
+
+Cluster 10:
 Examples: ['taken', 'gotten', 'got', 'found', 'bought', 'peeled', 'seen']
 Raw count: 11
 Proportion: 0.0010188015189404463
 
-Cluster 20:
+Cluster 1:
 Examples: ['jefferson', 'dean', 'clinton', 'obama', 'kennedy', 'rockefeller', 'soprano']
 Raw count: 10
 Proportion: 0.0009261831990367695
 
-Cluster 5:
+Cluster 7:
 Examples: ['northwest', 'north', 'northeast', 'southwest', 'southwestern', 'southeast', 'south']
 Raw count: 13
 Proportion: 0.0012040381587478002
 
-Cluster 15:
+Cluster 16:
 Examples: ['el', 'peruvian', 'chilean', 'lima', 'infamous', 'andes', 'spanish']
 Raw count: 10
 Proportion: 0.0009261831990367695
 
-Cluster 6:
+Cluster 13:
 Examples: ['allowance', 'inlet', 'refuge', 'intake', 'linen', 'amend', 'hem']
 Raw count: 10
 Proportion: 0.0009261831990367695
 
-Cluster 7:
+Cluster 15:
 Examples: ['using', 'targeting', 'organizing', 'recruiting', 'showing', 'hiring', 'gathering']
-Raw count: 9
-Proportion: 0.0008335648791330926
-
-Cluster 13:
-Examples: ['now', 'com', 'org', '50', '35', 'mccarthy', 'berkeley']
 Raw count: 9
 Proportion: 0.0008335648791330926
 

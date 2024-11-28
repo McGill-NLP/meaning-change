@@ -1,69 +1,69 @@
-Cluster 3:
-Examples: ['program', 'bill', 'plan', 'act', 'budget', 'legislation', 'system']
-Raw count: 300153
-Proportion: 0.3265361405478442
-
-Cluster 7:
-Examples: ['deal', 'war', 'race', 'arms', 'america', 'aircraft', 'protection']
-Raw count: 18418
-Proportion: 0.02003692329115549
+Cluster 0:
+Examples: ['program', 'plan', 'act', 'budget', 'measure', 'project', 'system']
+Raw count: 378325
+Proportion: 0.41157937909253994
 
 Cluster 2:
-Examples: ['proposal', 'measure', 'project', 'list', 'initiative', 'effort', 'issue']
-Raw count: 312378
-Proportion: 0.3398357054970447
-
-Cluster 4:
-Examples: ['packages', 'committee', 'parcel', 'draft', 'compromise', 'now', 'also']
-Raw count: 70449
-Proportion: 0.07664139477351575
-
-Cluster 1:
-Examples: ['thing', 'bundle', 'one', 'box', 'house', 'packaging', 'stuff']
-Raw count: 193988
-Proportion: 0.21103934604216915
+Examples: ['bill', 'proposal', 'legislation', 'list', 'committee', 'agenda', 'vote']
+Raw count: 238776
+Proportion: 0.25976416526055723
 
 Cluster 6:
-Examples: ['cut', 'offer', 'mix', 'file', 'break', 'loan', 'move']
-Raw count: 19320
-Proportion: 0.021018208165116955
+Examples: ['deal', 'war', 'race', 'technology', 'journey', 'energy', 'arms']
+Raw count: 19093
+Proportion: 0.020771255098166564
 
 Cluster 5:
-Examples: ['cap', 'billion', 'mr', 'inc', 'un', 'co', 'super']
-Raw count: 4218
-Proportion: 0.004588757869589198
+Examples: ['packages', 'compromise', 'now', 'also', 'senate', 'just', 'whole']
+Raw count: 58780
+Proportion: 0.06394670165349765
 
-Cluster 9:
-Examples: ['tour', 'lifestyle', 'vacation', 'rental', 'rent', 'closure', 'shutter']
-Raw count: 143
-Proportion: 0.00015556955318901265
+Cluster 1:
+Examples: ['thing', 'bundle', 'one', 'box', 'house', 'parcel', 'packaging']
+Raw count: 190943
+Proportion: 0.2077266936683192
 
 Cluster 11:
-Examples: ['stands', 'runs', 'depends', 'rests', 'relies', 'depended', 'relied']
-Raw count: 51
-Proportion: 5.548284764083668e-05
+Examples: ['set', 'cut', 'offer', 'change', 'mix', 'round', 'break']
+Raw count: 25974
+Proportion: 0.028257087933786118
+
+Cluster 7:
+Examples: ['combination', 'crime', 'lie', 'miracle', 'blend', 'composite', 'garbage']
+Raw count: 2317
+Proportion: 0.0025206619212513447
+
+Cluster 4:
+Examples: ['life', 'mr', 'etc', 'air', 'inc', 'un', 'co']
+Raw count: 4757
+Proportion: 0.0051751354162247075
+
+Cluster 9:
+Examples: ['establishment', 'opening', 'closure', 'miller', 'outlet', 'shutter', 'tavern']
+Raw count: 104
+Proportion: 0.00011314149322837284
 
 Cluster 12:
+Examples: ['stands', 'runs', 'depends', 'rests', 'flaw', 'holes', 'gaps']
+Raw count: 67
+Proportion: 7.28892312144325e-05
+
+Cluster 3:
 Examples: ['classroom', 'teacher', 'teachers', 'teaching']
 Raw count: 19
 Proportion: 2.0670080493645038e-05
 
-Cluster 13:
-Examples: ['weakness', 'vulnerability', 'flaw', 'holes', 'gaps', 'flaws', 'cracks']
-Raw count: 26
-Proportion: 2.828537330709321e-05
-
 Cluster 10:
-Examples: ['elderly', 'seniors', 'deceased', 'senior', 'veteran', 'veterans', 'grandfather']
-Raw count: 32
-Proportion: 3.481276714719164e-05
+Examples: ['notwithstanding', 'elderly', 'deceased', 'taft', 'roosevelt', 'veteran', 'veterans']
+Raw count: 40
+Proportion: 4.351595893398955e-05
 
 Cluster 8:
 Examples: ['bois', 'nord']
 Raw count: 2
 Proportion: 2.1757979466994776e-06
 
-Cluster 0:
+Cluster 13:
 Examples: ['angeles', 'francisco', 'los', 'hills', 'reyes', 'watts']
 Raw count: 6
 Proportion: 6.527393840098433e-06

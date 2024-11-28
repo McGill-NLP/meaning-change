@@ -1,80 +1,80 @@
-Cluster 7:
-Examples: ['animals', 'cats', 'humans', 'things', 'livestock', 'food', 'goods']
-Raw count: 3976
-Proportion: 0.2465277777777778
+Cluster 9:
+Examples: ['animals', 'cats', 'things', 'livestock', 'food', 'goods', 'animal']
+Raw count: 3449
+Proportion: 0.2138516865079365
 
 Cluster 8:
-Examples: ['children', 'friends', 'families', 'kids', 'dog', 'parents', 'family']
-Raw count: 2721
-Proportion: 0.16871279761904762
+Examples: ['children', 'kids', 'women', 'parents', 'family', 'adults', 'babies']
+Raw count: 2056
+Proportion: 0.12748015873015872
 
-Cluster 13:
-Examples: ['dogs', 'farms', 'services', 'problems', 'companions', 'issues', 'wolves']
-Raw count: 910
-Proportion: 0.05642361111111111
+Cluster 14:
+Examples: ['dogs', 'cattle', 'farms', 'services', 'sheep', 'issues', 'wolves']
+Raw count: 922
+Proportion: 0.05716765873015873
+
+Cluster 12:
+Examples: ['people', 'families', 'ones', 'dog', 'individuals', 'citizens', 'owners']
+Raw count: 1621
+Proportion: 0.10050843253968254
+
+Cluster 11:
+Examples: ['pet', 'lives', 'home', 'books', 'anything', 'eyes', 'husbands']
+Raw count: 890
+Proportion: 0.055183531746031744
+
+Cluster 7:
+Examples: ['humans', 'horses', 'birds', 'pigs', 'everything', 'man', 'elephants']
+Raw count: 762
+Proportion: 0.04724702380952381
 
 Cluster 4:
-Examples: ['people', 'members', 'men', 'women', 'ones', 'persons', 'individuals']
-Raw count: 3338
-Proportion: 0.20696924603174602
+Examples: ['members', 'men', 'friends', 'property', 'toys', 'others', 'employees']
+Raw count: 3085
+Proportion: 0.19128224206349206
 
-Cluster 10:
-Examples: ['pet', 'toys', 'favorites', 'parts', 'books', 'anything', 'eyes']
-Raw count: 1072
-Proportion: 0.06646825396825397
+Cluster 13:
+Examples: ['homes', 'houses', 'rights', 'housing', 'disabilities', 'places', 'wards']
+Raw count: 423
+Proportion: 0.026227678571428572
 
-Cluster 3:
-Examples: ['lives', 'homes', 'one', 'home', 'care', 'housing', 'arms']
-Raw count: 834
-Proportion: 0.05171130952380952
+Cluster 1:
+Examples: ['money', 'one', 'secrets', 'care', 'something', 'use', 'americans']
+Raw count: 636
+Proportion: 0.03943452380952381
 
-Cluster 9:
-Examples: ['property', 'money', 'enemies', 'business', 'servants', 'secrets', 'subjects']
-Raw count: 816
-Proportion: 0.050595238095238096
-
-Cluster 2:
-Examples: ['interests', 'slaves', 'something', 'use', 'fun', 'laws', 'good']
-Raw count: 310
-Proportion: 0.01922123015873016
-
-Cluster 5:
-Examples: ['hands', 'favors', 'put', 'puts', 'seals', 'policies', 'takes']
-Raw count: 162
-Proportion: 0.010044642857142858
+Cluster 15:
+Examples: ['hands', 'back', 'put', 'puts', 'keeps', 'takes', 'turns']
+Raw count: 172
+Proportion: 0.01066468253968254
 
 Cluster 6:
 Examples: ['cat', 'brit', 'co', 'mor', 'pe', 'sci', 'ae']
-Raw count: 999
-Proportion: 0.06194196428571429
+Raw count: 1000
+Proportion: 0.062003968253968256
 
-Cluster 15:
+Cluster 10:
+Examples: ['business', 'health', 'emergency', 'party', 'government', 'critical', 'problems']
+Raw count: 394
+Proportion: 0.024429563492063492
+
+Cluster 3:
 Examples: ['living', 'house', 'farm', 'jobs', 'first', 'new', 'sex']
-Raw count: 375
-Proportion: 0.023251488095238096
+Raw count: 377
+Proportion: 0.023375496031746032
 
 Cluster 0:
-Examples: ['rights', 'guns', 'classes', 'disabilities', 'freedom', 'group', 'right']
-Raw count: 328
-Proportion: 0.020337301587301588
+Examples: ['part', 'berg', 'un', 'hell', 'sid', 'hand', 'sis']
+Raw count: 208
+Proportion: 0.012896825396825396
 
-Cluster 14:
-Examples: ['part', 'dead', 'berg', 'hell', 'sid', 'sis', 'nord']
-Raw count: 140
-Proportion: 0.008680555555555556
+Cluster 2:
+Examples: ['arms', 'clothes', 'land', 'ships', 'clothing', 'legs', 'dresses']
+Raw count: 114
+Proportion: 0.007068452380952381
 
-Cluster 11:
-Examples: ['ships', 'vessels', 'treasures', 'colors', 'spirit', 'warships', 'submarines']
-Raw count: 25
-Proportion: 0.0015500992063492063
-
-Cluster 1:
-Examples: ['un', 'hand', 'go', 'pay', 'watch', 'add', 'make']
-Raw count: 86
-Proportion: 0.00533234126984127
-
-Cluster 12:
-Examples: ['back', 'keeps', 'never', 'side', 'stove', 'kitchen', 'closer']
-Raw count: 36
-Proportion: 0.002232142857142857
+Cluster 5:
+Examples: ['hundred', 'number', 'minutes', 'whites', 'scan', 'braves', 'te']
+Raw count: 19
+Proportion: 0.0011780753968253968
 

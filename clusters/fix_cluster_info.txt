@@ -1,65 +1,70 @@
 Cluster 0:
 Examples: ['make', 'change', 'determine', 'take', 'raise', 'increase', 'establish']
-Raw count: 522671
-Proportion: 0.6839605173106442
+Raw count: 511864
+Proportion: 0.669818616744942
 
-Cluster 7:
-Examples: ['set', 'put', 'fixed', 'like', 'just', 'even', 'made']
-Raw count: 61604
-Proportion: 0.08061419843152752
-
-Cluster 2:
-Examples: ['fixing', 'assess', 'punish', 'accomplish', 'suppress', 'relax', 'limit']
-Raw count: 90300
-Proportion: 0.11816541325834257
+Cluster 9:
+Examples: ['set', 'put', 'fixed', 'need', 'made', 'got', 'sets']
+Raw count: 53385
+Proportion: 0.06985892122698359
 
 Cluster 1:
-Examples: ['measure', 'cure', 'remedy', 'start', 'one', 'thing', 'solution']
-Raw count: 68685
-Proportion: 0.0898803035398589
+Examples: ['place', 'measure', 'cut', 'reform', 'cure', 'remedy', 'start']
+Raw count: 84202
+Proportion: 0.11018564924893645
 
-Cluster 12:
+Cluster 2:
+Examples: ['fixing', 'assess', 'punish', 'accomplish', 'suppress', 'relax', 'reset']
+Raw count: 84454
+Proportion: 0.11051541319291322
+
+Cluster 4:
 Examples: ['affect', 'assign', 'effect', 'cap', 'domestic', 'import', 'oxygen']
-Raw count: 17609
-Proportion: 0.023042909878916436
+Raw count: 22144
+Proportion: 0.028977352283419022
+
+Cluster 5:
+Examples: ['just', 'patch', 'even', 'setting', 'without', 'making', 'whatever']
+Raw count: 6700
+Proportion: 0.008767533431128408
+
+Cluster 7:
+Examples: ['hit', 'high', 'narrow', 'etc', 'others', 'ii', '10']
+Raw count: 1127
+Proportion: 0.0014747776383405545
+
+Cluster 11:
+Examples: ['sweep', 'coin', 'noir', 'silver', 'blanc', 'comb', 'brush']
+Raw count: 126
+Proportion: 0.00016488197198838498
 
 Cluster 8:
-Examples: ['patch', 'etc', 'either', 'yet', 'others', 'patches', 'directly']
-Raw count: 918
-Proportion: 0.001201282938772519
-
-Cluster 10:
-Examples: ['half', 'new', 'two', 'low', 'three', 'five', 'train']
-Raw count: 1710
-Proportion: 0.0022376839055566534
+Examples: ['china', 'london', 'thursday', 'friday', 'tuesday', 'india', 'france']
+Raw count: 40
+Proportion: 5.2343483170915865e-05
 
 Cluster 6:
-Examples: ['back', 'inform', 'various', 'sweep', 'staff', 'jail', 'interview']
-Raw count: 541
-Proportion: 0.0007079456098866371
-
-Cluster 3:
 Examples: ['smith', 'davis', 'wilson', 'johnson', 'williams', 'washington', 'brown']
 Raw count: 77
 Proportion: 0.00010076120510401304
 
-Cluster 4:
-Examples: ['glimpse', 'google', 'cruise']
-Raw count: 7
-Proportion: 9.160109554910276e-06
+Cluster 12:
+Examples: ['tribunal', 'gao', 'bae', 'rand', '2016', '2008']
+Raw count: 11
+Proportion: 1.4394457872001864e-05
 
-Cluster 9:
+Cluster 10:
 Examples: ['fed', 'corporate', 'forensic', 'csi', 'physicist', 'hacker', 'geologist']
 Raw count: 13
 Proportion: 1.7011632030547656e-05
 
-Cluster 11:
+Cluster 3:
 Examples: ['1991', '1992', '1993', '1990', '1987', '1995', '1994']
 Raw count: 30
 Proportion: 3.9257612378186904e-05
 
-Cluster 5:
-Examples: ['stein', 'meyer', 'muller', 'schmidt', 'wagner', 'berger', 'becker']
-Raw count: 18
-Proportion: 2.355456742691214e-05
+Cluster 13:
+Examples: ['steele', 'grease', 'jade', 'rifle', 'savage', 'crate', 'fable']
+Raw count: 10
+Proportion: 1.3085870792728966e-05
 

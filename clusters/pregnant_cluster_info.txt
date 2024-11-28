@@ -1,70 +1,75 @@
 Cluster 2:
-Examples: ['young', 'black', 'working', 'many', 'two', 'adult', 'younger']
-Raw count: 31640
-Proportion: 0.28983117608801195
-
-Cluster 8:
-Examples: ['older', 'elderly', 'women', 'homeless', 'naked', 'children', 'engaged']
-Raw count: 16437
-Proportion: 0.15056747918326968
-
-Cluster 5:
-Examples: ['married', 'pregnancy', 'alive', 'grown', 'nursing', 'sleeping', 'expecting']
-Raw count: 9017
-Proportion: 0.08259822107413413
-
-Cluster 6:
-Examples: ['sick', 'vulnerable', 'raped', 'battered', 'ill', 'infected', 'dying']
-Raw count: 15452
-Proportion: 0.14154460597066879
+Examples: ['young', 'black', 'elderly', 'many', 'two', 'adult', 'white']
+Raw count: 33447
+Proportion: 0.30638379730138227
 
 Cluster 1:
-Examples: ['single', 'poor', 'little', 'new', 'certain', 'small', 'beautiful']
-Raw count: 15436
-Proportion: 0.1413980415326976
+Examples: ['older', 'old', 'baby', 'younger', 'away', 'later', 'ago']
+Raw count: 9665
+Proportion: 0.08853408081196698
 
 Cluster 3:
-Examples: ['old', 'healthy', 'baby', 'dead', 'whole', 'away', 'later']
-Raw count: 8418
-Proportion: 0.077111214927588
+Examples: ['married', 'working', 'healthy', 'pregnancy', 'unmarried', 'naked', 'alive']
+Raw count: 15843
+Proportion: 0.14512627442358955
+
+Cluster 6:
+Examples: ['sick', 'vulnerable', 'dead', 'homeless', 'raped', 'battered', 'ill']
+Raw count: 18083
+Proportion: 0.165645295739555
+
+Cluster 11:
+Examples: ['single', 'poor', 'little', 'new', 'certain', 'small', 'beautiful']
+Raw count: 15078
+Proportion: 0.1381186622330924
 
 Cluster 4:
-Examples: ['born', 'living', 'filled', 'now', 'especially', 'involved', 'along']
-Raw count: 9613
-Proportion: 0.08805774638856065
+Examples: ['born', 'living', 'filled', 'now', 'along', 'concerned', 'happy']
+Raw count: 8950
+Proportion: 0.0819844824901298
 
 Cluster 0:
-Examples: ['one', 'back', 'full', 'around', 'fat', 'less', 'fresh']
-Raw count: 1822
-Proportion: 0.016690025373968322
-
-Cluster 13:
-Examples: ['eligible', 'interested', 'looking', 'registered', 'waiting', 'wet', 'responsible']
-Raw count: 754
-Proportion: 0.006906849139391941
+Examples: ['one', 'early', 'full', 'less', 'type', 'fresh', 'part']
+Raw count: 1694
+Proportion: 0.01551750987019887
 
 Cluster 7:
-Examples: ['day', 'means', 'year', 'mr', 'helps', 'de', 'days']
-Raw count: 279
-Proportion: 0.002555717387122482
+Examples: ['eligible', 'engaged', 'fertile', 'involved', 'mothers', 'normal', 'girls']
+Raw count: 3521
+Proportion: 0.032253336631033185
 
 Cluster 9:
-Examples: ['life', 'times', 'prison', 'career', 'jail', 'trouble', 'adolescence']
-Raw count: 102
-Proportion: 0.0009343482920662838
+Examples: ['especially', 'including', 'also', 'just', 'plus', 'sometimes', 'particularly']
+Raw count: 1407
+Proportion: 0.012888510264090797
+
+Cluster 13:
+Examples: ['sex', 'drug', 'drugs', 'chronic', 'crack', 'heroin', 'cocaine']
+Raw count: 842
+Proportion: 0.00771295354823344
+
+Cluster 8:
+Examples: ['day', 'means', 'year', 'man', 'mr', 'make', 'helps']
+Raw count: 358
+Proportion: 0.003279379299605192
 
 Cluster 10:
-Examples: ['work', 'money', 'fired', 'go', 'coffee', 'america', 'take']
-Raw count: 121
-Proportion: 0.001108393562157062
+Examples: ['life', 'poverty', 'prison', 'career', 'jail', 'trouble', 'adolescence']
+Raw count: 109
+Proportion: 0.0009984702336786758
+
+Cluster 12:
+Examples: ['wet', 'committed', 'dry', 'warm', 'water', 'touched', 'alert']
+Raw count: 94
+Proportion: 0.0008610660730806929
 
 Cluster 15:
 Examples: ['green', 'giant', 'vibrant', 'pet', 'pink', 'orange', 'lush']
 Raw count: 36
 Proportion: 0.000329769985435159
 
-Cluster 11:
-Examples: ['protective', 'secured', 'status', 'guard', 'security']
+Cluster 16:
+Examples: ['35', '36', '41', '42', '39', '38', '37']
 Raw count: 16
 Proportion: 0.00014656443797118177
 
@@ -73,7 +78,7 @@ Examples: ['rivers', 'mines', 'valleys', 'lakes', 'mountains', 'fields', 'hills'
 Raw count: 10
 Proportion: 9.16027737319886e-05
 
-Cluster 12:
+Cluster 5:
 Examples: ['1972', '1971', '1973', '1970', '1975', '1974', '72']
 Raw count: 14
 Proportion: 0.00012824388322478405

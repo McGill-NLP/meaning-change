@@ -1,64 +1,69 @@
 Cluster 6:
 Examples: ['contained', 'included', 'inherent', 'found', 'expressed', 'involved', 'also']
-Raw count: 25287
-Proportion: 0.35925157697334775
+Raw count: 25816
+Proportion: 0.3667670625674831
 
 Cluster 0:
 Examples: ['express', 'right', 'verbal', 'faithful', 'respectful', 'just', 'knowing']
-Raw count: 20867
-Proportion: 0.29645678240609197
+Raw count: 20370
+Proportion: 0.2893959197590498
 
-Cluster 7:
+Cluster 5:
 Examples: ['implied', 'something', 'everything', 'nothing', 'interest', 'participation', 'everyone']
-Raw count: 2927
-Proportion: 0.04158379269193613
+Raw count: 3124
+Proportion: 0.04438256520997897
+
+Cluster 3:
+Examples: ['absolute', 'important', 'official', 'obvious', 'essential', 'open', 'actual']
+Raw count: 6831
+Proportion: 0.09704779223731318
 
 Cluster 2:
-Examples: ['absolute', 'full', 'great', 'complete', 'important', 'total', 'every']
-Raw count: 19146
-Proportion: 0.27200659203273286
+Examples: ['full', 'great', 'complete', 'total', 'every', 'general', 'much']
+Raw count: 12199
+Proportion: 0.17331079161220664
 
-Cluster 9:
-Examples: ['explicit', 'abstract', 'add', 'explicitly', 'expressive', 'racial', 'contingent']
-Raw count: 775
-Proportion: 0.011010399499914758
+Cluster 8:
+Examples: ['explicit', 'abstract', 'explicitly', 'expressive', 'racial', 'contingent', 'answer']
+Raw count: 711
+Proportion: 0.010101153605728249
 
 Cluster 1:
 Examples: ['indirect', 'due', 'without', 'associated', 'otherwise', 'denied', 'consistent']
-Raw count: 559
-Proportion: 0.007941694607035291
+Raw count: 600
+Proportion: 0.008524180257998523
 
-Cluster 3:
+Cluster 4:
 Examples: ['dull', 'upon', 'short', 'un', 'de', 'time', 'def']
-Raw count: 687
-Proportion: 0.009760186395408309
-
-Cluster 10:
-Examples: ['entirely', 'fully', 'obviously', 'completely', 'altogether', 'highly', 'extremely']
-Raw count: 71
-Proportion: 0.0010086946638631585
-
-Cluster 12:
-Examples: ['stronger', '35', 'eight', 'fuller', 'forceful', '300', '72']
-Raw count: 22
-Proportion: 0.0003125532761266125
+Raw count: 642
+Proportion: 0.009120872876058419
 
 Cluster 11:
+Examples: ['likely', 'later', 'eventually', 'cease', 'soon', 'shortly', 'subsequently']
+Raw count: 39
+Proportion: 0.000554071716769904
+
+Cluster 9:
+Examples: ['increases', 'savings', 'sharing', 'benefit', 'benefits', 'reduction', 'effectiveness']
+Raw count: 15
+Proportion: 0.00021310450644996306
+
+Cluster 12:
 Examples: ['media', 'sectional', 'quota', 'plea', 'canvas', 'liga', 'historia']
 Raw count: 13
 Proportion: 0.00018469057225663465
 
-Cluster 5:
-Examples: ['agree', 'continue', 'proceed', 'join', 'pause', 'consider', 'persist']
-Raw count: 16
-Proportion: 0.00022731147354662726
+Cluster 13:
+Examples: ['35', '300', '72', '360', '250', '350', '357']
+Raw count: 10
+Proportion: 0.00014206967096664204
 
-Cluster 4:
+Cluster 7:
 Examples: ['westminster', 'augsburg', 'missouri', 'baptist', 'lutheran', 'mecklenburg', 'presbyterian']
 Raw count: 9
 Proportion: 0.00012786270386997784
 
-Cluster 8:
+Cluster 10:
 Examples: ['2008', '2007', '2005', '2010', 'excess', '2011', '2003']
 Raw count: 9
 Proportion: 0.00012786270386997784

@@ -1,70 +1,55 @@
 Cluster 6:
 Examples: ['make', 'meet', 'use', 'get', 'provide', 'take', 'pay']
-Raw count: 125775
-Proportion: 0.6051413560170128
+Raw count: 126765
+Proportion: 0.6099045437924597
 
 Cluster 2:
 Examples: ['fund', 'share', 'matching', 'grant', 'program', 'funding', 'budget']
-Raw count: 27982
-Proportion: 0.13462981851773445
+Raw count: 26652
+Proportion: 0.12823078847597236
 
 Cluster 1:
-Examples: ['matches', 'watch', 'candle', 'line', 'fuse', 'fire', 'oil']
-Raw count: 11755
-Proportion: 0.05655684070745367
+Examples: ['matches', 'one', 'watch', 'candle', 'fuse', 'fire', 'oil']
+Raw count: 12112
+Proportion: 0.05827447508708455
 
 Cluster 5:
-Examples: ['fight', 'game', 'balance', 'one', 'test', 'pair', 'challenge']
-Raw count: 17735
-Proportion: 0.08532841939146668
+Examples: ['fight', 'game', 'balance', 'test', 'pair', 'challenge', 'competition']
+Raw count: 16460
+Proportion: 0.07919401089278498
 
-Cluster 11:
+Cluster 9:
 Examples: ['limit', 'bound', 'peer', 'age', 'self', 'tire', 'price']
-Raw count: 12746
-Proportion: 0.061324839783683915
+Raw count: 12381
+Proportion: 0.0595687149977868
 
 Cluster 8:
-Examples: ['matched', 'made', 'also', 'received', 'exceeds', 'got', 'used']
-Raw count: 2744
-Proportion: 0.013202209349319682
+Examples: ['matched', 'made', 'also', 'received', 'met', 'exceeds', 'got']
+Raw count: 2738
+Proportion: 0.013173341544620003
 
 Cluster 0:
 Examples: ['substitute', 'place', 'partner', 'mate', 'good', 'target', 'replacement']
-Raw count: 7038
-Proportion: 0.033861934912723005
+Raw count: 8608
+Proportion: 0.04141567714247224
 
-Cluster 13:
-Examples: ['date', 'america', 'everyone', 'americans', 'since', 'peg', 'everybody']
-Raw count: 408
-Proportion: 0.001963010719578145
+Cluster 10:
+Examples: ['date', 'america', 'peg', 'employees', 'workers', 'iran', '2012']
+Raw count: 379
+Proportion: 0.001823482996863032
 
 Cluster 3:
-Examples: ['review', 'hilton', 'commune', 'metro', 'france', '24', 'tonight']
-Raw count: 212
-Proportion: 0.0010199957660553107
+Examples: ['par', 'best', 'making', 'march', 'broom', 'july', 'chop']
+Raw count: 1665
+Proportion: 0.008010815804160814
 
 Cluster 4:
-Examples: ['par', 'best', 'march', 'july', 'august', 'fall', 'june']
-Raw count: 1342
-Proportion: 0.006456765651161448
-
-Cluster 7:
 Examples: ['engineering', 'social', 'physical', 'royal', 'math', 'written', 'mathematics']
 Raw count: 49
 Proportion: 0.0002357537383807086
 
-Cluster 9:
+Cluster 7:
 Examples: ['patriot', 'preservation', 'arson', 'smith', 'conservation', 'rehabilitation', 'cleanup']
 Raw count: 35
 Proportion: 0.00016839552741479186
-
-Cluster 12:
-Examples: ['crown', 'vice', 'pirate', 'negative', 'crowns', 'crowned', 'warrior']
-Raw count: 15
-Proportion: 7.216951174919652e-05
-
-Cluster 10:
-Examples: ['1956', '1953', '1954', '1955', '1952', '1959', '1960']
-Raw count: 8
-Proportion: 3.849040626623814e-05
 

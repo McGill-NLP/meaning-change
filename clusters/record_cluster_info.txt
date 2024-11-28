@@ -1,54 +1,59 @@
-Cluster 4:
-Examples: ['paper', 'press', 'senate', 'gazette', 'newspaper', 'newspapers', 'papers']
-Raw count: 4728185
-Proportion: 0.6028316167711699
+Cluster 3:
+Examples: ['paper', 'press', 'senate', 'gazette', 'newspaper', 'newspapers', 'house']
+Raw count: 4293275
+Proportion: 0.5473816928680338
 
 Cluster 7:
-Examples: ['report', 'register', 'file', 'vote', 'document', 'note', 'act']
-Raw count: 654639
-Proportion: 0.0834648150974342
+Examples: ['report', 'vote', 'document', 'note', 'hearing', 'notice', 'show']
+Raw count: 501678
+Proportion: 0.06396267486118394
 
 Cluster 1:
-Examples: ['records', 'history', 'story', 'evidence', 'statement', 'case', 'process']
-Raw count: 1872608
-Proportion: 0.23875277896669167
+Examples: ['papers', 'records', 'proceedings', 'minutes', 'facts', 'reports', 'pages']
+Raw count: 766622
+Proportion: 0.09774236408100526
+
+Cluster 10:
+Examples: ['history', 'story', 'evidence', 'statement', 'case', 'process', 'resolution']
+Raw count: 1578314
+Proportion: 0.20123103905464199
+
+Cluster 5:
+Examples: ['law', 'file', 'state', 'trial', 'war', 'television', 'stage']
+Raw count: 249729
+Proportion: 0.03183981524086885
+
+Cluster 4:
+Examples: ['year', 'public', 'majority', 'government', 'first', 'budget', 'high']
+Raw count: 421718
+Proportion: 0.05376797730239072
+
+Cluster 6:
+Examples: ['sec', 'un', 'mr', 'cd', 'co', 'ms', 'com']
+Raw count: 31851
+Proportion: 0.00406092186024416
+
+Cluster 11:
+Examples: ['drafting', 'hiring', 'recruitment', 'purchasing', 'procurement', 'contracting', 'hires']
+Raw count: 48
+Proportion: 6.119878474513192e-06
+
+Cluster 2:
+Examples: ['brush', 'tangle', 'scrape', 'brushes', 'brushed', 'brushing']
+Raw count: 17
+Proportion: 2.1674569597234223e-06
 
 Cluster 8:
-Examples: ['recording', 'year', 'majority', 'state', 'trial', 'first', 'television']
-Raw count: 557421
-Proportion: 0.07106976623211704
-
-Cluster 9:
-Examples: ['un', 'cd', 'co', 'ms', 'com', 'etc', 'inc']
-Raw count: 30346
-Proportion: 0.003869038170574528
-
-Cluster 0:
-Examples: ['hiring', 'recruitment', 'purchasing', 'procurement', 'contracting', 'hires', 'hired']
-Raw count: 29
-Proportion: 3.6974265783517203e-06
-
-Cluster 3:
-Examples: ['deception', 'manipulation', 'cheating', 'manipulating', 'manipulated', 'blackmail']
+Examples: ['32', '101', '318', '319', '316', '317', '320']
 Raw count: 19
 Proportion: 2.422451896161472e-06
 
-Cluster 6:
-Examples: ['detector', 'acceleration', 'accelerating', 'roth', 'accelerator', 'ajax']
-Raw count: 18
-Proportion: 2.294954427942447e-06
-
-Cluster 5:
+Cluster 0:
 Examples: ['1880s', '1800s', '1870s', '1830s', '1890s', '1850s', '1860s']
 Raw count: 17
 Proportion: 2.1674569597234223e-06
 
-Cluster 10:
-Examples: ['wolfe', 'hesse', 'hess', 'hermann', 'schmidt']
-Raw count: 6
-Proportion: 7.64984809314149e-07
-
-Cluster 2:
+Cluster 9:
 Examples: ['vortex', 'swirling', 'swirl', 'cassandra', 'dove']
 Raw count: 5
 Proportion: 6.374873410951242e-07

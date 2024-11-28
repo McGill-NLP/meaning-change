@@ -1,79 +1,94 @@
-Cluster 0:
-Examples: ['new', 'hydrogen', 'special', 'certain', 'current', 'whole', 'great']
-Raw count: 4955
-Proportion: 0.15058044125691364
-
-Cluster 14:
-Examples: ['electric', 'gasoline', 'gas', 'passenger', 'green', 'power', 'car']
-Raw count: 11916
-Proportion: 0.36212240928706013
-
-Cluster 3:
-Examples: ['hybrids', 'combined', 'individual', 'pure', 'ion', 'alternative', 'ev']
-Raw count: 2606
-Proportion: 0.07919528353491764
-
 Cluster 8:
-Examples: ['commercial', 'modern', 'general', 'personal', 'urban', 'american', 'national']
-Raw count: 2898
-Proportion: 0.08806904515893758
-
-Cluster 7:
-Examples: ['different', 'corn', 'human', 'many', 'seed', 'black', 'plant']
-Raw count: 2419
-Proportion: 0.07351242934419255
-
-Cluster 12:
-Examples: ['similar', 'financial', 'family', 'common', 'business', 'separate', 'pension']
-Raw count: 2295
-Proportion: 0.06974411961344436
-
-Cluster 5:
-Examples: ['one', 'good', 'combination', 'thing', 'concept', 'government', 'compromise']
-Raw count: 3332
-Proportion: 0.10125812921655625
-
-Cluster 6:
-Examples: ['mixed', 'political', 'republican', 'conservative', 'primary', 'presidential', 'tax']
-Raw count: 501
-Proportion: 0.015225186896006807
-
-Cluster 10:
-Examples: ['first', 'second', 'joint', 'military', 'air', 'un', 'permanent']
-Raw count: 876
-Proportion: 0.02662128487205981
-
-Cluster 1:
-Examples: ['super', 'auto', 'now', 'even', 'bio', 'nano', 'hydro']
-Raw count: 618
-Proportion: 0.018780769464535343
-
-Cluster 15:
-Examples: ['free', 'growing', 'making', 'developing', 'buying', 'increased', 'improving']
-Raw count: 285
-Proportion: 0.00866103446180028
-
-Cluster 9:
-Examples: ['carbon', 'park', 'river', 'reserve', 'forest', 'zoo', 'hardwood']
-Raw count: 85
-Proportion: 0.0025831155412386797
-
-Cluster 2:
-Examples: ['heavy', 'average', 'duty', 'weight', 'load', 'postal', 'mail']
-Raw count: 60
-Proportion: 0.0018233756761684798
-
-Cluster 4:
-Examples: ['branch', 'grass', 'cell', 'secondary', 'wire', 'branches', 'cost']
-Raw count: 40
-Proportion: 0.00121558378411232
-
-Cluster 11:
-Examples: ['permitting', 'allowing', 'limiting', 'restricting', 'pushing', 'forcing', 'letting']
-Raw count: 10
-Proportion: 0.00030389594602808
+Examples: ['new', 'special', 'certain', 'similar', 'current', 'two', 'good']
+Raw count: 5359
+Proportion: 0.16285783747644805
 
 Cluster 13:
+Examples: ['electric', 'gasoline', 'gas', 'hydrogen', 'passenger', 'green', 'power']
+Raw count: 11409
+Proportion: 0.34671488482343643
+
+Cluster 3:
+Examples: ['hybrids', 'conventional', 'individual', 'human', 'modular', 'common', 'pure']
+Raw count: 3157
+Proportion: 0.09593995016106485
+
+Cluster 7:
+Examples: ['commercial', 'modern', 'general', 'personal', 'urban', 'single', 'natural']
+Raw count: 2504
+Proportion: 0.07609554488543123
+
+Cluster 10:
+Examples: ['different', 'genetic', 'park', 'story', 'change', 'difference', 'river']
+Raw count: 454
+Proportion: 0.013796875949674832
+
+Cluster 4:
+Examples: ['one', 'combination', 'whole', 'national', 'family', 'federal', 'little']
+Raw count: 3713
+Proportion: 0.1128365647602261
+
+Cluster 2:
+Examples: ['mixed', 'combined', 'first', 'second', 'joint', 'military', 'total']
+Raw count: 1314
+Proportion: 0.03993192730808971
+
+Cluster 11:
+Examples: ['american', 'old', 'corn', 'many', 'seed', 'black', 'plant']
+Raw count: 2139
+Proportion: 0.06500334285540631
+
+Cluster 6:
+Examples: ['private', 'financial', 'alternative', 'business', 'pension', 'retirement', 'future']
+Raw count: 1510
+Proportion: 0.04588828785024008
+
+Cluster 14:
+Examples: ['separate', 'binary', 'free', 'voluntary', 'control', 'differential', 'management']
+Raw count: 308
+Proportion: 0.009359995137664863
+
+Cluster 5:
+Examples: ['growing', 'making', 'developing', 'buying', 'increased', 'improving', 'building']
+Raw count: 235
+Proportion: 0.00714155473165988
+
+Cluster 1:
+Examples: ['now', 'even', 'things', 'maybe', 'wrong', 'states', 'means']
+Raw count: 168
+Proportion: 0.0051054518932717435
+
+Cluster 18:
+Examples: ['un', 'bio', 'nano', 'passive', 'micro', 'photo', 'liquid']
+Raw count: 300
+Proportion: 0.0091168783808424
+
+Cluster 16:
+Examples: ['heavy', 'line', 'branch', 'duty', 'steel', 'grass', 'cell']
+Raw count: 140
+Proportion: 0.00425454324439312
+
+Cluster 0:
+Examples: ['open', 'deep', 'close', 'concrete', 'covered', 'closed', 'continuous']
+Raw count: 81
+Proportion: 0.0024615571628274478
+
+Cluster 9:
+Examples: ['committee', 'merit', 'selection', 'education', 'prison', 'devices', 'point']
+Raw count: 57
+Proportion: 0.0017322068923600559
+
+Cluster 12:
+Examples: ['said', 'strike', 'internet', 'hit', 'striking', 'following', 'struck']
+Raw count: 30
+Proportion: 0.0009116878380842399
+
+Cluster 17:
+Examples: ['unnecessary', 'unfortunate', 'isolated', 'solitary', 'arbitrary', 'impossible', 'disputed']
+Raw count: 18
+Proportion: 0.000547012702850544
+
+Cluster 15:
 Examples: ['xx', 'mk', 'xl', 'hd', 'im', 'sd', 'av']
 Raw count: 10
 Proportion: 0.00030389594602808

@@ -1,52 +1,62 @@
-Cluster 12:
-Examples: ['history', 'america', 'god', 'control', 'canada', 'florida', 'washington']
-Raw count: 8347
-Proportion: 0.02185450403864532
+Cluster 5:
+Examples: ['history', 'america', 'congress', 'control', 'canada', 'florida', 'washington']
+Raw count: 8376
+Proportion: 0.021930433188893397
 
 Cluster 2:
-Examples: ['experience', 'life', 'knowledge', 'time', 'character', 'work', 'skills']
-Raw count: 126550
-Proportion: 0.33133910220325447
-
-Cluster 3:
-Examples: ['record', 'justice', 'liability', 'trial', 'damage', 'journal', 'streak']
-Raw count: 5144
-Proportion: 0.013468260306073022
-
-Cluster 1:
-Examples: ['security', 'intelligence', 'police', 'credit', 'dna', 'id', 'border']
-Raw count: 67876
-Proportion: 0.177716103525469
+Examples: ['experience', 'life', 'knowledge', 'information', 'time', 'character', 'work']
+Raw count: 96172
+Proportion: 0.2518020081951117
 
 Cluster 0:
-Examples: ['information', 'nature', 'basis', 'fact', 'story', 'details', 'opinion']
-Raw count: 108722
-Proportion: 0.2846610025266079
+Examples: ['record', 'ability', 'nature', 'interest', 'basis', 'fact', 'story']
+Raw count: 130110
+Proportion: 0.3406600599578462
 
-Cluster 9:
-Examples: ['career', 'name', 'position', 'family', 'degree', 'perspective', 'class']
-Raw count: 26292
-Proportion: 0.06883893856284447
+Cluster 1:
+Examples: ['security', 'intelligence', 'identity', 'police', 'credit', 'dna', 'id']
+Raw count: 68939
+Proportion: 0.18049929961904512
+
+Cluster 3:
+Examples: ['career', 'name', 'position', 'education', 'family', 'origin', 'age']
+Raw count: 44113
+Proportion: 0.11549871051356907
 
 Cluster 4:
-Examples: ['body', 'past', 'one', 'world', 'mind', 'house', 'field']
-Raw count: 35658
-Proportion: 0.09336143584641365
+Examples: ['body', 'past', 'world', 'house', 'field', 'back', 'room']
+Raw count: 29820
+Proportion: 0.0780761124275073
 
-Cluster 5:
-Examples: ['address', 'get', 'likeness', 'hear', 'express', 'explain', 'discuss']
-Raw count: 269
-Proportion: 0.0007043083247149384
+Cluster 16:
+Examples: ['now', 'also', 'involved', 'based', 'ever', 'personally', 'alone']
+Raw count: 1903
+Proportion: 0.00498252320421014
 
-Cluster 7:
-Examples: ['interview', 'mr', 'staff', 'ms', 'stream', 'jr', 'tick']
-Raw count: 2904
-Proportion: 0.007603388011049
+Cluster 10:
+Examples: ['mr', 'ms', 'sign', 'stream', 'jr', 'tick', 'blend']
+Raw count: 2227
+Proportion: 0.005830835089740401
 
 Cluster 6:
-Examples: ['based', 'agreed', 'focusing', 'told', 'depends', 'focused', 'throughout']
-Raw count: 140
-Proportion: 0.0003665545184390014
+Examples: ['amended', 'contest', 'reckon', 'ponder', 'foster', 'champion', 'amend']
+Raw count: 110
+Proportion: 0.00028800712163064393
+
+Cluster 15:
+Examples: ['satisfaction', 'agreed', 'satisfied', 'satisfy', 'pleased', 'satisfying', 'satisfactory']
+Raw count: 44
+Proportion: 0.00011520284865225758
+
+Cluster 13:
+Examples: ['sponsors', 'sponsorship', 'sponsoring', 'supports', 'promoters', 'sponsored']
+Raw count: 17
+Proportion: 4.451019152473588e-05
+
+Cluster 14:
+Examples: ['get', 'hear', 'express', 'explain', 'discuss', 'rug', 'consider']
+Raw count: 56
+Proportion: 0.00014662180737560056
 
 Cluster 11:
 Examples: ['plain', 'wheat', 'plains', 'prairie', 'bison', 'grasslands']
@@ -54,11 +64,21 @@ Raw count: 15
 Proportion: 3.927369840417872e-05
 
 Cluster 8:
-Examples: ['1945', '1944', '1956', '1943', '1947', '1949', '1942']
+Examples: ['birds', 'bird', 'crane', 'cranes', 'tiger', 'wren']
 Raw count: 8
 Proportion: 2.0945972482228653e-05
 
-Cluster 10:
+Cluster 9:
+Examples: ['expedition', 'ice', 'pole', 'antarctica', 'antarctic', 'penguins', 'penguin']
+Raw count: 10
+Proportion: 2.6182465602785813e-05
+
+Cluster 7:
+Examples: ['shakespeare', 'sage', 'cesare', 'locke', 'singapore']
+Raw count: 5
+Proportion: 1.3091232801392906e-05
+
+Cluster 12:
 Examples: ['screaming', 'hissing', 'writhing', 'moaning', 'banging', 'tearing', 'kicking']
 Raw count: 10
 Proportion: 2.6182465602785813e-05

@@ -1,49 +1,54 @@
 Cluster 2:
-Examples: ['owner', 'person', 'man', 'applicant', 'defendant', 'plaintiff', 'party']
-Raw count: 2468
-Proportion: 0.3547506108955009
+Examples: ['owner', 'person', 'man', 'applicant', 'plaintiff', 'party', 'agent']
+Raw count: 2466
+Proportion: 0.35446313065976714
 
-Cluster 8:
+Cluster 10:
 Examples: ['information', 'support', 'care', 'search', 'advisory', 'protection', 'management']
-Raw count: 1837
-Proportion: 0.26405059652148916
+Raw count: 1789
+Proportion: 0.2571510708638781
+
+Cluster 3:
+Examples: ['defendant', 'state', 'government', 'subject', 'people', 'president', 'public']
+Raw count: 705
+Proportion: 0.10133678309616213
 
 Cluster 5:
 Examples: ['radio', 'warning', 'radar', 'emergency', 'beacon', 'distress', 'communications']
-Raw count: 1089
-Proportion: 0.15653298835705046
-
-Cluster 1:
-Examples: ['state', 'government', 'agent', 'subject', 'people', 'president', 'miner']
-Raw count: 738
-Proportion: 0.10608020698576973
-
-Cluster 7:
-Examples: ['company', 'property', 'location', 'name', 'place', 'site', 'year']
-Raw count: 342
-Proportion: 0.04915912031047866
-
-Cluster 0:
-Examples: ['persons', 'men', 'agents', 'receivers', 'officers', 'reporters', 'farmers']
-Raw count: 87
-Proportion: 0.01250539025442001
-
-Cluster 6:
-Examples: ['service', 'office', 'list', 'operator', 'station', 'record', 'agency']
-Raw count: 243
-Proportion: 0.03492884864165589
+Raw count: 1098
+Proportion: 0.15782664941785252
 
 Cluster 4:
-Examples: ['patent', 'corporation', 'line', 'portion', 'reservation', 'provision', 'reserve']
-Raw count: 78
-Proportion: 0.01121172919361794
+Examples: ['company', 'patent', 'corporation', 'line', 'industry', 'companies', 'community']
+Raw count: 217
+Proportion: 0.031191605577116574
 
 Cluster 9:
-Examples: ['right', 'also', 'now', 'requirement', 'well', 'currently', 'intent']
-Raw count: 67
-Proportion: 0.009630587897082075
+Examples: ['miner', 'mine', 'miners', 'prospect', 'discovery', 'first', 'mining']
+Raw count: 133
+Proportion: 0.019117435676297253
 
-Cluster 3:
+Cluster 7:
+Examples: ['property', 'location', 'name', 'place', 'site', 'year', 'position']
+Raw count: 200
+Proportion: 0.02874802357337933
+
+Cluster 1:
+Examples: ['alien', 'right', 'also', 'now', 'requirement', 'well', 'currently']
+Raw count: 86
+Proportion: 0.012361650136553113
+
+Cluster 0:
+Examples: ['service', 'office', 'station', 'thing', 'agency', 'grant', 'area']
+Raw count: 170
+Proportion: 0.024435820037372432
+
+Cluster 8:
+Examples: ['operator', 'interest', 'reference', 'word', 'whole', 'basis', 'vehicle']
+Raw count: 85
+Proportion: 0.012217910018686216
+
+Cluster 6:
 Examples: ['lo', 'mo', 'tel', 'aaron', 'moi', 'lu', 'lia']
 Raw count: 8
 Proportion: 0.001149920942935173

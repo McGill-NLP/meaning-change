@@ -1,82 +1,82 @@
-Cluster 1:
-Examples: ['homosexual', 'heterosexual', 'lesbian', 'queer', 'bisexual', 'homosexuality', 'latino']
-Raw count: 16666
-Proportion: 0.19852529511965597
-
-Cluster 5:
-Examples: ['black', 'men', 'brown', 'hiv', 'now', 'wedding', 'colored']
-Raw count: 3584
-Proportion: 0.04269258716601746
-
-Cluster 6:
-Examples: ['lgbt', 'way', 'day', 'man', 'sea', 'er', 'ray']
-Raw count: 20415
-Proportion: 0.24318336132651966
-
-Cluster 8:
-Examples: ['straight', 'short', 'condo', 'pink', 'bald', 'back', 'drag']
-Raw count: 2809
-Proportion: 0.033460791671133666
-
-Cluster 2:
-Examples: ['young', 'smith', 'johnson', 'wilson', 'williams', 'taylor', 'davis']
-Raw count: 4978
-Proportion: 0.059297907062621356
-
-Cluster 0:
-Examples: ['married', 'white', 'transgender', 'male', 'trans', 'human', 'jewish']
-Raw count: 19615
-Proportion: 0.2336537659769622
-
 Cluster 4:
-Examples: ['good', 'dead', 'happy', 'great', 'right', 'sad', 'alive']
-Raw count: 6978
-Proportion: 0.08312189543651503
-
-Cluster 16:
-Examples: ['say', 'like', 'just', 'bad', 'know', 'think', 'go']
-Raw count: 3486
-Proportion: 0.04152521173569667
-
-Cluster 15:
-Examples: ['long', 'green', 'indian', 'south', 'west', 'north', 'hilton']
-Raw count: 1186
-Proportion: 0.014127625105718949
-
-Cluster 7:
-Examples: ['homo', 'gil', 'de', 'moi', 'rick', 'mr', 'fr']
-Raw count: 2404
-Proportion: 0.028636434025420196
+Examples: ['homosexual', 'heterosexual', 'lesbian', 'queer', 'bisexual', 'transgender', 'homosexuality']
+Raw count: 18860
+Proportion: 0.22466021036581735
 
 Cluster 12:
-Examples: ['bar', 'martin', 'dee', 'belle', 'dome', 'strip', 'mae']
-Raw count: 1563
-Proportion: 0.018618446914197905
+Examples: ['black', 'colored', 'still', 'lei', 'blacks', 'unidentified', 'alpha']
+Raw count: 2389
+Proportion: 0.028457754112615995
 
-Cluster 9:
-Examples: ['regarding', 'concerning', 'keeping', 'discussing', 'respectful', 'understanding', 'respect']
-Raw count: 61
-Proportion: 0.0007266316454037571
-
-Cluster 18:
-Examples: ['word', 'name', 'floor', 'arms', 'sword', 'term', 'yard']
-Raw count: 83
-Proportion: 0.0009886955175165875
+Cluster 5:
+Examples: ['lgbt', 'way', 'day', 'man', 'sea', 'er', 'ray']
+Raw count: 20655
+Proportion: 0.2460422399313869
 
 Cluster 3:
+Examples: ['straight', 'dead', 'right', 'ny', 'alive', 'sick', 'mike']
+Raw count: 6124
+Proportion: 0.07294905240086243
+
+Cluster 11:
+Examples: ['young', 'smith', 'brown', 'jones', 'johnson', 'wilson', 'williams']
+Raw count: 5912
+Proportion: 0.0704237096332297
+
+Cluster 17:
+Examples: ['married', 'white', 'male', 'human', 'jewish', 'civil', 'new']
+Raw count: 18112
+Proportion: 0.2157500387139811
+
+Cluster 7:
+Examples: ['good', 'long', 'happy', 'great', 'sad', 'wild', 'dangerous']
+Raw count: 4044
+Proportion: 0.04817210449201301
+
+Cluster 15:
+Examples: ['say', 'like', 'just', 'bad', 'know', 'think', 'go']
+Raw count: 3524
+Proportion: 0.041977867514800656
+
+Cluster 8:
+Examples: ['bar', 'mary', 'cross', 'dee', 'belle', 'dome', 'strip']
+Raw count: 1708
+Proportion: 0.020345686071305196
+
+Cluster 10:
+Examples: ['green', 'indian', 'south', 'early', 'west', 'north', 'hilton']
+Raw count: 931
+Proportion: 0.011090066588047506
+
+Cluster 6:
+Examples: ['moi', 'rick', 'mr', 'fr', 'pre', 'ten', 'co']
+Raw count: 1346
+Proportion: 0.01603354417563044
+
+Cluster 9:
+Examples: ['labor', 'watch', 'till', 'market', 'correct', 'fill', 'labour']
+Raw count: 136
+Proportion: 0.0016200312094247697
+
+Cluster 18:
+Examples: ['eight', '50', '12', '30', '35', '40', 'fifteen']
+Raw count: 53
+Proportion: 0.0006313356919081823
+
+Cluster 1:
+Examples: ['regarding', 'concerning', 'keeping', 'discussing', 'respectful', 'understanding', 'respect']
+Raw count: 60
+Proportion: 0.0007147196512168102
+
+Cluster 0:
 Examples: ['official', 'called', 'officially', 'designated', 'truly', 'considered', 'declared']
 Raw count: 31
 Proportion: 0.00036927181979535195
 
-Cluster 17:
+Cluster 16:
 Examples: ['port', 'ferry', 'mail', 'station', 'ships', 'commerce', 'contact']
-Raw count: 41
-Proportion: 0.0004883917616648203
-
-Cluster 10:
-Examples: ['approved', 'based', 'controlled', 'supported', 'certified', 'mandated', 'funded']
-Raw count: 20
-Proportion: 0.00023823988373893675
+Raw count: 35
+Proportion: 0.0004169197965431393
 
 Cluster 13:
 Examples: ['happily', 'sweetly', 'quietly', 'loudly', 'softly', 'cheerfully', 'peacefully']
@@ -88,7 +88,7 @@ Examples: ['failed', 'existed', 'died', 'exists', 'disappeared', 'lived', 'stuck
 Raw count: 11
 Proportion: 0.0001310319360564152
 
-Cluster 11:
+Cluster 2:
 Examples: ['mendoza', 'valencia', 'lima', 'domingo', 'ferrer', 'tomas', 'angelica']
 Raw count: 8
 Proportion: 9.529595349557469e-05

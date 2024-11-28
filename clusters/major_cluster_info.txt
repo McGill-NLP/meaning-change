@@ -1,72 +1,67 @@
-Cluster 15:
-Examples: ['big', 'large', 'main', 'small', 'national', 'many', 'various']
-Raw count: 785849
-Proportion: 0.26597079038963745
-
-Cluster 3:
-Examples: ['great', 'significant', 'huge', 'important', 'serious', 'real', 'substantial']
-Raw count: 1176789
-Proportion: 0.3982845310636408
+Cluster 1:
+Examples: ['big', 'large', 'main', 'new', 'small', 'primary', 'many']
+Raw count: 983627
+Proportion: 0.33290880390327904
 
 Cluster 2:
-Examples: ['key', 'principal', 'specific', 'first', 'special', 'basic', 'political']
-Raw count: 328252
-Proportion: 0.11109697141178429
+Examples: ['great', 'significant', 'key', 'huge', 'important', 'serious', 'real']
+Raw count: 1377322
+Proportion: 0.46615497501560255
 
-Cluster 5:
-Examples: ['new', 'primary', 'current', 'separate', 'whole', 'additional', 'military']
-Raw count: 246477
-Proportion: 0.08342020223079329
-
-Cluster 4:
-Examples: ['general', 'lieutenant', 'captain', 'private', 'colonel', 'brigadier', 'chief']
-Raw count: 206365
-Proportion: 0.06984428580905179
-
-Cluster 0:
-Examples: ['minor', 'pol', 'super', 'short', 'pro', 'premier', 'sub']
-Raw count: 59206
-Proportion: 0.020038285492262352
-
-Cluster 7:
-Examples: ['single', 'remaining', 'ever', 'every', 'much', 'highly', 'also']
-Raw count: 48034
-Proportion: 0.016257119301005468
-
-Cluster 6:
-Examples: ['one', 'majors', 'time', 'part', 'war', 'program', 'percent']
-Raw count: 73023
-Proportion: 0.024714652594356547
+Cluster 3:
+Examples: ['general', 'principal', 'total', 'captain', 'private', 'colonel', 'john']
+Raw count: 199546
+Proportion: 0.06753639355536573
 
 Cluster 8:
-Examples: ['contributing', 'making', 'organized', 'including', 'determining', 'building', 'developing']
-Raw count: 29959
-Proportion: 0.01013963103507563
+Examples: ['national', 'first', 'public', 'daily', 'annual', 'presidential', 'short']
+Raw count: 92185
+Proportion: 0.031200036281866784
 
-Cluster 11:
-Examples: ['sex', 'rape', 'obscene', 'pornography', 'pornographic', 'porn', 'mona']
-Raw count: 293
-Proportion: 9.916592320428451e-05
+Cluster 4:
+Examples: ['minor', 'lieutenant', 'one', 'third', 'brigadier', 'chief', 'majors']
+Raw count: 202924
+Proportion: 0.06867967849933866
 
-Cluster 16:
-Examples: ['model', 'sample', 'prototype', 'models', 'trace', 'modeling', 'modeled']
-Raw count: 124
-Proportion: 4.196783098065283e-05
+Cluster 7:
+Examples: ['proposed', 'making', 'organized', 'including', 'said', 'building', 'developing']
+Raw count: 34992
+Proportion: 0.011843051142540353
 
 Cluster 9:
+Examples: ['eight', 'ten', 'nine', 'united', 'twelve', '12', '10']
+Raw count: 18585
+Proportion: 0.006290097893350265
+
+Cluster 6:
+Examples: ['ever', 'like', 'highly', 'also', 'just', 'completely', 'truly']
+Raw count: 25830
+Proportion: 0.00874216995346986
+
+Cluster 5:
+Examples: ['every', 'following', 'tax', 'money', 'years', 'people', 'states']
+Raw count: 18248
+Proportion: 0.006176040159152845
+
+Cluster 10:
+Examples: ['among', 'cancer', 'personnel', 'generic', 'procurement', 'pediatric', 'pain']
+Raw count: 1153
+Proportion: 0.0003902331380701025
+
+Cluster 11:
 Examples: ['crack', 'splinter', 'scattered', 'split', 'shadow', 'fission', 'splitting']
 Raw count: 118
 Proportion: 3.9937129481588985e-05
 
-Cluster 10:
-Examples: ['subsistence', 'nutrition', 'survivor', 'supper', 'prosperity', 'eldest', 'endurance']
-Raw count: 56
-Proportion: 1.895321399126257e-05
+Cluster 0:
+Examples: ['noise', 'louder', 'noises', 'noisy']
+Raw count: 36
+Proportion: 1.218420899438308e-05
 
-Cluster 1:
-Examples: ['economics', 'economist', 'keynes', 'economists']
-Raw count: 18
-Proportion: 6.09210449719154e-06
+Cluster 13:
+Examples: ['disabled', 'madman', 'paralyzed', 'handicapped', 'paralysis', 'sickness', 'seizure']
+Raw count: 41
+Proportion: 1.3876460243602951e-05
 
 Cluster 14:
 Examples: ['drain', 'depleted', 'drained', 'draining', 'deprived', 'relieved', 'stripped']
@@ -74,17 +69,7 @@ Raw count: 31
 Proportion: 1.0491957745163208e-05
 
 Cluster 12:
-Examples: ['madman', 'paralyzed', 'paralysis', 'sickness', 'seizure', 'corpse', 'madness']
-Raw count: 17
-Proportion: 5.753654247347566e-06
-
-Cluster 17:
-Examples: ['adrian', 'jordan', 'manfred', 'diana', 'florian', 'cyril', 'ronan']
-Raw count: 17
-Proportion: 5.753654247347566e-06
-
-Cluster 13:
-Examples: ['1879', '1870', '1872', '1881', '1880', '1882', '1878']
-Raw count: 16
-Proportion: 5.415203997503591e-06
+Examples: ['immaculate', 'assumption', 'celeste']
+Raw count: 6
+Proportion: 2.0307014990638467e-06
 

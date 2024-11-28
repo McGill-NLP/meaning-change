@@ -1,64 +1,94 @@
-Cluster 4:
-Examples: ['discrimination', 'violence', 'slavery', 'racism', 'poverty', 'law', 'war']
-Raw count: 54251
-Proportion: 0.388506158693784
-
-Cluster 10:
-Examples: ['integration', 'isolation', 'race', 'confinement', 'labor', 'integrated', 'montgomery']
-Raw count: 8885
-Proportion: 0.06362790031509596
-
-Cluster 11:
-Examples: ['segregated', 'color', 'one', 'now', 'even', 'just', 'also']
-Raw count: 7480
-Proportion: 0.0535663133772558
-
-Cluster 1:
-Examples: ['education', 'blacks', 'children', 'life', 'schools', 'housing', 'people']
-Raw count: 26605
-Proportion: 0.19052563735319392
-
-Cluster 0:
-Examples: ['division', 'separation', 'exclusion', 'change', 'partition', 'use', 'distribution']
-Raw count: 23946
-Proportion: 0.17148381552563735
-
-Cluster 3:
-Examples: ['government', 'school', 'abortion', 'black', 'sex', 'negro', 'racial']
-Raw count: 16519
-Proportion: 0.11829704955600115
-
-Cluster 9:
-Examples: ['blood', 'help', 'representative', 'homosexual', 'gay', 'leader', 'member']
-Raw count: 180
-Proportion: 0.0012890289315382413
-
-Cluster 5:
-Examples: ['back', 'mr', 'nixon', 'ii', 'ban', 'inc', 'vs']
-Raw count: 1007
-Proportion: 0.007211400744772271
+Cluster 2:
+Examples: ['discrimination', 'violence', 'racism', 'poverty', 'oppression', 'inequality', 'prejudice']
+Raw count: 42362
+Proportion: 0.3033657977656832
 
 Cluster 7:
-Examples: ['texas', '1968', 'book', 'coal', 'england', '1948', '1917']
-Raw count: 345
-Proportion: 0.0024706387854482956
-
-Cluster 2:
-Examples: ['principle', 'television', 'basis', 'environment', 'appeal', 'procedure', 'victory']
-Raw count: 286
-Proportion: 0.002048123746777428
+Examples: ['integration', 'government', 'school', 'black', 'sex', 'negro', 'racial']
+Raw count: 18949
+Proportion: 0.1356989401317674
 
 Cluster 6:
-Examples: ['knowing', 'thinking', 'saying', 'passing', 'gravity', 'blame', 'admitting']
-Raw count: 93
-Proportion: 0.000665998281294758
+Examples: ['segregated', 'now', 'even', 'just', 'today', 'except', 'etc']
+Raw count: 4542
+Proportion: 0.03252649670581495
 
-Cluster 8:
-Examples: ['praying', 'worship', 'crosses', 'sacrifices', 'prayers', 'hymns', 'offerings']
-Raw count: 32
-Proportion: 0.00022916069894013177
+Cluster 1:
+Examples: ['slavery', 'education', 'color', 'blacks', 'children', 'life', 'law']
+Raw count: 36214
+Proportion: 0.2593382984818104
+
+Cluster 0:
+Examples: ['division', 'separation', 'exclusion', 'equality', 'control', 'change', 'partition']
+Raw count: 24610
+Proportion: 0.1762389000286451
 
 Cluster 12:
+Examples: ['isolation', 'one', 'confinement', 'birmingham', 'containment', 'silence', 'rotation']
+Raw count: 4002
+Proportion: 0.02865940991120023
+
+Cluster 13:
+Examples: ['housing', 'something', 'system', 'choice', 'districts', 'district', 'authority']
+Raw count: 5265
+Proportion: 0.03770409624749355
+
+Cluster 11:
+Examples: ['labor', 'material', 'labour', 'sales', 'marriages', 'studies', 'internment']
+Raw count: 516
+Proportion: 0.0036952162704096247
+
+Cluster 14:
+Examples: ['board', 'bus', 'bond', 'funds', 'boycott', 'boarding', 'line']
+Raw count: 1326
+Proportion: 0.00949584646233171
+
+Cluster 5:
+Examples: ['class', 'hours', 'years', 'days', 'year', 'kind', 'type']
+Raw count: 669
+Proportion: 0.00479089086221713
+
+Cluster 3:
+Examples: ['mr', 'ii', 'ban', 'inc', 'vs', 'de', 'super']
+Raw count: 958
+Proportion: 0.006860498424520195
+
+Cluster 8:
+Examples: ['help', 'fail', 'happen', 'apply', 'succeed', 'occur', 'continue']
+Raw count: 35
+Proportion: 0.00025064451446576915
+
+Cluster 4:
+Examples: ['knowing', 'saying', 'blame', 'admitting', 'asking', 'within', 'plus']
+Raw count: 50
+Proportion: 0.0003580635920939559
+
+Cluster 18:
+Examples: ['coal', 'pit', 'industries', 'seam', 'spoil', 'surface', 'colliery']
+Raw count: 21
+Proportion: 0.00015038670867946146
+
+Cluster 9:
+Examples: ['homosexual', 'tom', 'gay', 'transgender', 'ty', 'heterosexual', 'jim']
+Raw count: 55
+Proportion: 0.0003938699513033515
+
+Cluster 15:
+Examples: ['mexico', 'deal', 'york', 'jersey', 'orleans', 'hampshire', 'zealand']
+Raw count: 19
+Proportion: 0.00013606416499570325
+
+Cluster 17:
+Examples: ['virus', 'fever', 'rash', 'organism', 'parasite', 'tumor', 'bacterium']
+Raw count: 17
+Proportion: 0.000121741621311945
+
+Cluster 10:
+Examples: ['crosses', 'sacrifices', 'prayers', 'hymns', 'offerings', 'rituals', 'blessings']
+Raw count: 19
+Proportion: 0.00013606416499570325
+
+Cluster 16:
 Examples: ['000', '90', '59', '57', '46', '36', '53']
 Raw count: 11
 Proportion: 7.87739902606703e-05

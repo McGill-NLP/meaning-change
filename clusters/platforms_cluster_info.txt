@@ -1,69 +1,79 @@
 Cluster 2:
-Examples: ['platform', 'lines', 'houses', 'structures', 'sites', 'wells', 'areas']
-Raw count: 8673
-Proportion: 0.12481830610923221
+Examples: ['platform', 'lines', 'houses', 'facilities', 'structures', 'stations', 'sites']
+Raw count: 11112
+Proportion: 0.1599194070662733
 
 Cluster 0:
 Examples: ['papers', 'parties', 'conventions', 'campaigns', 'speeches', 'leaders', 'elections']
-Raw count: 36909
-Proportion: 0.5311793912355185
+Raw count: 39737
+Proportion: 0.5718788227675038
 
 Cluster 1:
-Examples: ['programs', 'systems', 'ships', 'facilities', 'stations', 'vessels', 'equipment']
-Raw count: 11455
-Proportion: 0.1648557242570339
-
-Cluster 7:
-Examples: ['people', 'things', 'men', 'one', 'women', 'anything', 'now']
-Raw count: 2908
-Proportion: 0.04185075915665251
-
-Cluster 8:
-Examples: ['hands', 'history', 'words', 'congress', 'minds', 'power', 'heads']
-Raw count: 5880
-Proportion: 0.08462258041303879
-
-Cluster 3:
-Examples: ['years', 'points', 'days', 'others', 'times', 'television', 'radio']
-Raw count: 1895
-Proportion: 0.027272073109304167
-
-Cluster 9:
-Examples: ['support', 'money', 'well', 'security', 'success', 'funds', 'participation']
-Raw count: 549
-Proportion: 0.007900985824278622
+Examples: ['systems', 'ships', 'things', 'vessels', 'ones', 'groups', 'activities']
+Raw count: 10244
+Proportion: 0.14742750233863425
 
 Cluster 10:
-Examples: ['rights', 'efforts', 'means', 'ways', 'opportunities', 'commitment', 'hours']
-Raw count: 698
-Proportion: 0.010045333525221271
+Examples: ['people', 'men', 'one', 'women', 'children', 'clubs', 'three']
+Raw count: 1618
+Proportion: 0.023285601208894006
 
-Cluster 11:
-Examples: ['charges', 'subject', 'tariffs', 'taxes', 'status', 'tariff', 'expenditures']
-Raw count: 140
-Proportion: 0.00201482334316759
+Cluster 8:
+Examples: ['hands', 'support', 'rights', 'time', 'eyes', 'money', 'favor']
+Raw count: 2146
+Proportion: 0.03088436353169749
 
-Cluster 4:
-Examples: ['inc', 'fire', 'co', 'st', 'bar', 'en', 'de']
-Raw count: 324
-Proportion: 0.004662876879902137
+Cluster 7:
+Examples: ['congress', 'respective', 'together', 'war', 'public', 'america', 'first']
+Raw count: 1066
+Proportion: 0.015341440598690364
+
+Cluster 3:
+Examples: ['years', 'days', 'times', 'television', 'radio', 'occasions', 'schools']
+Raw count: 1648
+Proportion: 0.023717349068144204
+
+Cluster 14:
+Examples: ['efforts', 'means', 'activity', 'face', 'rest', 'attempts', 'energy']
+Raw count: 325
+Proportion: 0.004677268475210477
 
 Cluster 6:
-Examples: ['studies', 'measurements', 'surveys', 'drawings', 'survey', 'surveying', 'surveyed']
-Raw count: 22
-Proportion: 0.00031661509678347844
+Examples: ['anything', 'everything', 'something', 'also', 'just', 'stuff', 'like']
+Raw count: 934
+Proportion: 0.013441750017989494
+
+Cluster 12:
+Examples: ['success', 'bonds', 'faith', 'vows', 'economy', 'truths', 'chains']
+Raw count: 103
+Proportion: 0.0014823343167590128
+
+Cluster 4:
+Examples: ['charges', 'subject', 'tariffs', 'taxes', 'status', 'tariff', 'expenditures']
+Raw count: 153
+Proportion: 0.002201914082176009
+
+Cluster 9:
+Examples: ['inc', 'fire', 'spill', 'co', 'st', 'bar', 'en']
+Raw count: 349
+Proportion: 0.0050226667626106355
+
+Cluster 11:
+Examples: ['studies', 'surveys', 'drawings', 'survey', 'surveying', 'surveyed']
+Raw count: 18
+Proportion: 0.00025904871555011873
 
 Cluster 5:
 Examples: ['declares', 'declaring', 'assure', 'declare', 'asserts', 'believe', 'maintaining']
 Raw count: 12
 Proportion: 0.00017269914370007916
 
-Cluster 12:
+Cluster 13:
 Examples: ['1828', '1830', '1824', '1827', '1829', '1832', '1826']
 Raw count: 10
 Proportion: 0.0001439159530833993
 
-Cluster 13:
+Cluster 15:
 Examples: ['ci', 'ae', 'cb', 'ni', 'ia', 'dc', 'rt']
 Raw count: 10
 Proportion: 0.0001439159530833993

@@ -1,54 +1,74 @@
 Cluster 3:
-Examples: ['play', 'like', 'plays', 'singing', 'fucking', 'really', 'player']
-Raw count: 26879
-Proportion: 0.0937455314013874
+Examples: ['play', 'like', 'plays', 'fucking', 'take', 'go', 'work']
+Raw count: 22377
+Proportion: 0.07804396577881788
 
 Cluster 2:
-Examples: ['running', 'making', 'taking', 'talking', 'watching', 'getting', 'using']
-Raw count: 113231
-Proportion: 0.39491425522193896
-
-Cluster 5:
-Examples: ['football', 'athletic', 'hockey', 'soccer', 'ball', 'killing', 'level']
-Raw count: 75586
-Proportion: 0.2636202885711994
-
-Cluster 1:
-Examples: ['played', 'going', 'working', 'fighting', 'living', 'just', 'dealing']
-Raw count: 66036
-Proportion: 0.2303128803758331
-
-Cluster 7:
-Examples: ['inside', 'listening', 'outside', 'within', 'responding', 'referring', 'close']
-Raw count: 1358
-Proportion: 0.004736278568513862
-
-Cluster 10:
-Examples: ['players', 'people', 'everything', 'things', 'politics', 'children', 'boys']
-Raw count: 1597
-Proportion: 0.0055698356950785255
+Examples: ['running', 'making', 'taking', 'watching', 'getting', 'using', 'performing']
+Raw count: 106565
+Proportion: 0.3716653355329011
 
 Cluster 4:
-Examples: ['based', 'relying', 'built', 'short', 'commenting', 'depending', 'focused']
-Raw count: 1120
-Proportion: 0.0039062091286712263
+Examples: ['football', 'athletic', 'hockey', 'soccer', 'ball', 'killing', 'level']
+Raw count: 75795
+Proportion: 0.2643492150961032
 
-Cluster 8:
-Examples: ['worth', 'truly', 'waste', 'hopeless', 'heap', 'pile', 'piled']
-Raw count: 134
-Proportion: 0.000467350020751736
+Cluster 1:
+Examples: ['played', 'going', 'just', 'sitting', 'now', 'standing', 'coming']
+Raw count: 39884
+Proportion: 0.13910289722136
 
-Cluster 6:
-Examples: ['par', 'de', 'man', 'online', 'en', 'russian', 'mr']
-Raw count: 472
-Proportion: 0.0016461881327971596
-
-Cluster 9:
-Examples: ['america', 'english', 'washington', 'john', 'king', 'french', 'uncle']
-Raw count: 300
-Proportion: 0.001046306016608364
+Cluster 12:
+Examples: ['talking', 'called', 'inside', 'listening', 'merely', 'within', 'pure']
+Raw count: 6201
+Proportion: 0.021627145363294888
 
 Cluster 0:
+Examples: ['working', 'fighting', 'living', 'dealing', 'walking', 'messing', 'thinking']
+Raw count: 29275
+Proportion: 0.1021020287873662
+
+Cluster 9:
+Examples: ['acting', 'based', 'focusing', 'betting', 'relying', 'bearing', 'short']
+Raw count: 2186
+Proportion: 0.007624083174352947
+
+Cluster 6:
+Examples: ['players', 'use', 'people', 'everything', 'music', 'things', 'performance']
+Raw count: 3195
+Proportion: 0.01114315907687908
+
+Cluster 11:
+Examples: ['flying', 'marching', 'across', 'march', 'marched', 'drums', 'telecommunications']
+Raw count: 319
+Proportion: 0.001112572064326894
+
+Cluster 13:
+Examples: ['fishing', 'sneaking', 'tackle', 'fish', 'catch', 'safety', 'remains']
+Raw count: 164
+Proportion: 0.0005719806224125724
+
+Cluster 14:
+Examples: ['par', 'de', 'man', 'online', 'en', 'russian', 'mr']
+Raw count: 660
+Proportion: 0.002301873236538401
+
+Cluster 7:
+Examples: ['stuff', 'al', 'foster', 'iraqi', 'iraq', 'baghdad', 'refugee']
+Raw count: 58
+Proportion: 0.00020228582987761708
+
+Cluster 8:
+Examples: ['cheap', 'provincial', 'province', 'regional', 'canning']
+Raw count: 21
+Proportion: 7.324142116258549e-05
+
+Cluster 10:
+Examples: ['waste', 'hopeless', 'heap', 'pile', 'piled', 'piles', 'disposal']
+Raw count: 13
+Proportion: 4.533992738636245e-05
+
+Cluster 5:
 Examples: ['josie', 'donna', 'lisa', 'lori', 'gail', 'diane', 'loretta']
 Raw count: 10
 Proportion: 3.487686722027881e-05

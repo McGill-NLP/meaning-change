@@ -1,60 +1,70 @@
-Cluster 0:
-Examples: ['serious', 'severe', 'new', 'common', 'terminal', 'rare', 'chronic']
-Raw count: 11004
-Proportion: 0.09068433544303797
+Cluster 3:
+Examples: ['serious', 'deadly', 'lethal', 'severe', 'violent', 'devastating', 'painful']
+Raw count: 20729
+Proportion: 0.17082838871308018
 
 Cluster 2:
-Examples: ['dangerous', 'true', 'possible', 'impossible', 'wrong', 'different', 'made']
-Raw count: 12457
-Proportion: 0.10265855748945148
+Examples: ['dangerous', 'bad', 'true', 'possible', 'impossible', 'good', 'disastrous']
+Raw count: 15576
+Proportion: 0.1283623417721519
 
-Cluster 3:
-Examples: ['deadly', 'great', 'terrible', 'big', 'violent', 'devastating', 'painful']
-Raw count: 39690
-Proportion: 0.32708662974683544
+Cluster 7:
+Examples: ['major', 'car', 'traffic', 'road', 'automobile', 'highway', 'vehicle']
+Raw count: 8232
+Proportion: 0.06784018987341772
 
-Cluster 6:
-Examples: ['major', 'final', 'first', 'second', 'last', 'particular', 'car']
-Raw count: 17817
-Proportion: 0.14683049841772153
+Cluster 12:
+Examples: ['great', 'terrible', 'big', 'final', 'first', 'new', 'small']
+Raw count: 31263
+Proportion: 0.2576394382911392
 
 Cluster 8:
-Examples: ['lethal', 'total', 'vital', 'real', 'human', 'suicidal', 'minor']
-Raw count: 20976
-Proportion: 0.17286392405063292
+Examples: ['total', 'vital', 'real', 'fundamental', 'death', 'human', 'general']
+Raw count: 21241
+Proportion: 0.1750477979957806
 
 Cluster 1:
 Examples: ['necessary', 'harmful', 'essential', 'important', 'similar', 'detrimental', 'hazardous']
-Raw count: 16001
-Proportion: 0.13186478111814345
+Raw count: 16198
+Proportion: 0.1334882647679325
 
-Cluster 10:
-Examples: ['death', 'kill', 'deaths', 'fatalities', 'life', 'female', 'chemical']
-Raw count: 2338
-Proportion: 0.019267536919831223
-
-Cluster 4:
-Examples: ['war', 'thing', 'un', 'non', 'upon', 'house', 'mr']
-Raw count: 679
-Proportion: 0.005595661919831223
+Cluster 0:
+Examples: ['common', 'made', 'known', 'present', 'reported', 'found', 'done']
+Raw count: 5954
+Proportion: 0.049067114978902954
 
 Cluster 9:
-Examples: ['government', 'british', 'conservative', 'fine', 'business', 'money', 'fiscal']
-Raw count: 299
-Proportion: 0.002464069092827004
-
-Cluster 5:
-Examples: ['paranoid', 'indifference', 'lunatic', 'communist', 'hypnotic', 'hysterical', 'justice']
-Raw count: 38
-Proportion: 0.00031315928270042197
-
-Cluster 7:
-Examples: ['paper', 'eyes', 'faces', 'thoughts', 'shadows', 'actions', 'bodies']
-Raw count: 36
-Proportion: 0.0002966772151898734
+Examples: ['deaths', 'dead', 'fatalities', 'female', 'chemical', 'people', 'children']
+Raw count: 1280
+Proportion: 0.010548523206751054
 
 Cluster 11:
-Examples: ['wil', 'waitress', 'mistress', 'vacant', 'ramon', 'duchess', 'laps']
-Raw count: 9
-Proportion: 7.416930379746836e-05
+Examples: ['dying', 'government', 'british', 'conservative', 'money', 'raging', 'forest']
+Raw count: 250
+Proportion: 0.0020602584388185654
+
+Cluster 6:
+Examples: ['un', 'non', 'house', 'mr', 'still', 'en', 'step']
+Raw count: 516
+Proportion: 0.004252373417721519
+
+Cluster 10:
+Examples: ['july', 'august', 'october', 'march', 'january', 'june', 'april']
+Raw count: 41
+Proportion: 0.0003378823839662447
+
+Cluster 13:
+Examples: ['concern', 'include', 'hope', 'show', 'care', 'involve', 'cover']
+Raw count: 26
+Proportion: 0.00021426687763713081
+
+Cluster 4:
+Examples: ['eyes', 'faces', 'thoughts', 'shadows', 'actions', 'bodies', 'souls']
+Raw count: 27
+Proportion: 0.00022250791139240506
+
+Cluster 5:
+Examples: ['success', 'leader', 'winner', 'champion', 'pioneer', 'hero', 'competitor']
+Raw count: 11
+Proportion: 9.065137130801688e-05
 

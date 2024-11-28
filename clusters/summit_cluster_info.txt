@@ -1,89 +1,84 @@
-Cluster 2:
-Examples: ['meeting', 'gathering', 'global', 'mountain', 'mesa', 'reunion', 'plateau']
-Raw count: 13866
-Proportion: 0.07411366661143508
-
-Cluster 0:
-Examples: ['conference', 'event', 'meetings', 'congress', 'agreement', 'crisis', 'debate']
-Raw count: 59699
-Proportion: 0.3190907098684597
+Cluster 5:
+Examples: ['meeting', 'gathering', 'global', 'symposium', 'agenda', 'leadership', 'compact']
+Raw count: 19945
+Proportion: 0.10660587628480259
 
 Cluster 7:
-Examples: ['council', 'forum', 'committee', 'group', 'commission', 'board', 'office']
-Raw count: 18423
-Proportion: 0.0984707976332373
+Examples: ['conference', 'forum', 'event', 'meetings', 'congress', 'agreement', 'policy']
+Raw count: 64145
+Proportion: 0.3428545467179073
 
-Cluster 3:
-Examples: ['first', 'final', 'peace', 'general', 'world', 'international', 'policy']
-Raw count: 47703
-Proportion: 0.25497217931380983
+Cluster 6:
+Examples: ['council', 'committee', 'group', 'commission', 'board', 'office', 'senate']
+Raw count: 16822
+Proportion: 0.08991346457071693
+
+Cluster 1:
+Examples: ['first', 'final', 'peace', 'general', 'world', 'international', 'paris']
+Raw count: 45777
+Proportion: 0.24467772367457546
 
 Cluster 8:
 Examples: ['sharing', 'control', 'management', 'power', 'flexibility', 'related', 'responsibility']
-Raw count: 3832
-Proportion: 0.02048201142759406
+Raw count: 3801
+Proportion: 0.020316316658738263
 
-Cluster 5:
+Cluster 2:
 Examples: ['top', 'time', 'end', 'table', 'moment', 'peak', 'house']
-Raw count: 24989
-Proportion: 0.13356601867540394
+Raw count: 24982
+Proportion: 0.1335286037275978
 
-Cluster 1:
-Examples: ['symposium', 'agenda', 'deficit', 'compact', 'coalition', 'accord', 'briefing']
-Raw count: 10515
-Proportion: 0.056202596597377745
+Cluster 4:
+Examples: ['mountain', 'floor', 'horizon', 'profit', 'chance', 'sp', 'puppet']
+Raw count: 7161
+Proportion: 0.03827549160568921
 
-Cluster 11:
-Examples: ['floor', 'profit', 'chance', 'sp', 'puppet', 'pamphlet', 'cannon']
-Raw count: 4406
-Proportion: 0.02355003714769818
-
-Cluster 6:
-Examples: ['logan', 'chicago', 'jefferson', 'belle', 'grande', 'hamilton', 'franklin']
-Raw count: 3092
-Proportion: 0.01652671694522986
+Cluster 3:
+Examples: ['logan', 'plus', 'chicago', 'jefferson', 'belle', 'hamilton', 'franklin']
+Raw count: 3301
+Proportion: 0.01764382038687056
 
 Cluster 9:
-Examples: ['hope', 'benefit', 'supply', 'see', 'done', 'says', 'net']
-Raw count: 293
-Proportion: 0.0015660828153144727
+Examples: ['met', 'hope', 'started', 'began', 'support', 'benefit', 'yes']
+Raw count: 620
+Proportion: 0.003313895377115949
 
-Cluster 14:
+Cluster 15:
+Examples: ['scene', 'video', 'procedure', 'proceedings', 'tv', 'television', 'death']
+Raw count: 292
+Proportion: 0.0015607378227707371
+
+Cluster 0:
 Examples: ['holding', 'getting', 'attending', 'calling', 'arranging', 'conducting', 'organizing']
 Raw count: 54
 Proportion: 0.0002886295973617117
 
 Cluster 12:
-Examples: ['white', 'gas', 'jungle', 'red', 'ice', 'row', 'flu']
-Raw count: 116
-Proportion: 0.0006200191350733066
+Examples: ['human', 'white', 'gas', 'red', 'ice', 'row', 'flu']
+Raw count: 110
+Proportion: 0.0005879491798108942
 
-Cluster 15:
-Examples: ['bus', 'album', 'band', 'u2', 'music', 'rainbow', 'iso']
-Raw count: 49
-Proportion: 0.00026190463464303466
+Cluster 13:
+Examples: ['diet', 'bitch', 'stall', 'ditch', 'exhaust', 'ponder', 'try']
+Raw count: 30
+Proportion: 0.00016034977631206206
 
-Cluster 10:
+Cluster 11:
 Examples: ['incline', 'furnace', 'depot', 'wharf', 'gradient', 'parlor', 'inclined']
 Raw count: 20
 Proportion: 0.00010689985087470803
 
-Cluster 17:
+Cluster 14:
 Examples: ['rating', 'scoring', 'score', 'playing', 'batting', 'scored', 'ratings']
 Raw count: 12
 Proportion: 6.413991052482481e-05
 
-Cluster 16:
+Cluster 10:
 Examples: ['whites', 'gladys', 'shirley', 'fluffy', 'jolly', 'leslie', 'coleman']
 Raw count: 10
 Proportion: 5.344992543735402e-05
 
-Cluster 4:
-Examples: ['web', 'facebook', 'dating']
-Raw count: 3
-Proportion: 1.6034977631206203e-05
-
-Cluster 13:
+Cluster 16:
 Examples: ['fired', 'killed', 'resigned', 'murdered', 'eliminated', 'dies', 'arrested']
 Raw count: 9
 Proportion: 4.8104932893618616e-05

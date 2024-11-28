@@ -1,95 +1,80 @@
-Cluster 2:
+Cluster 3:
 Examples: ['message', 'warning', 'note', 'letter', 'sign', 'reminder', 'statement']
-Raw count: 151919
-Proportion: 0.5197081240848944
+Raw count: 154115
+Proportion: 0.5272205421530125
 
-Cluster 5:
-Examples: ['signals', 'kind', 'level', 'even', 'fuel', 'signaled', 'away']
-Raw count: 6445
-Proportion: 0.02204805758152137
+Cluster 2:
+Examples: ['signals', 'bell', 'light', 'flag', 'marine', 'medical', 'communication']
+Raw count: 56206
+Proportion: 0.1922782194611311
 
 Cluster 7:
-Examples: ['show', 'mean', 'indicate', 'alert', 'demonstrate', 'represent', 'mark']
-Raw count: 36065
-Proportion: 0.12337675666060018
-
-Cluster 3:
-Examples: ['bell', 'sound', 'light', 'flag', 'broadcast', 'station', 'service']
-Raw count: 22023
-Proportion: 0.07533970087165943
-
-Cluster 0:
-Examples: ['great', 'public', 'special', 'symbol', 'first', 'remarkable', 'tremendous']
-Raw count: 32190
-Proportion: 0.11012055446845195
-
-Cluster 1:
-Examples: ['marine', 'medical', 'communication', 'telegraph', 'air', 'radio', 'line']
-Raw count: 42691
-Proportion: 0.14604400717032254
-
-Cluster 8:
-Examples: ['back', 'forward', 'going', 'bunker', 'south', 'gulf', 'capitol']
-Raw count: 744
-Proportion: 0.0025451908208924587
-
-Cluster 13:
-Examples: ['upon', 'holding', 'bearing', 'carried', 'taking', 'keeping', 'playing']
-Raw count: 85
-Proportion: 0.0002907812093761546
-
-Cluster 11:
-Examples: ['penny', 'dime', 'cent', 'pound', 'ounce', 'inch', 'cents']
-Raw count: 36
-Proportion: 0.00012315439455931252
-
-Cluster 15:
-Examples: ['restoration', 'strengthening', 'signing', 'bound', 'breakers', 'approved', 'weakening']
-Raw count: 30
-Proportion: 0.00010262866213276044
-
-Cluster 9:
-Examples: ['awards', 'scholarships', 'honors', 'medals', 'nominations', 'prizes', 'nominees']
-Raw count: 18
-Proportion: 6.157719727965626e-05
+Examples: ['show', 'mean', 'indicate', 'broadcast', 'alert', 'demonstrate', 'represent']
+Raw count: 36924
+Proportion: 0.12631535735300153
 
 Cluster 4:
-Examples: ['execution', 'assignment', 'execute', 'executing']
-Raw count: 9
-Proportion: 3.078859863982813e-05
+Examples: ['sound', 'station', 'code', 'beam', 'beacon', 'now', 'tv']
+Raw count: 7290
+Proportion: 0.024938764898260787
+
+Cluster 0:
+Examples: ['great', 'public', 'special', 'first', 'remarkable', 'tremendous', 'good']
+Raw count: 28822
+Proportion: 0.09859877666634738
+
+Cluster 1:
+Examples: ['symbol', 'channel', 'kind', 'solemn', 'formal', 'immortal', 'material']
+Raw count: 7856
+Proportion: 0.026875025657165534
+
+Cluster 12:
+Examples: ['upon', 'bearing', 'carried', 'containing', 'representing', 'carrying', 'requesting']
+Raw count: 54
+Proportion: 0.00018473159183896877
+
+Cluster 5:
+Examples: ['de', 'super', 'un', 'bunker', 'south', 'shell', 'gulf']
+Raw count: 801
+Proportion: 0.0027401852789447037
+
+Cluster 9:
+Examples: ['going', 'wink', 'penny', 'loyalty', 'dime', 'turning', 'breaking']
+Raw count: 126
+Proportion: 0.00043104038095759386
+
+Cluster 8:
+Examples: ['left', 'lost', 'died', 'sunk', 'located', 'spotted', 'destroyed']
+Raw count: 40
+Proportion: 0.00013683821617701392
 
 Cluster 14:
+Examples: ['restoration', 'strengthening', 'weakening', 'widening', 'renewal', 'tightening', 'consolidation']
+Raw count: 16
+Proportion: 5.4735286470805563e-05
+
+Cluster 15:
+Examples: ['awards', 'scholarships', 'bands', 'honors', 'medals', 'orchestras', 'choirs']
+Raw count: 26
+Proportion: 8.894484051505905e-05
+
+Cluster 13:
 Examples: ['china', 'india', 'burma', 'myanmar', 'burmese', 'sudan', 'asia']
 Raw count: 13
 Proportion: 4.4472420257529525e-05
 
-Cluster 18:
-Examples: ['opposite', 'curse', 'bane', 'envy', 'backbone', 'foul']
-Raw count: 9
-Proportion: 3.078859863982813e-05
+Cluster 11:
+Examples: ['promotion', 'preliminary', 'progressive', 'preparatory', 'advancement']
+Raw count: 10
+Proportion: 3.420955404425348e-05
 
-Cluster 12:
+Cluster 10:
 Examples: ['observations', 'suggestions', 'theories', 'models', 'patterns', 'hypothesis', 'predictions']
 Raw count: 11
 Proportion: 3.763050944867883e-05
 
-Cluster 16:
-Examples: ['bands', 'orchestras', 'choirs', 'singers', 'trumpets', 'ceremonies', 'symphonies']
-Raw count: 8
-Proportion: 2.7367643235402782e-05
-
-Cluster 17:
-Examples: ['disorder', 'controversy', 'confusion', 'chaos', 'confused']
-Raw count: 7
-Proportion: 2.3946687830977434e-05
-
-Cluster 10:
-Examples: ['failures', 'failed', 'failing', 'falling', 'faults']
-Raw count: 5
-Proportion: 1.710477702212674e-05
-
 Cluster 6:
-Examples: ['2005', '2007', '2002', '2006', '2001', '1997', '1995']
-Raw count: 8
-Proportion: 2.7367643235402782e-05
+Examples: ['acquisitions', '1986', '1980', '1982', '1973', '2004']
+Raw count: 6
+Proportion: 2.0525732426552087e-05
 

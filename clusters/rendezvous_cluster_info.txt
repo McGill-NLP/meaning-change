@@ -1,94 +1,89 @@
-Cluster 8:
-Examples: ['meeting', 'fascination', 'conversation', 'encounter', 'mess', 'collision', 'confrontation']
-Raw count: 1094
-Proportion: 0.09066047899229303
+Cluster 14:
+Examples: ['meeting', 'relationship', 'connection', 'problem', 'way', 'fascination', 'brush']
+Raw count: 2433
+Proportion: 0.20162426452307947
 
 Cluster 1:
-Examples: ['place', 'station', 'home', 'base', 'house', 'port', 'refuge']
-Raw count: 2588
-Proportion: 0.21446921355763654
-
-Cluster 7:
-Examples: ['relationship', 'connection', 'problem', 'way', 'brush', 'war', 'date']
-Raw count: 1809
-Proportion: 0.14991298582912074
-
-Cluster 5:
-Examples: ['deal', 'meet', 'land', 'go', 'dock', 'work', 'stay']
-Raw count: 1547
-Proportion: 0.12820087842877267
-
-Cluster 0:
-Examples: ['launch', 'landing', 'flight', 'mission', 'docking', 'contact', 'navigation']
-Raw count: 1791
-Proportion: 0.14842131432833347
-
-Cluster 11:
-Examples: ['camp', 'orbit', 'berth', 'anchor', 'assemble', 'maneuver', 'interact']
-Raw count: 917
-Proportion: 0.0759923759012182
+Examples: ['place', 'station', 'home', 'base', 'camp', 'house', 'port']
+Raw count: 2874
+Proportion: 0.23817021629236762
 
 Cluster 6:
-Examples: ['battle', 'assembly', 'day', 'conference', 'action', 'review', 'expedition']
-Raw count: 466
-Proportion: 0.038617717742603794
-
-Cluster 9:
-Examples: ['thing', 'life', 'time', 'man', 'child', 'moment', 'world']
-Raw count: 575
-Proportion: 0.04765061738626005
-
-Cluster 2:
-Examples: ['residence', 'business', 'service', 'death', 'command', 'entry', 'power']
-Raw count: 377
-Proportion: 0.031242230877600065
+Examples: ['deal', 'meet', 'land', 'go', 'fight', 'dock', 'work']
+Raw count: 1621
+Proportion: 0.13433330570978702
 
 Cluster 13:
-Examples: ['gathering', 'starting', 'crossing', 'pickup', 'cross', 'draw', 'turning']
-Raw count: 111
-Proportion: 0.009198640921521504
+Examples: ['launch', 'landing', 'flight', 'docking', 'navigation', 'collision', 'launching']
+Raw count: 1571
+Proportion: 0.13018977376315571
 
 Cluster 4:
-Examples: ['houses', 'places', 'party', 'stations', 'camps', 'homes', 'men']
-Raw count: 390
-Proportion: 0.032319549183724205
+Examples: ['battle', 'mission', 'war', 'assembly', 'stop', 'day', 'service']
+Raw count: 1240
+Proportion: 0.10275959227645645
 
-Cluster 14:
-Examples: ['north', 'south', 'east', 'west', 'drilling', 'green', 'big']
-Raw count: 91
-Proportion: 0.007541228142868982
+Cluster 10:
+Examples: ['thing', 'life', 'time', 'man', 'child', 'moment', 'woman']
+Raw count: 559
+Proportion: 0.04632468716333803
 
-Cluster 15:
-Examples: ['eyes', 'voice', 'hearing', 'symbol', 'ear', 'words', 'representative']
-Raw count: 49
-Proportion: 0.004060661307698683
+Cluster 3:
+Examples: ['contact', 'orbit', 'berth', 'shelter', 'anchor', 'maneuver', 'mass']
+Raw count: 728
+Proportion: 0.060329825142951855
 
-Cluster 18:
-Examples: ['october', 'november', 'france', 'europe', 'july', 'august', 'february']
-Raw count: 85
-Proportion: 0.007044004309273225
+Cluster 8:
+Examples: ['death', 'importance', 'honor', 'nothing', 'surrender', 'exhaustion', 'extinction']
+Raw count: 58
+Proportion: 0.004806497058092318
+
+Cluster 2:
+Examples: ['entry', 'gathering', 'starting', 'departure', 'application', 'crossing', 'pickup']
+Raw count: 181
+Proportion: 0.014999585646805336
 
 Cluster 12:
-Examples: ['general', 'military', 'whole', 'complete', 'surgical', 'scientific', 'original']
-Raw count: 92
-Proportion: 0.007624098781801608
+Examples: ['night', 'sea', 'america', 'north', 'october', 'november', 'south']
+Raw count: 256
+Proportion: 0.021214883566752298
 
-Cluster 17:
+Cluster 5:
+Examples: ['houses', 'places', 'stations', 'camps', 'homes', 'stores', 'schools']
+Raw count: 298
+Proportion: 0.0246954504019226
+
+Cluster 9:
+Examples: ['new', 'general', 'military', 'whole', 'complete', 'surgical', 'scientific']
+Raw count: 125
+Proportion: 0.010358829866578271
+
+Cluster 15:
 Examples: ['replacement', 'punishment', 'protection', 'cure', 'warning', 'relief', 'remedy']
 Raw count: 29
 Proportion: 0.002403248529046159
 
-Cluster 3:
+Cluster 16:
+Examples: ['record', 'book', 'picture', 'memory', 'note', 'diary', 'photo']
+Raw count: 16
+Proportion: 0.0013259302229220186
+
+Cluster 7:
+Examples: ['radio', 'pl', 'dr', 'cr', 'syn', 'mono', 'ge']
+Raw count: 13
+Proportion: 0.0010773183061241402
+
+Cluster 0:
 Examples: ['300', 'victor', '200', '500', '100', '400', '250']
 Raw count: 30
 Proportion: 0.002486119167978785
 
-Cluster 10:
-Examples: ['also', 'often', 'generally', 'usually', 'sometimes', 'frequently', 'commonly']
-Raw count: 11
-Proportion: 0.0009115770282588879
+Cluster 11:
+Examples: ['also', 'yet', 'often', 'generally', 'usually', 'sometimes', 'frequently']
+Raw count: 20
+Proportion: 0.0016574127786525234
 
-Cluster 16:
+Cluster 17:
 Examples: ['ft', 'texas', 'houston', 'austin', 'gonzales', 'galveston', 'dallas']
 Raw count: 15
 Proportion: 0.0012430595839893926

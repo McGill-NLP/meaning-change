@@ -1,55 +1,60 @@
-Cluster 5:
-Examples: ['development', 'research', 'education', 'innovations', 'design', 'initiative', 'reform']
-Raw count: 19328
-Proportion: 0.1063614351749945
-
-Cluster 2:
-Examples: ['growth', 'investment', 'business', 'industry', 'money', 'production', 'competition']
-Raw count: 25901
-Proportion: 0.14253246753246754
+Cluster 1:
+Examples: ['development', 'research', 'education', 'innovations', 'production', 'design', 'reform']
+Raw count: 23498
+Proportion: 0.1293088267664539
 
 Cluster 3:
-Examples: ['technology', 'progress', 'science', 'people', 'advances', 'jobs', 'excellence']
-Raw count: 36233
-Proportion: 0.199389170151882
+Examples: ['growth', 'progress', 'power', 'life', 'creativity', 'people', 'efficiency']
+Raw count: 72628
+Proportion: 0.39966982170372
 
-Cluster 1:
-Examples: ['change', 'improvement', 'invention', 'action', 'advancement', 'advance', 'interest']
-Raw count: 41175
-Proportion: 0.22658485582214397
+Cluster 2:
+Examples: ['technology', 'investment', 'business', 'science', 'energy', 'industry', 'engineering']
+Raw count: 29219
+Proportion: 0.16079132731675105
 
 Cluster 0:
-Examples: ['energy', 'economic', 'policy', 'america', 'government', 'new', 'market']
-Raw count: 15908
-Proportion: 0.087541272287035
-
-Cluster 6:
-Examples: ['power', 'life', 'creativity', 'efficiency', 'knowledge', 'leadership', 'quality']
-Raw count: 37488
-Proportion: 0.2062953995157385
+Examples: ['change', 'improvement', 'invention', 'action', 'advancement', 'advance', 'idea']
+Raw count: 41575
+Proportion: 0.22878604446401057
 
 Cluster 8:
-Examples: ['work', 'everything', 'now', 'etc', 'yes', 'also', 'investing']
-Raw count: 4068
-Proportion: 0.022386088487783402
+Examples: ['money', 'competition', 'stuff', 'crime', 'violence', 'spending', 'taxes']
+Raw count: 5685
+Proportion: 0.031284393572529164
+
+Cluster 6:
+Examples: ['information', 'media', 'conversation', 'entertainment', 'music', 'talk', 'material']
+Raw count: 1096
+Proportion: 0.006031256878714506
 
 Cluster 4:
-Examples: ['war', 'old', 'com', 'chaos', 'un', 're', 'arms']
-Raw count: 1571
-Proportion: 0.008645168390931103
-
-Cluster 9:
-Examples: ['brand', 'cup', 'classic', 'legend', 'dish', 'sauce', 'recipe']
-Raw count: 21
-Proportion: 0.00011556240369799692
+Examples: ['everything', 'now', 'etc', 'yes', 'right', 'also', 'inc']
+Raw count: 4951
+Proportion: 0.02724521241470394
 
 Cluster 7:
-Examples: ['hawaii', 'ca', 'vacation', 'mt', 'maui', 'pacific', 'okinawa']
-Raw count: 15
-Proportion: 8.25445740699978e-05
+Examples: ['time', 'america', 'globalization', 'china', 'europe', 'house', 'events']
+Raw count: 2791
+Proportion: 0.015358793748624257
 
 Cluster 10:
-Examples: ['credits', 'waivers', 'guarantees', 'beaches', 'plates', 'chargers', 'boards']
-Raw count: 12
-Proportion: 6.603565925599824e-05
+Examples: ['patent', 'arms', 'claims', 'points', 'reports', 'head', 'boat']
+Raw count: 129
+Proportion: 0.000709883337001981
+
+Cluster 5:
+Examples: ['dream', 'rehabilitation', 'patriot', 'brand', 'cup', 'ran', 'gi']
+Raw count: 100
+Proportion: 0.000550297160466652
+
+Cluster 9:
+Examples: ['vampires', 'protein', 'dogs', 'bacteria', 'sugar', 'nutrients', 'proteins']
+Raw count: 26
+Proportion: 0.00014307726172132953
+
+Cluster 11:
+Examples: ['friday', 'monday', 'christmas', 'sunday', 'thursday', 'saturday', 'fridays']
+Raw count: 22
+Proportion: 0.00012106537530266344
 

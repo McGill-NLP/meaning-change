@@ -1,55 +1,70 @@
 Cluster 0:
 Examples: ['getting', 'taking', 'making', 'giving', 'paying', 'seeking', 'providing']
-Raw count: 567837
-Proportion: 0.6727567842946762
+Raw count: 564873
+Proportion: 0.6692451231865599
 
 Cluster 1:
 Examples: ['given', 'received', 'paid', 'granted', 'worth', 'offered', 'awarded']
-Raw count: 162036
-Proportion: 0.19197554632750624
-
-Cluster 4:
-Examples: ['receive', 'get', 'pay', 'make', 'take', 'passing', 'use']
-Raw count: 37861
-Proportion: 0.044856613095273355
+Raw count: 162618
+Proportion: 0.19266508302282462
 
 Cluster 5:
-Examples: ['receives', 'plus', 'gets', 'gives', 'makes', 'needs', 'requires']
-Raw count: 16203
-Proportion: 0.01919684377017813
+Examples: ['receive', 'receives', 'get', 'pay', 'make', 'take', 'gets']
+Raw count: 40790
+Proportion: 0.048326807219994196
 
 Cluster 2:
-Examples: ['whose', 'contributing', 'certain', 'recipient', 'one', 'continuing', 'federal']
-Raw count: 45208
-Proportion: 0.053561125295452254
+Examples: ['hearing', 'whose', 'contributing', 'certain', 'recipient', 'one', 'federal']
+Raw count: 55688
+Proportion: 0.06597752489499967
 
-Cluster 6:
-Examples: ['broadcasting', 'reception', 'manufacturing', 'shipping', 'receiver', 'radio', 'listening']
-Raw count: 12054
-Proportion: 0.01428122908138784
-
-Cluster 8:
-Examples: ['per', 'men', 'de', 'mr', '12', 'en', 'yes']
-Raw count: 2086
-Proportion: 0.0024714322103679305
-
-Cluster 3:
-Examples: ['2012', 'example', '2015', '2007', '2010', '2011', 'months']
-Raw count: 606
-Proportion: 0.0007179711982181044
-
-Cluster 9:
-Examples: ['murder', 'fraud', 'politics', 'theft', 'criminal', 'risk', 'felony']
-Raw count: 110
-Proportion: 0.00013032480495708167
-
-Cluster 10:
-Examples: ['prompt', 'timely', 'quick', 'prompted', 'rapid', 'prompting', 'reliable']
-Raw count: 35
-Proportion: 4.1466983395435076e-05
+Cluster 4:
+Examples: ['plus', 'passing', 'use', 'receipt', 'half', 'business', 'anything']
+Raw count: 15839
+Proportion: 0.018765587142865605
 
 Cluster 7:
-Examples: ['christians', 'angels', 'dreams', 'gods', 'doubts', 'ghosts', 'fairies']
-Raw count: 9
-Proportion: 1.066293858739759e-05
+Examples: ['per', 'life', 'long', 'men', 'ing', 'de', 'mr']
+Raw count: 3307
+Proportion: 0.003918037545391538
+
+Cluster 9:
+Examples: ['states', 'places', 'california', 'hot', 'schools', 'projects', 'districts']
+Raw count: 202
+Proportion: 0.00023932373273936815
+
+Cluster 11:
+Examples: ['2012', 'example', '2015', '2007', '2010', '2011', '2008']
+Raw count: 635
+Proportion: 0.0007523295558886079
+
+Cluster 12:
+Examples: ['grade', 'grades', 'graded', 'lumber', 'siding', 'grading']
+Raw count: 20
+Proportion: 2.369541908310576e-05
+
+Cluster 13:
+Examples: ['king', 'brave', 'warrior', 'wise', 'fearless', 'stern', 'noble']
+Raw count: 25
+Proportion: 2.9619273853882197e-05
+
+Cluster 6:
+Examples: ['adjustment', 'adjust', 'adjustments', 'stabilization', 'adaptation']
+Raw count: 10
+Proportion: 1.184770954155288e-05
+
+Cluster 10:
+Examples: ['1870', '1844', 'jerusalem', 'moses', 'abraham', '1838', '1830']
+Raw count: 19
+Proportion: 2.2510648128950472e-05
+
+Cluster 8:
+Examples: ['motor', 'powered', 'driven', 'fueled', 'operated', 'horsepower']
+Raw count: 11
+Proportion: 1.3032480495708168e-05
+
+Cluster 3:
+Examples: ['dunbar', 'richmond', 'providence', 'berkshire', 'wayne', 'rutherford', 'cromwell']
+Raw count: 8
+Proportion: 9.478167633242304e-06
 

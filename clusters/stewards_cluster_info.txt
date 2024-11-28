@@ -1,75 +1,80 @@
 Cluster 5:
-Examples: ['citizens', 'people', 'friends', 'residents', 'children', 'inhabitants', 'enough']
-Raw count: 5290
-Proportion: 0.21066464895862372
-
-Cluster 0:
-Examples: ['owners', 'members', 'men', 'managers', 'masters', 'employees', 'officers']
-Raw count: 6514
-Proportion: 0.25940822747003306
-
-Cluster 6:
-Examples: ['guardians', 'representatives', 'keepers', 'leaders', 'defenders', 'owner', 'advocates']
-Raw count: 3840
-Proportion: 0.1529210306240293
-
-Cluster 8:
-Examples: ['users', 'holders', 'recipients', 'consumers', 'use', 'producers', 'uses']
-Raw count: 3000
-Proportion: 0.1194695551750229
-
-Cluster 4:
-Examples: ['part', 'representative', 'one', 'regardless', 'drivers', 'parts', 'proud']
-Raw count: 1957
-Proportion: 0.07793397315917328
-
-Cluster 9:
-Examples: ['steward', 'patrons', 'fellows', 'boys', 'gentlemen', 'lords', 'guards']
-Raw count: 820
-Proportion: 0.032655011747839593
-
-Cluster 2:
-Examples: ['aware', 'responsible', 'informed', 'just', 'looking', 'good', 'concerned']
-Raw count: 481
-Proportion: 0.019154952013062006
-
-Cluster 1:
-Examples: ['staff', 'beds', 'wards', 'ships', 'service', 'corps', 'patients']
-Raw count: 876
-Proportion: 0.03488511011110668
-
-Cluster 3:
-Examples: ['police', 'fire', 'engineers', 'state', 'first', 'personnel', 'medical']
-Raw count: 1430
-Proportion: 0.05694715463342758
-
-Cluster 12:
-Examples: ['heads', 'americans', 'department', 'rest', 'company', 'majority', 'group']
-Raw count: 386
-Proportion: 0.015371749432519613
-
-Cluster 11:
-Examples: ['protection', 'preservation', 'control', 'ownership', 'foundation', 'english', 'history']
-Raw count: 350
-Proportion: 0.013938114770419337
-
-Cluster 13:
-Examples: ['girls', 'man', 'life', 'god', 'indians', 'woman', 'christ']
-Raw count: 93
-Proportion: 0.00370355621042571
+Examples: ['citizens', 'owners', 'guardians', 'users', 'holders', 'representatives', 'keepers']
+Raw count: 9703
+Proportion: 0.3864043646210824
 
 Cluster 10:
+Examples: ['people', 'children', 'enough', 'farmers', 'guys', 'ones', 'things']
+Raw count: 2310
+Proportion: 0.09199155748476763
+
+Cluster 0:
+Examples: ['members', 'men', 'managers', 'employees', 'officers', 'agents', 'servants']
+Raw count: 4598
+Proportion: 0.18310700489825177
+
+Cluster 1:
+Examples: ['friends', 'heads', 'americans', 'department', 'together', 'company', 'minister']
+Raw count: 807
+Proportion: 0.03213731034208116
+
+Cluster 4:
+Examples: ['part', 'owner', 'trustees', 'representative', 'one', 'regardless', 'drivers']
+Raw count: 2326
+Proportion: 0.09262872844570108
+
+Cluster 8:
+Examples: ['steward', 'patrons', 'fellows', 'boys', 'heirs', 'maids', 'gentlemen']
+Raw count: 938
+Proportion: 0.03735414758472383
+
+Cluster 7:
+Examples: ['use', 'protection', 'taxpayers', 'preservation', 'half', 'bearer', 'thinking']
+Raw count: 697
+Proportion: 0.027756759985663654
+
+Cluster 6:
+Examples: ['aware', 'proud', 'responsible', 'fond', 'informed', 'careful', 'worthy']
+Raw count: 670
+Proportion: 0.026681533989088447
+
+Cluster 14:
+Examples: ['staff', 'beds', 'wards', 'ships', 'corps', 'patients', 'units']
+Raw count: 729
+Proportion: 0.029031101907530565
+
+Cluster 3:
+Examples: ['management', 'police', 'fire', 'engineers', 'service', 'state', 'first']
+Raw count: 1799
+Proportion: 0.0716419099199554
+
+Cluster 2:
+Examples: ['women', 'girls', 'man', 'sisters', 'god', 'indians', 'woman']
+Raw count: 160
+Proportion: 0.006371709609334555
+
+Cluster 12:
+Examples: ['partners', 'experts', 'professionals', 'volunteers', 'investors', 'participants', 'resources']
+Raw count: 221
+Proportion: 0.008800923897893354
+
+Cluster 11:
+Examples: ['history', 'view', 'choice', 'choices', 'stories', 'projections', 'vision']
+Raw count: 73
+Proportion: 0.0029070925092588907
+
+Cluster 9:
 Examples: ['new', 'smith', 'kennedy', 'johnson', 'davis', 'clinton', 'white']
 Raw count: 49
 Proportion: 0.0019513360678587073
 
-Cluster 7:
-Examples: ['reporters', 'photographers', 'media', 'photographer', 'camera', 'studio', 'press']
-Raw count: 16
-Proportion: 0.0006371709609334555
+Cluster 13:
+Examples: ['critics', 'analysis', 'criticism', 'criticisms', 'scrutiny', 'reviews', 'oversight']
+Raw count: 17
+Proportion: 0.0006769941459917964
 
-Cluster 14:
-Examples: ['1877', '1876', '1875', '1874', '1878', '1873', '1872']
-Raw count: 9
-Proportion: 0.0003584086655250687
+Cluster 15:
+Examples: ['reporters', 'photographers', 'media', 'photographer', 'camera', 'studio', 'press']
+Raw count: 14
+Proportion: 0.0005575245908167735
 

@@ -1,65 +1,60 @@
 Cluster 1:
 Examples: ['excellent', 'important', 'extraordinary', 'exceptional', 'amazing', 'incredible', 'impressive']
-Raw count: 396274
-Proportion: 0.3666328351746362
+Raw count: 397355
+Proportion: 0.3676329767302865
 
 Cluster 2:
 Examples: ['great', 'good', 'remarkable', 'distinguished', 'wonderful', 'best', 'major']
-Raw count: 428952
-Proportion: 0.3968665315257386
+Raw count: 436920
+Proportion: 0.40423852774722047
 
 Cluster 3:
-Examples: ['many', 'new', 'first', 'national', 'two', 'young', 'various']
-Raw count: 90828
-Proportion: 0.08403409548252436
-
-Cluster 0:
-Examples: ['current', 'made', 'existing', 'issued', 'available', 'total', 'certain']
-Raw count: 148023
-Proportion: 0.1369509282997501
-
-Cluster 5:
-Examples: ['one', 'qualified', 'like', 'interested', 'well', 'women', 'people']
-Raw count: 14338
-Proportion: 0.013265522317219737
-
-Cluster 6:
-Examples: ['select', 'providing', 'include', 'includes', 'giving', 'improving', 'toward']
-Raw count: 1666
-Proportion: 0.0015413837481160608
-
-Cluster 8:
-Examples: ['construction', 'consumer', 'development', 'thinking', 'hospital', 'miscellaneous', 'reading']
-Raw count: 588
-Proportion: 0.0005440177934527274
-
-Cluster 12:
-Examples: ['championship', 'moment', 'victory', 'tournament', 'independence', 'win', 'cup']
-Raw count: 79
-Proportion: 7.309082599109772e-05
-
-Cluster 10:
-Examples: ['negotiating', 'compliance', 'bargaining', 'negotiation', 'exiled', 'asylum', 'monitoring']
-Raw count: 42
-Proportion: 3.8858413818051955e-05
+Examples: ['many', 'new', 'first', 'national', 'two', 'various', 'three']
+Raw count: 82948
+Proportion: 0.0767435168899946
 
 Cluster 7:
-Examples: ['apollo', 'commander', '1960s', '1920s', '1980s', '1990s', '1950s']
-Raw count: 23
-Proportion: 2.127960756702845e-05
+Examples: ['current', 'made', 'existing', 'issued', 'available', 'total', 'remaining']
+Raw count: 148336
+Proportion: 0.1372405160027275
 
 Cluster 11:
+Examples: ['qualified', 'providing', 'award', 'giving', 'improving', 'qualifying', 'toward']
+Raw count: 2871
+Proportion: 0.0026562501445625514
+
+Cluster 5:
+Examples: ['like', 'interested', 'well', 'people', 'highly', 'whose', 'upon']
+Raw count: 10263
+Proportion: 0.009495330976539696
+
+Cluster 6:
+Examples: ['life', 'television', 'arrest', 'media', 'tv', 'information', 'mineral']
+Raw count: 1790
+Proportion: 0.0016561085889122142
+
+Cluster 0:
+Examples: ['construction', 'development', 'hospital', 'miscellaneous', 'phone', 'disaster', 'distressed']
+Raw count: 299
+Proportion: 0.00027663489837136986
+
+Cluster 8:
+Examples: ['negotiating', 'bargaining', 'negotiation', 'buck', 'bingham', 'verification', 'soto']
+Raw count: 24
+Proportion: 2.2204807896029687e-05
+
+Cluster 10:
+Examples: ['compliance', 'monitoring', 'compliant', 'comply']
+Raw count: 11
+Proportion: 1.0177203619013607e-05
+
+Cluster 4:
 Examples: ['merged', 'consolidation', 'merger', 'amalgamated', 'consolidate', 'amalgamation', 'merge']
 Raw count: 19
 Proportion: 1.7578806251023504e-05
 
-Cluster 4:
-Examples: ['fruit', 'citrus', 'pine', 'lemon', 'corona', 'fruits', 'peach']
-Raw count: 12
-Proportion: 1.1102403948014844e-05
-
 Cluster 9:
-Examples: ['manpower', 'manning', 'mobility']
-Raw count: 3
-Proportion: 2.775600987003711e-06
+Examples: ['1960s', '1920s', '1980s', '1990s', '1950s', '1970s', '1940s']
+Raw count: 11
+Proportion: 1.0177203619013607e-05
 

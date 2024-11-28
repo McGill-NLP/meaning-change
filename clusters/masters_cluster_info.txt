@@ -1,74 +1,84 @@
-Cluster 3:
-Examples: ['master', 'men', 'officers', 'captains', 'servants', 'officials', 'houses']
-Raw count: 14722
-Proportion: 0.14026696647198378
+Cluster 6:
+Examples: ['master', 'men', 'officers', 'captains', 'servants', 'officials', 'managers']
+Raw count: 13950
+Proportion: 0.13291157331097497
 
 Cluster 2:
 Examples: ['graduate', 'doctoral', 'doctorate', 'college', 'undergraduate', 'degree', 'bachelor']
-Raw count: 35290
-Proportion: 0.3362329334870471
-
-Cluster 6:
-Examples: ['people', 'owners', 'enemies', 'slaves', 'friends', 'children', 'hands']
-Raw count: 18925
-Proportion: 0.18031193726954847
-
-Cluster 0:
-Examples: ['leaders', 'members', 'citizens', 'agents', 'part', 'representatives', 'rulers']
-Raw count: 13569
-Proportion: 0.12928151528721285
+Raw count: 34942
+Proportion: 0.332917289937784
 
 Cluster 1:
-Examples: ['government', 'governments', 'forces', 'power', 'ones', 'powers', 'states']
-Raw count: 9416
-Proportion: 0.089712930057071
+Examples: ['people', 'enemies', 'government', 'slaves', 'citizens', 'friends', 'children']
+Raw count: 22064
+Proportion: 0.21021942319235495
 
-Cluster 7:
-Examples: ['persons', 'crews', 'crew', 'ships', 'pilots', 'vessels', 'passengers']
-Raw count: 4304
-Proportion: 0.04100726964375887
-
-Cluster 10:
-Examples: ['good', 'living', 'poor', 'born', 'experience', 'bad', 'skilled']
-Raw count: 1666
-Proportion: 0.01587316710652934
-
-Cluster 11:
-Examples: ['school', 'companies', 'army', 'interests', 'company', 'offices', 'machines']
-Raw count: 2378
-Proportion: 0.022656897586630715
+Cluster 0:
+Examples: ['leaders', 'members', 'agents', 'part', 'representatives', 'rulers', 'lords']
+Raw count: 14014
+Proportion: 0.1335213468372762
 
 Cluster 5:
-Examples: ['world', 'voice', 'group', 'open', 'society', 'arts', 'words']
-Raw count: 1506
-Proportion: 0.014348733290776223
-
-Cluster 8:
-Examples: ['davis', 'smith', 'wills', 'wilson', 'johnson', 'williams', 'goods']
-Raw count: 1462
-Proportion: 0.013929513991444115
+Examples: ['owners', 'persons', 'crews', 'crew', 'ships', 'companies', 'pilots']
+Raw count: 6493
+Proportion: 0.06186342978553122
 
 Cluster 4:
-Examples: ['woods', 'co', 'com', 'sc', 'sec', 'ups', 'tens']
-Raw count: 881
-Proportion: 0.008393913697990606
-
-Cluster 12:
-Examples: ['also', 'knows', 'questions', 'faces', 'takes', 'likes', 'except']
-Raw count: 810
-Proportion: 0.00771744619225016
+Examples: ['hands', 'families', 'years', 'houses', 'times', 'terms', 'things']
+Raw count: 5949
+Proportion: 0.05668035481197062
 
 Cluster 9:
+Examples: ['great', 'good', 'experts', 'living', 'strong', 'experience', 'better']
+Raw count: 2188
+Proportion: 0.020846632430423888
+
+Cluster 10:
+Examples: ['world', 'artists', 'works', 'book', 'voice', 'group', 'open']
+Raw count: 2196
+Proportion: 0.020922854121211545
+
+Cluster 12:
+Examples: ['davis', 'smith', 'johnson', 'williams', 'jones', 'brown', 'herr']
+Raw count: 1289
+Proportion: 0.012281219928161056
+
+Cluster 11:
+Examples: ['ins', 'co', 'like', 'sc', 'sec', 'de', 'post']
+Raw count: 817
+Proportion: 0.007784140171689358
+
+Cluster 7:
+Examples: ['also', 'knows', 'even', 'questions', 'faces', 'takes', 'likes']
+Raw count: 830
+Proportion: 0.0079080004192193
+
+Cluster 13:
+Examples: ['nature', 'lived', 'reality', 'came', 'restaurant', 'went', 'rode']
+Raw count: 70
+Proportion: 0.0006669397943919891
+
+Cluster 15:
+Examples: ['value', 'limits', 'capacity', 'quality', 'share', 'trust', 'price']
+Raw count: 115
+Proportion: 0.0010956868050725536
+
+Cluster 8:
+Examples: ['offenders', 'insane', 'elderly', 'crime', 'offender', 'offense', 'homeless']
+Raw count: 10
+Proportion: 9.527711348456988e-05
+
+Cluster 3:
 Examples: ['sixties', 'twenties', '1960s', '1900s', 'seventies', 'eighties', 'fifties']
 Raw count: 12
 Proportion: 0.00011433253618148384
 
-Cluster 14:
-Examples: ['radical', 'complex', 'global', 'polar', 'trivial', 'institutional', 'rational']
-Raw count: 12
-Proportion: 0.00011433253618148384
+Cluster 16:
+Examples: ['radical', 'complex', 'global', 'extreme', 'moderate', 'polar', 'trivial']
+Raw count: 14
+Proportion: 0.00013338795887839783
 
-Cluster 13:
+Cluster 14:
 Examples: ['comune', 'scala', 'gallo', 'casa']
 Raw count: 4
 Proportion: 3.8110845393827946e-05

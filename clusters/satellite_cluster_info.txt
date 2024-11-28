@@ -1,60 +1,55 @@
-Cluster 2:
-Examples: ['satellites', 'space', 'system', 'mission', 'spacecraft', 'missile', 'radar']
-Raw count: 43887
-Proportion: 0.23192411351265654
+Cluster 3:
+Examples: ['satellites', 'space', 'system', 'mission', 'spacecraft', 'technology', 'program']
+Raw count: 51800
+Proportion: 0.2737409501664641
 
 Cluster 4:
-Examples: ['cable', 'television', 'radio', 'network', 'digital', 'tv', 'telephone']
-Raw count: 35591
-Proportion: 0.188083284891402
+Examples: ['cable', 'television', 'radio', 'communications', 'network', 'digital', 'telecommunications']
+Raw count: 45302
+Proportion: 0.2394017861861227
 
 Cluster 5:
 Examples: ['new', 'small', 'national', 'foreign', 'american', 'military', 'two']
-Raw count: 55647
-Proportion: 0.29407070760450243
+Raw count: 53424
+Proportion: 0.28232309887438567
 
 Cluster 1:
-Examples: ['communications', 'telecommunications', 'technology', 'communication', 'program', 'service', 'project']
-Raw count: 28998
-Proportion: 0.15324208634994452
-
-Cluster 9:
-Examples: ['computer', 'nuclear', 'electronic', 'solar', 'aerial', 'scientific', 'weather']
-Raw count: 6631
-Proportion: 0.03504201236590393
-
-Cluster 0:
-Examples: ['member', 'world', 'government', 'state', 'country', 'shell', 'center']
-Raw count: 14289
-Proportion: 0.07551128256618929
-
-Cluster 3:
-Examples: ['land', 'un', 'hand', 'inc', 'super', 'de', 'gas']
-Raw count: 3024
-Proportion: 0.01598055276647466
-
-Cluster 7:
-Examples: ['company', 'receiving', 'also', 'participating', 'fusion', 'set', 'frequency']
-Raw count: 886
-Proportion: 0.004682132854198594
+Examples: ['nuclear', 'power', 'solar', 'aerial', 'chemical', 'thermal', 'tactical']
+Raw count: 3733
+Proportion: 0.019727315964699045
 
 Cluster 6:
-Examples: ['florida', 'made', 'surfing', 'miami', 'taken', 'found', 'installed']
-Raw count: 230
-Proportion: 0.0012154520953337208
+Examples: ['service', 'research', 'development', 'services', 'defense', 'security', 'energy']
+Raw count: 14226
+Proportion: 0.0751783543835544
 
-Cluster 10:
-Examples: ['corridor', 'wedge', 'corridors', 'triangle', 'pin', 'slug', 'triangles']
-Raw count: 15
-Proportion: 7.926861491306875e-05
+Cluster 0:
+Examples: ['member', 'world', 'government', 'state', 'union', 'country', 'man']
+Raw count: 13804
+Proportion: 0.0729482640173334
+
+Cluster 7:
+Examples: ['home', 'microwave', 'dish', 'land', 'sea', 'un', 'now']
+Raw count: 6072
+Proportion: 0.03208793531681023
 
 Cluster 8:
+Examples: ['company', 'participating', 'using', 'set', 'providing', 'underwater', 'making']
+Raw count: 600
+Proportion: 0.00317074459652275
+
+Cluster 2:
+Examples: ['florida', 'made', 'less', 'includes', 'miami', 'taken', 'found']
+Raw count: 245
+Proportion: 0.0012947207102467896
+
+Cluster 10:
 Examples: ['suffering', 'happy', 'sad', 'missing', 'unhappy', 'miserable', 'distressed']
 Raw count: 15
 Proportion: 7.926861491306875e-05
 
-Cluster 11:
-Examples: ['franchise', 'staple', 'simi', 'nes', 'ke', 'wat', 'ya']
-Raw count: 17
-Proportion: 8.983776356814459e-05
+Cluster 9:
+Examples: ['martin', 'palmer', 'drake', 'bradley', 'gordon', 'turner', 'stanley']
+Raw count: 9
+Proportion: 4.756116894784125e-05
 

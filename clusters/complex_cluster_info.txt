@@ -1,72 +1,52 @@
 Cluster 1:
 Examples: ['important', 'complicated', 'difficult', 'serious', 'large', 'big', 'dangerous']
-Raw count: 337058
-Proportion: 0.5714658713863546
+Raw count: 345698
+Proportion: 0.5861145820794048
 
-Cluster 0:
+Cluster 15:
 Examples: ['major', 'new', 'general', 'many', 'technical', 'particular', 'current']
-Raw count: 136996
-Proportion: 0.23227022802142375
+Raw count: 130203
+Proportion: 0.22075301832953834
 
 Cluster 2:
 Examples: ['system', 'area', 'building', 'center', 'facility', 'program', 'project']
-Raw count: 97482
-Proportion: 0.16527611293749037
+Raw count: 102031
+Proportion: 0.17298872693548634
 
-Cluster 6:
-Examples: ['now', 'just', 'highly', 'even', 'ever', 'un', 'yet']
-Raw count: 6911
-Proportion: 0.011717273101813626
-
-Cluster 4:
-Examples: ['right', 'problem', 'standard', 'crisis', 'issue', 'money', 'situation']
-Raw count: 8542
-Proportion: 0.014482556335652147
-
-Cluster 7:
-Examples: ['written', 'solving', 'including', 'making', 'said', 'ing', 'draft']
-Raw count: 2482
-Proportion: 0.004208113418998903
-
-Cluster 19:
-Examples: ['manual', 'ai', 'onboard', 'uss', 'hms', 'java', 'cad']
-Raw count: 46
-Proportion: 7.799082081948007e-05
+Cluster 5:
+Examples: ['now', 'just', 'right', 'highly', 'even', 'every', 'mr']
+Raw count: 7996
+Proportion: 0.013556839201577449
 
 Cluster 8:
-Examples: ['treatment', 'miracle', 'pumping', 'generating', 'supportive', 'miracles', 'pump']
-Raw count: 35
-Proportion: 5.934084192786527e-05
+Examples: ['questions', 'ms', 'children', 'diseases', 'violence', 'trouble', 'cancer']
+Raw count: 1474
+Proportion: 0.002499097171476383
+
+Cluster 6:
+Examples: ['solving', 'including', 'making', 'ing', 'draft', 'using', 'solve']
+Raw count: 1759
+Proportion: 0.0029823011700318577
+
+Cluster 11:
+Examples: ['failed', 'remains', 'exists', 'goes', 'started', 'came', 'began']
+Raw count: 422
+Proportion: 0.0007154810083874042
 
 Cluster 13:
-Examples: ['mystery', 'doubt', 'wonder', 'surprise', 'comparison', 'exception']
-Raw count: 28
-Proportion: 4.747267354229222e-05
+Examples: ['quality', 'color', 'intensity', 'dress', 'shape', 'colour', 'seriousness']
+Raw count: 80
+Proportion: 0.00013563621012083492
 
-Cluster 3:
-Examples: ['2008', '2012', '2013', '2014', '2009', '2005', '2007']
-Raw count: 70
-Proportion: 0.00011868168385573055
-
-Cluster 14:
-Examples: ['goddamn', 'shitty', 'mail', 'veil', 'closet', 'mirror', 'shiny']
-Raw count: 40
-Proportion: 6.781810506041746e-05
-
-Cluster 20:
-Examples: ['everyone', 'everybody', 'castro', 'cuba', 'cuban', 'humanity', 'havana']
-Raw count: 16
-Proportion: 2.7127242024166983e-05
+Cluster 0:
+Examples: ['manual', 'ai', 'onboard', 'uss', 'hms']
+Raw count: 44
+Proportion: 7.45999155664592e-05
 
 Cluster 9:
 Examples: ['licensing', 'licensed', 'certification', 'licence']
 Raw count: 10
 Proportion: 1.6954526265104365e-05
-
-Cluster 10:
-Examples: ['wisdom', 'creativity', 'insight']
-Raw count: 6
-Proportion: 1.0172715759062619e-05
 
 Cluster 12:
 Examples: ['smith', 'allen', 'harris', 'bingham', 'franklin', 'jacobs']
@@ -78,32 +58,32 @@ Examples: ['espionage', 'spying', 'sabotage']
 Raw count: 5
 Proportion: 8.477263132552182e-06
 
-Cluster 21:
+Cluster 18:
+Examples: ['graduate', 'undergraduate', 'doctoral']
+Raw count: 6
+Proportion: 1.0172715759062619e-05
+
+Cluster 3:
 Examples: ['northwest', 'rancho', 'annexation', 'annexed', 'reclamation', 'alam', 'pueblo']
 Raw count: 11
 Proportion: 1.86499788916148e-05
 
-Cluster 18:
-Examples: ['cut', 'cent', 'ae', 'cord', 'coco', 'sci', 'vent']
-Raw count: 15
-Proportion: 2.5431789397656547e-05
+Cluster 4:
+Examples: ['aromatic', 'thomas', 'martin', 'methyl', 'sodium', 'ole', 'cyclic']
+Raw count: 31
+Proportion: 5.255903142182353e-05
 
-Cluster 5:
-Examples: ['aromatic', 'methyl', 'sodium', 'ole', 'cyclic', 'lewis', 'amino']
-Raw count: 17
-Proportion: 2.882269465067742e-05
-
-Cluster 22:
+Cluster 7:
 Examples: ['williams', 'david', 'johnson', 'ali', 'horton', 'stein', 'cohen']
 Raw count: 21
 Proportion: 3.560450515671916e-05
 
-Cluster 11:
+Cluster 10:
 Examples: ['stripped', 'rid', 'deprived', 'robbed', 'reminded']
 Raw count: 6
 Proportion: 1.0172715759062619e-05
 
-Cluster 15:
+Cluster 14:
 Examples: ['ko', 'ka']
 Raw count: 2
 Proportion: 3.390905253020873e-06

@@ -1,84 +1,69 @@
 Cluster 4:
-Examples: ['enormous', 'huge', 'massive', 'great', 'unprecedented', 'incredible', 'exponential']
-Raw count: 16292
-Proportion: 0.4524173169309378
+Examples: ['enormous', 'huge', 'massive', 'unprecedented', 'exponential', 'tremendous', 'staggering']
+Raw count: 11297
+Proportion: 0.31370969981394575
 
-Cluster 1:
-Examples: ['high', 'low', 'substantial', 'increasing', 'higher', 'increased', 'rising']
-Raw count: 5615
-Proportion: 0.15592457860098302
+Cluster 0:
+Examples: ['high', 'great', 'low', 'increasing', 'higher', 'increased', 'rising']
+Raw count: 5251
+Proportion: 0.14581655605231736
 
-Cluster 6:
-Examples: ['large', 'estimated', 'additional', 'average', 'extra', 'overall', 'acceptable']
-Raw count: 2384
-Proportion: 0.06620199383521702
-
-Cluster 3:
-Examples: ['big', 'new', 'annual', 'real', 'current', 'actual', 'two']
-Raw count: 5769
-Proportion: 0.16020104967926466
-
-Cluster 2:
-Examples: ['scientific', 'various', 'space', 'celestial', 'certain', 'many', 'solar']
-Raw count: 4703
-Proportion: 0.13059898364388658
-
-Cluster 12:
-Examples: ['serious', 'medical', 'health', 'professional', 'wholesale', 'historic', 'educational']
-Raw count: 276
-Proportion: 0.007664324789647608
+Cluster 9:
+Examples: ['large', 'incredible', 'immense', 'extraordinary', 'substantial', 'amazing', 'significant']
+Raw count: 7515
+Proportion: 0.20868623476160061
 
 Cluster 5:
-Examples: ['severe', 'property', 'violent', 'intense', 'flood', 'hurricane', 'damage']
-Raw count: 84
-Proportion: 0.0023326205881536197
+Examples: ['big', 'new', 'annual', 'real', 'current', 'total', 'full']
+Raw count: 4647
+Proportion: 0.12904390325178416
 
-Cluster 7:
-Examples: ['ordinary', 'special', 'house', 'titanic', 'assistant', 'executive', 'building']
+Cluster 2:
+Examples: ['small', 'two', 'good', 'three', 'zero', 'five', 'six']
+Raw count: 2035
+Proportion: 0.05651051067729305
+
+Cluster 1:
+Examples: ['scientific', 'actual', 'various', 'space', 'celestial', 'many', 'solar']
+Raw count: 4566
+Proportion: 0.1267945905417789
+
+Cluster 6:
+Examples: ['ordinary', 'special', 'property', 'house', 'titanic', 'assistant', 'executive']
 Raw count: 158
 Proportion: 0.004387548249146094
 
-Cluster 11:
+Cluster 10:
 Examples: ['deep', 'advanced', 'operating', 'air', 'island', 'army', 'dynamic']
 Raw count: 80
 Proportion: 0.002221543417289162
 
-Cluster 8:
-Examples: ['obvious', 'world', 'war', 'cost', 'un', 'ever', 'year']
-Raw count: 344
-Proportion: 0.009552636694343395
+Cluster 13:
+Examples: ['world', 'year', 'usual', 'economy', 'following', 'york', 'balance']
+Raw count: 84
+Proportion: 0.0023326205881536197
 
-Cluster 0:
-Examples: ['something', 'people', 'things', 'extremely', 'using', 'numbers', 'without']
-Raw count: 137
-Proportion: 0.003804393102107689
+Cluster 12:
+Examples: ['professional', 'local', 'historic', 'educational', 'school', 'defense', 'university']
+Raw count: 130
+Proportion: 0.0036100080530948875
 
-Cluster 14:
+Cluster 7:
+Examples: ['un', 'ever', 'extremely', 'per', 'using', 'com', 'super']
+Raw count: 175
+Proportion: 0.004859626225320041
+
+Cluster 3:
 Examples: ['cutting', 'stone', 'hand', 'maya', 'egyptian', 'aztec', 'ceremonial']
 Raw count: 29
 Proportion: 0.0008053094887673211
 
-Cluster 16:
-Examples: ['today', 'home', 'yes', '400', '2000', 'upon', 'directly']
-Raw count: 66
-Proportion: 0.0018327733192635583
-
-Cluster 13:
-Examples: ['young', 'watching', 'thinking', 'confidence', 'visiting', 'interviewing', 'traveling']
-Raw count: 15
-Proportion: 0.0004165393907417178
-
-Cluster 15:
+Cluster 8:
 Examples: ['make', 'example', 'form', 'create', 'case', 'sense', 'way']
 Raw count: 32
 Proportion: 0.0008886173669156647
 
-Cluster 9:
-Examples: ['bright', 'green', 'black', 'crown', 'brightest', 'sparkling', 'shining']
-Raw count: 15
-Proportion: 0.0004165393907417178
-
-Cluster 10:
+Cluster 11:
 Examples: ['1974', '1976', '1973', '1972', '1978', '1975', '1971']
 Raw count: 12
 Proportion: 0.00033323151259337424

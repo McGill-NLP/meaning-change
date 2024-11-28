@@ -1,85 +1,80 @@
-Cluster 3:
-Examples: ['approval', 'confirmation', 'consent', 'life', 'assistance', 'support', 'consideration']
-Raw count: 18452
-Proportion: 0.21637214320055348
-
 Cluster 0:
-Examples: ['housing', 'removal', 'development', 'construction', 'clearing', 'management', 'conditions']
-Raw count: 26599
-Proportion: 0.3119056274112032
+Examples: ['approval', 'confirmation', 'consent', 'life', 'support', 'consideration', 'agreement']
+Raw count: 15125
+Proportion: 0.17735902156451178
+
+Cluster 3:
+Examples: ['housing', 'removal', 'development', 'construction', 'clearing', 'conditions', 'dwellers']
+Raw count: 21497
+Proportion: 0.25207847183949156
 
 Cluster 8:
-Examples: ['permission', 'cleared', 'pass', 'back', 'away', 'approved', 'clear']
-Raw count: 3415
-Proportion: 0.04004502867059886
-
-Cluster 1:
-Examples: ['authorization', 'warrant', 'briefing', 'assurance', 'alert', 'exemption', 'allowance']
-Raw count: 10645
-Proportion: 0.12482557253251093
-
-Cluster 5:
-Examples: ['certification', 'protection', 'information', 'security', 'authority', 'status', 'training']
-Raw count: 14868
-Proportion: 0.1743453839749528
-
-Cluster 13:
-Examples: ['access', 'now', 'key', 'immediately', 'questioning', 'freely', 'later']
-Raw count: 461
-Proportion: 0.0054057857151233015
-
-Cluster 2:
-Examples: ['separation', 'displacement', 'height', 'section', 'width', 'weight', 'water']
-Raw count: 2685
-Proportion: 0.03148489077029515
-
-Cluster 4:
-Examples: ['entry', 'departure', 'evacuation', 'discharge', 'registration', 'berth', 'exchange']
-Raw count: 3556
-Proportion: 0.04169842516915067
-
-Cluster 7:
-Examples: ['legal', 'examination', 'legislative', 'oversight', 'administrative', 'whole', 'new']
-Raw count: 3924
-Proportion: 0.046013672768207885
+Examples: ['permission', 'authorization', 'information', 'assistance', 'authority', 'access', 'training']
+Raw count: 12112
+Proportion: 0.14202793184723086
 
 Cluster 6:
-Examples: ['death', 'crime', 'arrest', 'conviction', 'murder', 'trials', 'suicide']
-Raw count: 274
-Proportion: 0.0032129832666893373
+Examples: ['certification', 'protection', 'status', 'permit', 'level', 'certificate', 'system']
+Raw count: 7535
+Proportion: 0.08835703983395678
 
-Cluster 11:
-Examples: ['payments', 'banking', 'trust', 'points', 'bank', 'reserve', 'banks']
-Raw count: 175
-Proportion: 0.002052087852812533
+Cluster 5:
+Examples: ['management', 'control', 'review', 'security', 'inspection', 'screening', 'legal']
+Raw count: 11690
+Proportion: 0.1370794685678772
+
+Cluster 1:
+Examples: ['warrant', 'briefing', 'assurance', 'alert', 'exemption', 'allowance', 'id']
+Raw count: 10681
+Proportion: 0.12524771631937523
+
+Cluster 7:
+Examples: ['cleared', 'entry', 'consultation', 'back', 'cooperation', 'exchange', 'approved']
+Raw count: 3416
+Proportion: 0.04005675488690064
+
+Cluster 4:
+Examples: ['separation', 'displacement', 'height', 'section', 'width', 'safety', 'weight']
+Raw count: 2979
+Proportion: 0.03493239836302021
 
 Cluster 9:
-Examples: ['co', 're', 'en', 'corp', 'super', 'un', 'res']
-Raw count: 80
-Proportion: 0.0009380973041428722
+Examples: ['post', 'co', 'foreign', 're', 'en', 'corp', 'branch']
+Raw count: 132
+Proportion: 0.001547860551835739
+
+Cluster 11:
+Examples: ['store', 'glass', 'weigh', 'bath', 'hot', 'shop', 'ale']
+Raw count: 17
+Proportion: 0.00019934567713036035
 
 Cluster 12:
-Examples: ['10', '18', '12', '11', '15', '20', '16']
-Raw count: 59
-Proportion: 0.0006918467618053682
+Examples: ['thursday', 'schedule', 'july', 'saturday', 'pause', 'monday', 'friday']
+Raw count: 30
+Proportion: 0.0003517864890535771
 
 Cluster 10:
-Examples: ['mo', 'po', 'ap', 'mu', 'ro', 'ta', 'bra']
-Raw count: 34
-Proportion: 0.0003986913542607207
+Examples: ['ap', 'ps', 'sen', 'kay', 'des', 'dee']
+Raw count: 8
+Proportion: 9.380973041428722e-05
 
-Cluster 15:
-Examples: ['1955', '1950', '1970', '1951', '1949', '1945', '1971']
-Raw count: 21
-Proportion: 0.00024625054233750395
+Cluster 13:
+Examples: ['1950', '1970', '1951', '1949', '1945', '1971', '1985']
+Raw count: 18
+Proportion: 0.00021107189343214626
 
-Cluster 16:
+Cluster 14:
 Examples: ['nixon', 'strauss', 'hitler', 'suarez', 'reagan', 'franco', 'roth']
 Raw count: 11
 Proportion: 0.00012898837931964494
 
-Cluster 14:
+Cluster 15:
 Examples: ['peter', 'paul', 'george', 'klaus', 'ernst', 'stefan', 'hans']
 Raw count: 20
 Proportion: 0.00023452432603571804
+
+Cluster 2:
+Examples: ['uncle', 'io', 'gandhi', 'rapid', 'mann', 'prof', 'dad']
+Raw count: 8
+Proportion: 9.380973041428722e-05
 

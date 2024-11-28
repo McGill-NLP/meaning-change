@@ -1,69 +1,74 @@
-Cluster 1:
-Examples: ['imp', 'app', 'ab', 'res', 'ref', 'trans', 'abs']
-Raw count: 120976
-Proportion: 0.20004398533601656
+Cluster 2:
+Examples: ['imp', 'app', 'ab', 'res', 'ref', 've', 'rev']
+Raw count: 125336
+Proportion: 0.20725361184098473
 
 Cluster 0:
-Examples: ['sob', 'ass', 've', 'cu', 'pu', 'contra', 'ae']
-Raw count: 263303
-Proportion: 0.4353936439535872
-
-Cluster 2:
-Examples: ['rep', 'cap', 'sp', 'lit', 'rev', 'bow', 'parent']
-Raw count: 35988
-Proportion: 0.0595091831790815
-
-Cluster 6:
-Examples: ['red', 'fl', 'det', 'test', 'sep', 'bomb', 'surf']
-Raw count: 26692
-Proportion: 0.04413746575014014
-
-Cluster 3:
-Examples: ['pl', 'int', 'def', 'dev', 'mart', 'epic', 'ten']
-Raw count: 21553
-Proportion: 0.03563969726183015
-
-Cluster 5:
-Examples: ['rec', 'ap', 'op', 'em', 'sw', 'cr', 'fr']
-Raw count: 61366
-Proportion: 0.10147383947336655
+Examples: ['sob', 'mode', 'rec', 'int', 'prep', 'count', 'deter']
+Raw count: 53946
+Proportion: 0.08920424574243443
 
 Cluster 4:
-Examples: ['prep', 'advent', 'fact', 'prior', 'cement', 'convent', 'mr']
-Raw count: 7882
-Proportion: 0.013033549567009013
+Examples: ['rep', 'cr', 'mart', 'cop', 'kn', 'cab', 'proposition']
+Raw count: 22578
+Proportion: 0.037334620924121986
 
-Cluster 8:
-Examples: ['put', 'set', 'trip', 'amp', 'build', 'just', 'make']
-Raw count: 28088
-Proportion: 0.04644586909897858
+Cluster 1:
+Examples: ['ass', 'cu', 'pu', 'red', 'contra', 'cap', 'ae']
+Raw count: 251439
+Proportion: 0.415775522656582
 
-Cluster 7:
-Examples: ['part', 'cop', 'one', 'man', 'act', 'hand', 'law']
-Raw count: 19991
-Proportion: 0.033056798958903476
+Cluster 5:
+Examples: ['trans', 'pl', 'ap', 'op', 'em', 'sw', 'abs']
+Raw count: 58170
+Proportion: 0.09618898481513757
 
 Cluster 9:
-Examples: ['oct', 'prof', 'ethan', 'rest', 'carbon', 'cut', 'sl']
-Raw count: 18268
-Proportion: 0.03020767362219242
+Examples: ['put', 'set', 'trip', 'amp', 'build', 'just', 'make']
+Raw count: 28139
+Proportion: 0.04653020188607798
 
-Cluster 10:
+Cluster 7:
+Examples: ['fr', 'fl', 'det', 'test', 'sep', 'bomb', 'fast']
+Raw count: 18444
+Proportion: 0.030498704416888386
+
+Cluster 8:
+Examples: ['def', 'advent', 'prom', 'fit', 'commons', 'wr', 'sat']
+Raw count: 8279
+Proportion: 0.013690022439135705
+
+Cluster 6:
+Examples: ['part', 'one', 'man', 'act', 'hand', 'law', 'effect']
+Raw count: 18925
+Proportion: 0.03129407835011997
+
+Cluster 3:
+Examples: ['nut', 'oct', 'prof', 'ethan', 'rest', 'carbon', 'cut']
+Raw count: 18830
+Proportion: 0.03113698786434658
+
+Cluster 11:
 Examples: ['50', '36', '51', '100', '41', '46', '37']
 Raw count: 597
 Proportion: 0.0009871896842811954
+
+Cluster 12:
+Examples: ['horse', 'rope', 'seine', 'hurricane', 'football', 'saddle', 'shark']
+Raw count: 21
+Proportion: 3.472526527622295e-05
 
 Cluster 13:
 Examples: ['odd', 'peculiar', 'technical', 'physical', 'singular', 'absurd', 'irregular']
 Raw count: 19
 Proportion: 3.141809715467791e-05
 
-Cluster 12:
+Cluster 10:
 Examples: ['director', 'advisor', 'adviser', 'consultant', 'aide', 'liaison', 'assistant']
 Raw count: 13
 Proportion: 2.149659279004278e-05
 
-Cluster 11:
+Cluster 14:
 Examples: ['collected', 'stored', 'measured', 'packed', 'stacked', 'examined', 'sorted']
 Raw count: 11
 Proportion: 1.8189424668497736e-05

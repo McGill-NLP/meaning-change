@@ -1,60 +1,60 @@
-Cluster 5:
-Examples: ['man', 'person', 'one', 'boy', 'woman', 'fellow', 'friend']
-Raw count: 47683
-Proportion: 0.38976442315551996
-
-Cluster 10:
-Examples: ['kid', 'girl', 'deal', 'michael', 'dick', 'asshole', 'gal']
-Raw count: 9747
-Proportion: 0.07967271003285978
-
-Cluster 6:
-Examples: ['thing', 'stuff', 'shit', 'part', 'lot', 'place', 'group']
-Raw count: 15866
-Proportion: 0.12968987559057693
-
-Cluster 1:
-Examples: ['guys', 'people', 'ones', 'kids', 'lady', 'men', 'girls']
-Raw count: 14086
-Proportion: 0.11514002190652128
-
-Cluster 0:
-Examples: ['dude', 'way', 'maybe', 'buddy', 'said', 'says', 'even']
-Raw count: 3293
-Proportion: 0.02691722931550295
-
-Cluster 11:
-Examples: ['john', 'james', 'george', 'senator', 'robert', 'william', 'charles']
-Raw count: 15647
-Proportion: 0.12789975314293187
-
-Cluster 9:
-Examples: ['president', 'leader', 'lawyer', 'doctor', 'voice', 'team', 'judge']
-Raw count: 7902
-Proportion: 0.064591541467083
-
-Cluster 4:
-Examples: ['big', 'mess', 'kind', 'job', 'town', 'bonn', 'bow']
-Raw count: 5646
-Proportion: 0.046150828033807975
-
-Cluster 2:
-Examples: ['dr', 'sam', 'mary', 'mel', 'pat', 'tall', 'de']
-Raw count: 2419
-Proportion: 0.019773087675129558
-
-Cluster 8:
-Examples: ['donor', 'contribution', 'contributor', 'volunteer', 'gesture', 'donation', 'offer']
-Raw count: 20
-Proportion: 0.000163481502068041
+Cluster 3:
+Examples: ['man', 'person', 'boy', 'kid', 'girl', 'woman', 'dude']
+Raw count: 56538
+Proportion: 0.4621458581961451
 
 Cluster 7:
+Examples: ['one', 'thing', 'shit', 'part', 'lot', 'place', 'story']
+Raw count: 16491
+Proportion: 0.1347986725302032
+
+Cluster 5:
+Examples: ['guys', 'stuff', 'way', 'just', 'mr', 'now', 'maybe']
+Raw count: 6241
+Proportion: 0.0510144027203322
+
+Cluster 6:
+Examples: ['people', 'ones', 'kids', 'men', 'girls', 'boys', 'things']
+Raw count: 14130
+Proportion: 0.11549968121107097
+
+Cluster 8:
+Examples: ['john', 'james', 'george', 'senator', 'robert', 'william', 'charles']
+Raw count: 16165
+Proportion: 0.13213392404649413
+
+Cluster 10:
+Examples: ['cop', 'voice', 'judge', 'general', 'congressman', 'officer', 'member']
+Raw count: 4297
+Proportion: 0.03512400071931861
+
+Cluster 9:
+Examples: ['big', 'mess', 'kind', 'bonn', 'bow', 'math', 'say']
+Raw count: 8096
+Proportion: 0.066177312037143
+
+Cluster 4:
+Examples: ['morning', 'ten', 'six', '30', 'eight', 'local', 'health']
+Raw count: 147
+Proportion: 0.0012015890402001014
+
+Cluster 11:
+Examples: ['away', 'around', 'home', 'together', 'anyway', 'along', 'round']
+Raw count: 118
+Proportion: 0.0009645408622014419
+
+Cluster 0:
+Examples: ['tax', 'model', 'charm', 'quarter', 'puff', 'foundation', 'fault']
+Raw count: 86
+Proportion: 0.0007029704588925763
+
+Cluster 1:
 Examples: ['visiting', 'using', 'occupying', 'approaching', 'holding', 'seeking', 'controlling']
 Raw count: 20
 Proportion: 0.000163481502068041
 
-Cluster 3:
-Examples: ['dread', 'justify', 'suppress', 'herald', 'boycott', 'uphold', 'cancel']
+Cluster 2:
+Examples: ['mussolini', 'ferrari', 'dante', 'colombo', 'leone', 'giovanni', 'rossi']
 Raw count: 9
 Proportion: 7.356667593061845e-05
 

@@ -1,89 +1,99 @@
-Cluster 4:
-Examples: ['pure', 'solid', 'liquid', 'synthetic', 'raw', 'carbon', 'black']
-Raw count: 2352
-Proportion: 0.3547511312217195
-
 Cluster 3:
-Examples: ['new', 'big', 'good', 'great', 'special', 'small', 'little']
-Raw count: 728
-Proportion: 0.10980392156862745
-
-Cluster 6:
-Examples: ['american', 'international', 'internal', 'standard', 'german', 'inner', 'established']
-Raw count: 226
-Proportion: 0.03408748114630467
-
-Cluster 2:
-Examples: ['general', 'important', 'common', 'complicated', 'specific', 'powerful', 'serious']
-Raw count: 474
-Proportion: 0.07149321266968325
-
-Cluster 7:
-Examples: ['old', 'ordinary', 'real', 'entire', 'absolute', 'actual', 'existing']
-Raw count: 482
-Proportion: 0.07269984917043741
-
-Cluster 11:
-Examples: ['heavy', 'precious', 'many', 'different', 'various', 'two', 'base']
-Raw count: 313
-Proportion: 0.04720965309200603
-
-Cluster 5:
-Examples: ['vague', 'complex', 'dangerous', 'enormous', 'absurd', 'ambiguous', 'impossible']
-Raw count: 1033
-Proportion: 0.15580693815987934
+Examples: ['pure', 'solid', 'liquid', 'synthetic', 'raw', 'carbon', 'black']
+Raw count: 2501
+Proportion: 0.37722473604826545
 
 Cluster 1:
-Examples: ['whole', 'soft', 'foreign', 'human', 'living', 'normal', 'vital']
-Raw count: 218
-Proportion: 0.03288084464555053
+Examples: ['new', 'general', 'common', 'specific', 'current', 'one', 'public']
+Raw count: 452
+Proportion: 0.06817496229260935
 
 Cluster 0:
-Examples: ['current', 'political', 'legal', 'like', 'physical', 'similar', 'intellectual']
-Raw count: 214
-Proportion: 0.03227752639517346
+Examples: ['natural', 'normal', 'physical', 'intellectual', 'social', 'total', 'available']
+Raw count: 140
+Proportion: 0.021116138763197588
 
-Cluster 10:
-Examples: ['national', 'public', 'government', 'said', 'state', 'superior', 'continental']
-Raw count: 233
-Proportion: 0.035143288084464555
+Cluster 5:
+Examples: ['american', 'international', 'national', 'independent', 'internal', 'administrative', 'organized']
+Raw count: 315
+Proportion: 0.04751131221719457
 
-Cluster 13:
+Cluster 19:
+Examples: ['old', 'ordinary', 'real', 'actual', 'existing', 'original', 'extensive']
+Raw count: 268
+Proportion: 0.040422322775263954
+
+Cluster 2:
+Examples: ['big', 'good', 'important', 'great', 'small', 'whole', 'little']
+Raw count: 711
+Proportion: 0.10723981900452488
+
+Cluster 7:
+Examples: ['vague', 'many', 'different', 'various', 'unknown', 'two', 'secret']
+Raw count: 301
+Proportion: 0.04539969834087481
+
+Cluster 4:
+Examples: ['complex', 'entire', 'dangerous', 'complicated', 'enormous', 'absurd', 'ambiguous']
+Raw count: 1185
+Proportion: 0.17873303167420815
+
+Cluster 8:
+Examples: ['open', 'like', 'loose', 'even', 'crazy', 'similar', 'now']
+Raw count: 124
+Proportion: 0.01870286576168929
+
+Cluster 6:
+Examples: ['political', 'legal', 'governing', 'formal', 'corporate', 'thinking', 'inherent']
+Raw count: 110
+Proportion: 0.016591251885369532
+
+Cluster 17:
+Examples: ['serious', 'reasonable', 'comprehensive', 'perfect', 'complete', 'detailed', 'sophisticated']
+Raw count: 105
+Proportion: 0.01583710407239819
+
+Cluster 12:
 Examples: ['using', 'producing', 'making', 'including', 'purchasing', 'buying', 'selling']
 Raw count: 69
 Proportion: 0.010407239819004524
 
-Cluster 9:
-Examples: ['secret', 'personal', 'every', 'ambitious', 'secretive', 'final', 'strategic']
-Raw count: 63
-Proportion: 0.009502262443438913
+Cluster 13:
+Examples: ['superior', 'best', 'right', 'full', 'first', 'highest', 'second']
+Raw count: 66
+Proportion: 0.009954751131221719
 
-Cluster 12:
-Examples: ['everything', 'etc', 'whatever', '12', '10', 'nothing', '14']
-Raw count: 62
-Proportion: 0.009351432880844645
+Cluster 11:
+Examples: ['oil', 'everything', 'etc', 'whatever', '12', '10', 'grain']
+Raw count: 119
+Proportion: 0.017948717948717947
+
+Cluster 9:
+Examples: ['material', 'stuff', 'substance', 'body', 'product', 'word', 'latter']
+Raw count: 69
+Proportion: 0.010407239819004524
 
 Cluster 15:
 Examples: ['super', 'micro', 'de', 'iso', 'un', 'electro', 'auto']
 Raw count: 50
 Proportion: 0.007541478129713424
 
-Cluster 14:
-Examples: ['grain', 'tea', 'cotton', 'sugar', 'clay', 'rice', 'water']
-Raw count: 32
-Proportion: 0.0048265460030165915
-
 Cluster 16:
 Examples: ['contains', 'holds', 'goes', 'exists', 'works', 'depends', 'believes']
 Raw count: 13
 Proportion: 0.00196078431372549
 
-Cluster 8:
-Examples: ['stuff', 'emergency', 'advisory', 'time', 'thing', 'way', 'shit']
-Raw count: 58
-Proportion: 0.008748114630467572
+Cluster 14:
+Examples: ['likely', 'unlikely', 'unable', 'refuses', 'inability', 'fails', 'unwilling']
+Raw count: 13
+Proportion: 0.00196078431372549
 
-Cluster 17:
+Cluster 10:
+Examples: ['offer', 'sale', 'display', 'hand', 'market', 'auction', 'sales']
+Raw count: 9
+Proportion: 0.0013574660633484162
+
+Cluster 18:
 Examples: ['transfer', 'transferred', 'transfers', 'transferring', 'take', 'acquire', 'exchange']
 Raw count: 10
 Proportion: 0.0015082956259426848

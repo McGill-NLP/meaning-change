@@ -1,64 +1,59 @@
-Cluster 1:
-Examples: ['trial', 'arrest', 'execution', 'detention', 'indictment', 'interrogation', 'release']
-Raw count: 4399
-Proportion: 0.33708812260536397
+Cluster 12:
+Examples: ['trial', 'arrest', 'execution', 'detention', 'interrogation', 'release', 'hearing']
+Raw count: 4365
+Proportion: 0.33448275862068966
 
-Cluster 3:
-Examples: ['action', 'judgment', 'one', 'speech', 'testimony', 'question', 'inquiry']
-Raw count: 1395
-Proportion: 0.10689655172413794
-
-Cluster 0:
-Examples: ['examination', 'statement', 'attack', 'account', 'order', 'act', 'decision']
-Raw count: 2308
-Proportion: 0.17685823754789273
-
-Cluster 5:
-Examples: ['opinion', 'criticism', 'charge', 'defense', 'condemnation', 'report', 'description']
-Raw count: 2131
-Proportion: 0.16329501915708813
+Cluster 2:
+Examples: ['indictment', 'attack', 'account', 'order', 'act', 'accusation', 'argument']
+Raw count: 1824
+Proportion: 0.13977011494252872
 
 Cluster 7:
-Examples: ['investigation', 'crime', 'police', 'crimes', 'criminal', 'investigations', 'civil']
-Raw count: 285
-Proportion: 0.021839080459770115
+Examples: ['action', 'statement', 'one', 'decision', 'speech', 'testimony', 'question']
+Raw count: 1620
+Proportion: 0.12413793103448276
+
+Cluster 0:
+Examples: ['examination', 'opinion', 'criticism', 'charge', 'defense', 'condemnation', 'report']
+Raw count: 2492
+Proportion: 0.19095785440613028
+
+Cluster 17:
+Examples: ['investigation', 'crime', 'police', 'crimes', 'investigations', 'holding', 'lives']
+Raw count: 202
+Proportion: 0.015478927203065134
 
 Cluster 6:
-Examples: ['confession', 'law', 'support', 'justice', 'use', 'house', 'man']
-Raw count: 631
-Proportion: 0.04835249042145594
+Examples: ['case', 'appeal', 'verdict', 'state', 'new', 'general', 'criminal']
+Raw count: 461
+Proportion: 0.03532567049808429
 
-Cluster 4:
-Examples: ['case', 'verdict', 'state', 'new', 'speaking', 'general', 'federal']
-Raw count: 308
-Proportion: 0.023601532567049808
+Cluster 5:
+Examples: ['time', 'evidence', 'thing', 'point', 'end', 'day', 'event']
+Raw count: 530
+Proportion: 0.04061302681992337
 
-Cluster 12:
-Examples: ['removal', 'punishment', 'resolution', 'suppression', 'publication', 'conclusion', 'prevention']
-Raw count: 262
-Proportion: 0.02007662835249042
-
-Cluster 11:
-Examples: ['time', 'part', 'thing', 'office', 'point', 'end', 'day']
-Raw count: 710
-Proportion: 0.05440613026819923
-
-Cluster 13:
-Examples: ['life', 'treatment', 'conduct', 'work', 'members', 'actions', 'education']
-Raw count: 252
-Proportion: 0.019310344827586208
+Cluster 10:
+Examples: ['part', 'law', 'life', 'justice', 'office', 'use', 'house']
+Raw count: 893
+Proportion: 0.06842911877394636
 
 Cluster 8:
-Examples: ['critique', 'matter', 'error', 'vote', 'mistake', 'violation', 'defeat']
-Raw count: 231
-Proportion: 0.017701149425287357
-
-Cluster 15:
-Examples: ['something', 'money', 'jail', 'whatever', 'like', 'just', 'even']
-Raw count: 69
-Proportion: 0.0052873563218390806
+Examples: ['assault', 'matter', 'fact', 'error', 'vote', 'mistake', 'war']
+Raw count: 312
+Proportion: 0.023908045977011495
 
 Cluster 9:
+Examples: ['effect', 'protection', 'supervision', 'eyes', 'influence', 'scrutiny', 'joke']
+Raw count: 73
+Proportion: 0.005593869731800766
+
+Cluster 14:
+Examples: ['suppression', 'publication', 'conclusion', 'prevention', 'reduction', 'cause', 'abolition']
+Raw count: 139
+Proportion: 0.010651340996168582
+
+Cluster 1:
 Examples: ['advocate', 'author', 'editor', 'proprietor', 'editors', 'writer', 'correspondent']
 Raw count: 25
 Proportion: 0.0019157088122605363
@@ -68,17 +63,32 @@ Examples: ['read', 'applied', 'followed', 'adopted', 'implemented', 'used', 'sta
 Raw count: 12
 Proportion: 0.0009195402298850574
 
-Cluster 2:
+Cluster 3:
+Examples: ['suicide', 'guilty', 'otherwise', 'suspended', 'divided', 'acquitted', 'murderer']
+Raw count: 13
+Proportion: 0.000996168582375479
+
+Cluster 18:
+Examples: ['2007', '2010', 'ii', '15', '13', '12', '2012']
+Raw count: 39
+Proportion: 0.002988505747126437
+
+Cluster 4:
 Examples: ['signed', 'taken', 'sworn', 'committed', 'held', 'made', 'issued']
 Raw count: 12
 Proportion: 0.0009195402298850574
 
-Cluster 10:
+Cluster 11:
+Examples: ['labor', 'tuesday', 'friday', 'every', 'wednesday', 'monday', 'christmas']
+Raw count: 18
+Proportion: 0.001379310344827586
+
+Cluster 13:
 Examples: ['requiring', 'required', 'binding', 'demanding', 'compelled', 'permitting', 'requesting']
 Raw count: 10
 Proportion: 0.0007662835249042146
 
-Cluster 14:
+Cluster 15:
 Examples: ['tr', 'ali', 'pl', 'cp', 'sl', 'ts', 'unit']
 Raw count: 10
 Proportion: 0.0007662835249042146

@@ -1,79 +1,94 @@
 Cluster 0:
 Examples: ['designed', 'necessary', 'intended', 'trying', 'used', 'sufficient', 'enough']
-Raw count: 21244
-Proportion: 0.525295484891944
-
-Cluster 3:
-Examples: ['going', 'moving', 'now', 'looking', 'inclined', 'heading', 'even']
-Raw count: 5043
-Proportion: 0.12469709707729588
-
-Cluster 7:
-Examples: ['working', 'helping', 'running', 'getting', 'seeing', 'keeping', 'making']
-Raw count: 3175
-Proportion: 0.0785074922110677
+Raw count: 22887
+Proportion: 0.5659215666880966
 
 Cluster 1:
-Examples: ['leading', 'relating', 'due', 'according', 'related', 'listening', 'contributing']
-Raw count: 4922
-Proportion: 0.1217051580040552
-
-Cluster 2:
-Examples: ['also', 'just', 'tend', 'seems', 'try', 'like', 'especially']
-Raw count: 2496
-Proportion: 0.06171801592403937
-
-Cluster 8:
-Examples: ['attending', 'responding', 'catering', 'help', 'serves', 'attention', 'regard']
-Raw count: 1175
-Proportion: 0.029053953810395133
-
-Cluster 6:
-Examples: ['means', 'attempts', 'something', 'one', 'efforts', 'though', 'way']
-Raw count: 1815
-Proportion: 0.044879086098610355
-
-Cluster 9:
-Examples: ['tended', 'upon', 'served', 'etc', 'worked', 'forth', 'duty']
-Raw count: 404
-Proportion: 0.009989614756935859
+Examples: ['going', 'directed', 'moving', 'now', 'looking', 'wanting', 'heading']
+Raw count: 6076
+Proportion: 0.15023984966124326
 
 Cluster 10:
-Examples: ['extended', 'adjusted', 'expanded', 'increased', 'changed', 'altered', 'revised']
-Raw count: 29
-Proportion: 0.0007170763068097523
+Examples: ['working', 'helping', 'running', 'getting', 'seeing', 'keeping', 'talking']
+Raw count: 3314
+Proportion: 0.08194451312991445
 
-Cluster 14:
-Examples: ['changes', 'research', 'result', 'withdrawing', 'business', 'politics', 'experiment']
-Raw count: 52
-Proportion: 0.0012857919984174868
+Cluster 2:
+Examples: ['leading', 'relating', 'inclined', 'due', 'attending', 'according', 'related']
+Raw count: 5415
+Proportion: 0.133895455219821
+
+Cluster 3:
+Examples: ['especially', 'simply', 'almost', 'thence', 'often', 'therefore', 'sometimes']
+Raw count: 255
+Proportion: 0.006305326146085753
+
+Cluster 6:
+Examples: ['tended', 'one', 'way', 'another', 'primarily', 'every', 'thing']
+Raw count: 461
+Proportion: 0.011399040601355027
+
+Cluster 9:
+Examples: ['extending', 'ing', 'powers', 'extends', 'end', 'com', 'extended']
+Raw count: 293
+Proportion: 0.0072449433756985315
+
+Cluster 4:
+Examples: ['well', 'evidence', 'proof', 'grounds', 'information', 'objects', 'reasons']
+Raw count: 221
+Proportion: 0.005464615993274319
+
+Cluster 11:
+Examples: ['work', 'attention', 'contribute', 'everything', 'return', 'see', 'service']
+Raw count: 723
+Proportion: 0.017877454131843135
+
+Cluster 5:
+Examples: ['today', 'first', 'upon', 'served', 'etc', 'forth', 'duty']
+Raw count: 397
+Proportion: 0.009816527372533504
+
+Cluster 15:
+Examples: ['order', 'effort', 'new', 'general', 'particular', 'request', 'call']
+Raw count: 112
+Proportion: 0.002769398150437664
 
 Cluster 12:
+Examples: ['law', 'half', 'committee', 'usual', 'members', 'vote', 'commission']
+Raw count: 138
+Proportion: 0.003412294149646407
+
+Cluster 14:
+Examples: ['purpose', 'get', 'give', 'take', 'name', 'nature', 're']
+Raw count: 71
+Proportion: 0.0017556006132238761
+
+Cluster 18:
 Examples: ['parts', 'extracted', 'takes', 'sets', 'extracts', 'extract', 'elements']
 Raw count: 15
 Proportion: 0.00037090153800504425
 
-Cluster 15:
-Examples: ['line', 'blocking', 'scoring', 'play', 'kicking', 'performance', 'scored']
+Cluster 16:
+Examples: ['uses', 'contains', 'includes', 'concerns', 'involves', 'affects', 'supplies']
+Raw count: 12
+Proportion: 0.00029672123040403543
+
+Cluster 8:
+Examples: ['line', 'blocking', 'shot', 'scoring', 'play', 'kicking', 'performance']
+Raw count: 13
+Proportion: 0.0003214479996043717
+
+Cluster 13:
+Examples: ['business', 'financial', 'sector', 'banking', 'educational', 'tertiary', 'equity']
 Raw count: 11
 Proportion: 0.0002719944612036991
 
-Cluster 13:
-Examples: ['big', 'gas', 'treason', 'sea', 'drilling', 'irrelevant', 'nonsense']
-Raw count: 21
-Proportion: 0.000519262153207062
+Cluster 7:
+Examples: ['diving', 'servicing', 'hopping', 'boys', 'girls', 'dogs', 'jumping']
+Raw count: 18
+Proportion: 0.0004450818456060531
 
-Cluster 5:
-Examples: ['sweeping', 'diving', 'servicing', 'hopping', 'boys', 'girls', 'dogs']
-Raw count: 21
-Proportion: 0.000519262153207062
-
-Cluster 11:
-Examples: ['imprisoned', 'dissolved', 'disqualified', 'defeated', 'captured', 'destroyed', 'arrested']
-Raw count: 9
-Proportion: 0.00022254092280302656
-
-Cluster 4:
+Cluster 17:
 Examples: ['xvi', 'sl', 'xx', 'th', 'si', 'fr', 'ki']
 Raw count: 10
 Proportion: 0.00024726769200336283

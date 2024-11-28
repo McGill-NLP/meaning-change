@@ -1,119 +1,99 @@
 Cluster 1:
-Examples: ['dam', 'reservoir', 'plant', 'project', 'one', 'building', 'bridge']
-Raw count: 2056
-Proportion: 0.2344623104116775
-
-Cluster 11:
-Examples: ['power', 'leader', 'nation', 'man', 'partner', 'model', 'leaders']
-Raw count: 985
-Proportion: 0.11232751739080853
-
-Cluster 0:
-Examples: ['pipeline', 'powerplant', 'weir', 'aqueduct', 'embankment', 'canal', 'main']
-Raw count: 1307
-Proportion: 0.14904778195917437
-
-Cluster 5:
-Examples: ['force', 'party', 'club', 'group', 'organization', 'elite', 'government']
-Raw count: 526
-Proportion: 0.05998403466757897
-
-Cluster 2:
-Examples: ['center', 'city', 'success', 'site', 'base', 'state', 'region']
-Raw count: 769
-Proportion: 0.0876952902269358
+Examples: ['dam', 'reservoir', 'plant', 'station', 'lake', 'project', 'one']
+Raw count: 2295
+Proportion: 0.2617174136161478
 
 Cluster 9:
-Examples: ['station', 'team', 'champion', 'great', 'superstar', 'school', 'heavyweight']
-Raw count: 991
-Proportion: 0.11301174592313833
+Examples: ['power', 'leader', 'man', 'model', 'leaders', 'person', 'genius']
+Raw count: 857
+Proportion: 0.0977306420344395
 
-Cluster 12:
-Examples: ['lake', 'river', 'water', 'source', 'business', 'field', 'west']
-Raw count: 316
-Proportion: 0.036036036036036036
+Cluster 0:
+Examples: ['pipeline', 'powerplant', 'weir', 'aqueduct', 'embankment', 'canal', 'harbor']
+Raw count: 1225
+Proportion: 0.13969665868400047
 
-Cluster 3:
-Examples: ['hub', 'conglomerate', 'dictator', 'cornerstone', 'infrastructure', 'summit', 'opposite']
-Raw count: 431
-Proportion: 0.04915041623902383
-
-Cluster 10:
-Examples: ['giant', 'threat', 'big', 'miracle', 'reactor', 'failure', 'problem']
-Raw count: 283
-Proportion: 0.03227277910822215
-
-Cluster 7:
-Examples: ['new', 'world', 'major', 'third', 'powerful', 'national', 'original']
-Raw count: 533
-Proportion: 0.0607823012886304
-
-Cluster 23:
-Examples: ['company', 'year', 'act', 'amendment', 'choice', 'option', 'alternative']
-Raw count: 96
-Proportion: 0.01094765651727677
+Cluster 14:
+Examples: ['force', 'success', 'world', 'threat', 'miracle', 'whole', 'machine']
+Raw count: 545
+Proportion: 0.06215075835329
 
 Cluster 6:
-Examples: ['associated', 'senate', 'general', 'senator', 'various', 'related', 'similar']
-Raw count: 113
-Proportion: 0.012886304025544531
+Examples: ['center', 'city', 'foundation', 'area', 'program', 'base', 'state']
+Raw count: 816
+Proportion: 0.09305508039685255
 
-Cluster 13:
-Examples: ['front', 'wall', 'time', 'room', 'side', 'back', 'laboratory']
-Raw count: 61
-Proportion: 0.006956323412019615
+Cluster 11:
+Examples: ['team', 'champion', 'nation', 'superstar', 'school', 'heavyweight', 'rival']
+Raw count: 846
+Proportion: 0.09647622305850154
 
-Cluster 19:
-Examples: ['coalition', 'mr', 'agenda', 'gentleman', 'rep', 'subcommittee', 'aide']
-Raw count: 102
-Proportion: 0.011631885049606569
+Cluster 5:
+Examples: ['hub', 'giant', 'partner', 'party', 'conglomerate', 'dictator', 'big']
+Raw count: 569
+Proportion: 0.0648876724826092
 
-Cluster 8:
-Examples: ['product', 'ipod', 'apple', 'pop', 'ipad', 'smartphone', 'idol']
-Raw count: 15
-Proportion: 0.0017105713308244953
+Cluster 7:
+Examples: ['great', 'new', 'main', 'player', 'pro', 'major', 'third']
+Raw count: 801
+Proportion: 0.09134450906602805
 
-Cluster 15:
-Examples: ['advantage', 'compromise', 'rental', 'pledge', 'endowment', 'winning', 'straw']
-Raw count: 44
-Proportion: 0.005017675903751853
+Cluster 3:
+Examples: ['empire', 'army', 'railway', 'bunker', 'navy', 'renewable', 'province']
+Raw count: 86
+Proportion: 0.00980727563006044
+
+Cluster 17:
+Examples: ['company', 'business', 'year', 'act', 'amendment', 'product', 'industry']
+Raw count: 129
+Proportion: 0.01471091344509066
 
 Cluster 16:
-Examples: ['just', 'now', 'continues', 'arrives', 'also', 'comes', 'begins']
-Raw count: 49
-Proportion: 0.005587866347360018
+Examples: ['lot', 'family', 'little', 'combination', 'record', 'proposition', 'advantage']
+Raw count: 155
+Proportion: 0.017675903751853118
 
-Cluster 18:
-Examples: ['trail', 'laundry', 'kitchen', 'plateau', 'bathroom', 'toilet', 'pantry']
-Raw count: 27
-Proportion: 0.003079028395484092
+Cluster 12:
+Examples: ['associated', 'senate', 'general', 'senator', 'various', 'related', 'similar']
+Raw count: 119
+Proportion: 0.01357053255787433
+
+Cluster 13:
+Examples: ['front', 'wall', 'time', 'room', 'key', 'side', 'back']
+Raw count: 68
+Proportion: 0.0077545900330710455
 
 Cluster 4:
+Examples: ['coalition', 'mr', 'agenda', 'gentleman', 'stuff', 'budget', 'rep']
+Raw count: 118
+Proportion: 0.013456494469152697
+
+Cluster 2:
+Examples: ['roads', 'canals', 'houses', 'trail', 'bridges', 'rivers', 'gates']
+Raw count: 47
+Proportion: 0.005359790169916752
+
+Cluster 19:
+Examples: ['just', 'now', 'continues', 'arrives', 'also', 'comes', 'begins']
+Raw count: 45
+Proportion: 0.005131713992473486
+
+Cluster 10:
 Examples: ['friends', 'dinosaurs', 'batman', 'eureka', 'arthur', 'survivor', 'enchanted']
 Raw count: 11
 Proportion: 0.0012544189759379632
 
-Cluster 14:
+Cluster 15:
 Examples: ['el', 'mel', 'sal', 'mar', 'lil', 'brown', 'dil']
 Raw count: 17
 Proportion: 0.0019386475082677614
 
-Cluster 21:
-Examples: ['george', 'peter', 'mary', 'paul', 'michael', 'max', 'james']
-Raw count: 8
-Proportion: 0.0009123047097730642
-
-Cluster 22:
+Cluster 8:
 Examples: ['agreed', 'agrees', 'provided', 'provides', 'approved', 'complied', 'acted']
 Raw count: 10
 Proportion: 0.0011403808872163302
 
-Cluster 17:
-Examples: ['haas', 'packers', 'nfl', 'oakland', 'raiders', 'lakers', 'browns']
-Raw count: 9
-Proportion: 0.0010263427984946972
-
-Cluster 20:
+Cluster 18:
 Examples: ['1942', '1943', '1940', '1944', '1941', '1952', '1946']
 Raw count: 10
 Proportion: 0.0011403808872163302

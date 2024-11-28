@@ -1,80 +1,75 @@
-Cluster 8:
-Examples: ['sharks', 'pool', 'developer', 'shock', 'chicken', 'ray', 'viper']
-Raw count: 1950
-Proportion: 0.16632548618219037
-
-Cluster 2:
-Examples: ['fish', 'dolphin', 'fishing', 'marine', 'whale', 'human', 'tuna']
-Raw count: 2388
-Proportion: 0.20368474923234392
-
-Cluster 13:
-Examples: ['broker', 'default', 'bust', 'tail', 'sham', 'crunch', 'forward']
-Raw count: 1047
-Proportion: 0.08930399181166837
-
-Cluster 12:
-Examples: ['fin', 'sea', 'boat', 'people', 'submarine', 'ship', 'another']
-Raw count: 476
-Proportion: 0.04060047765267827
-
-Cluster 3:
-Examples: ['man', 'agent', 'manager', 'officer', 'banker', 'person', 'guy']
-Raw count: 1382
-Proportion: 0.11787785738655748
-
-Cluster 10:
-Examples: ['animal', 'monster', 'one', 'snake', 'beast', 'body', 'food']
-Raw count: 426
-Proportion: 0.036335721596724664
-
 Cluster 9:
-Examples: ['moon', 'finn', 'cool', 'mack', 'tall', 'dick', 'han']
-Raw count: 999
-Proportion: 0.08520982599795292
-
-Cluster 11:
-Examples: ['guarantee', 'bank', 'company', 'card', 'money', 'retail', 'agency']
-Raw count: 1359
-Proportion: 0.11591606960081884
-
-Cluster 7:
-Examples: ['dog', 'new', 'red', 'white', 'oil', 'big', 'blue']
-Raw count: 706
-Proportion: 0.060218355510064825
-
-Cluster 15:
-Examples: ['rat', 'super', 'now', 'mosquito', 'un', 'hyper', 'bio']
-Raw count: 502
-Proportion: 0.04281815080177414
-
-Cluster 6:
-Examples: ['tiger', 'jaguar', 'scout', 'ii', 'crocodile', 'hare', 'phoenix']
-Raw count: 73
-Proportion: 0.006226543841692255
-
-Cluster 14:
-Examples: ['terror', 'terrorist', 'war', 'two', 'certain', 'panic', 'torpedo']
-Raw count: 310
-Proportion: 0.026441487546912317
+Examples: ['sharks', 'developer', 'shock', 'chicken', 'illegal', 'viper', 'flash']
+Raw count: 1695
+Proportion: 0.14457523029682703
 
 Cluster 4:
-Examples: ['high', 'low', 'aggressive', 'critical', 'increased', 'risky', 'excessive']
-Raw count: 43
-Proportion: 0.0036676902081200957
+Examples: ['fish', 'dolphin', 'fishing', 'marine', 'human', 'sea', 'tuna']
+Raw count: 2263
+Proportion: 0.19302285909245992
 
-Cluster 0:
-Examples: ['said', 'made', 'used', 'ismail', 'ban', 'liable', 'able']
-Raw count: 30
-Proportion: 0.00255885363357216
+Cluster 13:
+Examples: ['broker', 'man', 'agent', 'manager', 'officer', 'bank', 'company']
+Raw count: 2095
+Proportion: 0.1786932787444558
+
+Cluster 2:
+Examples: ['fin', 'boat', 'risk', 'ship', 'beach', 'island', 'side']
+Raw count: 283
+Proportion: 0.024138519276697374
+
+Cluster 12:
+Examples: ['pool', 'default', 'bust', 'tail', 'sham', 'crunch', 'forward']
+Raw count: 1126
+Proportion: 0.09604230638007506
+
+Cluster 6:
+Examples: ['animal', 'whale', 'monster', 'tiger', 'bird', 'wildlife', 'snake']
+Raw count: 701
+Proportion: 0.059791879904469464
+
+Cluster 10:
+Examples: ['moon', 'finn', 'cool', 'mack', 'tall', 'dick', 'han']
+Raw count: 1050
+Proportion: 0.08955987717502559
+
+Cluster 11:
+Examples: ['guarantee', 'card', 'money', 'finance', 'guarantees', 'extension', 'thing']
+Raw count: 832
+Proportion: 0.0709655407710679
+
+Cluster 7:
+Examples: ['dog', 'red', 'white', 'big', 'blue', 'black', 'yellow']
+Raw count: 547
+Proportion: 0.046656431252132376
 
 Cluster 5:
+Examples: ['rat', 'water', 'super', 'now', 'mosquito', 'un', 'hyper']
+Raw count: 533
+Proportion: 0.04546229955646537
+
+Cluster 3:
+Examples: ['wolf', 'woman', 'terror', 'terrorist', 'war', 'two', 'panic']
+Raw count: 439
+Proportion: 0.0374445581712726
+
+Cluster 8:
+Examples: ['certain', 'high', 'low', 'either', 'specific', 'increased', 'near']
+Raw count: 62
+Proportion: 0.005288297509382463
+
+Cluster 0:
+Examples: ['others', 'etc', 'co', 'america', '10', '13', '22']
+Raw count: 49
+Proportion: 0.004179460934834528
+
+Cluster 14:
+Examples: ['said', 'made', 'used', 'ismail', 'ban', 'elsewhere', 'anywhere']
+Raw count: 36
+Proportion: 0.0030706243602865915
+
+Cluster 1:
 Examples: ['il', 'ul', 'rum', 'khan', 'sar', 'ada', 'par']
 Raw count: 13
 Proportion: 0.001108836574547936
-
-Cluster 1:
-Examples: ['coin', 'coins', 'digger', 'dollar', 'salt', 'dollars', 'sovereign']
-Raw count: 20
-Proportion: 0.0017059024223814397
 

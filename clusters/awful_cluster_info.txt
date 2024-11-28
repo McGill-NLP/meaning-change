@@ -1,65 +1,70 @@
 Cluster 0:
 Examples: ['enormous', 'entire', 'amazing', 'incredible', 'extra', 'absolute', 'old']
-Raw count: 61457
-Proportion: 0.419072621888851
+Raw count: 64372
+Proportion: 0.43894988066825774
 
 Cluster 1:
 Examples: ['great', 'whole', 'new', 'real', 'big', 'dangerous', 'particular']
-Raw count: 33965
-Proportion: 0.23160586430276167
+Raw count: 33236
+Proportion: 0.22663484486873509
 
 Cluster 3:
-Examples: ['terrible', 'horrible', 'good', 'bad', 'true', 'wrong', 'sad']
-Raw count: 11887
-Proportion: 0.08105693828844186
+Examples: ['terrible', 'horrible', 'good', 'bad', 'wrong', 'sad', 'really']
+Raw count: 11243
+Proportion: 0.07666553017388339
 
 Cluster 2:
-Examples: ['insane', 'exceeding', 'awesome', 'dreadful', 'wonderful', 'tremendous', 'absurd']
-Raw count: 34384
-Proportion: 0.23446300715990454
-
-Cluster 11:
-Examples: ['long', 'three', 'enough', 'four', 'five', 'six', 'eight']
-Raw count: 1136
-Proportion: 0.007746334810773952
-
-Cluster 4:
-Examples: ['american', 'said', 'european', 'german', 'nazi', 'sea', 'water']
-Raw count: 648
-Proportion: 0.004418683941356972
-
-Cluster 12:
-Examples: ['high', 'rising', 'raging', 'steep', 'lower', 'minimum', 'responsibility']
-Raw count: 254
-Proportion: 0.0017320150017047392
-
-Cluster 5:
-Examples: ['different', 'desperate', 'civil', 'war', 'world', 'military', 'government']
-Raw count: 2577
-Proportion: 0.017572451414933514
-
-Cluster 8:
-Examples: ['super', 'un', 'de', 'mega', 'en', 'anti', 'com']
-Raw count: 240
-Proportion: 0.0016365496079099899
-
-Cluster 6:
-Examples: ['unlawful', 'lawful', 'valid', 'lax', 'rights', 'affairs', 'justify']
-Raw count: 55
-Proportion: 0.00037504261847937266
-
-Cluster 9:
-Examples: ['food', 'table', 'homes', 'camp', 'beds', 'road', 'labour']
-Raw count: 25
-Proportion: 0.00017047391749062393
-
-Cluster 7:
-Examples: ['train', 'railway', 'rail', 'railroad', 'trains']
-Raw count: 13
-Proportion: 8.864643709512445e-05
+Examples: ['insane', 'exceeding', 'dreadful', 'wonderful', 'tremendous', 'absurd', 'ridiculous']
+Raw count: 32234
+Proportion: 0.21980225025571087
 
 Cluster 10:
+Examples: ['true', 'civil', 'war', 'military', 'armed', 'government', 'way']
+Raw count: 2551
+Proportion: 0.017395158540743267
+
+Cluster 9:
+Examples: ['long', 'three', 'black', 'enough', 'four', 'five', 'hell']
+Raw count: 1430
+Proportion: 0.00975110808046369
+
+Cluster 5:
+Examples: ['american', 'said', 'kind', 'red', 'european', 'german', 'army']
+Raw count: 738
+Proportion: 0.005032390044323218
+
+Cluster 12:
+Examples: ['high', 'local', 'young', 'steep', 'lower', 'country', 'street']
+Raw count: 273
+Proportion: 0.0018615751789976135
+
+Cluster 11:
+Examples: ['desperate', 'failed', 'continued', 'screaming', 'stopped', 'starving', 'frantic']
+Raw count: 202
+Proportion: 0.0013774292533242415
+
+Cluster 7:
+Examples: ['super', 'un', 'de', 'mega', 'en', 'anti', 'com']
+Raw count: 264
+Proportion: 0.0018002045687009888
+
+Cluster 13:
+Examples: ['unlawful', 'lawful', 'required', 'valid', 'granted', 'lax', 'refused']
+Raw count: 59
+Proportion: 0.0004023184452778725
+
+Cluster 8:
+Examples: ['food', 'table', 'homes', 'camp', 'beds', 'road', 'labour']
+Raw count: 24
+Proportion: 0.00016365496079099898
+
+Cluster 4:
 Examples: ['cattle', 'livestock', 'cow', 'pig', 'dog', 'deer']
 Raw count: 9
 Proportion: 6.137061029662461e-05
+
+Cluster 6:
+Examples: ['1964', '1965', '1968', '1963', '1966', '1962', '1967']
+Raw count: 15
+Proportion: 0.00010228435049437437
 

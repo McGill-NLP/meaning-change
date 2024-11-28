@@ -1,79 +1,74 @@
-Cluster 15:
-Examples: ['beginning', 'back', 'since', 'effective', 'early', 'tomorrow', 'late']
-Raw count: 29549
-Proportion: 0.09344266442354518
-
-Cluster 3:
-Examples: ['going', 'coming', 'started', 'trying', 'ready', 'able', 'began']
-Raw count: 75448
-Proportion: 0.2385888573362089
-
-Cluster 1:
-Examples: ['start', 'now', 'like', 'just', 'working', 'especially', 'along']
-Raw count: 56961
-Proportion: 0.18012750374731995
-
-Cluster 4:
-Examples: ['getting', 'making', 'building', 'ending', 'commencing', 'running', 'opening']
-Raw count: 86456
-Proportion: 0.2733994042235616
+Cluster 2:
+Examples: ['beginning', 'going', 'coming', 'started', 'trying', 'now', 'ready']
+Raw count: 117953
+Proportion: 0.37300221993131494
 
 Cluster 0:
+Examples: ['start', 'come', 'go', 'look', 'continue', 'way', 'see']
+Raw count: 14878
+Proportion: 0.04704862977743766
+
+Cluster 3:
+Examples: ['getting', 'making', 'building', 'ending', 'commencing', 'running', 'opening']
+Raw count: 83559
+Proportion: 0.2642382346802603
+
+Cluster 1:
 Examples: ['turning', 'right', 'meeting', 'reference', 'first', 'focal', 'end']
-Raw count: 54342
-Proportion: 0.1718454523030997
+Raw count: 52959
+Proportion: 0.16747199787493755
 
 Cluster 5:
-Examples: ['time', 'date', 'construction', 'commencement', 'departure', 'day', 'life']
-Raw count: 11937
-Proportion: 0.03774831924003719
+Examples: ['like', 'working', 'especially', 'along', 'even', 'begin', 'together']
+Raw count: 29136
+Proportion: 0.09213663645620537
 
 Cluster 11:
-Examples: ['america', 'europe', 'germany', 'canada', 'china', 'russia', 'london']
-Raw count: 359
-Proportion: 0.001135264020036303
-
-Cluster 10:
-Examples: ['line', 'road', 'water', 'etc', 'spring', 'gas', 'railroad']
-Raw count: 522
-Proportion: 0.0016507181572672708
-
-Cluster 13:
-Examples: ['10', 'million', 'com', '30', 'miles', '000', 'billion']
-Raw count: 370
-Proportion: 0.0011700492685610925
+Examples: ['effective', 'till', 'date', 'construction', 'commencement', 'departure', 'day']
+Raw count: 13729
+Proportion: 0.0434151524542574
 
 Cluster 9:
-Examples: ['de', 'ing', 're', 'se', 'co', 'ed', 'er']
-Raw count: 147
-Proportion: 0.0004648574121040016
+Examples: ['every', 'monday', 'tuesday', 'thursday', 'wednesday', 'friday', 'saturday']
+Raw count: 2216
+Proportion: 0.007007646430084813
+
+Cluster 13:
+Examples: ['somewhere', 'outside', 'medical', 'acceleration', 'earthquake', 'fire', 'medicare']
+Raw count: 458
+Proportion: 0.0014483312567594062
+
+Cluster 7:
+Examples: ['striking', 'manufactured', 'patent', 'patented', 'superficial', 'startling', 'abundant']
+Raw count: 249
+Proportion: 0.0007874115347884108
+
+Cluster 14:
+Examples: ['america', 'europe', 'germany', 'canada', 'china', 'russia', 'london']
+Raw count: 349
+Proportion: 0.0011036410668319493
+
+Cluster 6:
+Examples: ['line', 'road', 'water', 'etc', 'gas', 'railroad', 'railway']
+Raw count: 510
+Proportion: 0.0016127706134220464
+
+Cluster 8:
+Examples: ['de', 'mr', 'ing', 're', 'se', 'co', 'ed']
+Raw count: 174
+Proportion: 0.000550239385755757
 
 Cluster 12:
-Examples: ['regards', 'sees', 'background', 'describes', 'views', 'experiences', 'lists']
-Raw count: 35
-Proportion: 0.00011068033621523847
+Examples: ['regards', 'sees', 'background', 'describes', 'views', 'lists', 'interests']
+Raw count: 32
+Proportion: 0.00010119345025393231
 
-Cluster 2:
+Cluster 10:
 Examples: ['peter', 'captain', 'port', 'christopher', 'doctor', 'andrew']
 Raw count: 12
 Proportion: 3.794754384522462e-05
 
-Cluster 7:
-Examples: ['forest', 'wood', 'prescribed', 'factory', 'woods', 'forests', 'trees']
-Raw count: 24
-Proportion: 7.589508769044924e-05
-
-Cluster 6:
-Examples: ['withdrawal', 'dispersal', 'diversion', 'exclusion', 'landfill', 'reclamation', 'residual']
-Raw count: 17
-Proportion: 5.375902044740154e-05
-
-Cluster 8:
-Examples: ['startling', 'abundant', 'minute', 'oral', 'insistent', 'acute', 'relentless']
-Raw count: 35
-Proportion: 0.00011068033621523847
-
-Cluster 14:
+Cluster 4:
 Examples: ['athletic', 'athletics', 'raiders', 'oaks', 'oakland', 'coliseum', 'raider']
 Raw count: 12
 Proportion: 3.794754384522462e-05

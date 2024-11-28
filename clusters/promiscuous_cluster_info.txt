@@ -1,84 +1,79 @@
-Cluster 5:
-Examples: ['public', 'illegal', 'direct', 'commercial', 'actual', 'widespread', 'full']
-Raw count: 1264
-Proportion: 0.25129224652087473
-
 Cluster 1:
-Examples: ['general', 'new', 'first', 'whole', 'one', 'particular', 'simple']
-Raw count: 442
-Proportion: 0.08787276341948311
-
-Cluster 13:
-Examples: ['certain', 'private', 'large', 'big', 'long', 'personal', 'political']
-Raw count: 518
-Proportion: 0.10298210735586481
-
-Cluster 0:
-Examples: ['good', 'small', 'bad', 'strange', 'friendly', 'individual', 'social']
-Raw count: 242
-Proportion: 0.048111332007952284
-
-Cluster 3:
-Examples: ['excessive', 'great', 'free', 'common', 'massive', 'various', 'national']
-Raw count: 551
-Proportion: 0.10954274353876739
+Examples: ['public', 'general', 'illegal', 'direct', 'commercial', 'actual', 'full']
+Raw count: 1193
+Proportion: 0.23717693836978132
 
 Cluster 2:
-Examples: ['violent', 'dangerous', 'extensive', 'sudden', 'adult', 'effective', 'physical']
-Raw count: 323
-Proportion: 0.06421471172962227
+Examples: ['certain', 'excessive', 'great', 'private', 'large', 'common', 'widespread']
+Raw count: 883
+Proportion: 0.17554671968190855
+
+Cluster 0:
+Examples: ['good', 'small', 'little', 'strange', 'friendly', 'social', 'mixed']
+Raw count: 228
+Proportion: 0.04532803180914513
+
+Cluster 13:
+Examples: ['new', 'first', 'extensive', 'sudden', 'adult', 'another', 'simple']
+Raw count: 355
+Proportion: 0.0705765407554672
+
+Cluster 5:
+Examples: ['violent', 'aggressive', 'different', 'open', 'active', 'explicit', 'involved']
+Raw count: 453
+Proportion: 0.0900596421471173
+
+Cluster 12:
+Examples: ['dangerous', 'serious', 'even', 'effective', 'final', 'formal', 'destructive']
+Raw count: 220
+Proportion: 0.0437375745526839
 
 Cluster 15:
-Examples: ['sexual', 'homosexual', 'heterosexual', 'male', 'casual', 'illicit', 'anal']
-Raw count: 404
-Proportion: 0.08031809145129225
-
-Cluster 7:
-Examples: ['aggressive', 'different', 'open', 'active', 'explicit', 'involved', 'successful']
-Raw count: 380
-Proportion: 0.07554671968190854
-
-Cluster 14:
-Examples: ['gay', 'human', 'people', 'dead', 'poor', 'killed', 'sick']
-Raw count: 371
-Proportion: 0.07375745526838966
-
-Cluster 11:
-Examples: ['government', 'federal', 'every', 'necessary', 'old', 'excess', 'extra']
-Raw count: 180
-Proportion: 0.03578528827037773
-
-Cluster 8:
-Examples: ['many', 'making', 'several', 'two', 'local', 'thing', 'three']
-Raw count: 137
-Proportion: 0.027236580516898607
+Examples: ['sexual', 'homosexual', 'gay', 'heterosexual', 'male', 'casual', 'illicit']
+Raw count: 467
+Proportion: 0.09284294234592445
 
 Cluster 4:
-Examples: ['daily', 'single', 'endless', 'paper', 'clear', 'desperate', 'relentless']
-Raw count: 82
-Proportion: 0.016302186878727636
-
-Cluster 16:
-Examples: ['like', 'especially', 'sells', 'includes', 'means', 'graphic', 'including']
-Raw count: 67
-Proportion: 0.013320079522862823
-
-Cluster 6:
-Examples: ['limited', 'controlled', 'corrupt', 'regulated', 'restricted', 'prohibited', 'forbidden']
-Raw count: 26
-Proportion: 0.005168986083499006
+Examples: ['free', 'whole', 'government', 'national', 'complete', 'one', 'federal']
+Raw count: 461
+Proportion: 0.09165009940357853
 
 Cluster 9:
+Examples: ['human', 'people', 'dead', 'killed', 'sick', 'married', 'family']
+Raw count: 303
+Proportion: 0.06023856858846918
+
+Cluster 11:
+Examples: ['various', 'many', 'making', 'several', 'two', 'local', 'three']
+Raw count: 136
+Proportion: 0.027037773359840953
+
+Cluster 3:
+Examples: ['constant', 'daily', 'continuous', 'single', 'endless', 'paper', 'also']
+Raw count: 125
+Proportion: 0.02485089463220676
+
+Cluster 6:
+Examples: ['like', 'especially', 'sells', 'includes', 'means', 'graphic', 'including']
+Raw count: 70
+Proportion: 0.013916500994035786
+
+Cluster 8:
+Examples: ['limited', 'controlled', 'corrupt', 'regulated', 'restricted', 'prohibited', 'forbidden']
+Raw count: 40
+Proportion: 0.007952286282306162
+
+Cluster 7:
+Examples: ['thing', 'away', 'getting', 'going', 'war', 'america', 'rape']
+Raw count: 69
+Proportion: 0.01371769383697813
+
+Cluster 10:
 Examples: ['purchase', 'sale', 'consideration', 'use', 'settlement', 'congress', 'study']
 Raw count: 17
 Proportion: 0.003379721669980119
 
-Cluster 12:
-Examples: ['waste', 'oil', 'gas', 'helium', 'directional', 'petroleum', 'scuba']
-Raw count: 16
-Proportion: 0.0031809145129224653
-
-Cluster 10:
+Cluster 14:
 Examples: ['writer', 'reader', 'poet', 'scholar', 'printer', 'pro', 'pen']
 Raw count: 10
 Proportion: 0.0019880715705765406
