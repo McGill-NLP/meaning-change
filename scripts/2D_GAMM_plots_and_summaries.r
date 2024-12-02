@@ -7,8 +7,7 @@ library(fs)
 library(stringr)
 library(readr)
 
-scratch_dir <- Sys.getenv('SCRATCH')
-model_dir <- glue("{scratch_dir}/GAMMs")
+model_dir <- Sys.getenv('MODEL_DIR')
 word_filepath <- "./assets/wordlist.txt"
 plots_and_summaries_dir <- "./plots/2D_GAMM_plots_and_summaries"
 if (!dir.exists(plots_and_summaries_dir)){
@@ -58,9 +57,9 @@ for (word in words){
                 #
                 pred_data <- expand.grid(yob = yob_range, year = year_range) %>%
                 mutate(age = year - yob) %>% 
-                mutate(speakerid = first(word_sense_indexed$speakerid)) %>%# Just so the mgcv:predict fn doesn't throw up an error asking for speakerid values -- this won't matter because we exclude the by-speaker effects ## Confirmed later, changing this doesn't affect preds
+                mutate(speakerid = first(word_sense_indexed$speakerid), speakerXsessionid = first(word_sense_indexed$speakerXsessionid)) %>%# Just so the mgcv:predict fn doesn't throw up an error asking for speakerid values -- this won't matter because we exclude the by-speaker effects ## Confirmed later, changing this doesn't affect preds
                 filter(age >= age_min & age <= age_max)
-                preds <- mgcv::predict.bam(model, newdata=pred_data, type="response", exclude='s(speakerid)')
+                preds <- mgcv::predict.bam(model, newdata=pred_data, type="response", exclude='s(speakerXsessionid)')
                 pred_data$probability = preds
                 pred_data_filename <- glue("{prediction_datasets_dir}/{word}-{cluster}.csv")
                 write_csv(pred_data, pred_data_filename)

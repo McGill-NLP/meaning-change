@@ -1,0 +1,22 @@
+
+Family: binomial 
+Link function: logit 
+
+Formula:
+cbind(n_cluster, n - n_cluster) ~ ti(age) + ti(year) + ti(age, 
+    year) + s(speakerXsessionid, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)
+(Intercept) -0.06171    0.04888  -1.262    0.207
+
+Approximate significance of smooth terms:
+               edf Ref.df  Chi.sq p-value    
+ti(age)      1.000  1.000   1.439   0.230    
+ti(year)     3.788  3.826 432.781  <2e-16 ***
+ti(age,year) 1.703  1.822   5.550   0.073 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.544   Deviance explained =   78%
+fREML =  11248  Scale est. = 1         n = 3928
