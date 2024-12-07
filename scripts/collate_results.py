@@ -139,7 +139,6 @@ processed_data['peak_year'] = processed_data.apply(lambda x: get_prediction_peak
 tokenization_artefacts = [
     'gay5',
     'guy9',
-    'guy2',
     'dial3',
     'organ3',
     'cap9',
