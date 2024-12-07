@@ -126,16 +126,23 @@ def get_normalized_l2(word, sense):
 
 processed_data['l2_distance_normalized'] = processed_data.apply(lambda x: get_normalized_l2(x['word'], x['sense']), axis=1)
 
+# Add a column for prediction peak years:
+def get_prediction_peak(word, sense):
+    preds = pd.read_csv(os.path.join(GAMM_predictions_LO_path, f"{word}-{sense}.csv"))
+    yearwise_means = preds.groupby('year').agg(mean_p=('probability', 'mean'))
+    max_prob_year = yearwise_means[yearwise_means['mean_p'] == max(yearwise_means['mean_p'])].index.item()
+    return max_prob_year
+
+processed_data['peak_year'] = processed_data.apply(lambda x: get_prediction_peak(x['word'], x['sense']), axis=1)
+
 # Remove tokenization artefacts that were found through manual inspection:
 tokenization_artefacts = [
-    'gay6',
-    'match11',
+    'gay5',
+    'guy9',
     'guy2',
-    'prop0',
     'dial3',
     'organ3',
-    'cap0',
-    'caps2'
+    'cap9',
 ]
 
 wordsense_tags = processed_data['word']+processed_data['sense']
