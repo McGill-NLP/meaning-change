@@ -33,7 +33,7 @@ compute_fREML <- function(a, data) {
   data$time <- data$year - (a * data$age)
   
   # Fit the model
-  model <- bam(cbind(n_cluster, n - n_cluster) ~ s(time) + s(speakerid, bs='re'), 
+  model <- bam(cbind(n_cluster, n - n_cluster) ~ s(time) + s(speakerXsessionid, bs='re'), 
                family = binomial, data = data, discrete = TRUE)
   
   # Get model summary:
@@ -42,10 +42,10 @@ compute_fREML <- function(a, data) {
   return(as.numeric(model_summary$sp.criterion))
 }
 
-filter_down <- function(df, threshold=2000){for (i in seq(0, length(unique(df$speakerid)))){
-  prolific_speakers <- df %>% count(speakerid) %>% filter(n > i) %>% pull(speakerid)
-  filtered <- df %>% filter(speakerid %in% prolific_speakers)
-  n_unique_speakers <- length(unique(filtered$speakerid))
+filter_down <- function(df, threshold=2000){for (i in seq(0, length(unique(df$speakerXsessionid)))){
+  prolific_speakers <- df %>% count(speakerXsessionid) %>% filter(n > i) %>% pull(speakerXsessionid)
+  filtered <- df %>% filter(speakerXsessionid %in% prolific_speakers)
+  n_unique_speakers <- length(unique(filtered$speakerXsessionid))
   if (n_unique_speakers < threshold){
     return(filtered)
     break
@@ -66,11 +66,15 @@ get_data <- function(word, cluster, threshold=2000){
   ) %>%
   mutate(cluster_number = factor(as.numeric(str_extract(cluster_number, "\\d+")))) %>%
   mutate(n_cluster = round(cluster_p*n)) %>%
-  mutate(speakerid = as.factor(speakerid))
+  mutate(speakerXsessionid = as.factor(speakerXsessionid))
   word_sense_indexed <- word_long %>% filter(cluster_number == cluster)
+  print("Data original size: ")
+  print(dim(word_sense_indexed))
   # Find optimal a-value
   ## Use a smaller subset of data for optimisation:
   filtered <- filter_down(word_sense_indexed, threshold)
+  print("Data filtered size: ")
+  print(dim(filtered))
   return(filtered)
 }
 

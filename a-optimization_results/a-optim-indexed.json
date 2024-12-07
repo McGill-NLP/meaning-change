@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["indexed"],
+    "sense": ["0"],
+    "a_estimate": [0.2152],
+    "ci_lower": [0.2107],
+    "ci_upper": [0.2198]
+  },
+  {
+    "word": ["indexed"],
+    "sense": ["3"],
+    "a_estimate": [-0.0285],
+    "ci_lower": [-0.033],
+    "ci_upper": [-0.0239]
+  }
+]

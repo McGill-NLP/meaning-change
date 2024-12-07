@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["forgiveness"],
+    "sense": ["5"],
+    "a_estimate": [0.1349],
+    "ci_lower": [0.1295],
+    "ci_upper": [0.1402]
+  },
+  {
+    "word": ["forgiveness"],
+    "sense": ["0"],
+    "a_estimate": [0.1448],
+    "ci_lower": [0.138],
+    "ci_upper": [0.1517]
+  }
+]

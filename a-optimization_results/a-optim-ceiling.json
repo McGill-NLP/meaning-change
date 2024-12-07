@@ -1,0 +1,30 @@
+[
+  {
+    "word": ["ceiling"],
+    "sense": ["1"],
+    "a_estimate": [0.015],
+    "ci_lower": [0.0101],
+    "ci_upper": [0.0199]
+  },
+  {
+    "word": ["ceiling"],
+    "sense": ["11"],
+    "a_estimate": [0.0895],
+    "ci_lower": [0.0862],
+    "ci_upper": [0.0929]
+  },
+  {
+    "word": ["ceiling"],
+    "sense": ["2"],
+    "a_estimate": [-0.0404],
+    "ci_lower": [-0.0433],
+    "ci_upper": [-0.0376]
+  },
+  {
+    "word": ["ceiling"],
+    "sense": ["3"],
+    "a_estimate": [0.0931],
+    "ci_lower": [0.0875],
+    "ci_upper": [0.0988]
+  }
+]

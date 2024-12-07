@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["wired"],
+    "sense": ["7"],
+    "a_estimate": [0.0455],
+    "ci_lower": [0.0401],
+    "ci_upper": [0.0508]
+  }
+]

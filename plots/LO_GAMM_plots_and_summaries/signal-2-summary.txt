@@ -1,0 +1,22 @@
+
+Family: binomial 
+Link function: logit 
+
+Formula:
+cbind(n_cluster, n - n_cluster) ~ s(time) + s(speakerXsessionid, 
+    bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error z value Pr(>|z|)    
+(Intercept) -1.68671    0.02413  -69.91   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+          edf Ref.df Chi.sq p-value    
+s(time) 8.711  8.777   1631  <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.701   Deviance explained = 71.7%
+fREML =  56088  Scale est. = 1         n = 24314

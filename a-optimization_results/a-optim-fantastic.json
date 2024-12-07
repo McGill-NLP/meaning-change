@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["fantastic"],
+    "sense": ["0"],
+    "a_estimate": [0.2537],
+    "ci_lower": [0.2496],
+    "ci_upper": [0.2577]
+  },
+  {
+    "word": ["fantastic"],
+    "sense": ["1"],
+    "a_estimate": [0.1887],
+    "ci_lower": [0.1851],
+    "ci_upper": [0.1923]
+  }
+]

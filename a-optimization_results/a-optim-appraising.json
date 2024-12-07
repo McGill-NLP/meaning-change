@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["appraising"],
+    "sense": ["1"],
+    "a_estimate": [0.0343],
+    "ci_lower": [-0.4337],
+    "ci_upper": [0.5023]
+  },
+  {
+    "word": ["appraising"],
+    "sense": ["5"],
+    "a_estimate": [0.0926],
+    "ci_lower": [-0.3065],
+    "ci_upper": [0.4917]
+  }
+]

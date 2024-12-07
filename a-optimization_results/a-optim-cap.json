@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["cap"],
+    "sense": ["5"],
+    "a_estimate": [0.1492],
+    "ci_lower": [0.1471],
+    "ci_upper": [0.1512]
+  },
+  {
+    "word": ["cap"],
+    "sense": ["9"],
+    "a_estimate": [0.0852],
+    "ci_lower": [0.084],
+    "ci_upper": [0.0863]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["package"],
+    "sense": ["0"],
+    "a_estimate": [0.2587],
+    "ci_lower": [0.2563],
+    "ci_upper": [0.2611]
+  },
+  {
+    "word": ["package"],
+    "sense": ["1"],
+    "a_estimate": [0.2216],
+    "ci_lower": [0.219],
+    "ci_upper": [0.2243]
+  }
+]

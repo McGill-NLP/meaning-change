@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["coaches"],
+    "sense": ["0"],
+    "a_estimate": [-0.0739],
+    "ci_lower": [-0.0814],
+    "ci_upper": [-0.0665]
+  },
+  {
+    "word": ["coaches"],
+    "sense": ["1"],
+    "a_estimate": [0.0395],
+    "ci_lower": [0.0327],
+    "ci_upper": [0.0462]
+  }
+]

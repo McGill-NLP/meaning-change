@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["needle"],
+    "sense": ["11"],
+    "a_estimate": [-0.0375],
+    "ci_lower": [-0.0401],
+    "ci_upper": [-0.035]
+  }
+]

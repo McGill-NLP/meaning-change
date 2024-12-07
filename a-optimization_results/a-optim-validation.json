@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["validation"],
+    "sense": ["0"],
+    "a_estimate": [-0.3117],
+    "ci_lower": [-0.9371],
+    "ci_upper": [0.3137]
+  }
+]

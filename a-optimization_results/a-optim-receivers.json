@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["receivers"],
+    "sense": ["15"],
+    "a_estimate": [0.3663],
+    "ci_lower": [0.358],
+    "ci_upper": [0.3746]
+  },
+  {
+    "word": ["receivers"],
+    "sense": ["8"],
+    "a_estimate": [0.2507],
+    "ci_lower": [0.2432],
+    "ci_upper": [0.2582]
+  }
+]

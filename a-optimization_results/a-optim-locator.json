@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["locator"],
+    "sense": ["2"],
+    "a_estimate": [0.1844],
+    "ci_lower": [-0.0064],
+    "ci_upper": [0.3752]
+  },
+  {
+    "word": ["locator"],
+    "sense": ["10"],
+    "a_estimate": [-0.0642],
+    "ci_lower": [-0.2411],
+    "ci_upper": [0.1128]
+  },
+  {
+    "word": ["locator"],
+    "sense": ["5"],
+    "a_estimate": [-0.0795],
+    "ci_lower": [-0.2732],
+    "ci_upper": [0.1141]
+  }
+]

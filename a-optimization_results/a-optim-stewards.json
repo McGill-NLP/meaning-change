@@ -1,0 +1,30 @@
+[
+  {
+    "word": ["stewards"],
+    "sense": ["5"],
+    "a_estimate": [0.0853],
+    "ci_lower": [0.07],
+    "ci_upper": [0.1006]
+  },
+  {
+    "word": ["stewards"],
+    "sense": ["0"],
+    "a_estimate": [-0.0291],
+    "ci_lower": [-0.0358],
+    "ci_upper": [-0.0223]
+  },
+  {
+    "word": ["stewards"],
+    "sense": ["14"],
+    "a_estimate": [0.2034],
+    "ci_lower": [0.1916],
+    "ci_upper": [0.2151]
+  },
+  {
+    "word": ["stewards"],
+    "sense": ["3"],
+    "a_estimate": [0.0901],
+    "ci_lower": [0.0843],
+    "ci_upper": [0.0959]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["summit"],
+    "sense": ["7"],
+    "a_estimate": [0.1769],
+    "ci_lower": [0.1719],
+    "ci_upper": [0.1819]
+  },
+  {
+    "word": ["summit"],
+    "sense": ["1"],
+    "a_estimate": [0.1311],
+    "ci_lower": [0.1292],
+    "ci_upper": [0.1329]
+  },
+  {
+    "word": ["summit"],
+    "sense": ["2"],
+    "a_estimate": [-0.0521],
+    "ci_lower": [-0.0554],
+    "ci_upper": [-0.0489]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["challenges"],
+    "sense": ["5"],
+    "a_estimate": [0.2319],
+    "ci_lower": [0.2297],
+    "ci_upper": [0.2341]
+  },
+  {
+    "word": ["challenges"],
+    "sense": ["0"],
+    "a_estimate": [-0.0271],
+    "ci_lower": [-0.0333],
+    "ci_upper": [-0.0209]
+  },
+  {
+    "word": ["challenges"],
+    "sense": ["3"],
+    "a_estimate": [0.0833],
+    "ci_lower": [0.081],
+    "ci_upper": [0.0857]
+  }
+]

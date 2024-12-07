@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["alienation"],
+    "sense": ["1"],
+    "a_estimate": [0.0698],
+    "ci_lower": [-0.0551],
+    "ci_upper": [0.1947]
+  },
+  {
+    "word": ["alienation"],
+    "sense": ["8"],
+    "a_estimate": [0.3079],
+    "ci_lower": [0.0355],
+    "ci_upper": [0.5802]
+  }
+]

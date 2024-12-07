@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["arraignment"],
+    "sense": ["12"],
+    "a_estimate": [0.3659],
+    "ci_lower": [0.0648],
+    "ci_upper": [0.6669]
+  },
+  {
+    "word": ["arraignment"],
+    "sense": ["0"],
+    "a_estimate": [0.327],
+    "ci_lower": [0.0048],
+    "ci_upper": [0.6493]
+  }
+]

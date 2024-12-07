@@ -1,0 +1,9 @@
+[
+  {
+    "word": ["shark"],
+    "sense": ["13"],
+    "a_estimate": [0.2617],
+    "ci_lower": [-0.3139],
+    "ci_upper": [0.8373]
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["pregnant"],
+    "sense": ["2"],
+    "a_estimate": [0.3357],
+    "ci_lower": [0.3308],
+    "ci_upper": [0.3406]
+  },
+  {
+    "word": ["pregnant"],
+    "sense": ["11"],
+    "a_estimate": [1.0291],
+    "ci_lower": [1.018],
+    "ci_upper": [1.0402]
+  },
+  {
+    "word": ["pregnant"],
+    "sense": ["4"],
+    "a_estimate": [0.2637],
+    "ci_lower": [0.2593],
+    "ci_upper": [0.2682]
+  }
+]

@@ -9,10 +9,12 @@ plot_scratchpad.r
 scripts/2D_GAMMs_sbatch_generator.py
 smooth_lineplots.txt
 scripts/LO_GAMMs_sbatch_generator.py
+scripts/LO_GAMMs_sbatch_generator_v2.py
 datasets/uscongress_base_preprocessed.csv
 datasets/uscongress_linked.csv
 Rplots.pdf
 scripts/a_optimization_sbatch_generator.py
+scripts/a_optimization_sbatch_generator_v2.py
 clusters/record_cluster_counts.csv
 substitutions/high.jsonl
 substitutions/call.jsonl

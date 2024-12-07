@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["match"],
+    "sense": ["6"],
+    "a_estimate": [-0.0288],
+    "ci_lower": [-0.0317],
+    "ci_upper": [-0.0259]
+  },
+  {
+    "word": ["match"],
+    "sense": ["9"],
+    "a_estimate": [0.1649],
+    "ci_lower": [0.1586],
+    "ci_upper": [0.1711]
+  }
+]

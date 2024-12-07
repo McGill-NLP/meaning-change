@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["particle"],
+    "sense": ["4"],
+    "a_estimate": [0.3617],
+    "ci_lower": [0.3553],
+    "ci_upper": [0.3682]
+  },
+  {
+    "word": ["particle"],
+    "sense": ["2"],
+    "a_estimate": [0.3794],
+    "ci_lower": [0.3696],
+    "ci_upper": [0.3893]
+  },
+  {
+    "word": ["particle"],
+    "sense": ["8"],
+    "a_estimate": [0.1322],
+    "ci_lower": [0.1192],
+    "ci_upper": [0.1453]
+  }
+]

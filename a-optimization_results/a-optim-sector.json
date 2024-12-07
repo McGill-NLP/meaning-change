@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["sector"],
+    "sense": ["4"],
+    "a_estimate": [-0.0759],
+    "ci_lower": [-0.0797],
+    "ci_upper": [-0.0722]
+  },
+  {
+    "word": ["sector"],
+    "sense": ["6"],
+    "a_estimate": [0.0037],
+    "ci_lower": [-0.0012],
+    "ci_upper": [0.0086]
+  },
+  {
+    "word": ["sector"],
+    "sense": ["0"],
+    "a_estimate": [-0.0264],
+    "ci_lower": [-0.0286],
+    "ci_upper": [-0.0243]
+  }
+]

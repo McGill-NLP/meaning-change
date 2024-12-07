@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["pets"],
+    "sense": ["9"],
+    "a_estimate": [-0.0389],
+    "ci_lower": [-0.2708],
+    "ci_upper": [0.193]
+  },
+  {
+    "word": ["pets"],
+    "sense": ["4"],
+    "a_estimate": [-0.0642],
+    "ci_lower": [-0.4351],
+    "ci_upper": [0.3067]
+  }
+]

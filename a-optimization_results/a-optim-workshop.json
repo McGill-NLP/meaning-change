@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["workshop"],
+    "sense": ["3"],
+    "a_estimate": [0.0597],
+    "ci_lower": [0.0482],
+    "ci_upper": [0.0712]
+  },
+  {
+    "word": ["workshop"],
+    "sense": ["1"],
+    "a_estimate": [0.196],
+    "ci_lower": [0.1876],
+    "ci_upper": [0.2043]
+  }
+]

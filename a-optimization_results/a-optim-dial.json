@@ -1,0 +1,23 @@
+[
+  {
+    "word": ["dial"],
+    "sense": ["3"],
+    "a_estimate": [0.0859],
+    "ci_lower": [0.0821],
+    "ci_upper": [0.0897]
+  },
+  {
+    "word": ["dial"],
+    "sense": ["11"],
+    "a_estimate": [-0.4834],
+    "ci_lower": [-0.4947],
+    "ci_upper": [-0.4722]
+  },
+  {
+    "word": ["dial"],
+    "sense": ["4"],
+    "a_estimate": [-0.0275],
+    "ci_lower": [-0.0318],
+    "ci_upper": [-0.0232]
+  }
+]

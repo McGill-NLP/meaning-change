@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["headed"],
+    "sense": ["0"],
+    "a_estimate": [0.4064],
+    "ci_lower": [0.4038],
+    "ci_upper": [0.4091]
+  },
+  {
+    "word": ["headed"],
+    "sense": ["7"],
+    "a_estimate": [0.3903],
+    "ci_lower": [0.3878],
+    "ci_upper": [0.3929]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "word": ["shorthand"],
+    "sense": ["0"],
+    "a_estimate": [0.7165],
+    "ci_lower": [-0.065],
+    "ci_upper": [1.498]
+  },
+  {
+    "word": ["shorthand"],
+    "sense": ["7"],
+    "a_estimate": [0.0113],
+    "ci_lower": [-0.2601],
+    "ci_upper": [0.2827]
+  }
+]
