@@ -8,13 +8,13 @@ cbind(n_cluster, n - n_cluster) ~ s(time) + s(speakerXsessionid,
 
 Parametric coefficients:
             Estimate Std. Error z value Pr(>|z|)    
-(Intercept) -2.09219    0.02225  -94.04   <2e-16 ***
+(Intercept) -2.03082    0.02479  -81.93   <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
 Approximate significance of smooth terms:
-          edf Ref.df Chi.sq p-value    
-s(time) 8.101  8.503  380.5  <2e-16 ***
+         edf Ref.df Chi.sq p-value    
+s(time) 8.05  8.463    377  <2e-16 ***
 ---
 Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
