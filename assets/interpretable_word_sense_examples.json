@@ -7,10 +7,10 @@
     "monitor": {
         "2": "observe",
         "0": "naval ship",
-        "1": "journal name"
+        "1": "publication name"
     },
-    "usage": {
-        "2": "utilization",
-        "0": "legal"
+    "workshop": {
+        "3": "program",
+        "1": "physical space"
     }
 }
