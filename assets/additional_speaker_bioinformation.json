@@ -89,6 +89,11 @@
         "birth": 1896,
         "death": 1962
     },
+    "FRANK CARLSON": {
+        "name": "Frank Carlson",
+        "birth": 1893,
+        "death": 1987
+    },
     "GEORGE MAHON": {
         "name": "George Mahon",
         "birth": 1900,
@@ -114,6 +119,11 @@
         "birth": 1880,
         "death": 1947
     },
+    "JOHN SPARKMAN": {
+        "name": "John Sparkman",
+        "birth": 1899,
+        "death": 1985
+    },
     "JOSEPH HILL": {
         "name": "J. Lister Hill",
         "birth": 1894,
@@ -125,7 +135,7 @@
         "death": 1963
     },
     "CLAUDE PEPPER": {
-        "name": "Clause Pepper",
+        "name": "Claude Pepper",
         "birth": 1900,
         "death": 1989
     },
@@ -143,6 +153,11 @@
         "name": "Orrin Hatch",
         "birth": 1934,
         "death": 2022
+    },
+    "MARK HATFIELD": {
+        "name": "Mark Hatfield",
+        "birth": 1922,
+        "death": 2011
     },
     "CHRISTOPHER DODD": {
         "name": "Chris Dodd",

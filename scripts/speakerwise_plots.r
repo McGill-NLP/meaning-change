@@ -71,11 +71,6 @@ for (row in 1:nrow(df)){
 
     population_smooth_data <- word_long %>% filter(cluster_number == cluster)
     
-    population_label <- data.frame(
-    year = mean(population_smooth_data$year, na.rm = TRUE),  # Arbitrary year for label placement
-    cluster_p = mean(population_smooth_data$cluster_p, na.rm = TRUE),  # Arbitrary y-value
-    label = "Population Mean"  # Label for legend
-    )
     plot <- word_long %>%
         filter(speakerid %in% top_speakers$speakerid) %>%
         filter(cluster_number == cluster) %>%
@@ -99,9 +94,17 @@ for (row in 1:nrow(df)){
             y = "Probability of Word Sense Given Use",
             colour = "Individual Speakers",
             linetype = ""  # Makes the legend label blank for linetype
-        )
+        ) +
+        theme(
+            axis.text.x = element_text(size = 14),
+            axis.text.y = element_text(size = 14),
+            axis.title.x = element_text(size = 18),
+            axis.title.y = element_text(size = 18),
+            legend.text = element_text(size = 12),
+            legend.title = element_text(size = 12)
+            )
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
-    ggsave(filepath, plot, width=8, height=6, dpi=300)
+    ggsave(filepath, plot, width=10, height=6, dpi=300)
 
     if (length(prominent_yob_groups > 1)){
         genwise_title_string = glue("Generation-wise probability of {interpretable_sense} sense of {word} being used:")
@@ -120,8 +123,16 @@ for (row in 1:nrow(df)){
                     x = "Year of Speech",
                     y = "Probability of Word Sense Given Use",
                     color = "Year of Birth Group"
+                    ) + 
+                theme(
+                        axis.text.x = element_text(size = 14),
+                        axis.text.y = element_text(size = 14),
+                        axis.title.x = element_text(size = 18),
+                        axis.title.y = element_text(size = 18),
+                        legend.text = element_text(size = 12),
+                        legend.title = element_text(size = 12)
                     )
         filepath <- glue("{speakerwise_plot_directory}/genwise-{word}-{cluster}.png")
-        ggsave(filepath, plot, width=8, height=6, dpi=300)
+        ggsave(filepath, plot, width=10, height=6, dpi=300)
     }
 }
