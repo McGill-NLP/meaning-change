@@ -74,18 +74,20 @@ for (row in 1:nrow(df)){
     plot <- word_long %>%
         filter(speakerid %in% top_speakers$speakerid) %>%
         filter(cluster_number == cluster) %>%
-        mutate(full_name=paste(firstname, lastname)) %>%
+        mutate(full_name = paste(firstname, lastname)) %>%
         mutate(
             common_name = map_chr(full_name, ~ bioinfo_df[[.x, "name"]]), 
             birth_year = map_chr(full_name, ~ bioinfo_df[[.x, "birth"]]), 
             death_year = map_chr(full_name, ~ bioinfo_df[[.x, "death"]])
-            ) %>%
+        ) %>%
         mutate(name_string = glue("{common_name} ({birth_year}-{death_year})")) %>%
-        ggplot(aes(x=year, y=cluster_p, colour=name_string)) +
-            geom_smooth() +
-            geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p, linetype = "Average of all Speakers"), 
-                color = "black", inherit.aes = FALSE) +
-        scale_linetype_manual(values = c("Average of all Speakers" = "dotted"), guide = guide_legend(override.aes = list(color = "black"))) +
+        ggplot(aes(x = year, y = cluster_p, colour = name_string)) +
+        geom_smooth() +
+        geom_smooth(data = population_smooth_data, aes(x = year, y = cluster_p, linetype = "Average of all Speakers"), 
+                    color = "black", inherit.aes = FALSE) +
+        ggthemes::scale_colour_colorblind() +  # Use built-in colorblind palette
+        scale_linetype_manual(values = c("Average of all Speakers" = "dotted"), 
+                            guide = guide_legend(override.aes = list(color = "black"))) +
         xlim(min(top_speakers$first_use) - 10, min(2010, max(top_speakers$last_use) + 10)) +
         ylim(0, 1) +
         labs(
@@ -93,7 +95,7 @@ for (row in 1:nrow(df)){
             x = "Year of Speech",
             y = "Probability of Word Sense Given Use",
             colour = "Individual Speakers",
-            linetype = ""  # Makes the legend label blank for linetype
+            linetype = ""
         ) +
         theme(
             axis.text.x = element_text(size = 14),
@@ -102,10 +104,10 @@ for (row in 1:nrow(df)){
             axis.title.y = element_text(size = 18),
             legend.text = element_text(size = 12),
             legend.title = element_text(size = 12)
-            )
+        )
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
-    ggsave(filepath, plot, width=10, height=6, dpi=300)
-
+    ggsave(filepath, plot, width = 10, height = 6, dpi = 300)
+    #
     if (length(prominent_yob_groups > 1)){
         genwise_title_string = glue("Generation-wise probability of {interpretable_sense} sense of {word} being used:")
         
