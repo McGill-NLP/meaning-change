@@ -15,7 +15,7 @@ plot_directory = './plots/misc'
 if not os.path.isdir(plot_directory):
     os.mkdir(plot_directory)
 
-filename = os.path.join(plot_directory, 'corpus_wordcount_heatmap.png')
+filename = os.path.join(plot_directory, 'corpus_wordcount_heatmap.pdf')
 
 corpus_path = "./datasets/uscongress_base_preprocessed.csv"
 print("Reading in corpus...")
@@ -35,7 +35,7 @@ print("Done!")
 pivoted_data = corpus.pivot_table(index='year', columns='age', values='speech_length', aggfunc='sum')
 sns.set(font_scale=1.5)
 plt.figure(figsize=(12, 9))  # Adjust the size as needed
-sns.heatmap(pivoted_data, cmap='cool')
+sns.heatmap(pivoted_data, cmap='mako')
 plt.title(f"Total Words in Speeches")
 plt.xlabel('Age')
 plt.ylabel('Speech Year')
