@@ -41,7 +41,7 @@ plt.xlabel('Age')
 plt.ylabel('Speech Year')
 plt.gca().invert_yaxis()
 # Save the plot
-plt.savefig(filename)
+plt.savefig(filename,dpi=900)
 plt.close()
 
 print("All done!")

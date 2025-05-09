@@ -90,7 +90,7 @@ for (word in words){
     
     # Basic Smooth Plots:
     basic_smoothplot <- word_long %>% ggplot(aes(x = year,y = cluster_p)) + geom_smooth(aes(color = cluster_number)) + ylim(0,1) + ylab("Proportion of Model-Predicted\nReplacement Words") + xlab("Year of Speech") + labs(color="Cluster Number")
-    ggsave(glue("{full_smoothplot_directory}/{word}.pdf"), basic_smoothplot, width = 8, height = 5, dpi = 300)
+    ggsave(glue("{full_smoothplot_directory}/{word}.pdf"), basic_smoothplot, width = 8, height = 5, dpi = 900)
     
     # Interpretable Sense Plots (if applicable) #TODO:
     if (word %in% names(interpretable_word_sense_examples)) {
@@ -101,7 +101,7 @@ for (word in words){
             mutate(cluster_number = as.character(senses[cluster_number]))
     #
     interpretable_smoothplot <- word_long_interpretable %>% ggplot(aes(x = year,y = cluster_p)) + geom_smooth(aes(color = cluster_number)) + ggthemes::scale_colour_colorblind() + ylim(0,1) + ylab("Probability of Word Sense") + xlab("Year of Speech") + labs(color="Word Sense", title=word)  + theme(text = element_text(size=10))
-    ggsave(glue("{interpretable_plot_directory}/{word}.pdf"), interpretable_smoothplot, width = 8, height = 2.5, dpi = 300)
+    ggsave(glue("{interpretable_plot_directory}/{word}.pdf"), interpretable_smoothplot, width = 8, height = 2.5, dpi = 900)
     }
     
     # Filtered Smooth Plots (only high change senses):
@@ -109,6 +109,6 @@ for (word in words){
     word_filtered <- word_long %>% filter(cluster_number %in% high_change_senses)
     if (nrow(word_filtered) > 0){
         filtered_smoothplot <- word_filtered %>% ggplot(aes(x = year,y = cluster_p)) + geom_smooth(aes(color = cluster_number)) + ggthemes::scale_colour_colorblind() + ylim(0,1) + ylab("Proportion of Model-Predicted\nReplacement Words") + xlab("Year of Speech") + labs(color="Cluster Number")
-        ggsave(glue("{filtered_smoothplot_directory}/{word}.pdf"), filtered_smoothplot, width = 8, height = 3, dpi = 300)
+        ggsave(glue("{filtered_smoothplot_directory}/{word}.pdf"), filtered_smoothplot, width = 8, height = 3, dpi = 900)
     }
 }

@@ -30,7 +30,7 @@ for (prediction_dataset in prediction_datasets) {
             axis.title.y = element_text(size = 18))
     print("Plot created!")
     print("Saving plot...")
-    ggsave(plot_filename, plot, width = 8, height = 6, dpi = 300)
+    ggsave(plot_filename, plot, width = 8, height = 6, dpi = 900)
     print(glue("Plot saved as {plot_filename}"))
 }
 

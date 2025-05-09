@@ -106,7 +106,7 @@ for (row in 1:nrow(df)){
             legend.title = element_text(size = 12)
         )
     filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.pdf")
-    ggsave(filepath, plot, width = 10, height = 6, dpi = 300)
+    ggsave(filepath, plot, width = 10, height = 6, dpi = 900)
     #
     if (length(prominent_yob_groups > 1)){
         genwise_title_string = glue("Generation-wise probability of {interpretable_sense} sense of {word} being used:")
@@ -135,6 +135,6 @@ for (row in 1:nrow(df)){
                         legend.title = element_text(size = 12)
                     )
         filepath <- glue("{speakerwise_plot_directory}/genwise-{word}-{cluster}.pdf")
-        ggsave(filepath, plot, width=10, height=6, dpi=300)
+        ggsave(filepath, plot, width=10, height=6, dpi=900)
     }
 }
