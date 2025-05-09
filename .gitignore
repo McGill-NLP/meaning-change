@@ -23,3 +23,5 @@ substitutions/record.jsonl
 collect_senses.ipynb
 scratchpad.ipynb
 scratchpad.py
+git_test.sh
+delete_pngs.sh

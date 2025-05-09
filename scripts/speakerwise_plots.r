@@ -105,7 +105,7 @@ for (row in 1:nrow(df)){
             legend.text = element_text(size = 12),
             legend.title = element_text(size = 12)
         )
-    filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.png")
+    filepath <- glue("{speakerwise_plot_directory}/speakerwise-{word}-{cluster}.pdf")
     ggsave(filepath, plot, width = 10, height = 6, dpi = 300)
     #
     if (length(prominent_yob_groups > 1)){
@@ -134,7 +134,7 @@ for (row in 1:nrow(df)){
                         legend.text = element_text(size = 12),
                         legend.title = element_text(size = 12)
                     )
-        filepath <- glue("{speakerwise_plot_directory}/genwise-{word}-{cluster}.png")
+        filepath <- glue("{speakerwise_plot_directory}/genwise-{word}-{cluster}.pdf")
         ggsave(filepath, plot, width=10, height=6, dpi=300)
     }
 }

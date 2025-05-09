@@ -16,7 +16,7 @@ for (prediction_dataset in prediction_datasets) {
     filename <- basename(prediction_dataset) 
     word <- str_extract(filename, "^[^-]+")
     cluster <- str_extract(filename, "(?<=-)[^-]+(?=\\.csv)")
-    plot_filename <- glue("{plots_dir}/{word}-{cluster}-{model_type}_plot.png")
+    plot_filename <- glue("{plots_dir}/{word}-{cluster}-{model_type}_plot.pdf")
     print(glue("Processing {word} - {cluster}..."))
     plot <- ggplot(pred_data, aes(x = age, y = year, fill = probability)) + 
         geom_tile() +
