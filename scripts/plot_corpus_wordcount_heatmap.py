@@ -8,6 +8,8 @@ from matplotlib.colors import LinearSegmentedColormap
 import seaborn as sns
 from scipy.ndimage import gaussian_filter
 
+custom_cmap = LinearSegmentedColormap.from_list("custom_cmap", ["#403872", "#3A5C9B", "#3483A5", "#38A9AC", "#5BCDAD", "#B9E6C7", "#DEF5E5"])
+
 # These are used to filter the corpus -- same default parameter values as used in the rest of the codebase.
 procedural_prob_threshold = 0.5
 
@@ -35,7 +37,7 @@ print("Done!")
 pivoted_data = corpus.pivot_table(index='year', columns='age', values='speech_length', aggfunc='sum')
 sns.set(font_scale=1.5)
 plt.figure(figsize=(12, 9))  # Adjust the size as needed
-sns.heatmap(pivoted_data, cmap='mako')
+sns.heatmap(pivoted_data, cmap=custom_cmap)
 plt.title(f"Total Words in Speeches")
 plt.xlabel('Age')
 plt.ylabel('Speech Year')
