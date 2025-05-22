@@ -76,6 +76,21 @@ plot <- ggplot(collated_results, aes(x=log_overall_word_freq, y=a_estimate, colo
 ggsave(glue("{collated_results_plot_directory}/a_estim_log_word_freq.png"), plot, width=12, height=6, dpi=300)
 
 
+# a-estimates over time (year of peak sense likelihood):
+plot <- ggplot(collated_results, aes(x=peak_year, y=a_estimate)) +
+  geom_point(size=1) + 
+    theme(text=element_text(size=20), #change font size of all text
+        axis.text=element_text(size=20), #change font size of axis text
+        axis.title=element_text(size=20), #change font size of axis titles
+        plot.title=element_text(size=20), #change font size of plot title
+        legend.text=element_text(size=16), #change font size of legend text
+        legend.title=element_text(size=16),
+        plot.margin=margin(1,1,1,1, "cm")) + #change font size of legend title 
+    labs(x="Year of Peak Sense Likelihood",
+    y="a-Estimate")
+
+ggsave(glue("{collated_results_plot_directory}/a_estim_year_peak_sense_likelihood.png"), plot, width=12, height=6, dpi=300)
+
 # C.I. width as function of overall word frequency (log)
 plot <- ggplot(collated_results, aes(x=ci_width, y=log_overall_word_freq)) +
     geom_point(size=0.75) +
