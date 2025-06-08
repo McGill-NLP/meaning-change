@@ -108,7 +108,38 @@ for (word in words){
     high_change_senses <- get_high_change_senses(word)
     word_filtered <- word_long %>% filter(cluster_number %in% high_change_senses)
     if (nrow(word_filtered) > 0){
-        filtered_smoothplot <- word_filtered %>% ggplot(aes(x = year,y = cluster_p)) + geom_smooth(aes(color = cluster_number)) + ggthemes::scale_colour_colorblind() + ylim(0,1) + ylab("Proportion of Model-Predicted\nReplacement Words") + xlab("Year of Speech") + labs(color="Cluster Number")
+        epsilon <- 1e-6
+        global_year_range <- seq(min(word_filtered$year, na.rm = TRUE),
+                                max(word_filtered$year, na.rm = TRUE), by = 1)
+        predictions_by_cluster <- word_long %>%
+            filter(cluster_number %in% high_change_senses) %>%
+            group_by(cluster_number) %>%
+            nest() %>%
+            mutate(
+              model = map(data, ~ gam(cluster_p ~ s(year, k = 10), 
+                                      data = .x, 
+                                      family = gaussian())),
+              newdata = map(data, ~ tibble(year = global_year_range)),
+              preds = map2(model, newdata, ~ predict(.x, newdata = .y, se.fit = TRUE)),
+              pred_df = map2(preds, newdata, ~ {
+                raw_fit <- .x$fit
+                raw_se <- .x$se.fit
+                raw_lower <- raw_fit - 1.96 * raw_se
+                raw_upper <- raw_fit + 1.96 * raw_se
+                # Clamp to [epsilon, 1 - epsilon]
+                tibble(
+                  year = .y$year,
+                  fit = pmin(1 - epsilon, pmax(epsilon, raw_fit)),
+                  lower = pmin(1 - epsilon, pmax(epsilon, raw_lower)),
+                  upper = pmin(1 - epsilon, pmax(epsilon, raw_upper)),
+                  se.fit = raw_se
+                )
+              })
+            ) %>%
+            select(cluster_number, pred_df) %>%
+            unnest(pred_df)
+        #
+        filtered_smoothplot <- predictions_by_cluster %>% ggplot(aes(x = year,y = fit,color=cluster_number,fill=cluster_number)) + geom_ribbon(aes(ymin = lower, ymax=upper), alpha=0.2, color=NA) + geom_line(linewidth=1) + ggthemes::scale_colour_colorblind() + ggthemes::scale_fill_colorblind() + ylim(0,1) + ylab("Proportion of Model-Predicted\nReplacement Words") + xlab("Year of Speech") + labs(color="Cluster Number") + guides(fill="none")
         ggsave(glue("{filtered_smoothplot_directory}/{word}.pdf"), filtered_smoothplot, width = 8, height = 3, dpi = 900)
     }
 }
