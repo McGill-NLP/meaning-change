@@ -106,6 +106,9 @@ plot <- ggplot(collated_results, aes(x=ci_width, y=log_overall_word_freq)) +
 
 ggsave(glue("{collated_results_plot_directory}/ci_width_word_freq_scatter.png"), plot, width=12, height=6, dpi=300)
 
+# This one gets a PDF too!
+ggsave(glue("{collated_results_plot_directory}/ci_width_word_freq_scatter.pdf"), plot, width=12, height=6, dpi=900)
+
 # C.I. width as function of estimated a-value
 plot <- ggplot(collated_results, aes(x=ci_width, y=a_estimate, colour=sig_non_zero)) +
     geom_point(size=0.75) +

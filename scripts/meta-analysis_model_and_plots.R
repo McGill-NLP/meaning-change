@@ -86,6 +86,75 @@ plot <- df_plotting %>%
 plot_title <- "./plots/collated_results_plots/lollipop.png"
 ggsave(plot_title, plot, width=8, height=6, dpi=300)
 
+
+# Ascending order w significances:
+plot <- df_plotting %>% 
+  arrange(a_estimate) %>% 
+  mutate(order = row_number()) %>% 
+  ggplot(aes(x = order, y = a_estimate)) +
+  geom_segment(aes(x = order, xend = order, y = 0, yend = a_estimate, 
+                   color = sig_non_zero, linetype = sig_non_zero)) +
+  geom_point(aes(color = sig_non_zero, shape = sig_non_zero), size = 0.75) +
+  geom_segment(aes(x = 0, xend = max(order), y = df_Intercept$Estimate, 
+                   yend = df_Intercept$Estimate), color = "red", linewidth = 0.5, linetype = "solid") +
+  geom_ribbon(aes(ymin = df_Intercept$Q2.5, ymax = df_Intercept$Q97.5), 
+              xmin = 0, xmax = max(df_plotting$order),
+              fill = "red", alpha = 0.2) +
+  scale_color_manual(name = "Significance", values = c(
+    "TRUE" = "#007de3",   # Blue
+    "FALSE" = "#757575"   # Grey
+  )) +
+  scale_shape_manual(name = "Significance", values = c(
+    "TRUE" = 19,   # Solid dot
+    "FALSE" = 19    # X
+  )) +
+  scale_linetype_manual(name = "Significance", values = c(
+    "TRUE" = "solid",
+    "FALSE" = "dotted"
+  )) +
+  theme(
+    axis.text.x = element_blank(),
+    axis.ticks.x = element_blank(),
+    axis.text.y = element_text(size = 18)
+  ) +
+  xlab("") + 
+  ylab("") +
+  guides(color = "none", shape = "none", linetype = "none")  # Hide legends if desired
+
+plot_title <- "./plots/collated_results_plots/lollipop_significances.png"
+ggsave(plot_title, plot, width=10, height=6, dpi=900)
+
+# As Estimate plot with CIs:
+
+plot <- df_plotting %>%
+  arrange(a_estimate) %>%
+  mutate(order = row_number()) %>%
+  ggplot(aes(x = order, y = a_estimate, color = sig_non_zero)) +
+  geom_segment(aes(x=0, xend=max(order), y=0, yend=0), color='black', linewidth=0.5, linetype='solid') +  # Horizontal line at y=0
+  geom_point(size = 1) +
+  geom_segment(aes(x = 0, xend = max(order), y = df_Intercept$Estimate, 
+                   yend = df_Intercept$Estimate), color = "red", linewidth = 0.5, linetype = "solid") +
+  geom_ribbon(aes(ymin = df_Intercept$Q2.5, ymax = df_Intercept$Q97.5), 
+              xmin = 0, xmax = max(df_plotting$order),
+              fill = "red", alpha = 0.2) +
+  geom_errorbar(aes(ymin = ci_lower, ymax = ci_upper), width = 0.5) +
+  scale_color_manual(values = c(
+    "TRUE" = "#007de3",   # Customize as desired
+    "FALSE" = "gray"
+  )) +
+  theme(
+    axis.text.x = element_blank(),
+    axis.ticks.x = element_blank(),
+    axis.text.y = element_text(size = 18),
+    ) + 
+    xlab("") + 
+    ylab("") + 
+    guides(color = "none")
+
+plot_title <- "./plots/collated_results_plots/estimateplot_significances.png"
+ggsave(plot_title, plot, width=10, height=6, dpi=900)
+
+
 # Ascending order with more labels:
 df_plotting %>% 
   arrange(a_estimate) %>% 
