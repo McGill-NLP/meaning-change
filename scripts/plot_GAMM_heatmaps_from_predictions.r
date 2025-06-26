@@ -16,7 +16,8 @@ for (prediction_dataset in prediction_datasets) {
     filename <- basename(prediction_dataset) 
     word <- str_extract(filename, "^[^-]+")
     cluster <- str_extract(filename, "(?<=-)[^-]+(?=\\.csv)")
-    plot_filename <- glue("{plots_dir}/{word}-{cluster}-{model_type}_plot.pdf")
+    plot_filename_pdf <- glue("{plots_dir}/{word}-{cluster}-{model_type}_plot.pdf")
+    plot_filename_png <- glue("{plots_dir}/{word}-{cluster}-{model_type}_plot.png")
     print(glue("Processing {word} - {cluster}..."))
     plot <- ggplot(pred_data, aes(x = age, y = year, fill = probability)) + 
         geom_tile() +
@@ -36,7 +37,9 @@ for (prediction_dataset in prediction_datasets) {
         )
     print("Plot created!")
     print("Saving plot...")
-    ggsave(plot_filename, plot, width = 8, height = 6, dpi = 900)
-    print(glue("Plot saved as {plot_filename}"))
+    ggsave(plot_filename_pdf, plot, width = 8, height = 6, dpi = 900)
+    print(glue("Plot saved as {plot_filename_pdf}"))
+    ggsave(plot_filename_png, plot, width = 8, height = 6, dpi = 1200)
+    print(glue("Plot saved as {plot_filename_png}"))
 }
 

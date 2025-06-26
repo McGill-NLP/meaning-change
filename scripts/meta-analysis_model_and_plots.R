@@ -122,7 +122,7 @@ plot <- df_plotting %>%
   guides(color = "none", shape = "none", linetype = "none")  # Hide legends if desired
 
 plot_title <- "./plots/collated_results_plots/lollipop_significances.png"
-ggsave(plot_title, plot, width=10, height=6, dpi=900)
+ggsave(plot_title, plot, width=10, height=6, dpi=1200)
 
 # As Estimate plot with CIs:
 
