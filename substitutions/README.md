@@ -1,0 +1,1 @@
+JSON files in this folder contain the raw target word replacements, along with associated log probabilities, generated for each mention of a word in a speech.

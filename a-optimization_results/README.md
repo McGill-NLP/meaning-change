@@ -1,0 +1,1 @@
+JSON files in this folder show the results of our $\alpha$-estimation process. For each word, both the estimated $\alpha$ value as well as upper and lower bounds (95% confidence intervals) are reported.

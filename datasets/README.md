@@ -1,1 +1,2 @@
-#TODO: Fill this in
+- `2D_GAMM_predictions`: Word sense likelihood predictions from the unconstrained GAMMs we use to validate our interpretable GAMMs.
+- `LO_GAMM_predictions`: Word sense likelihood predictions from the interpretable, linear offset GAMMs that include $\alpha$ values.

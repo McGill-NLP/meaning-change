@@ -1,0 +1,6 @@
+- `additional_speaker_bioinformation.json`: Contains additional speaker bioinformation used to generate the speaker-wise plots.
+- `congress_procedural_weights.tsv`: Weights from the logistic regression classifier in [Card et al. (2022)](https://www.pnas.org/doi/abs/10.1073/pnas.2120510119) used to filter out purely procedural speeches.
+- `interpretable_word_sense_examples.json`: Used to generate Figure 2 in the paper.
+- `speakerwise_word_sense_examples.json`: Used to generate the speaker-wise plots; include start and end years for the period of maximum word usage change.
+- `stopwords.txt`: List of stopwords ignored during the target word replacement generation process.
+- `wordlist.txt`: Full list of 106 words we identify as likely to have undergone meaning change across our corpus. 

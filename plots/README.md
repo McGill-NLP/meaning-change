@@ -1,0 +1,8 @@
+- `2D_GAMM_plots_and_summaries`: Prediction plots and model summaries from the unconstrained GAMMs we fit to validate our interpretable, linear offset GAMMs that include $\alpha$ values.
+- `collated_results_plots`: Plots that contextualize final experimental variables: e.g., $\alpha$-estimates vs. word frequency, or a density plot of all adjusted $R^2$ values from our GAMMs.
+- `frequency_heatmaps`: Plots of word counts against speaker age and time of speech (not covered in main paper).
+- `LO_GAMM_plots_and_summaries`: Prediction plots and model summaries from the interpretable, linear offset GAMMs that include $\alpha$ values.
+- `misc`: Miscellaneous plots.
+- `sense_prob_heatmaps`: Heatmaps showing the raw word sense likelihood data that we fit our GAMMs on. 
+- `speakerwise_plots`: Individual speaker- and generation-wise plots of word sense likelihood for a small sample of examples with enough data.
+- `time-sense_line_smooths_{.}`: Plots of GAM [sic] smooths showing the rise and fall of different word senses by replacement cluster; `full`: all generated replacement clusters included, `filtered`: only prominent replacement clusters included, `simplified`: three simplified examples.

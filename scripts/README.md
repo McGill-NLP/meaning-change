@@ -1,0 +1,19 @@
+- `utils`: Helper functions.
+- `2D_GAMM_plots_and_summaries.r`: Generates GAMM prediction plots and model summaries given a fitted GAMM, for the unconstrained GAMMs we use to validate our interpretable, linear offset GAMMs that include $\alpha$ values.
+- `2D_GAMMs.r`: Fits a set of unconstrained GAMMs (for a handful of prominent word senses, determined by hyperparameters) for a given word.
+- `a-optimization.r`: Estimates the $\alpha$ values for a word's prominent senses (determined by hyperparameters).
+- `BERT_substitutions.py`: Generates the target word replacement data for a given word.
+- `clustering.py`: Generates replacement clusters and cluster count data.
+- `collate_results.py`: Helper script that collates final experimental results.
+- `LO_GAMM_plots_and_summaries.r`: Generates GAMM prediction plots and model summaries given a fitted GAMM, for our interpretable, linear offset GAMMs that include $\alpha$ values.
+- `LO_GAMMs.r`: Fits a set of interpretable, linear offset ($\alpha$) GAMMs (for a handful of prominent word senses, determined by hyperparameters) for a given word.
+- `meta-analysis_model_and_plots.R`: Fits the Bayesian meta-analysis model and includes some code to generate the plots in `plots/collated_results_plots`.
+- `plot_collated_results.r`: Generates the plots in `plots/collated_results_plots`.
+- `plot_corpus_wordcount_heatmap.py`: Generates Figure 1.
+- `plot_frequency_heatmaps.py`: Generates the plots in `plots/frequency_heatmaps` (not covered in main paper).
+- `plot_GAMM_heatmaps_from_predictions.r`: Generates GAMM prediction plots from the prediction data in `datasets`.
+- `plot_raw_sense_heatmaps.py`: Generates the plots in `plots/sense_prob_heatmaps`.
+- `smooth_lineplots.r`: Generates plots of GAM [sic] smooths showing the rise and fall of different word senses by replacement cluster (see `plots/time-sense_line_smooths_{.}`).
+- `speakerwise_plots.r`: Generates the plots in `plots/speakerwise_plots`.
+- `uscongress_base_preprocessing.py`: Conducts base preprocessing to the Congressional Record corpus (including assigning probabilities of speeches being purely procedural) *after* `uscongress_linking.py` has been run.
+- `uscongress_linking.py`: Links the raw `hein-bound` data from [here](https://data.stanford.edu/congress_text) to the speaker biodata from [here](https://github.com/unitedstates/congress-legislators), filters out speeches for which unique speaker biodata cannot be found, and writes to a CSV file. 
