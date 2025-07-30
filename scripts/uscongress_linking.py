@@ -7,8 +7,8 @@ from utils.data import yaml_to_df, summarize_yaml_df
 
 '''
 PATH_TO_HEIN_BOUND: Path to the unzipped hein-bound folder
-PATH_TO_LEG_HIST: Path to the .csv file containing historical US Congress legislator info
-PATH_TO_LEG_CURRENT: Path to the .csv file containing current US Congress legislator info
+PATH_TO_LEG_HIST: Path to the .yaml file containing historical US Congress legislator info
+PATH_TO_LEG_CURRENT: Path to the .yaml file containing current US Congress legislator info
 '''
 
 path_to_hein_bound = os.getenv("PATH_TO_HEIN_BOUND")
